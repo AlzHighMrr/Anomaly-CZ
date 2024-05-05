@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<!-- ---------------------------------------- -->
+	<!-- //////////////////////// Task 1 //////////////////////// -->
+	<!-- ---------------------------------------- -->
+
+<string id="st_redemption_1_sakharov_1">
+    <text>Slyšel jste o nově otevřených místech po poslední emisi profesore?</text>		
+</string>
+<string id="st_redemption_1_sakharov_2">
+    <text>Ano-ano, již jsme začali zkoumat jedno z nich. Před několika dny jsme právě poslali jednoho z mých lidí s ochrankou do oblasti, kterou znáte jako Promzónu, ale něco se stalo, teď odmítá vykonávat svou práci a neozývá se. Máme málo lidí a vybírat je pro neznámé území je prostě neúčelné. Kdybys nám pomohl velice štědře se odměníme</text>
+</string>
+<string id="st_redemption_1_sakharov_3">
+    <text>Štědře, říkáte profesore? Dobře, pokud je práce skutečně jednoduchá, proč ne.</text>		
+</string>
+<string id="st_redemption_1_sakharov_4">
+    <text>Příště.</text>		
+</string>
+<string id="st_redemption_1_sakharov_5">
+    <text>Skvěle, předem ti děkuji. Napíši mu, že posílám ještě jednoho člověka na pomoc, doufáme, že to přečte. Dohodneme se na setkání u východu z železničního tunelu vedle vlaku, hodně štěstí!</text>	
+</string>
+<string id="st_redemption_1_sakharov_6">
+    <text>Zatím profesore.</text>		
+</string>
+
+<string id="st_redemption_1_eco_1">
+    <text>Ahoj, ty jsi ten Stalker, kterého poslal Sakharov? Už mě unavují jeho zprávy.</text>		
+</string>
+<string id="st_redemption_1_eco_2">
+    <text>Ano, jsem.</text>		
+</string>
+<string id="st_redemption_1_eco_3">
+    <text>Dobře, doufám, že se zachováš lépe než ten minulý. Sakharov řekl, že mu chybí lidi a začal najímat kohokoli na úkoly s nižší prioritou. Jeden z těch "průvodců" se dostal i ke mně, byl to stalker podobný tobě, neber si to osobně. Vyrazili jsme s ním před pár dny a všechno bylo v pořádku, dorazili jsme bez problémů do zóny Svobody a tam jsme přespali. Ráno jsem se probudil, a on zmizel, stejně jako téměř všechny moje věci! Ptal jsem se kolem, nikdo nic neviděl a neví, jak to obvykle bývá tady. Jediné, co nechal nedotčené, bylo zařízení pro měření a pistole, díky za to. Napsal jsem Sacharovoj, a on mi začal tvrdit, že to zvládnu sám. Rozhněval jsem se a přestal mu odpovídat. V kapsách mi zbylo trochu peněz, abych mohl zůstat na základně nějaký čas.\n
+          \nUž nemám téměř nic, co bych mohl vzít, ale jsem připraven práci dokončit, jen ne sám. Tak co, pomůžeš?</text>		
+</string>
+<string id="st_redemption_1_eco_4">
+    <text>Ano pomůžu ti. Sakharov totiž řekl, že až skončíme, dostanu "štědrou" odměnu.</text>		
+</string>
+<string id="st_redemption_1_eco_5">
+    <text>Nemám nic kromě pár drobných, ale jsem si jistý, že až se vrátíš za ním, bez problémů ti zaplatí jak slíbil. Má hlavu na krku, ale peníze pro něj nejsou nejdůležitější.</text>		
+</string>
+<string id="st_redemption_1_eco_6">
+    <text>No tak dobře. Řekni mi, co mám dělat.</text>		
+</string>
+<string id="st_redemption_1_eco_7">
+    <text>Nic zvláštního, potřebuji provést měření na třech bodech kolem továrního areálu, ty mi prostě budeš krytím.</text>		
+</string>
+<string id="st_redemption_1_eco_8">
+    <text>To zní opravdu jednoduše, dobře, pojďme.</text>		
+</string>
+
+<string id="st_redemption_1_eco_9">
+    <text>Dokončil jsi svá měření?</text>		
+</string>
+<string id="st_redemption_1_eco_10">
+    <text>Ano, mám hotovo. Teď to všechno předám Sakharovovi, řeknu mu o tvé pomoci a požádám ho o platbu. Můžeš se vrátit k němu, já tu mám ještě něco, co musím udělat.</text>		
+</string>
+<string id="st_redemption_1_eco_11">
+    <text>Dobře, zatím a díky.</text>		
+</string>
+
+<string id="st_redemption_1_sakharov_7">
+    <text>Dostali jste zprávy z Promzóny?</text>		
+</string>
+<string id="st_redemption_1_sakharov_8">
+    <text>Ano, dostal jsem zprávu od mého asistenta a zdá se, že vše proběhlo úspěšně, že? No, to je skvělé. Když jste byl v terénu, data z měření již téměř zpracovala. Zdá se, že jsem podceňoval jejich důležitost...</text>		
+</string>
+<string id="st_redemption_1_sakharov_9">
+    <text>Jsem rád, a co tedy s mojí odměnou?</text>		
+</string>
+<string id="st_redemption_1_sakharov_10">
+    <text>O jaké odměně mluvíš? Ah, ano, chvíli počkej. Tak, myslím, že tohle by mělo stačit.\n
+    \nDokud jsi neodešel, ukázal jsi se v dobrém světle, můj asistent vás velmi chválil ve své zprávě, i když mi připadá, že byl jen rád, že mohl skončit s tímto experimentem. Ale to není důležité, souhlasíš pomoci nám s budoucími výzkumy nového území?</text>		
+</string>
+
+
+<string id="st_redemption_1_sakharov_11">
+    <text>Musím ještě něco měřit v Promzóně?</text>		
+</string>
+<string id="st_redemption_1_sakharov_12">
+    <text>Ne zcela, vědecká práce vyžaduje pečlivější přístup, nový výzkum, srovnávání dat a mnoho dalšího. Poté, co máme původní měření a uvědomili jsme si význam této práce, jsem připraven přidělit na ni více lidí. Od tebe bude vyžadováno provádět práci trochu jiného druhu, která bude víceméně vašemu vkusu. Slíbím ti také slušnou odměnu. A navíc, nemáš tam nějaký osobní zájem?</text>		
+</string>
+<string id="st_redemption_1_sakharov_13_1">
+    <text>Ne moc, ale "slušná odměna" zní lákavě, povězte mi více.</text>		
+</string>
+<string id="st_redemption_1_sakharov_13_2">
+    <text>Díky, ale budu o tom přemýšlet.</text>	
+</string>
+<string id="st_redemption_1_sakharov_14">
+    <text>Všichni mají své důvody, rozumím. Dobře, pokusím se to shrnout. Co jsme získali z Promzóny a co od vás potřebujeme? Jak asi víš, tvoji kolegové, stalkeři, už měli příležitost prozkoumat téměř každý kout této lokace. To znamená, že žádné takzvané "vypalovače" tam nejsou, nebo jsou alespoň neaktivní. Ale naše měření ukazují opak, což naznačuje, že buď naše data jsou nesprávná, což je málo pravděpodobné, nebo tam opravdu existuje záření, ale jiné povahy. Já dlouho věřil, že záření může být různé, ale neměli jsme žádné příklady, které by mou hypotézu potvrdily. Pokud mám pravdu, právě jsme narazili na takový příklad!\n
+    \nJeště je brzy na to spekulovat o čemkoli, protože nemáme dostatek dat o tomto záření pro srovnání a další analýzu. Ale zdá se, že vím, kde bychom měli hledat. Jak víš, do našich končin pravidelně přicházejí stalkeři hledající práci. Jedním z nich byl známý našemu kuchaři ještě před hranicí Zóny a po několika sklenkách při setkání nám vyprávěl o jiném stalkerovi, který oslavoval své narozeniny v Baru. Ten, ve stavu opojení, začal stěžovat si všem, jak našel tajné dokumenty v jednom z podzemních skladů Promzóny a jak kvůli nim riskoval život, ale žádný obchodník nechtěl zaplatit požadovanou částku. Nechápu, proč nešel přímo k nám, ale pravděpodobně bychom v tu dobu ty dokumenty také nepovažovali za důležité... Zkrátka, je to trochu na hraně a mohou to být jen klepy, ale v současné době je to jediná stopa, která by nás mohla přiblížit k pochopení tohoto záření.</text>		
+</string>
+<string id="st_redemption_1_sakharov_15">
+    <text>Jsi dlužnej veškerým tvým výzkumům alkoholické nápoje?</text>	
+</string>
+<string id="st_redemption_1_sakharov_16">
+    <text>Co tím myslíte? Ah, ne, vlastně ne. I když, když se to vezme zpět, tak nějakému podílu alkoholu při naší práci nelze upřít. Vraťme se ale zpět k věci, pokud máte zájem ověřit ty informace, je nejlepší začít přímo v Baru. Prosím, pokuste se zjistit, zda tyto dokumenty existují, a pokud ano, najděte je. I když je jen malá šance, že v nich bude pro mě důležitá informace, musíme to zkusit. Může to být zásadní okamžik v historii vědy!</text>		
+</string>
+<string id="st_redemption_1_sakharov_17">
+    <text>Dobře, rozumím. Budu se snažit zjistit něco bližšího, šťastně cestu.</text>	
+	</string>
+
+
+	<!-- ---------------------------------------- -->
+	<!-- //////////////////////// Task 2 //////////////////////// -->
+	<!-- ---------------------------------------- -->
+<string id="st_redemption_2_barman_1">
+	<text>Nedávno tu náhodou nikdo neslavil narozeniny, že?</text>		
+</string>
+<string id="st_redemption_2_barman_2">
+	<text>Byl tu jeden takovej, jmenoval se Zajíc, myslím. A proč tě to zajímá?</text>		
+</string>
+<string id="st_redemption_2_barman_3">
+	<text>Ano, jsem jeho přítel, nějaký čas jsme spolu po Zóně pobíhali. Má tady důležitou zprávu z druhé strany, ale nemohou ho kontaktovat, tak mě požádali, abych ho našel. Stalkeři řekli, že ho naposledy viděli tady.</text>		
+</string>
+<string id="st_redemption_2_barman_4">
+	<text>No stejně ti s tím asi moc nepomůžu. Přišel sem docela veselý, hostil spoustu lidí, říkal mi, že našel nějaké důležité dokumenty. Prohlídl jsem si je trochu, zatímco všichni pili, porovnal jsem je se svými objednávkami a řekl jsem mu, že ty jeho papíry nikdo nepotřebuje, ale že jsem ochoten je koupit za malý peníz. On se rozčílil, jak těžko bylo dostat tyhle dokumenty, a že ho někdo snaží okrást, takže můj strážce ho musel vyhodit ven spolu s jeho nesmysly.Říkají, že druhý den ráno odešel směrem k Hromadě a už jsme ho tady neviděli. Asi šel zkusit prodat je někomu jinému.</text>
+</string>
+<string id="st_redemption_2_barman_5">
+	<text>Rozumím, děkuji za informace.</text>		
+</string>
+<string id="st_redemption_2_barman_6">
+	<text>Chvíli počkej, chceš ho hledat po celé Zóně? To je jako hledat jehlu v stohu sena. Měl bys raději něco udělat pro mě, zatímco já se dotázím svých známých. Můžeme to brát jako odměnu za jejich obavy, slibuji, že ho najdeme, a úkol není složitý.</text>		
+</string>
+<string id="st_redemption_2_barman_7">
+	<text>Říkáš, že není složitý? Dobře, pověz, co mám udělat.</text>		
+</string>
+<string id="st_redemption_2_barman_8">
+	<text>Jen bez zbytečných otázek, ano? Alkoholu je tady nedostatek, a další dodávka bude až za týden. Zatím jsem se domluvil na koupi jednoho bedýnky s někým, kdo sem ale nemůže dorazit. Všechno je už zaplacené, tobě jen bude stačit se s nimi setkat na Hřbitově techniky, vzít zboží a přinést mi ho. Hned ti říkám, že bedna je těžká.</text>
+</string>
+<string id="st_redemption_2_barman_9">
+	<text>Zní to podezřele, ale souhlasím.</text>		
+</string>
+
+<string id="st_redemption_2_bandit_1">
+	<text>Proč tady potřebuješ krabici s vodkou?</text>		
+</string>
+<string id="st_redemption_2_bandit_2">
+	<text>Ano.</text>		
+</string>
+<string id="st_redemption_2_bandit_3">
+	<text>A peníze?</text>		
+</string>
+<string id="st_redemption_2_bandit_4">
+	<text>Jaké peníze?</text>		
+</string>
+<string id="st_redemption_2_bandit_5">
+	<text>Eh, co myslíš, jaké peníze? Vidíš ve mně nějakého filantropa, nebo co?</text>		
+</string>
+<string id="st_redemption_2_bandit_6">
+	<text>Barman řekl, že už je vše zaplaceno. Nemůžeš to potvrdit u svých lidí?</text>		
+</string>
+<string id="st_redemption_2_bandit_7">
+	<text>Počkej, zůstaň tady a nehyb se, jsem nervózní, rozumíš? Mmm, jo, šéf napsal, že je všechno v pořádku. Tak tady máš tu krabici, teď můžeš jít, když jsem hodnej.</text>		
+</string>
+<string id="st_redemption_2_bandit_8">
+	<text>[Odejít]</text>	
+</string>
+
+
+<string id="st_redemption_2_barman_10">
+	<text>Tady máš tu bednu s pitím, těžkou.</text>		
+</string>
+<string id="st_redemption_2_barman_11">
+	<text>Neoplácal ses? Díky. Tady máš jednu láhev, až si s kámošem vyrazíte, právě jsme ho našli. Vyptal jsem se lidí a říkají, že tvého Zajce viděli na Koridore, seděl v nějaké vesnici pro nováčky.</text>		
+</string>
+<string id="st_redemption_2_barman_12">
+	<text>Dobře, děkuji.</text>		
+</string>
+
+<string id="st_redemption_2_hare_1">
+	<text>Ahoj, ty jsi ten Zajíc?</text>		
+</string>
+<string id="st_redemption_2_hare_1_1">
+	<text>Co se stalo s těmi dokumenty?</text>		
+</string>
+<string id="st_redemption_2_hare_2">
+	<text>Dejme tomu, že jsem já, a ty kdo?</text>		
+</string>
+<string id="st_redemption_2_hare_3">
+	<text>Jsem tady kvůli těm dokumentům, které se snažíš všem prodat.</text>	
+</string>
+<string id="st_redemption_2_hare_4">
+	<text>Proč tě zajímají? Nejsi ani obchodník, ani vědec. Tak dobře, dej mi milion a jsou tvoje.</text>		
+</string>
+<string id="st_redemption_2_hare_5">
+	<text>Chtěl jsi se napít, nebo co? Barman ti přece řekl, kolik stojí těm dokumentům. Ty máš asi za moc, co?</text>	
+</string>
+<string id="st_redemption_2_hare_6">
+	<text>Asi si nedokážeš představit, co jsem musel projít, abych ty dokumenty získal. Ztratil jsem tam i kamaráda a sotva jsem unikl živý.</text>		
+</string>
+<string id="st_redemption_2_hare_7">
+	<text>Podle mě je i Sidorovič tvoje dokumenty nechtěl. Kdyby je tihle dva nechtěli, tak je asi nikdo nechce. Až budeš chtít něco prodat, přijdeš na to.</text>		
+</string>
+<string id="st_redemption_2_hare_8">
+	<text>Co ty víš? Čistý vědci by je možná vzali, něco vědecky vyzkoumali. Můžu je prodat i Sakharovovi, on zaplatí, co řeknu.</text>		
+</string>
+<string id="st_redemption_2_hare_9">
+	<text>Právě jsem se vrátil od Yantar, na Sakharovovy objednávky, a řeknu ti, že teď jsou tyhle území na jeho seznamu "nejnižší priority". Nemyslíš si, že by si najal někoho jiného, kdyby potřeboval něco důležitého? Můžeš se snažit prodat je po celé Zóně, ale neuvidíš moc peněz. Nabízím ti jednoduchou cestu, aniž bys musel někam cestovat. Řekni mi rozumnou cenu.</text>	
+</string>
+<string id="st_redemption_2_hare_10">
+	<text>Mmm, dej mi chvíli na rozmyšlenou...Tak dobře, řekněme 15... ne, 20 tisíc.</text>		
+</string>
+<string id="st_redemption_2_hare_11">
+	<text>Sakharov by ti ani 20 tisíc nedal. Dejme 15, budu muset přidávat z vlastní kapsy a ještě zpátky jít.</text>		
+</string>
+<string id="st_redemption_2_hare_12">
+	<text>Dobře, 15 tisíc.</text>		
+</string>
+<string id="st_redemption_2_hare_13_1">
+	<text>Tady máš peníze.</text>		
+</string>
+<string id="st_redemption_2_hare_13_2">
+	<text>Brzy se vrátím s penězi.</text>		
+</string>
+
+	<string id="st_redemption_2_hare_14">
+		<text>Mám s sebou jen kopie několika stránek odtamtud, abych je předal obchodníkům, samotné dokumenty jsem ukryl na smetišti hned za hangárem, bude tam dodávka a pod sedadlem spolujezdce jsou dokumenty. Stejně už jsi na cestě zpátky, ne? Tam venku je spousta uší, víš, a spousta svrbících rukou. \n\nJá jen... Nejspíš jsem trochu lhal o tom, kde jsem je našel, a taky o kamarádovi, kterého jsem ztratil. Každopádně jsem je našel v průmyslové zóně, ale na okraji, u benzinové pumpy. Jednou jsme seděli v Baru a jeden kámoš z firmy se s námi podělil o to, jak se dostat do průmyslové zóny. Rozhodl jsem se, že se ráno trochu porozhlédnu, nová místa, zajímavá, a kdybych náhodou cestou něco našel. Šel jsem přes Hřbitov nákladních aut, není to daleko a po cestě skoro nikdy nejsou žádná zvířata. Vyšel jsem k benzínce v Průmyslové zóně, prohlédl si pár aut, v přihrádce jednoho auta jsem našel tyhle dokumenty, pak jsem nedaleko uslyšel štěkot a rozhodl se, že je čas vrátit se.\nAle prostě jsem měl pocit, že v těch dokumentech jsou nějaké důležité informace a že stojí za ty peníze. </text>		
+	</string>
+
+<string id="st_redemption_2_hare_15">
+    <text>Ne moc přesvědčivé, ale doufám, že je to pro tvé dobro. Doufám, že ty dokumenty budou na skládce přesně tam, kde jsi řekl.</text>
+</string>
+
+<string id="st_redemption_2_sakharov_1">
+    <text>Přinesl jsem vám vaše dokumenty z Promzóny, profesore.</text>
+</string>
+<string id="st_redemption_2_sakharov_2">
+    <text>Výborně! Nikdy jsem nepochyboval o vašich schopnostech. Jak to celé probíhalo?</text>
+</string>
+<string id="st_redemption_2_sakharov_3">
+    <text>Musel jsem trochu běhat a přenášet bedny, ale celkově to bylo jako obvykle. Tady máte samotné dokumenty... A mimochodem, musel jsem zaplatit tomu stalkerovi 20 tisíc za jejich výkupné.</text>
+</string>
+<string id="st_redemption_2_sakharov_4">
+    <text>Ah, rozumím vás skvěle, jenom chviličku. Kde jsou... Tady, to jsou 20 000 za dokumenty a navíc něco navrch za vaši brilantní práci. Znovu vám děkuji za pomoc.\n
+    \nTak-tak, pojďme se podívat na ty dokumenty... Aha... Zajímavé... Většina zkázaných stránek bude pravděpodobně navždy ztracena, ale některé myslím stále lze obnovit. Dejte mi pár hodin na studium těchto materiálů a možná pro vás bude ještě práce. Můžete si zatím odpočinout u nás.</text> 
+</string>
+<string id="st_redemption_2_sakharov_5">
+    <text>Dobře.</text>
+</string>
+
+
+
+	<!-- ---------------------------------------- -->
+	<!-- //////////////////////// Task 3 //////////////////////// -->
+	<!-- ---------------------------------------- -->
+<string id="st_redemption_3_sakharov_1">
+    <text>Jak to vypadá s těmi dokumenty? Zjistili jste něco nového o tom záření?</text>
+</string>
+<string id="st_redemption_3_sakharov_2">
+    <text>Abyste měli jasno, o samotném záření jsme se téměř nic nového nedozvěděli. Většina stránek je poškozena a z těch zachovalých nedokážeme vytvořit jednotný obraz. Vypadá to jako deník studenta radiotechnika, plný řešení fyzikálních úkolů pro bakaláře, přičemž mnohá jsou nesprávná, a také obsahuje silniční mapy: trasy, hotely a tak dále.</text>
+</string>
+<string id="st_redemption_3_sakharov_3">
+    <text>Takže to všechno bylo zbytečné?</text>
+</string>
+<string id="st_redemption_3_sakharov_4">
+    <text>Ne úplně, existuje nějaká spojitost. Často se zmiňuje o lidech, kteří podle něj byli ze speciálních služeb. Pravidelně navštěvovali jeho pracoviště a prováděli důkladné prohlídky zejména v nižších prostorách, což mu připadalo dost divné. Mám podezření, že jde o radiolokační stanici v Promzóně.\n
+    \nBěhem vašeho hledání tohoto dokumentu jsme také nezaháleli. Poslal jsem několik skupin s pokročilými zařízeními pro přesnější měření na všech klíčových bodech této oblasti. Téměř všechny skupiny byly schopny umístit zařízení na zadaná místa a vrátit se v pořádku, kromě jedné. Nevíme, co se s nimi stalo, a nemůžeme s nimi navázat kontakt.</text>
+</string>
+<string id="st_redemption_3_sakharov_5">
+    <text>A jaká je spojitost s deníkem studenta?</text>
+</string>
+<string id="st_redemption_3_sakharov_6">
+    <text>Úkolem této skupiny bylo právě umístit zařízení na radiolokační stanici. Domníval jsem se, že největší emise tohoto záření budou z továrny, ale zdá se, že data získaná z těchto souřadnic říkají opak. Myslím si, že právě stanice je epicentrem, ale to musíme nejprve ověřit.\n
+    \nOd návratu našich výzkumných skupin neuplynulo tolik času, ale budou mi nyní potřebné k rozklíčování dat. Možná ta poslední skupina jen narazila na nějaké potíže a vrátí se později, což se stává poměrně často. Ale chtěl bych mít jistotu, že zařízení bylo instalováno... A ano, že moji zaměstnanci jsou v pořádku, samozřejmě.\n
+    \nNalezením těchto dokumentů jste znovu prokázal své schopnosti... V určitém oboru samozřejmě. Proto bych si přál, abychom naší spolupráci nepřicházeli o konec.</text>
+</string>
+<string id="st_redemption_3_sakharov_7">
+    <text>Takže co ode mě potřebujete? Jít tam zkontrolovat to zařízení a hledat v okolí vědce?</text>
+</string>
+<string id="st_redemption_3_sakharov_8">
+    <text>Pro tuto práci budete potřebovat nějaké základní vědecké znalosti, ale díky datům získaným z jiných zařízení nyní budu moci na místě snadno nastavit základní parametry a zbytek již nastavit vzdáleně po instalaci.\n
+    \nDám vám nové zařízení a vše, co budete potřebovat, je umístit ho do rádiové místnosti na vrcholu stanice. Jen na ně neklikejte, kromě této velké tlačítka, až ho nainstalujete.\n
+    \nTo zařízení je drahé a mohu vám ho svěřit pouze osobně, abychom se vyhnuli incidentům. Prosím, abyste toto úkol vykonal sám.</text>
+</string>
+
+<string id="st_redemption_3_sakharov_9">
+    <text>Dobře, dejte mi to zařízení.</text>
+</string>
+<string id="st_redemption_3_sakharov_10">
+    <text>Tady ho máte. A ještě jedna věc, pokud je zařízení již na místě, stačí se vrátit, a já vám stále zaplatím. Ale pokud tam není, kromě instalace vašeho zařízení, zkuste najít to staré a přinést mi ho zpět. Za to vám připlatím, stejně jako za mé ztracené zaměstnance. A pokud se oni ozvou dříve, než dorazíte ke stanici, tak se vám ozvu já.</text>
+</string>
+<string id="st_redemption_3_sakharov_11">
+    <text>Dobře.</text>
+</string>
+
+<string id="st_redemption_3_ecos_1">
+    <text>Profesore, našel jsem těla vašich vědců na stanici.</text>
+</string>
+<string id="st_redemption_3_ecos_2">
+    <text>Důleži... ... ...íme... ... ...tačte se prostran... ...</text>
+</string>
+<string id="st_redemption_3_ecos_3">
+    <text>Profesore...?</text>
+</string>
+
+<string id="st_redemption_3_news_1">
+    <text>Slyšíte mě? Zařízení je nainstalováno, prověřte to.</text>
+</string>
+<string id="st_redemption_3_news_2">
+    <text>Slyš... ... ...bíraj... ... ...te se mimo teri... ...rie stan... ...</text>
+</string>
+
+<string id="st_redemption_3_hare_1">
+    <text>Ahoj, znovu tu. Co tady děláš?</text>
+</string>
+<string id="st_redemption_3_hare_2">
+    <text>Stále jsem na pokynech vědců, a ty?</text>
+</string>
+<string id="st_redemption_3_hare_3">
+    <text>Přemýšlel jsem, že bych tentokrát mohl jít trochu dál, najednou bych mohl najít nějaké dokumenty, dokud je toto území ne prozkoumáno úplně. Poslechni, nevíš, jestli vědci nemají nějakou práci? Tvoje práce se mi zdá docela zajímavá.</text>
+</string>
+<string id="st_redemption_3_hare_4">
+    <text>Bez potuchy, dojdi k Jantarovi a zeptej se ho sám, možná něco bude.</text>
+</string>
+<string id="st_redemption_3_hare_5">
+    <text>Dobrá, ale teď tady máme ještě jeden... A kdo je to?</text>
+</string>
+<string id="st_redemption_3_hare_6">
+    <text>Kde?</text>
+</string>
+
+
+<string id="st_redemption_3_monolith_news_1">
+    <text>Bratře Vakhare, to znovu není on.</text>
+</string>
+<string id="st_redemption_3_monolith_news_2">
+    <text>Zabij nevěřící a pokračujme ve vyhledávání.</text>
+</string>
+
+<string id="st_redemption_3_illeon_news_1">
+    <text>Probudil ses? Lež a zatím nevstávej.</text>
+</string>
+<string id="st_redemption_3_illeon_news_2">
+    <text>Ty... kdo...?</text>
+</string>
+<string id="st_redemption_3_illeon_news_3">
+    <text>Podle žetonu mě zvou Illeon.</text>
+</string>
+<string id="st_redemption_3_illeon_news_4">
+    <text>Ž... žeton...?</text>
+</string>
+
+<string id="st_redemption_3_illeon_1">
+    <text>No, jak se cítíš?</text>
+</string>
+<string id="st_redemption_3_illeon_2">
+    <text>Bolí mě celé tělo...</text>
+</string>
+<string id="st_redemption_3_illeon_3">
+    <text>Není se čemu divit, vypadáš, jako bys byl propíchnutý když jsem tě sem táhnul.</text>
+</string>
+<string id="st_redemption_3_illeon_4">
+    <text>A kam sem? A proč máš jejich uniformu? Kdo vlastně jsi?</text>
+</string>
+<string id="st_redemption_3_illeon_5">
+    <text>Jsme v zavaleném tunelu na východě. Ležel jsi tady téměř dvěma dny. Jmenuji se Illeon... Aspoň si myslím. Co se týče uniformy, sám nevím.</text>
+</string>
+<string id="st_redemption_3_illeon_6">
+    <text>Myslíš si? Nevíš?</text>
+</string>
+<string id="st_redemption_3_illeon_7">
+    <text>Vypadáš nevalně, ale měl bys ještě chvíli odpočinout.</text>
+</string>
+<string id="st_redemption_3_illeon_8">
+    <text>Jsem v pořádku. Odpověz, co to tu bylo a kdo jsi?</text>
+</string>
+<string id="st_redemption_3_illeon_9">
+    <text>Pravděpodobně tě sledovali, stejně jako ty vědce. Co se týče toho, kdo jsem... Nezpomínám si.</text>
+</string>
+<string id="st_redemption_3_illeon_10">
+    <text>Celé to nezpomínáš?</text>
+</string>
+<string id="st_redemption_3_illeon_11">
+    <text>Poslední, co si pamatuji, je, že jsem šel po cestě někde uprostřed této oblasti. A pak... jsem se probudil... A všechno, co bylo před tím, prostě zmizelo z paměti.\n
+    \nTo bylo před asi týdnem, předtím jsem neměl žádné vzpomínky, jenom kusy, které nemohu spojit dohromady.</text>
+</string>
+<string id="st_redemption_3_illeon_12">
+    <text>Ale střílet si pamatuješ?</text>
+</string>
+<string id="st_redemption_3_illeon_13">
+    <text>Ano, některé dovednosti a obecné schopnosti zůstaly. Ruce se zdají vědět, co a jak dělat. Stejné to je i s řečí.</text>
+</string>
+<string id="st_redemption_3_illeon_14">
+    <text>A víš, kde přesně se nacházíš, nebo aspoň, jaký je teď rok?</text>
+</string>
+<string id="st_redemption_3_illeon_15">
+    <text>Přibližně... Když vidím nebo slyším něco známého, někdy si to mohu vzpomenout. Mutanti okolo mi třeba pomohli téměř okamžitě si vzpomenout, kde jsem. Jinak bych skončil v nějaké anomálii.\n
+    \nAle nevzpomínám si na celou oblast, jen několik míst, a i ty ne zcela přesně.</text>
+</string>
+<string id="st_redemption_3_illeon_16">
+    <text>A když se podíváš na svou uniformu, nic ti to neříká?</text>
+</string>
+<string id="st_redemption_3_illeon_17">
+    <text>Jediné, co vím, je, že to je uniforma skupiny "Monolit", která mě zjevně hledá. Více si z toho nepamatuji. Poprvé jsem je potkal několik dní poté, co... no, jsem se probudil.\n
+    \nNa začátku jsem seděl v podzemí stanice, na kterou zaútočili. Měl jsem u sebe zásoby, takže jsem nemusel ven, doufal jsem, že se během té doby něco objasní. Ven jsem vycházel jen párkrát, abych se podíval.</text>
+</string>
+<string id="st_redemption_3_illeon_18">
+    <text>[dále...]</text>
+</string>
+
+<string id="st_redemption_3_illeon_19">
+    <text>Potom jsem uslyšel lidi venku, ale rozhodl jsem se jim neukazovat a sledovat je, když odejdou. Bylo slyšet mnoho věcí skrz díru v podlaze. Začali prohlížet stanici a neustále si stěžovali na nějakého profesora. Za pár minut jsem slyšel výstřely a křiky.\n
+    \nPak jsem slyšel, jak jeden z útočníků začal vyslýchat raněného o tom, jak něco vypnout. Jeho hlas mi přišel povědomý, ale nepodařilo se mi vzpomenout. Raněný jenom křičel bolestí a tvrdil, že nic neví, a že je jenom strážce. Téměř ho okamžitě zastřelili. Potom útočníci zmiňovali pár slov, zmínili jméno Illeon a já pochopil, že kromě všeho ostatního mě také hledají.</text>
+</string>
+<string id="st_redemption_3_illeon_20">
+    <text>Co se stalo potom?</text>
+</string>
+<string id="st_redemption_3_illeon_21">
+    <text>Nic... Skupina, která ty lidi zabila, odešla. Rozhodl jsem se, že by nemohli přijít několik minut po tom, co přišli první, a pravděpodobně nás sledovali nebo číhali. Takže jsem čekal do noci a rozhodl se hledat místo, kde bych byl méně nápadný. Tohle se hodilo.</text>
+</string>
+<string id="st_redemption_3_illeon_22">
+    <text>A proč jsi se potom vrátil a zachránil mě? Mimochodem, díky za to, nikdy jsem ti za to nepodal ruku.</text>
+</string>
+<string id="st_redemption_3_illeon_23">
+    <text>Sledoval jsem stalkerovi, ale ne s úmyslem ho obrat nebo zabít. Nejsem zloděj nebo maniak jako ti ze stanice. Chtěl jsem pozorovat... Nevím, co za člověk to je, a jestli mu mohu důvěřovat. Je mi líto, že jsem ho nestihl zachránit, všechno se stalo příliš rychle...</text>
+</string>
+<string id="st_redemption_3_illeon_24">
+    <text>A proč bys potřeboval nějakého stalkeru?</text>
+</string>
+<string id="st_redemption_3_illeon_25">
+    <text>Co si myslíš, proč jsem stále tady? Nemám tušení, komu mohu důvěřovat, a komu ne. Kam a jak jít. Dokonce si nepamatuji všechny ty vaše skupiny, a tak když k někomu přistoupíš, tak až později zjistíš, kdo to je. Potřebuji průvodce.</text>
+</string>
+<string id="st_redemption_3_illeon_26">
+    <text>Průvodce? Kam přesně?</text>
+</string>
+<string id="st_redemption_3_illeon_27">
+    <text>Když jsem viděl tělo jednoho z těch lidí, tak mi na něco matně došlo, že tady někde jsou vědci. Pokud někdo může pomoct, tak jsou to oni.</text>
+</string>
+<string id="st_redemption_3_illeon_28">
+    <text>A proto jsi mě zachránil?</text>
+</string>
+<string id="st_redemption_3_illeon_29">
+    <text>Nejenom kvůli tomu... Tak co, pomůžeš mi?</text>
+</string>
+<string id="st_redemption_3_illeon_30">
+    <text>Myslím, že tě mohu doprovodit na Jantar. To je alespoň to nejmenší, co mohu udělat jako odplatu za zachráněný život.</text>
+</string>
+
+<string id="st_redemption_3_illeon_31">
+    <text>Díky. Poté, co jsem viděl, co ti lidé udělali tobě a těm vědcům, rozhodl jsem se, že by bylo nejlepší nechodit v uniformě jejich skupiny. Proto jsem sundal oblek tvého známého. Nemám zájem o loupež mrtvých lidí, ale neměl jsem moc jinou volbu.</text>
+</string>
+<string id="st_redemption_3_illeon_32">
+    <text>Zde je to běžné, mrtvým už to nepotřebují, a ve tvé uniformě nevypadneme mezi ostatními stalkeri.</text>
+</string>
+<string id="st_redemption_3_illeon_33">
+    <text>Převléknu se, přinesu ti tvé věci a pak můžeme jít.</text>
+</string>
+<string id="st_redemption_3_illeon_34">
+    <text>V pořádku.</text>
+</string>
+
+
+
+<string id="st_redemption_3_illeon_stalker_1">
+<text>Tady jsou tvé věci. Mimochodem, ti monolitovci nic neříkali?</text>
+</string>
+<string id="st_redemption_3_illeon_stalker_2">
+<text>Zdá se, že ne... I když hlavního z nich nazývali Vakhar.</text>
+</string>
+<string id="st_redemption_3_illeon_stalker_3">
+<text>Vakhare...\nVzpomínaje na hlas, který jsem slyšel na stanici, spolu s jeho jménem se zdá, že něco začíná vytávat v paměti. "Monolit" má zpravodajství, občas posílají malé skupiny do Zóny, Vakhar je šéf jejich zpravodajského oddělení.\n\nNastavení vojáků s vysokým postavením v této skupině se trochu liší od běžných vojáků. Neběží slepě do palby, ale počítají své šance a rozumí tomu, kdy ustoupit. Nejprve jsem ho chtěl dostihnout a ukončit to všechno, ale pak jsem viděl, že jsi stále naživu. Navíc na jeho místo stejně přijdou další...</text>
+</string>
+<string id="st_redemption_3_illeon_stalker_4">
+<text>Je to docela divné, že znáš takové podrobnosti o těchto fanatikách. Řekl bych, že jsi jedním z nich, ale zdáš se být zdravým rozumem, a takových tam rozhodně není. Zatím to nerozumím.</text>
+</string>
+<string id="st_redemption_3_illeon_stalker_5">
+<text>Stejně jako já, takže potřebujeme dostat k vašim vědcům.</text>
+</string>
+<string id="st_redemption_3_illeon_stalker_6">
+<text>Dobře, pojďme.</text>
+</string>
+
+Here is the translation of the provided text into Czech:
+
+<string id="st_redemption_3_yantar_1">
+<text>Tady s tebou chce mluvit jeden člověk.</text>
+</string>
+<string id="st_redemption_3_yantar_2">
+<text>Ah, tady jsi. Začalo mi být divné, že se tak dlouho neozýváš a nevracíš se pro platbu. Podle tvého vzhledu to vypadá, že jsi měl nějaké potíže?</text>
+</string>
+<string id="st_redemption_3_yantar_3">
+<text>Nějaké potíže? Tam mě téměř zabili! Nestihl jsem dostat se ze stanice a ocitl se pod palbou monolitovců, kteří se objevili za rohem. Předtím pravděpodobně vyvraždili i vaše vědce. Řeknu ti, že mě tam zase nepotáhneš.</text>
+</string>
+<string id="st_redemption_3_yantar_4">
+<text>Velmi mě to mrzí...\nHm, mluvíš o skupině "Monolit"? Zajímavé, jaké by mohli mít zájmy v této oblasti. Podle mého vědomí je severní průchod zcela zablokován anomálními poli, což znamená, že museli projít Rudžm lesem a Armádními sklady.\n\nDíky za informace. V budoucnu pošlu tam sjednocené skupiny složené z nejzkušenějších najatých pracovníků... Počkej, nechali tě tam jen tak zraněného a odešli?</text>
+</string>
+<string id="st_redemption_3_yantar_5">
+<text>Ne, zachránil mě tenhle stalker. Přestřílel většinu jejich oddílu, a pak jsem se probudil s obvázanými ranami v nedalekém tunelu. Říká, že tě chce vidět, protože si na nic nevzpomíná.</text>
+</string>
+<string id="st_redemption_3_yantar_6">
+<text>Ale my jsme fyzici, ne neurologové, a navíc máme dost práce i tak. S případy amnézie je lepší obrátit se na někoho jiného.</text>
+</string>
+<string id="st_redemption_3_yantar_7">
+<text>Když mě potkal, měl na sobě monolitovský oblek. Navíc si na cestě začal vzpomínat na podrobnosti, které obyčejný stalker nemohl vědět. Prostě si s ním promluv.</text>
+</string>
+<string id="st_redemption_3_yantar_8">
+<text>Dobře, jako gesto vděčnosti vůči vědeckému společenství udělám tentokrát výjimku.</text>
+</string>
+<string id="st_redemption_3_yantar_9">
+<text>Děkuji.</text>
+</string>
+<string id="st_redemption_3_yantar_10">
+<text>Mimochodem, pokud tě to zajímá, zařízení, které jsi nainstaloval, funguje bez problémů. Nyní dostáváme údaje o záření ze všech míst. Radar, jak se očekávalo, ukazuje největší záření. Teď už jen zbývá důkladně zkoumat data a pravděpodobně prověřit samotnou stanici, ale tentokrát se tím budou zabývat mí nejzkušenější zaměstnanci.</text>
+</string>
+<string id="st_redemption_3_yantar_11">
+<text>Už o té stanici nechci vědět nic víc.</text>
+</string>
+<string id="st_redemption_3_yantar_12">
+<text>Rozumím, což, tady máš svou odměnu za nainstalované zařízení. Jak jsem slíbil, s příplatkem za mé nalezené kolegy, i když už jsou mrtví, ale teď víme, co se s nimi stalo. A jejich zařízení jsi asi nenašel, že? No, nic... Také ti navrch dám kompenzaci za škodu, kterou ti způsobili během plnění úkolu.\n\nRychle něco dokončím a potom si prohlédnu tvého přítele. Tobě by asi neuškodilo si odpočinout taky. Pokud tě budou zajímat výsledky, přijď ke mně za den.</text>
+</string>
+<string id="st_redemption_3_yantar_13">
+<text>Dobře.</text>
+</string>
+
+	<string id="st_redemption_3_yantar_1_1">
+		<text>Nainstaloval jsem vaše zařízení.</text>		
+	</string>
+	<!-- st_redemption_3_yantar_2 -->
+	<!-- st_redemption_3_yantar_3 -->
+	<!-- st_redemption_3_yantar_4 -->
+
+
+<string id="st_redemption_3_yantar_5_1">
+<text>Ne, zachránil mě jeden stalker. Přestřílel většinu jejich oddílu, a pak jsem se probudil s obvázanými ranami v nedalekém tunelu. Říkal, že tě chce vidět, ale byl zabit cestou sem.</text>
+</string>
+<string id="st_redemption_3_yantar_6_1">
+<text>Taky zabit? Škoda, možná by mohl rozjasnit celou situaci...\nMimochodem, pokud tě to zajímá, zařízení, které jsi nainstaloval, funguje bez problémů. Nyní dostáváme údaje o záření ze všech míst. Radar, jak se očekávalo, ukazuje největší záření. Teď už jen zbývá důkladně zkoumat data a pravděpodobně prověřit samotnou stanici, ale tentokrát se tím budou zabývat mí nejzkušenější zaměstnanci.</text>
+</string>
+	<!-- st_redemption_3_yantar_11 -->
+	
+<string id="st_redemption_3_yantar_12_1">
+<text>Rozumím, tak tady máte vaše odměnu za nainstalované zařízení. Jak jsem slíbil, s příplatkem za mé nalezené kolegy, i když už jsou mrtví, ale teď víme, co se s nimi stalo. A jejich zařízení jste, jak si myslím, nenašli, že? No nic... Stejně vám navrch dám kompenzaci za škodu, kterou jste utrpěli při plnění úkolu.\n\nMyslím, že naše spolupráce tímto končí, znovu vám děkuji za vaši pomoc.</text>
+</string>
+
+	
+	
+	<!-- st_redemption_3_yantar_13 -->
+
+<string id="st_redemption_4_sakharov_1">
+<text>Jak se má ten stalker? Obnovil si paměť?</text>
+</string>
+<string id="st_redemption_4_sakharov_2">
+<text>Částečně, provedli jsme několik analýz, provedli malý lékařský vyšetření a udělali několik testů. Ukázalo se, že jde opravdu o unikátní případ. Tento člověk si nepamatoval ani jediný detail ze života mimo Zónu, ale jakmile se zmínila téměř o jakémkoli artefaktu, dokázal vypsat všechny známé vlastnosti!\n
+\nPřišlo nám dost divné, že si pamatoval vlastnosti nejen většiny skupin, které nás obklopují, ale i skupiny "Monolit", o které jste mi právě vyprávěl. Myslím, že jeho informace nám může pomoci i v našich současných výzkumech.\n
+\nZatím je příliš brzy na to dělat jakékoliv závěry, budeme potřebovat celou řadu dalších testů, a právě jsem objednal potřebné vybavení k jejich provedení.</text>
+</string>
+<string id="st_redemption_4_sakharov_3">
+<text>Takže se mám později zastavit?</text>
+</string>
+<string id="st_redemption_4_sakharov_4">
+<text>Myslel jste, že vám už stačil ten předešlýkrát?</text>
+</string>
+<string id="st_redemption_4_sakharov_5">
+<text>No, běhat s vašimi zařízeními po Promzóně, když tam pobíhají zběsilí fanatikové, mě rozhodně láká. Upřímně řečeno, mě jenom zajímá, co to všechno znamená.</text>
+</string>
+<string id="st_redemption_4_sakharov_6">
+<text>Vědecký zájem? To je dobře, ale bohužel, odpovědi na vaše otázky budou trvat nějakou dobu. Nevím přesně kolik, závisí to na datu dodání vybavení, které může občas trvat různě dlouho.\n
+\nPokud vás to zajímá, poslal jsem některé údaje svým nadřízeným a podařilo se mi získat grant na výzkum tohoto záření. Naši zaměstnanci jsou výborní odborníci ve svém oboru, ale výsledky úkolů, blízkých normálním stalkerům, ne vždy jsou úspěšné. Proto často musím najímat další lidi a s pomocí tohoto grantu jsem najal člověka, který je vám známý jako Barman, aby hledal jakékoliv informace spojené s naším výzkumem.\n
+\nTakže pokud máte zájem, můžete se přidat k hledání. Jsem si jist, že vaše pomoc urychlí celý proces. Platba bude pocházet od nás, takže můžete očekávat odpovídající odměnu.</text>
+</string>
+<string id="st_redemption_4_sakharov_7_1">
+<text>Dobře, zajdu k němu.</text>
+</string>
+<string id="st_redemption_4_sakharov_7_2">
+<text>Ne, zatím mám dost, ale přemýšlím o tom.</text>
+</string>
+
+
+<string id="st_redemption_4_barman_1">
+<text>Sakharov řekl, že máš nějakou práci?</text>
+</string>
+<string id="st_redemption_4_barman_2">
+<text>Ano, mám. Mimochodem, našel jsi svého přítele?</text>
+</string>
+<string id="st_redemption_4_barman_3">
+<text>Ano, našel. Jeho fanatikové ho zabili v Promzóně.</text>
+</string>
+<string id="st_redemption_4_barman_4">
+<text>No jo, takový je život v Zóně, zdá se, že jsme se viděli nedávno a za týden už člověka není. K nám také začínají chodit zvěsti, že monolitovci začínají být v této oblasti častěji vidět.</text>
+</string>
+<string id="st_redemption_4_barman_5">
+<text>Takže, co s tou prací?</text>
+</string>
+<string id="st_redemption_4_barman_6">
+<text>Nějak nevypadáš zrovna nadšeně. No, život jde dál.\n
+\nSakharov mi dal za úkol shromáždit informace o jakémkoli zmínění výzkumů nebo záření souvisejících s Promzónou. Udělal mi pořádný obnos, takže jsem již najal několik skupin stalkerů. Mohu najít něco podobného i pro tebe.</text>
+</string>
+<string id="st_redemption_4_barman_7">
+<text>Řekni mi více.</text>
+</string>
+<string id="st_redemption_4_barman_8">
+<text>Takže, podle toho, co vím, již mnoho lidí navštívilo Promzónu, někteří jen tak, aby se podívali, jiní, aby hledali něco v nejvzdálenějších koutech. Myslím, že všechno, co bylo špatně umístěno, už rozdali, protože Sakharov říká, že jeho lidé téměř nic nenašli. K nám také dochází zvěsti o některých takových nálezech, které teď prověřujeme. Ta místa, která zůstala neprověřena, nejsou zrovna příjemná.\n
+\nBudeš muset dojít do Temného údolí. Zpráva mi řekla, že některé záznamy z Promzóny jsou uloženy na základně banditů.</text>
+</string>
+<string id="st_redemption_4_barman_9">
+<text>A mám tam jen tak přijít a říct: "Ahoj, jsem tu pro dokumenty"?</text>
+</string>
+<string id="st_redemption_4_barman_10">
+<text>Asi tak, ano. Ale už jsem se domluvil s jejich šéfem, nešíř to. Pošlu jim, jak vypadáš, a pustí tě dál. Poté ti Sultan předá dokumenty a hotovo.\n
+\nAle jsou dvě podmínky. První - musíš být sám. A druhá - musíš dojít do Temného údolí bez jakéhokoli zbraně, nech nůž a granáty také doma. Pokud zjistí, že máš zbraň v ruce nebo trčí z batohu, začnou střílet.</text>
+</string>
+<string id="st_redemption_4_barman_11">
+<text>Jak mám dojít tam bez zbraně?</text>
+</string>
+<string id="st_redemption_4_barman_12">
+<text>Jak chceš, použij chytrý trik. Pokud nemáš trik, běž rychle.\n
+\nA nakonec, můj kontakt mi řekl, že za 4000 ti může sdělit některé podrobnosti, které by tě mohly zajímat. Sultan mi připadá nepředvídatelný, od něj můžeme čekat cokoli, takže by nebylo špatné mít záložní plán. Ale já ti to nezaplatím, rozhodni se sám.</text>
+</string>
+<string id="st_redemption_4_barman_13_1">
+<text>Dobře, tady máš peníze.</text>
+</string>
+<string id="st_redemption_4_barman_14_1">
+<text>Hned mu je předám, počkej chvíli...\n
+\nJo, dostal je. Píše, že dokumenty jsou v Sultánově místnosti na stole, ale on sám je tam vždycky. V prvním patře nedostavěného budovy je spousta suchého dřeva, které můžeš zapálit. Budova se nezachvěje, ale bude tam hodně kouře a rozruchu na určitou dobu.\n
+\nTo je vše, můžeš se chystat.</text>
+</string>
+
+<string id="st_redemption_4_barman_13_2">
+<text>I bez pomoci tvých udavačů to nějak zvládnu.</text>
+</string>
+<string id="st_redemption_4_barman_14_2">
+<text>Je to tvá volba, buď opatrný tam.</text>
+</string>
+<string id="st_redemption_4_barman_13_3">
+<text>Peníze zatím nemám, vrátím se později.</text>
+</string>
+<string id="st_redemption_4_barman_15">
+<text>Tak já jdu.</text>
+</string>
+
+<string id="st_redemption_4_sultan_1">
+<text>Přišel jsem pro dokumenty pro Barmana.</text>
+</string>
+<string id="st_redemption_4_sultan_2">
+<text>Kdo tady přišel? Bez pozdravu, hned "dej mi dokumenty". Ty jsi se snad spletl?</text>
+</string>
+<string id="st_redemption_4_sultan_3">
+<text>Barman řekl, že už s tebou má dohodu a abych přišel jenom pro ně.</text>
+</string>
+<string id="st_redemption_4_sultan_4">
+<text>Jen tak? Tak ať přijde sem a sám si je vezme. Kdo vlastně jsi?</text>
+</string>
+
+	
+	<string id="st_redemption_4_sultan_5">
+		<text>...</text>		<!-- ... -->
+	</string>
+	
+<string id="st_redemption_4_sultan_6">
+<text>No neblbni, já se bavím, tady je nuda. Měl bys teď vidět svojí tvář.\n
+\nDoklady máš tady na stole, kluci nedávno zabavili některým frajerům. No koukni, na západě se rozptýlili mutanti, budeš je muset přebít a pak se vrátíš pro svoje doklady... Pokud budu v dobré náladě.</text>
+</string>
+<string id="st_redemption_4_sultan_7">
+<text>Zase takový humor? Mám jít ty mutanty pobít holýma rukama?</text>
+</string>
+<string id="st_redemption_4_sultan_8">
+<text>Zdá se, že si dělám srandu? No dobře, dám ti alespoň nůž. Dohodli jsme se, že tě necháme projít na prohlídku, tak si to projdi. My tady máme problémy s množením mutantů, kluci nám nedají pokoj.</text>
+</string>
+<string id="st_redemption_4_sultan_9">
+<text>Barman ti nedal dost? Mysli na to, co bude výhodnější, ho teď podvést nebo ho stále dojit?</text>
+</string>
+<string id="st_redemption_4_sultan_10">
+<text>Jo, peníze dal fakt slušný... No dobře, uvidíme, jak to půjde dál.\n
+\nAle nudím se tady fakt na smrt. Co třeba něco jednoduššího, viděl jsi film Gladiátor? Máme v suterénu pár klecí a chytli jsme pár zombíků, na chvíli ti vezmeme věci, uzavřeme suterén, dáme ti nůž a pustíme tě proti nim, hehe. A potom budeme ten film všem klukům přehrávat u popcornu. Až je pozabiješ, vrátím ti věci i ten soubor, slovo chlapa.</text>
+</string>
+<string id="st_redemption_4_sultan_11_1">
+<text>... Dobře, souhlasím s bojem. Už to dokončeme.</text>
+</string>
+<string id="st_redemption_4_sultan_12_1">
+<text>Jiný rozhovor. Škoda, že nemáme tu gladiátorskou zbroj, to by byla podívaná.</text>
+</string>
+<string id="st_redemption_4_sultan_13_1">
+<text>Pojď už s těmi zombíky.</text>
+</string>
+<string id="st_redemption_4_sultan_11_2">
+<text>Co, jsem tady jako klaun v cirkusu? Nepřišel jsem sem, abych vás bavil.</text>
+</string>
+<string id="st_redemption_4_sultan_12_2">
+<text>Ej, nedělej binec tam, rozuměl jsi? Pokud nechceš, tak zmiz, dokud jsem hodný.</text>
+</string>
+
+<string id="st_redemption_4_sultan_13_2">
+<text>[Odejít]</text>
+</string>
+
+<string id="st_redemption_4_sultan_zombies_1">
+<text>Tak, vyřídil jsem tvé zombíky.</text>
+</string>
+<string id="st_redemption_4_sultan_zombies_2">
+<text>To byl záběr, hehe! Sázím, že to bylo stokrát lepší než ti kluci v baru. Paráda, pobavil jsi všechny, kluci dokonce spadli ze svých židlí.\n
+\nTvá pověření jsou na stole, zasloužil sis je. Tak je vem a můžeš klidně vypadnout.</text>
+</string>
+<string id="st_redemption_4_sultan_zombies_3">
+<text>[Odejít]</text>
+</string>
+
+<string id="st_redemption_4_sultan_news_1">
+<text>Co to je za dým? Ty, stůj u vchodu a nikoho nepouštěj dál, jdu se postarat o tyhle blbce.</text>
+</string>
+<string id="st_redemption_4_sultan_news_2">
+<text>Co jste tam dělali, zase jste usnuli s cigaretou?</text>
+</string>
+<string id="st_redemption_4_sultan_news_3">
+<text>Sultane, tady jsou dřeva v ohni!</text>
+</string>
+<string id="st_redemption_4_sultan_news_4">
+<text>Pomáhejte hasit! Hlavně ať to nespadne do sklepa.</text>
+</string>
+<string id="st_redemption_4_sultan_news_5">
+<text>Ten blbec z baru tady právě byl.</text>
+</string>
+<string id="st_redemption_4_sultan_news_6">
+<text>Najděte toho parchanta! Dejte vědět všem, ať se s ním vypořádáme.</text>
+</string>
+
+
+<string id="st_redemption_4_barman_docs_1">
+<text>Přinesl jsem dokumenty od Sakharova.</text>
+</string>
+<string id="st_redemption_4_barman_docs_2">
+<text>Věděl jsem, že to zvládneš. Vše proběhlo v pořádku?</text>
+</string>
+<string id="st_redemption_4_barman_docs_3">
+<text>Ne zcela v pořádku, ale bylo to horší. Sultan mi nepřijde zrovna spolehlivým obchodním partnerem, řekl bych.</text>
+</string>
+<string id="st_redemption_4_barman_docs_4">
+<text>Plusy takových vztahů někdy převáží rizika.\n
+\nDej mi tu svou složku, dám ti zaplacení. Počkej... Ano, vypadá to, že jsi udělal to, co Sakharov požadoval. Tak tady máš za svou práci. Pošlu to k nim, ať to tam prozkoumají.</text>
+</string>
+<string id="st_redemption_4_barman_docs_5">
+<text>Máš nějaké zprávy od Jantar?</text>
+</string>
+<string id="st_redemption_4_barman_docs_6">
+<text>Ne, je to ještě brzy na zprávy. Požádal o získání všech možných záznamů nejdříve. Ohledně toho, mám pro tebe ještě dvě zprávy od skupin stalkerů, které jsem vyslal na hledání. Jedna z nich přinesla dokumenty, které vypadají podobně jako ty tvé, ale druhá se vrátila pouze s jedním členem a špatnými zprávami.\n
+\nVe druhé skupině byli sice nováčci, ale práce by neměla být zvlášť složitá. Měli se pouze setkat s čistokrvným na Agropromu, který by jim předal dokumenty. Měli se setkat na kopci nedaleko východu k Hromadě, tam by nemělo být příliš mnoho mutantů. Ale když si to vezmeš, dokumenty jim předal, ale při sestupu z kopce na ně za bílého dne zaútočil krvopijec.</text>
+</string>
+<string id="st_redemption_4_barman_docs_7">
+<text>[pokračování...]</text>
+</string>
+<string id="st_redemption_4_barman_docs_8">
+<text>Stalker, který se vrátil, řekl, že ho krvopijec první odstrčil a on se z kopce svezl dolů. Druhý jejich kamarád stál jako přibitý strachem. Třetímu se naopak nedařilo tak dobře, potvora mu jedním úderem roztrhla hrudník a pak ho převrhla a odvlekla přes cestu jako pytel.\n
+\nStalker řekl, že mu trvalo ještě dvě minuty, než si uvědomil, co se stalo. Když se vzpamatoval, okamžitě utekl v panice. Co se stalo s druhým, zatím není jasné. Celkově ten, který měl dokumenty a byl odvlečen, bude někde poblíž v tunelu a loví tam mláďata, která se procházejí kolem.</text>
+</string>
+<string id="st_redemption_4_barman_docs_9">
+<text>[pokračování...]</text>
+</string>
+<string id="st_redemption_4_barman_docs_10">
+<text>Krvopijce je lepší obejít stranou, nevíme, kolik jich tam je. Měl jsem v plánu později organizovat silnější skupinu, ale to potrvá. Pokud chceš, mohu ti dát tuto práci a Sakharov tak dostane své záznamy rychleji. Navíc ti za toho padlého kluka dám i z vlastní kapsy, hlavně tu potvoru zabít. Tak co, souhlasíš?</text>
+</string>
+<string id="st_redemption_4_barman_docs_11_1">
+<text>Dobře, souhlasím.</text>
+</string>
+<string id="st_redemption_4_barman_docs_12_1">
+<text>Budu čekat.</text>
+</string>
+<string id="st_redemption_4_barman_docs_11_2">
+<text>Počkám raději, zdraví je cennější. Tam může být celé hnízdo těch potvor.</text>
+</string>
+<string id="st_redemption_4_barman_docs_12_2">
+<text>Rozumím, pak budeš muset čekat asi tři dny, včetně toho, kolik přibližně potrvá Sakharovovi, než to prozkoumá. Můžeš jít rovnou na Jantar, já tam pošlu všechny informace.</text>
+</string>
+<string id="st_redemption_4_barman_docs_13">
+<text>[Odejít]</text>
+</string>
+
+
+<string id="st_redemption_4_barman_agro_docs_1">
+<text>Tady máš dokumenty z Agropromu.</text>
+</string>
+<string id="st_redemption_4_barman_agro_docs_2">
+<text>Skvělé, Sakharov bude rád, že jsme našli vše, co jsme mohli. Ten nováček se ptal, jestli jsi tam viděl jeho parťáka, který tehdy zůstal?</text>
+</string>
+<string id="st_redemption_4_barman_agro_docs_3">
+<text>Byl jsem tam, oba jsou mrtví.</text>
+</string>
+<string id="st_redemption_4_barman_agro_docs_4">
+<text>To je... Hledání nebylo tak jednoduché, jak jsem očekával.\n
+\nDej mi tu svoji složku, dám ti odměnu. Sakharovovi to zatím asi postačí, ale pokud se objeví něco dalšího, tak to také pošlu. Mimochodem, řekl, že máš přijít.</text>
+</string>
+<string id="st_redemption_4_barman_agro_docs_5">
+<text>Dobře, půjdu na Jantar.</text>
+</string>
+
+<string id="st_redemption_5_sakharov_1">
+<text>Prozkoumali jste svoje dokumenty?</text>
+</string>
+<string id="st_redemption_5_sakharov_2_1">
+<text>Ano, zhruba jsme se s nimi seznámili. Barmen říkal, že jste nám hodně pomohli při jejich získávání? Děkuji vám za vaše úsilí.</text>
+</string>
+<string id="st_redemption_5_sakharov_2_2">
+<text>Mým kolegům bude potřebovat ještě jeden den, možná i méně.</text>
+</string>
+<string id="st_redemption_5_sakharov_2_3">
+<text>Během studia se zastavte za pár dní.</text>
+</string>
+<string id="st_redemption_5_sakharov_2_4">
+<text>Omlouvám se, jsem momentálně velmi zaneprázdněn. Dokumenty ještě nebyly všechny doručeny, přijďte za tři dny.</text>
+</string>
+<string id="st_redemption_5_sakharov_3">
+<text>Tak co jste zjistili?</text>
+</string>
+<string id="st_redemption_5_sakharov_4">
+<text>Zjistili jsme, že RLS je vysílač, ale ovládá se z jiného místa, stále však není jisté, odkud přesně. Samotná stanice pravděpodobně sloužila jen jako krytí, protože uvnitř jsme nenašli nic, co by mohlo být jakkoliv spojeno s tím, co je popsáno v dokumentech. A ve samotných dokumentech se o ní zmiňuje jen nepřímo, stejně jako o samotném výzkumu.\n
+\na podle muže, kterého jste přivedli, máme podezření, že úkolem tohoto vysílače bylo potlačení efektu kontroly mysli. Lidi, kteří byli pod vlivem takzvaného "vypalovače", samozřejmě nezachrání, zničení neuronové sítě je zcela jistě nevratné. Ale je schopen potlačit vložené programy v nepoškozeném mozku. Neuronální spojení v takovém mozku, i když byla přeformátována, jsou stále nedotčená. Zdá se, že vysílač byl vyvinut na případ, že by zombifikovaní, ale stále vědomí uchovávající lidé vyšli z pod kontroly.</text>
+</string>
+<string id="st_redemption_5_sakharov_5">
+<text>Tak ten stalker to přece jenom...</text>
+</string>
+<string id="st_redemption_5_sakharov_6">
+<text>Ano, teď jsem v tom zcela jistý - muž, kterého jste přivedli, byl jedním ze členů skupiny "Monolit". Ukazuje to všechno, včetně mnoha testů s novým vybavením. Jeho osobnost se postupně obnovuje, vrací se pocity a emoce z doby před zombifikací. Co se však paměti týče, je to mnohem složitější, teď si bude pamatovat pouze okamžiky po účinku zombifikace, vše, co bylo před tím, je navždy vymazáno z jeho logické paměti. Na druhou stranu, paměť strojová je téměř nedotčená.</text>
+</string>
+
+<string id="st_redemption_5_sakharov_7">
+<text>Myslím, že jsme oba o tom věděli, ale bylo mi těžké uvěřit tomu. A co kdyby si vzpomněl, jak zábavné bylo střílet na stalkerů a vyhladil by nás všechny tady?</text>
+</string>
+<string id="st_redemption_5_sakharov_8">
+<text>Nemějte strach a spolehněte se na vědu, mladý člověče. To se nestane, vyzařovač byl vyvinut špičkovými specialisty a... I když matematicky existuje malá šance.</text>
+</string>
+<string id="st_redemption_5_sakharov_9">
+<text>Nevím ani, jak to zní, jestli jako dobrá nebo špatná zpráva...</text>
+</string>
+<string id="st_redemption_5_sakharov_10">
+<text>Myslím si, že severní vstup do továrny vede na Radar a "Monolit" nakonec našel cestu přes anomální pole. Ale nebral v úvahu vyzařovač namířený na tento sektor... Nebo váš známý byl jen prvním pokusem.\n
+\nKaždopádně pro naše společné dobro nesmíme této skupině dovolit najít způsob, jak vyřadit vyzařovač z provozu.</text>
+</string>
+<string id="st_redemption_5_sakharov_11">
+<text>A jak to udělat? Druhý bariér tam můžeme nainstalovat až tehdy, ale první nám zase tak moc nepomáhá.</text>
+</string>
+<string id="st_redemption_5_sakharov_12">
+<text>Ve dokumentech jsou popsány různé režimy systému, jeden z nich je rozptýlení energie paprsku na větší poloměr. Nyní je vše, zdá se, nastaveno ve fokusovacím režimu zaměřeném pouze na sever. Měření ukázala, že energie paprsku je příliš velká pro jeho stávající úkol. Pokud budeme rozkládat energii na celém obvodu, mělo by to stačit k tomu, aby už nikdo z "Monolitu" nepokoušel proniknout na území Zóny.</text>
+</string>
+<string id="st_redemption_5_sakharov_13">
+<text>A v dokumentech není napsáno, kde přesně je střed tohoto systému?</text>
+</string>
+<string id="st_redemption_5_sakharov_14">
+<text>Potřebujeme ještě čas k důkladnému prostudování všech dokumentů, možná tam bude odpověď, ale mám pochybnosti, projekt byl přísně tajný. Pod jedním ze staveb na území Zóny moji kolegové našli železný dveře, podobné těm, které vedly do laboratoří, ale nikdy se jim nepodařilo zjistit, jak je otevřít. I když tam existuje celá síť podzemních komunikací a není známo, kam tyto dveře vedou.\n
+\nMůžeme hledat vstup, ale z toho, co jsem slyšel, již byly obsazeny mnohými jednotkami "Monolitu".</text>
+</string>
+
+<string id="st_redemption_5_sakharov_15">
+<text>Tak co dál?</text>
+</string>
+<string id="st_redemption_5_sakharov_16">
+<text>Budeme potřebovat pomoc. Barman říkal, že i Duty se stále častěji setkávají s frakcí "Monolit" poblíž svého území. Bude to také v jejich zájmu, promluvím s barmanským a sdělím mu, že přijdete, a pokusíte se s jeho pomocí přesvědčit Duty, aby nám pomohli. Omlouvám se, že vás nechám běhat sem a tam, ale tato záležitost je docela závažná, a nechci, aby to slyšel někdo jiný.\n
+\nač bylo, provedl jsem všechny možné testy s vaším stalkerem. Myslím si, že čím více vzpomínek na něj vrací z doby, kdy byl členem skupiny "Monolit", tím více ho trápí pocit viny, který se vrátil z ještě dřívějšího období.\n
+\nJe málo pravděpodobné, že by mi dal ještě nějaké užitečné informace, a sám se nabídl, aby nám pomohl. Pokud chcete, můžete ho vzít s sebou, měl by být u ohně venku. Mimochodem, jsem mu také dal jeden z našich nových kombinéz.</text>
+</string>
+<string id="st_redemption_5_sakharov_17_1">
+<text>Dobře, pokusím se promluvit s Voroninem.</text>
+</string>
+<string id="st_redemption_5_sakharov_17_2">
+<text>[Odejít]</text>
+</string>
+<string id="st_redemption_5_1_illeon_1">
+<text>Jak se cítíš?</text>
+</string>
+<string id="st_redemption_5_1_illeon_2">
+<text>Docela dobré. Nejdřív promluv s Sakharovem, vše ti vysvětlí.</text>
+</string>
+<string id="st_redemption_5_1_illeon_3">
+<text>Dobrá.</text>
+</string>
+
+
+
+<string id="st_redemption_5_2_illeon_1">
+    <text>Jak se cítíš?</text>		
+</string>
+<string id="st_redemption_5_2_illeon_2">
+    <text>Normálně asi jo. Profesor ti všechno vyprávěl?</text>		
+</string>
+<string id="st_redemption_5_2_illeon_3">
+    <text>Něco si vzpomněl?</text>		
+</string>
+<string id="st_redemption_5_2_illeon_4">
+    <text>S profesorem jsem si vzpomněl na hodně věcí... A teď bych to nejraději zapomněl. Myslím, že bys to měl taky nechat být. Rozumím, pokud nechceš moji pomoc, ale přesto bych se k vám rád přidal. Cítím, že musím napravit mnoho věcí a nést za ně zodpovědnost.</text>		
+</string>
+<string id="st_redemption_5_2_illeon_5_1">
+    <text>OK, můžeme jít společně.</text>		
+</string>
+<string id="st_redemption_5_2_illeon_5_2">
+    <text>Omlouvám se, ale nevěřím, že bych ti teď mohl důvěřovat.</text>		
+</string>
+
+
+
+<string id="st_redemption_5_voronin_1">
+    <text>Profesor Sahaarov požádal o vaši pomoc.</text>		
+</string>
+<string id="st_redemption_5_voronin_2">
+    <text>Barmanský už mi všechno řekl. Ale jak můžeme pomoci? Lidí máme málo a s každým dnem jich přibývá ještě míň. Téměř každý hlídkový oddíl, který posíláme na sever nebo na východ, narazí na oddíly Monolitu. V Průmyslové zóně už se jich usídlilo několik a neustále hlídají okolí. Moji lidé na to určitě nestačí, a nechci je posílat na jistou smrt.</text>		
+</string>
+<string id="st_redemption_5_voronin_3">
+    <text>Ale to je jediná možnost. Pokud teď nezasáhneme, bude jich v budoucnu ještě víc.</text>		
+</string>
+<string id="st_redemption_5_voronin_4">
+    <text>Jak jste vůbec přišli na to, že nějaký zařízení může zastavit jejich útoky? Podle toho, co mi Barmanský řekl, jsou všechny informace od vědců pouze domněnky. Navíc nevědí ani, kde se toto zařízení nachází.</text>		
+</string>
+<string id="st_redemption_5_voronin_5">
+    <text>My jsme již viděli, jak to na ně působí, a dosud všechny Sahaarovy předpoklady byly správné. Monolitovci se zatím dostávají na Průmyslovou zónu malými oddíly, ale pokud by se jim podařilo vypnout vysílač a otevřít severní průchod, místo několika oddílů by tam byla celá armáda.</text>		
+</string>
+<string id="st_redemption_5_voronin_6">
+    <text>I kdybychom se na to rozhodli, tak jak jsem řekl, nemám dost lidí.</text>		
+</string>
+<string id="st_redemption_5_voronin_7">
+    <text>Můžeme požádat o lidi u Svobodovců, pro ně je to důležitější než pro vás.</text>	
+</string>
+<string id="st_redemption_5_voronin_8">
+    <text>Nechejte ty fanatiky, ať je všechny pobijí. Já budu rád.</text>		
+</string>
+<string id="st_redemption_5_voronin_9">
+    <text>Po jejich vyhubení si myslíte, že kdo bude následujícím cílem? I teď se z Báru těžko dostanete. Navrhuji pouze dočasnou dohodu.</text>		
+</string>
+<string id="st_redemption_5_voronin_10">
+    <text>My... Dám si na to chvíli myslet...\n\nNedávno napadli naši průzkumnou skupinu na Skladech. Jednoho našeho zabili, druhého zranili a poslednímu se podařilo utéct a nahlásit to. Raněného pravděpodobně zajali, jsem ochoten s nimi jednat, ale pouze pokud mi vydají toho vojáka. Pokud chcete, můžete se s nimi pokusit domluvit.</text>		
+</string>
+<string id="st_redemption_5_voronin_11">
+    <text>Bude to asi nevyhnutelné.</text>		
+</string>
+
+
+
+<string id="st_redemption_5_lukash_1">
+    <text>Slyšeli jste o Promzóně?</text>		
+</string>
+<string id="st_redemption_5_lukash_2">
+    <text>Co přesně? Nemusíme nic slyšet, všechno vidíme sami. Fanatici se tam valí ze všech směrů a střílejí na cokoli, co se hýbe. Předtím procházeli Rudým lesem, ale byly to spíš malé průzkumné skupiny pro útok na Bariéru, protože tam je příliš mnoho mutantů a anomálií. S velkými oddíly je pro ně mnohem snazší jít ze Radaru. Teď se tam dostávají stejně malými skupinami, ale mnohem častěji. Nemám dost lidí na to, abych mohl udržet kontrolu nad celým územím neustále, a přibývá raněných každý den. Nevím, kolik jich už na Promzóně je, ale myslím, že jich tam je hodně.</text>		
+</string>
+<string id="st_redemption_5_lukash_3">
+    <text>Sahaarov si myslí, že v Promzóně je vysílač, který jim nedovolí jít tam přímo ze Radaru, i když Monolit má průchod, který zná jen oni. Vysílač působí pouze na zombifikované lidi, na normální stalkery to nemá žádný vliv. Pokud by vypnuli toto zařízení, mohli by volně projít na jih velkými skupinami.</text>		
+</string>
+<string id="st_redemption_5_lukash_4">
+    <text>Vysílač proti fanatickým stalkerům? Jakoby naopak k Vyžírači? To zní užitečně. Právě jsme našli plány celé továrny, včetně podzemních tunelů, když tam nebylo tolik těch šílenců.</text>		
+</string>
+<string id="st_redemption_5_lukash_5">
+    <text>A kde je popsáno, jak se tam dostat?</text>		
+</string>
+<string id="st_redemption_5_lukash_6">
+    <text>Je to všechno tady. Vstupy a výstupy, jsou tu i dva vchody do bunkru, ale plán samotného bunkru nemám. Co je uvnitř, není jasné. Chtěl jsi něco navrhnout?</text>		
+</string>
+<string id="st_redemption_5_lukash_7">
+    <text>Ano, někdo by se musel dostat do tohoto bunkru a přenastavit vysílač tak, aby pokrýval celou Promzónu.</text>		
+</string>
+<string id="st_redemption_5_lukash_8">
+    <text>A vy s těmi vědci víte, jak to udělat? No díky za sdílení plánů, hodně štěstí tam.</text>		
+</string>
+<string id="st_redemption_5_lukash_9">
+    <text>Brzy už nebude čas na žertování, pokud to nikdo neudělá. Zeptal jsem se Dlouhodobých, ale na to nemají dost lidí. Jsou ochotni na dohodu na čas, pokud souhlasíte s pomocí... A vrátíte jim jejich zajatce.</text>		
+</string>
+<string id="st_redemption_5_lukash_10">
+    <text>A ty jsi taky legráckář, že? Proč bychom se měli vystavovat riziku, zejména kvůli těmto idealistům? Pro nás jsou fanatici stejně jako oni.</text>		
+</string>
+<string id="st_redemption_5_lukash_11">
+    <text>S těmi aspoň lze jednat. Pokud Monolit začnou procházet celými skupinami ze Radaru, myslíš si, že půjdou na jih a na vás zapomenou? Budete obklíčeni a s nimi už se nedohodnete, to je jasné, a nemyslím, že máte dost lidí na další bariéry.</text>		
+</string>
+<string id="st_redemption_5_lukash_12">
+    <text>No, nevím... Na dobu možná, ale stále nemůžeme pomoci, dokud nemáme zajištěnou dostatečnou zásobu zbraní. Cestu od žoldáků teď blokují mutanti, a mám všechny zaneprázdněné v hlídkách.\n\nPokud dokážeš zničit hnízdo mutantů v Temném lese u jezera, kteří stále napadají naše lidi a nedovolují jim setkat se s žoldáky, potom bychom mohli mluvit.</text>	
+</string>
+<string id="st_redemption_5_lukash_13">
+    <text>Dobře, udělám to.</text>		
+</string>
+
+
+
+<string id="st_redemption_5_lukash_14">
+    <text>Zabil jsem ty vaše mutanty.</text>		
+</string>
+<string id="st_redemption_5_lukash_15">
+    <text>Ach, konečně nějaké dobré zprávy v těchto časech. No, tak mi teď pověz, co jsi chtěl říct.</text>		
+</string>
+<string id="st_redemption_5_lukash_16">
+    <text>My vrátíme dlouhodovcům jejich bojovníka, potom se setkáme a domluvíme se, jak porazit fanatiky. Po tom všechno znovu nastavíme na starou kolej.</text>		
+</string>
+<string id="st_redemption_5_lukash_17">
+    <text>Na slova je to snadné, ale nevím, zda se jim dá důvěřovat. Navíc nevíme, kolik těch šílenců teď je na Promzóně, protože jsme je nepočítali, jak běhali kolem. Ale setkáme se s nimi a uvidíme.\n\nŘekni jim, aby přišli na chalupu, já pošlu jednoho z mých nejzkušenějších lidí, aby s nimi promluvil. Zatím budeme čistit oblast, abychom se nevystřelili navzájem při náhlém pohybu. Teď je můžu odvést.</text>		
+</string>
+<string id="st_redemption_5_lukash_18">
+    <text>Dobře, řeknu jim to.</text>		
+</string>
+
+<string id="st_redemption_5_voronin_12">
+    <text>Přivedl jsem vašeho bojovníka.</text>		
+</string>
+<string id="st_redemption_5_voronin_13">
+    <text>Nečekal jsem, že ještě žije, díky. Co řekli?</text>		
+</string>
+<string id="st_redemption_5_voronin_14">
+    <text>Řekli, že jsou připraveni se setkat a projednat situaci na chalupě.</text>		
+</string>
+<string id="st_redemption_5_voronin_15">
+    <text>V blízkosti jejich základny, aby nás bylo snazší přepadnout? Dobře, můj kapitán nyní hlídá Divokou oblast, já mu dám vědět, ať jde na Sklady, ale za podmínky, že půjdeš také. Pokud se mu něco stane, budeš za to zodpovědný.</text>		
+</string>
+<string id="st_redemption_5_voronin_16">
+    <text>Rozumím.</text>		
+</string>
+
+<string id="st_redemption_5_freedom_cap_1">
+    <text>Tak tady jsi konečně.\n
+    \nTakže poslouchejte, tady jsem vymyslel pár nápadů. Podle plánu továrních budov je vstup do laboratoře na východní straně. Fanatici jsou rozmístěni po celém obvodu, ale zejména na východní straně. Rozdělíme se na dvě skupiny, první zaútočí hlavním vchodem a pokusí se přilákat co nejvíce monolitovců z východní části. Druhá skupina se bude probíjet skrz díru ve východním plotu.</text>		
+</string>
+<string id="st_redemption_5_freedom_cap_2">
+    <text>Saharov říkal, že dveře nelze otevřít. Jak se tam dostaneme?</text>		
+</string>
+<string id="st_redemption_5_freedom_cap_3">
+    <text>Tyto dveře se otevírají pouze zevnitř, ale existuje ještě jeden vstup přes bunkr na samém dně, který se nachází nad laboratoří. Na konci dolní chodby je ventilace, vstup do bunkru by měl být za ní.</text>		
+</string>
+<string id="st_redemption_5_freedom_cap_4">
+    <text>To zní tak trochu divně, ale pokud nemáme nic lepšího...</text>		
+</string>
+<string id="st_redemption_5_freedom_cap_5">
+    <text>Podle mého je to skvělý plán. No nic, myslím, že jsme hotovi, dejte vědět, až se sejdeme.</text>		
+</string>
+<string id="st_redemption_5_freedom_cap_6">
+    <text>Dobře, dáme vědět.</text>		
+</string>
+
+<string id="st_redemption_5_duty_cap_1">
+    <text>Zdá se, že by to mohlo fungovat, předám to Voroninovi. Dej vědět Barmanovi, až budeš připraven, on se spojí se Saharovem.</text>		
+</string>
+<string id="st_redemption_5_duty_cap_2">
+    <text>Rozumím.</text>		
+</string>
+
+
+<string id="st_redemption_5_barman_1">
+    <text>Předej Saharovovi, že se Dutá a Svoboda rozhodli pomoci.</text>
+</string>
+<string id="st_redemption_5_barman_2">
+    <text>Již jsem se spojil, požádal tě, abys mu předal malý návod na nastavení vysílače.</text>
+</string>
+<string id="st_redemption_5_barman_3">
+    <text>Počkej, já? A co jeho vědci?</text>
+</string>
+<string id="st_redemption_5_barman_4">
+    <text>Má především najaté stráže, schopné odrazit nájezdníky a střílet na malé mutace. Pokud vím, tak tam bude dost horko, takže se na obranu pevností nepřipravovali. A samotní vědci buď nepůjdou s vámi do střelby, nebo utečou hned při první příležitosti.\n
+    \nSaharov řekl, že už znáš zásady fungování zařízení v obecných rysech. Také mi dal vědět, že to není složité, stačí pár pák potáhnout.</text>
+</string>
+<string id="st_redemption_5_barman_5">
+    <text>Ach... No dobře, řekni mi, co mám dělat.</text>
+</string>
+<string id="st_redemption_5_barman_6">
+    <text>Takže celkem jednoduché. Jakmile se dostaneš dovnitř a najdeš samotné zařízení, měly by tam být dvě kabiny, jsou výše než všechny ostatní. Nejdřív budeš muset potáhnout páku v obou. Potom se přesunuješ k řídicímu centru, který by měl být poblíž, a na jedné z panelů by měla být poslední páka. To je vše, co potřebuješ pro změnu režimu. Nezdá se to složité.\n
+    \nSaharov také dodal, že podle jejich výpočtů by po náhlém nárůstu něčeho tam všichni monolitovci v okolí měli padnout mrtví, nebo jim to rozloží střechu. Takže až si poradíš s vysílačem, můžeš klidně vylézt ven.\n
+    \nJeště něco. Požádali nás také, abychom ve laboratoři hledali všechno, co souvisí s vysílačem. Pokud to najdeš, přines to Saharovovi, je ochoten zaplatit za každou věc.</text>
+</string>
+<string id="st_redemption_5_barman_7">
+    <text>Jestli se nám vůbec podaří dostat tam.</text>
+</string>
+<string id="st_redemption_5_barman_8">
+    <text>Dej vědět, až budeš připraven, napíšu všem, aby vyrazili.</text>
+</string>
+<string id="st_redemption_5_barman_9_1">
+    <text>Jsem připraven k akci hned teď, napiš všem.</text>
+</string>
+<string id="st_redemption_5_barman_9_2">
+    <text>Dám vědět, až budu připraven.</text>
+</string>
+
+
+<string id="st_redemption_6_freedom_1">
+    <text>Tak co tam?</text>
+</string>
+<string id="st_redemption_6_freedom_2">
+    <text>Přišli jsme sem teprve nedávno. Udělali jsme si rychlý průzkum, zdá se, že začínají posilovat svoje pozice. Teď pošleme zprávu Dutým, aby zaútočili. Jakmile uslyšíme střelbu, někteří fanatikové by měli běžet k nim, a my začneme také.\n
+    \nTakže, znovu. Jakmile dojdeme k budově za rohem, okamžitě sestoupíme do vstupní šachty. Hlavní vchod je již zabezpečen, my zde zůstaneme a budeme kryt. Poté půjdeme podél chodby k hlavnímu schodištnímu průlezu, potom jdete dolů a k větrání. Až si poradíš s vysílačem, vyjdeš ven hlavním vchodem, nemusíš znovu jít do bunkru.\n
+    \nOčekávám, že monolitovci budou běhat po celé oblasti, a jakmile zjistí o našem útoku, začnou se stahovat z různých směrů. Pokusíme se je držet zpátky co nejdéle.</text>
+</string>
+<string id="st_redemption_6_freedom_3">
+    <text>Rozumím.</text>
+</string>
+
+	<string id="st_redemption_6_stalker_1">
+		<text>Oh, zabil jsi ty Upíry v Agropromu? </text> 
+	</string>
+	<string id="st_redemption_6_stalker_2">
+		<text>Ano, a já...</text>
+	</string>
+	<string id="st_redemption_6_stalker_3">
+		<text>Jsem stalker, který byl v té skupině. Barman mi řekl, že jsi našel jejich těla...\n
+		\nPoté jsem se dal na flám. Pak jsem slyšel rozhovory v Baru o tom, jak jsou všichni v háji kvůli Monolitům. Zeptal jsem se Barmana, on mi to stručně vysvětlil a já ho poprosil, aby se přidal. Třeba teď budu moci pro všechny udělat něco užitečného, Barman mi dokonce našel starý oblek.</text>
+	</string>
+	<string id="st_redemption_6_stalker_4">
+		<text>Pro nováčky to tu bude nebezpečné, ale každá pomoc se bude hodit.</text> 
+	</string>
+
+
+
+<string id="st_redemption_6_freedom_news">
+    <text>Jsme na místě, ten vstupní šachta je vpravo od budovy. Jdi, budeme tě pokrývat, jak jen to půjde.</text>
+</string>
+
+<string id="st_redemption_6_vakhar_1">
+    <text>Zabijte všechny, koho vidíte.</text>
+</string>
+<string id="st_redemption_6_vakhar_2">
+    <text>I zrádce je zde! Zabijte ho jako prvního!</text>
+</string>
+
+<string id="st_redemption_6_duty_freedom_news">
+    <text>Stalkeru, povedlo se ti! Podívej, fanatikové padají mrtví nebo ztrácí rozum.</text>
+</string>
+
+<string id="st_redemption_6_sakharov_1">
+    <text>Zdá se, že jsem přeřídil Zónový vysílač.</text>
+</string>
+<string id="st_redemption_6_sakharov_2">
+    <text>Podařilo se vám to nakonec? To jsou skvělé zprávy!\n
+    \nJistě jste vykonali obrovskou službu všem lidem a nám zvláště. Tady, vezměte to, zasloužili jste si to. Barman mi řekl, že pokud jste ještě nezavítali ke vůdcům frakcí Dutý a Svoboda, tak jsou také ochotni vás odměnit materiálně.</text>
+</string>
+<string id="st_redemption_6_sakharov_3">
+    <text>Děkuji, a co teď?</text>
+</string>
+<string id="st_redemption_6_sakharov_4">
+    <text>Nyní budeme mít čas zkoumat dokumenty a samotný vysílač Zóny důkladněji. Možná najdeme něco zajímavého týkající se všeho toho. Prozatím je to vše.</text>
+</string>
+<string id="st_redemption_6_sakharov_5">
+    <text>Rozumím. Takže zatím na shledanou.</text>
+</string>
+
+
+	<string id="st_redemption_finish_voronin_1">
+		<text>Bylo mi řečeno, že jste chtěl probrat něco ohledně Promzony? </text> <!-- Co jste chtěl -->
+	</string>
+	<string id="st_redemption_finish_voronin_2">
+		<text>Slyšel jsem, že ten boj byl tvrdý, ani nevím, s čím sis musel uvnitř těch bunkrů potýkat. Ale jsem rád, že jsi to zvládl... Doufám, že teď už bude všechno jako dřív.\n
+		\nPoprosil jsem Petřenka, aby pro tebe něco vyzvedl, vezmi si tohle.</text> <!-- odměna -->
+	</string>
+	<string id="st_redemption_finish_voronin_3">
+		<text>Děkuji.</text> 
+	</string>
+
+
+
+<string id="st_redemption_finish_lukash_1">
+    <text>Kámo, udělali jsme to! Teď budou fanatici jako obvykle narážet na naše obranné pozice, kde je aspoň můžeme zastavit.\n
+    \nTady, připravili jsme pro tebe něco.</text>
+</string>
+<string id="st_redemption_finish_lukash_2">
+    <text>Děkuji.</text>
+</string>
+
+<string id="st_redemption_finish_sakharov_1">
+    <text>Nalezl jsem některé věci v laboratoři Zóny.</text>
+</string>
+<string id="st_redemption_finish_sakharov_2">
+    <text>Tak, pojďme se na to podívat... Ano... To je zajímavé.\n
+    \nTohle se nám bude hodit, díky, tady jsou vaše peníze.</text>
+</string>
+<string id="st_redemption_finish_sakharov_3">
+    <text>Děkuji.</text>
+</string>
+
+<string id="st_redemption_finish_sakharov_41">
+    <text>Podařilo se ti shromáždit dostatek informací.\n
+    \nZde je speciální odměna za tvé úsilí.</text>		<!-- všechno sesbíráno -->
+</string>
+<string id="st_redemption_finish_sakharov_42">
+    <text>Budeme potřebovat více předmětů s informacemi, přines nám vše, co jsi mohl najít.</text>		<!-- nesbíráno všechno -->
+</string>
+<string id="st_redemption_finish_sakharov_51">
+    <text>Tohle bude užitečné, díky znovu.</text>		<!-- díky -->
+</string>
+<string id="st_redemption_finish_sakharov_52">
+    <text>Dobře, sbohem.</text>		<!-- sbohem -->
+</string>
+
+
+<string id="st_redemption_end_illeon_join">
+    <text>Pojď se mnou.</text>
+</string>
+
+
+</string_table>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<string id="st_pba_sacrifice">
+	<text>obětování</text>
+</string>
+
+<string id="st_pba_transmutate">
+	<text>transmutace</text>
+</string>
+
+<string id="st_pba_engage">
+	<text>zapojit se</text>
+</string>
+
+<string id="st_pba_teleport_choose">
+	<text>Vyberte bod teleportace. Kliknutím levým tlačítkem teleportujte, stisknutím klávesy Escape zrušíte</text>
+</string>
+
+<string id="st_pba_teleport_cooldown">
+	<text>Teleportace je na dobu chlazení</text>
+</string>
+
+<string id="st_pba_dragon_eye_engage">
+	<text>Ukazujte artefaktem. Kliknutím pravým tlačítkem skočte, kliknutím levým tlačítkem se vybuchne, stisknutím klávesy Escape zrušíte</text>
+</string>
+
+<string id="st_af_lucifer_name">
+	<text>Lucifer</text>
+</string>
+
+<string id="st_af_lucifer_descr">
+	<text>
+		Uzavřeli jste Pakt se Zónou. Jste odměněni úžasnými schopnostmi výměnou za svou životní sílu. Abyste předešli svému skonu a prodloužili svou existenci, dostanete možnost obětovat bohatství jiných částí Zóny. Kvalita oběti má význam, protože budete adekvátně odměněni. Neleníte a pamatujte si - tiká hodiny.\n \n
+		%c[0,209,172,56]PERK: %c[d_orange]Luciferův efekt\n 
+		%c[0,81,63,22]  • %c[0,209,172,56]Lucifer vám poskytuje obrovskou sílu a schopnosti, čímž vás činí polobohem\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Při maximálním stavu dostanete:\n
+		%c[0,192,71,221] -   50%%c[ui_gray_3] snížení jakéhokoli poškození\n
+		%c[0,192,71,221] -   35%%c[ui_gray_3] zvýšení rychlosti\n
+		%c[0,192,71,221] -   1%/s%c[ui_gray_3] regeneraci zdraví\n
+		%c[0,192,71,221] -   3%/s%c[ui_gray_3] regeneraci psy\n
+		%c[0,192,71,221] -   +50kg%c[ui_gray_3] nosnosti\n \n
+		%c[0,81,63,22]  • %c[0,209,172,56]Lucifer vždy funguje i z batohu\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Nicméně vaše schopnosti jsou velmi krátkodobé (přibližně 4 dny) a vyčerpávají energii artefaktu\n
+		%c[0,81,63,22]  • %c[0,209,172,56]S každým % ztráty energie budou vaše schopnosti slabší\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Při 50% nemáte žádné schopnosti\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Pod 50% artefakt začne spotřebovávat vaši duši, což se projeví nejprve mírnou ztrátou vytrvalosti\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Pod 40% vaše zdraví začne mizet, nejprve pomalu, poté se ztrátou stavu rychleji narůstá\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Můžete obětovat běžné artefakty, abyste částečně obnovili stav Lucifera\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Artefakty 1. úrovně obnovují 3-5%\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Artefakty 2. úrovně obnovují 6-9%\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Artefakty 3. úrovně obnovují 10-13%\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Knot artefakty navíc obnovují 20-30%\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Seraphim nelze obětovat\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Smrtící lampa přebije artefakt, obnoví jej na 100% a dočasně jej ještě víc posílí\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Existuje malá šance, že přebití pomocí smrtící lampy vás roztrhne\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Nemůžete se artefaktu zbavit žádným způsobem\n
+		%c[0,81,63,22]  • %c[0,209,172,56
+
+        Lucifer má neznámý vliv na ostatní artefakty, zvyšující jejich účinky různými způsoby\n
+		%c[0,81,63,22]  • %c[0,209,172,56]Najděte více artefaktů pro obnovu stavu Lucifera nebo se snažte čelit následkům.
+	</text>
+</string>
+
+</string_table>

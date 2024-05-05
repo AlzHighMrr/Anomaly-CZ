@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+	<!-- Mortal Hřích Task 1 -->
+<string id="lttz_ms_start_title">   
+    <text>Smrtelný hřích: Tajemný vyslanec</text>
+</string>
+
+
+<string id="lttz_ms_start_dolg_descr">
+    <text>Generál Voronin chce, abys vyslechl tajemného vyslance, který obtěžuje stalkery v baru 100 rads.</text>
+</string>
+<string id="lttz_ms_start_dolg_descr_talk">
+    <text>Získal jsi od vyslance několik užitečných informací. Podejte zprávu generálu Voroninovi.</text>
+</string>
+<string id="lttz_ms_start_dolg_descr_kill">
+    <text>Získal jsi nějaké užitečné informace a zabil jsi tajemného vyslance. Podejte zprávu generálu Voroninovi.</text>
+</string>
+
+<string id="lttz_ms_start_killer_descr">
+    <text>Dushman chce, abys vyslechl tajemného vyslance, který obtěžuje zoláky v základně Mrtvé město.</text>
+</string>
+<string id="lttz_ms_start_killer_descr_talk">
+    <text>Získal jsi od vyslance několik užitečných informací. Podej zprávu Dushmanovi.</text>
+</string>
+<string id="lttz_ms_start_killer_descr_kill">
+    <text>Získal jsi nějaké užitečné informace a zabil jsi tajemného vyslance. Podej zprávu Dushmanovi.</text>
+</string>
+
+<string id="lttz_ms_start_stalker_descr">
+    <text>Sidorovič chce, abys vyslechl tajemného vyslance, který obtěžuje stalkery ve vesnici nováčků.</text>
+</string>
+<string id="lttz_ms_start_stalker_descr_talk">
+    <text>Získal jsi od vyslance několik užitečných informací. Podejte zprávu Sidorovičovi.</text>
+</string>
+<string id="lttz_ms_start_stalker_descr_kill">
+    <text>Získal jsi nějaké užitečné informace a zabil jsi tajemného vyslance. Podej zprávu Sidorovičovi.</text>
+</string>
+
+<string id="lttz_ms_start_csky_descr">
+    <text>Studený chce, abys vyslechl tajemného vyslance, který obtěžuje stalkery ve Skryté základně.</text>
+</string>
+<string id="lttz_ms_start_csky_descr_talk">
+    <text>Získal jsi od vyslance několik užitečných informací. Podej zprávu Mrazové.</text>
+</string>
+<string id="lttz_ms_start_csky_descr_kill">
+    <text>Získal jsi nějaké užitečné informace a zabil jsi tajemného vyslance. Podejte zprávu Mrazov.</text>
+</string>
+
+<string id="lttz_ms_start_freedom_descr">
+    <text>Lukáš chce, abys vyslechl tajemného vyslance, který obtěžuje stalkery v sídle Svobody.</text>
+</string>
+<string id="lttz_ms_start_freedom_descr_talk">
+    <text>Získal jsi od vyslance několik užitečných informací. Podej zprávu Lukášovi.</text>
+</string>
+<string id="lttz_ms_start_freedom_descr_kill">
+    <text>Získal jsi nějaké užitečné informace a zabil jsi tajemného vyslance. Podej zprávu Lukášovi.</text>
+</string>
+
+	
+<string id="lttz_ms_start_ecolog_descr">
+    <text>Profesor Sacharov chce, abys vyslechl záhadného vyslance, který obtěžuje stráže poblíž laboratoře mobilního bunkru.</text>
+</string>
+<string id="lttz_ms_start_ecolog_descr_talk">
+    <text>Získal jsi od vyslance několik užitečných informací. Podejte zprávu profesoru Sacharovovi.</text>
+</string>
+<string id="lttz_ms_start_ecolog_descr_kill">
+    <text>Získal jsi užitečné informace a zabil jsi tajemného vyslance. Podejte zprávu profesoru Sacharovovi.</text>
+</string>
+
+<string id="vodnik_notes_name">
+    <text>Vodníkovy poznámky</text>
+</string>
+<string id="vodnik_notes_desc">
+    <text>"Mnozí se přidali k naší věci, ať už od začátku chápali velikolepost Zóny, nebo potřebovali nějaké vysvětlení. Závidím Zakladatelům; stvořili je sami Mistři, mohli být svědky zrození Vyraje! Ale oni nás očistili, usoudili, že jsme toho hodni, a očistí i naše nové bratry. Společně rozšíříme slovo po celém světě."</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 2 -->
+<string id="lttz_ms_red_forester_title">
+    <text>Smrtelný hřích: Rudý Lesník</text>
+</string>
+<string id="lttz_ms_red_forester_descr">
+    <text>Promluv si s Lesníkem o možné aktivitě Sinu probíhající v Rudém lese.</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 3 -->
+<string id="lttz_ms_red_forest_attackers_title">
+    <text>Smrtelný hřích: Rudí lesní strašáci</text>
+</string>
+<string id="lttz_ms_red_forest_attackers_descr">
+    <text>Lesník vydedukoval, kde se mohli utábořit tajemní temní stalkeři, které vyšetřuješ. Postav se jim čelem.</text>
+</string>
+<string id="lttz_ms_red_forest_attackers_descr2">
+    <text>Prohledej těla a zjisti všechny užitečné informace.</text>
+</string>
+
+<string id="attackers_pda_name">
+    <text>PDA velitele útočné jednotky</text>
+</string>
+<string id="attackers_pda_desc">
+    <text>Toto PDA patřil veliteli družstva. Obsahuje mapu Rudého lesa se sadou označených míst, mezi nimiž je i jedno neoznačené. Zdá se, že družstvo někoho pronásledovalo a že bylo velmi blízko k jeho nalezení. Je tam také spousta dalších zašifrovaných údajů; mohly by být cenné.</text>
+</string>
+
+
+	<!-- Smrtelny hrich Ukol 4 -->
+<string id="lttz_ms_runaway_title">
+    <text>Smrtelný hřích: Uprchlík</text>
+</string>
+<string id="lttz_ms_runaway_descr">
+    <text>Hřích někoho pronásledovali. Jako další měli zkontrolovat doly na západě. Jdi to prozkoumat místo nich.</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 5 -->
+<string id="lttz_ms_needle_haystack_title">
+    <text>Smrtelný hřích: Jehla v kupce sena</text>
+</string>
+<string id="lttz_ms_needle_haystack_descr">
+    <text>Stitch potřebuje své hackerské zařízení pro důležitý úkol. Získej předmět z jednoho z vraků autobusu uprostřed hřbitova nákladních aut. Frekvence byla 171 MHz</text>
+</string>
+<string id="lttz_ms_return_stitch_descr">
+    <text>Nalezl jsi hackerské zařízení. Přines ho zpět Stitchovi.</text>
+</string>
+
+<string id="stitch_decoder_name">
+    <text>Dekodér Stitche</text>
+</string>
+<string id="stitch_decoder_desc">
+    <text>Toto poněkud zastaralé hackerské zařízení patří Stitchovi. Mělo by být kompatibilní se stejně zastaralými kusy technologie roztroušenými po Zóně.</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 6 -->
+<string id="lttz_ms_report_title">
+    <text>Smrtelný hřích: Situační zpráva</text>
+</string>
+<string id="lttz_ms_report_dolg_descr">
+    <text>Podle Stitche připravuje Hřích rozsáhlou kampaň. Podej zprávu o svých zjištěních generálu Voroninovi.</text>
+</string>
+<string id="lttz_ms_report_killer_descr">
+    <text>Podle Stitche připravuje Hřích rozsáhlé tažení. Nahlas svá zjištění Dushmanovi.</text>
+</string>
+<string id="lttz_ms_report_stalker_descr">
+    <text>Podle Stitche připravuje Hřích rozsáhlé tažení. Nahlas své zjištění Sidorovičovi.</text>
+</string>
+<string id="lttz_ms_report_csky_descr">
+    <text>Podle Stitche připravuje Hřích rozsáhlé tažení. Nahlas svá zjištění Mrázovy.</text>
+</string>
+<string id="lttz_ms_report_freedom_descr">
+    <text>Podle Stitche připravuje Hřích rozsáhlé tažení. Nahlas svá zjištění Lukašovy.</text>
+</string>
+<string id="lttz_ms_report_ecolog_descr">
+    <text>Podle Stitche připravuje Hřích rozsáhlou kampaň. Nahlas svá zjištění profesoru Sacharovovy.</text>
+</string>
+
+	
+
+	<!-- Mortal Hřích Task 7 -->
+<string id="lttz_ms_ambush_title">
+    <text>Smrtelný hřích: Přepadení</text>
+</string>
+<string id="lttz_ms_ambush_dolg_descr">
+    <text>Síly Hříchu vpadly do Baru. Musíš je odrazit.</text>
+</string>
+<string id="lttz_ms_ambush_dolg_done_descr">
+    <text>Odrazili jste nepřátelský útok. Hlašte se u generála Voronina.</text>
+</string>
+<string id="lttz_ms_ambush_killer_descr">
+    <text>Síly Hříchu napadly Mrtvé město. Musíš je odrazit.</text>
+</string>
+<string id="lttz_ms_ambush_killer_done_descr">
+    <text>Odrazil jsi nepřátelský útok. Hlašte se u Dushmana.</text>
+</string>
+<string id="lttz_ms_ambush_stalker_descr">
+    <text>Síly Hříchu napadly vesnici nováčků. Musíš je odrazit.</text>
+</string>
+<string id="lttz_ms_ambush_stalker_done_descr">
+    <text>Odrazili jste nepřátelský útok. Hlašte se u Sidorovice.</text>
+</string>
+<string id="lttz_ms_ambush_csky_descr">
+    <text>Síly Hříchu napadly Rybářský hamr. Musíš je odrazit.</text>
+</string>
+<string id="lttz_ms_ambush_csky_done_descr">
+    <text>Odrazili jste nepřátelský útok. Hlašte se u Mraze.</text>
+</string>
+<string id="lttz_ms_ambush_freedom_descr">
+    <text>Síly Hříchu napadly velitelství. Musíš je odrazit.</text>
+</string>
+<string id="lttz_ms_ambush_freedom_done_descr">
+    <text>Odrazili jste nepřátelský útok. Hlašte se u Lukáše.</text>
+</string>
+<string id="lttz_ms_ambush_ecolog_descr">
+    <text>Síly Hříchu útočí na mobilní bunkr. Musíš je odrazit.</text>
+</string>
+<string id="lttz_ms_ambush_ecolog_done_descr">
+    <text>Odrazil jsi nepřátelský útok. Podej zprávu profesoru Sacharovovi.</text>
+</string>
+
+<!-- Mortal Hřích Task -->
+<string id="lttz_ms_dark_crusade_title">
+    <text>Smrtelný hřích: Temná křížová výprava</text>
+</string>
+<string id="lttz_ms_dark_crusade_descr">
+    <text>Hřích představuje pro celou komunitu stalkerů značnou hrozbu. Udělej, co můžeš, aby sis je zastavil.</text>
+</string>
+<string id="lttz_ms_dark_crusade_descr2">
+    <text>Chernobog plánuje rozšířit Zónu tak, aby se rozprostírala po celém světě. Je třeba ho zastavit.</text>
+</string>
+
+	
+
+	<!-- Smrtelny hrich Ukol 8 -->
+<string id="lttz_ms_preemptive_strike_title">
+    <text>Smrtelný hřích: Preemptivní úder</text>
+</string>
+<string id="lttz_ms_protect_miracle_machine_descr">
+    <text>Hřích se pokusí znovu aktivovat Zázračný stroj. Zabij strážní oddíl u vchodu do laboratoře.</text>
+</string>
+<string id="lttz_ms_protect_miracle_machine_descr2">
+    <text>Hřích se pokusí znovu aktivovat Zázračný stroj. Sestupte do laboratoře a zabijte všechny nepřátele, na které narazíte.</text>
+</string>
+<string id="lttz_ms_protect_miracle_machine_descr3">
+    <text>Hřích se pokusí znovu aktivovat Zázračný stroj. Zabraň úspěchu posledního oddílu.</text>
+</string>
+
+<string id="lttz_ms_protect_brain_scorcher_descr">
+    <text>Hřích se pokouší znovu aktivovat Vypalovač mozku. Vydejte se k radaru a zlikvidujte všechny nepřátelské síly, aby jste mu v tom zabránili.</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 9 -->
+<string id="lttz_ms_to_war_title">
+    <text>Smrtelný hřích: Do války</text>
+</string>
+<string id="lttz_ms_to_war_descr">
+    <text>Po jejich neúspěchu při reaktivaci psy-instalace vyhlásil Hřích otevřenou válku. Vydej se do Limansku, abys kontaktoval Rogue a vytvořil jednotnou frontu.</text>
+</string>
+
+<!-- Mortal Hřích Task 10 -->
+<string id="lttz_ms_urban_warfare_title">
+    <text>Smrtelný hřích: Městská válka</text>
+</string>
+<string id="lttz_ms_urban_warfare_descr">
+    <text>Sinské síly obsadily většinu Limansku. Zavražděním jejich vedení je rozvrátíš.</text>
+</string>
+<string id="lttz_ms_urban_warfare_descr2">
+    <text>Přemohl jsi Sinské kastigátory. Ohlaste svůj úspěch Rogueovi.</text>
+</string>
+
+<string id="drekavac_notes_name">
+    <text>Drekavacovy poznámky</text>
+</string>
+<string id="drekavac_notes_desc">
+    <text>"Konečně, po několika letech náročných příprav, můžeme pokračovat v Mistrově plánu. Je politováníhodné, že nám tolik lidí nevěří, ale někdy slova nestačí. Jsou zaslepení přízemními lidskými touhami. Pokud budou trvat na tom, že budou pokračovat ve svém násilnickém jednání, budeme s nimi jednat násilím. Možná pak pochopí. Vyrajovo semínko vzkvétá a já jsem tady, abych šířil ráj dál a dál. Já jsem hrot kopí."</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 11 -->
+<string id="lttz_ms_war_prisoner_title">
+    <text>Smrtelný hřích: Válečný zajatec</text>
+</string>
+<string id="lttz_ms_war_prisoner_descr">
+    <text>Rogovi se podařilo zajmout člena Sinu. Vyslechni ho a získej užitečné informace.</text>
+</string>
+
+	
+
+	<!-- Mortal Hřích ukol 12 -->
+<string id="lttz_ms_contact_lost_title">
+    <text>Smrtelný hřích: Ztracený kontakt</text>
+</string>
+<string id="lttz_ms_contact_lost_descr">
+    <text>Zvedný tým vyslaný Rogue se nevrátil ze své mise. Prošetřete situaci.</text>
+</string>
+<string id="lttz_ms_contact_lost_descr2">
+    <text>Podařilo se vám získat nějaké informace od týmu. Vraťte se k Tulakovi.</text>
+</string>
+
+<string id="contact_lost_pda_name">
+    <text>PDA vedoucího průzkumného týmu</text>
+</string>
+<string id="contact_lost_pda_desc">
+    <text>Tento PDA patřil vedoucímu skautského týmu. Před svou předčasnou smrtí stihl zaznamenat několik informací o nepřátelských silách.</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 13 -->
+<string id="lttz_ms_destruction_site_title">
+    <text>Smrtelný hřích: Místo zkázy</text>
+</string>
+<string id="lttz_ms_destruction_site_descr">
+    <text>Sinské síly se zakopaly v opevněné pozici na starém staveništi. Zlikviduj je, abys zabezpečil Limansk a zpřístupnil cestu na sever.</text>
+</string>
+
+<!-- Mortal Hřích Task 14 -->
+<string id="lttz_ms_hospital_assault_title">
+    <text>Smrtelný hřích: Severní nemocnice</text>
+</string>
+<string id="lttz_ms_hospital_assault_descr">
+    <text>Znič zbytky Hříchu v Limansku a získej přístup k Opuštěné nemocnici.</text>
+</string>
+<string id="lttz_ms_hospital_assault_descr2">
+    <text>Vyžeň Síly Hříchu z Opuštěné nemocnice a odepij jim opěrný bod při postupu k CNPP.</text>
+</string>
+<string id="lttz_ms_hospital_assault_descr3">
+    <text>Telepaticky hlas tě zavolal na místo, kde se nachází tajemný stalker. Vyšetři to.</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 15 -->
+<string id="lttz_ms_heart_zone_title">
+    <text>Smrtelný hřích: Srdce Zóny</text>
+</string>
+<string id="lttz_ms_heart_zone_descr">
+    <text>Zlikviduj hříšné hlídky na cestě na sever CNPP, abyste si zajistili bezpečnou cestu zpět.</text>
+</string>
+<string id="lttz_ms_heart_zone_descr2">
+    <text>Vydej se do zlověstné oblasti zvané Generátory.</text>
+</string>
+<string id="lttz_ms_heart_zone_descr3">
+    <text>Neznámý stalker tě kontaktoval na PDA. Doufejme, že je to spojenec.</text>
+</string>
+
+	<!-- Smrtelny hrich Ukol 16 -->
+<string id="lttz_ms_decisive_blow_title">
+    <text>Smrtelný hřích: Rozhodující úder</text>
+</string>
+<string id="lttz_ms_decisive_blow_descr">
+    <text>Zbýlé Síly Hříchu se shromažďují u hlavního vchodu do Válečné laboratoře. Zaútoč na ně, abys odvedl jejich pozornost od Střelcovy sabotážní mise.</text>
+</string>
+
+<!-- Smrtelný hřích, úkol 17 -->
+<string id="lttz_ms_confrontation_title">
+    <text>Smrtelný hřích: Konfrontace</text>
+</string>
+<string id="lttz_ms_confrontation_descr">
+    <text>Hřích kriticky selhal ve svém poslání. Konfrontuj se s Černobogem.</text>
+</string>
+
+<!-- Smrtelný hřích Úkol 18 -->
+	<string id="lttz_ms_endgame_title">
+		<text>Smrtelný hřích: Konec</text>
+	</string>
+	<string id="lttz_ms_endgame_descr">
+		<text>Pronásleduj Chernoboga do válečné laboratoře Monolith.</text>
+	</string>
+	<string id="lttz_ms_endgame_descr2">
+		<text>Pronásleduj Chernoboga a zabraň mu ve využití emisí.</text>
+	</string>
+	<string id="lttz_ms_endgame_descr3">
+		<text>Znič psy-projekce, které Chernobog vypustil, a oslab tak jeho telekinetické sevření zamčených dveří.</text>
+	</string>
+	<string id="lttz_ms_endgame_descr4">
+		<text>Vstup do komnaty C-vědomí.</text>
+	</string>
+	<string id="lttz_ms_endgame_descr5">
+		<text>Zabij Černoboga a jeho osobní strážce.</text>
+	</string>
+
+
+
+<string id="chernobog_notes_name">
+    <text>Poznámky Chernoboga</text>
+</string>
+<string id="chernobog_notes_desc">
+    <text>"Zóna je zázrak. Mistři nás očistili. Brzy, mysleli jsme si, Zóna ocistí svět. Ale ne. Náš malý ráj byl brzy narušen chybujícími lidmi hříšného světa. A v činu nepředstavitelného zvěrstva ochromila bestie jménem Střelec, udatného Monolita, a vstoupila do komnat Mistrů, aby zabila jejich smrtelné podoby. Já však nezoufám. Nemohu dopustit, aby tento zázrak pohltila neřest a špína nev hodných. A tak se my, Hřích, musíme vydat na výpravu, abychom splnili přání Mistrů. Povedeme válku s násilníky, abychom nastolili věčný mír."</text>
+</string>
+
+<!-- Mortal Hřích Task 19 -->
+<string id="lttz_ms_choice_title">
+    <text>Smrtelný hřích: Volba</text>
+</string>
+<string id="lttz_ms_choice_descr">
+    <text>Černobog je mrtvý. Je na tobě, jestli chceš sám použít Plnič přání.</text>
+</string>
+<string id="lttz_ms_choice_descr2">
+    <text>Promluv si s Plničem přání.</text>
+</string>
+
+	
+	<!-- Mortal Hřích Task 20 -->
+<string id="lttz_ms_zone_hero_title">
+    <text>Smrtelný hřích: Hrdina Zóny</text>
+</string>
+<string id="lttz_ms_zone_hero_dolg_descr">
+    <text>Zabránil jsi Sinům, aby urychlili expanzi Zóny. Ohlaste svůj úspěch generálu Voroninovi.</text>
+</string>
+<string id="lttz_ms_zone_hero_killer_descr">
+    <text>Zajistil jsi, že Zóna zůstane v současném lukrativním stavu. Nahlaš svůj úspěch Dushmanovi.</text>
+</string>
+<string id="lttz_ms_zone_hero_stalker_descr">
+    <text>Postavil ses hrozbě pro stalkery všude na světě a zvítězil jsi. Nahlaš svůj úspěch Sidorovicovi.</text>
+</string>
+<string id="lttz_ms_zone_hero_csky_descr">
+    <text>Zabránil jsi tomu, aby byla Zóna vyvedena z rovnováhy. Nahlaš svůj úspěch Mrázovi.</text>
+</string>
+<string id="lttz_ms_zone_hero_freedom_descr">
+    <text>Zabránil jsi tyranovi, aby se vnutil světu. Nahlaste svůj úspěch Lukášovi.</text>
+</string>
+<string id="lttz_ms_zone_hero_ecolog_descr">
+    <text>Přežil jsi dobrodružství, které by většinu vědců zabilo, a udržel jsi Zónu bezpečně uzavřenou pro studium. Ohlaste svůj úspěch profesoru Sacharovovi.</text>
+</string>
+
+<!-- Smrtelný hřích Neuhasitelný plamen Úkoly -->
+<string id="unquenchable_flame_task_name">
+    <text>Smrtelný hřích: Neuhasitelný plamen</text>
+</string>
+<string id="unquenchable_flame_task_text">
+    <text>V Zatonu se shromažďují přeživší Sinů. Musíš je zlikvidovat.</text>
+</string>
+
+<string id="esc_m_trader_task_4_about">
+    <text>Vidíš, stalkere, vím, že jsi už s těmi hříšnými šílenci bojoval, ale Brod mi řekl, že jejich zbytky jsou velmi aktivní. Několik stalkerů hlásilo, že si v opuštěných dílnách rozvodny v Zatonu zřizují základnu. Ohrožují mi obchodní cesty a to se mi opravdu nelíbí. Jdi je umlčet nadobro.</text>
+</string>
+<string id="esc_m_trader_task_4_finish">
+    <text>Nejsi ty ta armáda jednoho muže, co? Dobrá práce, stalkere. Doufám, že už o nich neslyšíme.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_4_about">
+    <text>Téměř vlastnoručním zničením celé frakce Hříchu sis vybudoval slušnou pověst. Víte, problém je v tom, že ještě nebyli úplně zničeni. Naši hoši ze základny v Zatonu hlásili podezřelou aktivitu v opuštěných dílnách rozvodny poblíž a jsou si jisti, že je to opět Hřích. Zlikviduj je dřív, než zahájí další krvavou krizovou výpravu.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_4_finish">
+    <text>Vždy se mohu spolehnout, že práci dokončíš jako opravdový profesionál. Zde je tvá odměna.</text>
+</string>
+<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
+    <text>Propana, zrovna když jsem se chtěl smířit s tím, že se téměř opakuje historie z před několika let, tak se ti kluci najednou vrátí. Ukázalo se, že v opuštěných dílnách rozvodny v Zatonu se přeskupují přeživší Hříchu. Vim, že je to docela dlouhá cesta, než se tam dostanou, ale opravdu se mi nelíbí představa, že tam sílí jako nějaký zhoubný nádor. Vezmi pár našich mužů a zlikvidujte je.</text>
+</string>
+<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish">
+    <text>Aha, dobrá práce. Myslím, že jsme si na příštích pár let vybojovali svůj podíl, nemyslíš?</text>
+</string>
+
+
+</string_table>

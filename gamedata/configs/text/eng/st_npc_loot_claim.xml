@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+<string id="st_npc_loot_claim_warn_1">
+	<text>Ta kořist je moje! Couvej!</text>
+</string>
+<string id="st_npc_loot_claim_warn_2">
+	<text>Hej, ta kořist je můj! Odejdi od něj!</text>
+</string>
+<string id="st_npc_loot_claim_warn_3">
+	<text>Vypadni od toho, ta kořist je moje vole!</text>
+</string>
+<string id="st_npc_loot_claim_warn_4">
+	<text>Nepřipadá v úvahu, že bys do toho šel, věci toho týpka jsou moje.</text>
+</string>
+<string id="st_npc_loot_claim_warn_5">
+	<text>Ruce pryč, ta kořist je moje.</text>
+</string>
+<string id="st_npc_loot_claim_warn_6">
+	<text>Věci toho chlápka patří nám! Nech toho být.</text>
+</string>
+
+<string id="st_npc_loot_claim_last_1">
+	<text>Varoval jsem tě, drž se od těch věcí dál!</text>
+</string>
+<string id="st_npc_loot_claim_last_2">
+	<text>Toto je poslední varování, které ti dám, drž se dál od toho těla! Nech to být.</text>
+</string>
+<string id="st_npc_loot_claim_last_3">
+	<text>Varuji tě, pokud se pokusíš ukrást tu kořist, začneme střílet.</text>
+</string>
+<string id="st_npc_loot_claim_last_4">
+	<text>Poslední šance - nech tu kořist být.</text>
+</string>
+<string id="st_npc_loot_claim_last_5">
+	<text>Poslední varování! Nedotýkej se toho těla, nebo budeme střílet!</text>
+</string>
+
+<string id="st_npc_loot_claim_attack_1">
+	<text>Varovali jsme tě! Nedovolíme ti ukrást něco od nás!</text>
+</string>
+<string id="st_npc_loot_claim_attack_2">
+	<text>Snaží se ukrást náší kořist! Otevřít palbu!</text>
+</string>
+<string id="st_npc_loot_claim_attack_3">
+	<text>Hej, snaží se vzít nám věci! Chyt ho!</text>
+</string>
+<string id="st_npc_loot_claim_attack_4">
+	<text>Vystřelte na toho lupiče!</text>
+</string>
+<string id="st_npc_loot_claim_attack_5">
+	<text>Nepustíme tě, abys nám kradl a unikal s tím!</text>
+</string>
+
+<string id="st_npc_loot_claim_far">
+	<text>Na tomto mrtvém těle jsi nenalezl nic užitečného.</text>
+</string>
+	
+
+</string_table>

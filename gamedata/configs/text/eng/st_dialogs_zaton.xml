@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<!-- 100% -->
+
+
+
+<!-- (Mercenary Trader) at the merc base -->
+<string id="meet_zaton_killer_guide_station_0">
+	<text>Kdo jsi?</text>
+</string>
+<string id="meet_zaton_killer_guide_station_1">
+	<text>Mohl bych ti na oplátku položit rozumnou otázku: Co je ti sakra do toho? Ale to asi není to, co bys chtěl slyšet, že? Pracuji jako obchodník a také jako průvodce mezi tímto místem a naší hlavní základnou v Mrtvém městě.</text>
+</string>
+<string id="meet_zaton_killer_guide_station_list_0">
+	<text>Mohl bys mi připomenout, které trasy děláš?</text>
+</string>
+<string id="meet_zaton_killer_guide_station_list_1">
+	<text>Prošel jsi cestou sem přes Scorcher? Je tu jen jedna trasa. Do Mrtvého města, a to za osm tisíc.</text>
+</string>
+<string id="travel_zaton_killer_guide_station_base_0">
+	<text>Chci se dostat do Mrtvého města.</text>
+</string>
+<string id="travel_zaton_killer_guide_station_base_1">
+	<text>Skvěle. Připrav se na pěkně dlouhou cestu kanálem. Možná jednou nasbírám dost peněz na pořádný respirátor. Jsi připraven?</text>
+</string>
+<string id="travel_zaton_killer_guide_station_base_2">
+	<text>Jsem připraven. %c[d_orange][8000 RU]</text>
+</string>
+<string id="travel_zaton_killer_guide_station_base_3">
+	<text>Změnil jsem názor.</text>
+</string>
+
+
+<string id="meet_guid_zat_0">
+	<text>Vypadáš jako zajímavá postava.</text>
+</string>
+<string id="meet_guid_zat_1">
+	<text>Pilot k tvojím službám. Není mnoho míst, kam bych tě mohl vzít, ale rozhodně to bude mnohem rychlejší a bezpečnější. Nabízím služby do Pripyati i na její předměstí prostřednictvím kolegy průvodce Garryho, na Jupiter tě však mohu vzít sám.</text>
+</string>
+<string id="meet_guid_zat_list_0">
+	<text>Dej mi znovu svůj cestovní seznam.</text>
+</string>
+<string id="meet_guid_zat_list_1">
+	<text>Můžu se domluvit s Garrym, že tě zavede do Pripyati za čtyři tisíce, stejně jako na předměstí za pět tisíc. Mohu tě sám dovést na stanici JYnov v Jupiteru za dva tisíce.</text>
+</string>
+<string id="travel_guid_zat_0">
+	<text>Vezmi mě někam.</text>
+</string>
+<string id="travel_guid_zat_1">
+	<text>Kam to bude?</text>
+</string>
+<string id="travel_guid_zat_2">
+	<text>Pripyat. %c[d_orange][4000 RU]</text>
+</string>
+<string id="travel_guid_zat_3">
+	<text>Na Předměstí. %c[d_orange][5000 RU]</text>
+</string>
+<string id="travel_guid_zat_4">
+	<text>Na Jupiter. %c[d_orange][2000 RU]</text>
+</string>
+<string id="travel_guid_zat_5">
+	<text>Rozmyslel jsem si to.</text>
+</string>
+
+
+<string id="stalker_guide_about_himself_0">
+	<text>Řekni mi něco o sobě.</text>
+</string>
+<string id="stalker_guide_about_himself_1">
+	<text>Jmenuji se Pilot, ačkoliv nevím proč. Používám pouze bezpečné trasy. Nemám schopnosti sbírat artefakty nebo bojovat s bandity, takže... Každý by měl využívat svůj talent a nechat ostatní z něj těžit. Každý talent samozřejmě má svou cenu.</text>
+</string>
+<string id="stalker_guide_about_anomalies_1116">
+	<text>Dobře, zapomni na to.</text>
+</string>
+<string id="stalker_guide_about_anomalies_1111">
+	<text>Řekni mi o tepelných anomáliích.</text>
+</string>
+<string id="stalker_guide_about_anomalies_11111">
+	<text>Pokud vidíš nějaké mihotání, jako když se nad chodníkem za horkého letního dne vznáší pára vzduchu - to je tepelná anomálie. Když se do ní něco dostane, tato skvrna vzplane extrémně horkým plamenem. Zpočátku si mysleli, že jde o proudy zemního plynu, ale tato teorie již upadla v zapomnění.</text>
+</string>
+<string id="stalker_guide_about_anomalies_1112">
+	<text>Řekni mi něco o plynových anomáliích.</text>
+</string>
+<string id="stalker_guide_about_anomalies_11121">
+	<text>Tento typ anomálií je takto nazýván kvůli svým zvláštním, nikdy nekončícím chemickým procesům. Produkuji kyselinu, která ti během několika sekund sežere kůži, a také toxické plyny, které ti stejně rychle poškodí plíce... Plynné anomálie lze naštěstí snadno odhalit na otevřeném prostranství. Když narazíš na jednu z nich v temném tunelu, je to zlé.</text>
+</string>
+<string id="stalker_guide_about_anomalies_1113">
+	<text>Řekni mi něco o elektrických anomáliích.</text>
+</string>
+<string id="stalker_guide_about_anomalies_11131">
+	<text>Velmi zajímavý typ anomálie, která akumuluje značné množství statické elektřiny. Stalker obvykle využívá toho, že elektrickou anomálii lze vybít jakýmkoli kovovým předmětem. Hodí do ní blesk a rychle projde, než se znovu nabije. Já raději obcházím - fáze dobíjení je příliš rychlá.</text>
+</string>
+<string id="stalker_guide_about_anomalies_1114">
+	<text>Řekni mi něco o gravitačních anomáliích.</text>
+</string>
+<string id="stalker_guide_about_anomalies_11141">
+	<text>Obvykle jsou stacionární. Když se podíváš na určité místo a všimneš si, že objekty za ním jsou deformované - máš jednu. Raději si udržuj odstup. Všechny tři známé druhy reagují okamžitě, jakmile se jich něco dotkne. Odrazový most vrhá všechno dolů - často na velkou vzdálenost. Vortex dělá právě opak: nasaje předmět, rozdrtí ho strašlivým tlakem a po několika vteřinách pošle kousky do vzduchu. Vír zvedne svou oběť do vzduchu, roztočí ji a roztrhá na kusy... Nepříjemný konec, ať už se vydáš kteroukoli cestou.</text>
+</string>
+<string id="stalker_guide_about_anomalies_1">
+	<text>Jakmile se přiblížíš k anomálii, měj na paměti, že v ní bude buď velké horko, nebo vzduch plný jedovatých plynů, nebo se jedná o radiaktivní ohnisko. Mohou tam být také psychické poruchy, ale těmi se nyní nebudu zabývat. Záleží na povaze anomálie - ať už je to teplo, plyn nebo elektřina... nebo gravitace, ale doufám, že s těmi se nebudeš muset potýkat. Existují také pohyblivé anomálie, ale to je úplně jiná kapitola.</text>
+</string>
+<string id="stalker_guide_about_anomalies_0">
+	<text>Řekni mi něco o anomáliích.</text>
+</string>
+<string id="stalker_guide_about_anomalies_1115">
+	<text>Řekni mi o pohyblivých anomáliích.</text>
+</string>
+<string id="stalker_guide_about_anomalies_11151">
+	<text>Osobně jsem se setkal pouze s Kometou a Teslou. První z nich je ohnivá koule o průměru asi tři metry. Ale ujišťuji tě, že zár pocítíš z mnohem větší vzdálenosti... Ta druhá je, z nedostatku lepšího popisu, kulový blesk. Rozhodně je to koule a rozhodně má elektrickou povahu. Obe anomálie se vždy pohybují, ale obvykle po uzavřených drahách. Opatrný stalker by je měl být schopen snadno obejít... Jen neztratit pozornost.</text>
+</string>
+
+	
+<!-- Gonta -->
+
+	<string id="gonta_about_himself_0">
+		<text>Řekni mi něco o sobě.</text>
+	</string>
+<string id="gonta_about_himself_1">
+		<text>Jsem Gonťa, vůdce lovecké posádky. Ničíme mutanty za peníze. Můžeme je také chytat živé - pro vědecké experimenty nebo pokud někdo potřebuje exotického domácího mazlíčka... Jak říkával Lovec: "Každému zvířeti jeho vlastní kulku..."</text>
+	</string>
+	
+<string id="gonta_about_mutants_0">
+	<text>Rád ti povím něco o lovu mutantů. I když nejsem nejzkušenější lovec, mám dost znalostí o těch zvířatech, která se prohánějí po kraji. Jsou tu masožravci, divocí prasata, slepí psi, pseudopsy, číhavci, upíři a další.</text>
+</string>
+	<string id="gonta_about_mutants_1">
+		<text>No, nejsem zrovna nejzkušenější lovec, ale o zvířatech, která běhají ve smečkách, vám toho můžu říct dost. Flaksy, divočáci, slepí čokly, Pseudopsi, Snorkové, Tarbíci... Dokonce vím něco i o Upířích.</text>
+	</string>
+<string id="gonta_about_mutants_1111">
+	<text>Povídej mi o Kancích a Flaksách.</text>
+</string>
+<string id="gonta_about_mutants_11111">
+	<text>Tak dobře, Flaksy jsou nejneškodnější mutanti. Snaží se držet dál od stalkerů, ale když na ně zaútočíš, budou se bránit. Ale pokud mezi těmi masíčky narazíš na kance, znamená to problém. Třista kilo vzteku není nic, se čím by si člověk měl hrát. Snaž se mu nevstoupit do cesty, když na tebe útočí... Využij jeho těžké postavy proti němu. Ta těžká masa se přece nebude moci otáčet na pětníku, že ano? Uhněte stranou a pak ho zasypej střelami.</text>
+</string>
+<string id="gonta_about_mutants_1112">
+	<text>Povídej mi o slepých psech a pseudopsech.</text>
+</string>
+<string id="gonta_about_mutants_11121">
+	<text>Osamělí psi nejsou tak nebezpeční, ale jejich smečky jsou opravdu otravné. Útočí jen když mají hlad... a bohužel mají hlad skoro pořád. Pokud stojíš proti celé smečce, snaž se je sebrat z vyvýšeného místa, jinak tě prostě přejedou. Zejména pokud mezi nimi jsou dospělí pseudopsi. Nejsou o moc odolnější než slepci, ale jsou mnohem chytřejší a nebezpečnější... Když se z jednoho najednou stane celá smečka, pamatuj si: útočí na tebe průzračná zjevení. Skutečný pseudopes se bude držet zpátky a jen sem tam se tě pokusí kousnout... Pokuste se ho identifikovat. Jakmile bude skutečný pes mrtvý, průzračná zjevení jednoduše zmizí.</text>
+</string>
+<string id="gonta_about_mutants_1113">
+	<text>Povídej mi o Snorcích.</text>
+</string>
+<string id="gonta_about_mutants_11131">
+	<text>Zbytky lidí... Samotný Snork není pro zkušeného lovce velký problém. Počkej, až na tebe skočí, a ve vzduchu ho napumpuj plnou dávkou. Ale když jich je víc, je to hned jiná. Musíš po nich prostě střílet co nejrychleji a zároveň se vyhýbat jejich skokům. Oni to vědí a obvykle se snaží útočit společně.</text>
+</string>
+<string id="gonta_about_mutants_1114">
+	<text>Povídej mi něco o Tarbíkách.</text>
+</string>
+<string id="gonta_about_mutants_11141">
+	<text>Noční můra lovce... Nejhorší, co můžeš udělat, je podcenit je kvůli jejich malé velikosti. Jsou neuvěřitelně rychlí, mrštní a vždy se pohybují ve smečkách. Když ucítíš, jak se do tebe zaryjí desítky malých tesáků, přestaneš je podceňovat a začneš střílet... A to je na tom nejstrašidelnější: je nesmírně těžké je zasáhnout. Proto slídilům vždycky říkám, aby s sebou nosili nabité brokovnice.</text>
+</string>
+<string id="gonta_about_mutants_1115">
+	<text>Povídej mi o Upírech.</text>
+</string>
+<string id="gonta_about_mutants_11151">
+	<text>Jsou sami zkušení lovci, kteří se umí skvěle maskovat. Když jsou maskovaní, sotva je uvidíš. Pokud lovíš upíra, snaž se ho vyplašit. Lépe ho uvidíš, když je v pohybu... Nezapomeň, že upír se bude snažit připlížit se k tobě zezadu a omotat ti tykadla kolem krku. To je dost děsivé... Pokud na několik upírů narazíš najednou, vždy si hlídej záda.</text>
+</string>
+<string id="gonta_about_mutants_1116">
+	<text>Dobře, zapomeň na to.</text>
+</string>
+
+	
+<!-- Owl (Loner Trader) -->
+   <string id="owl_story_0">
+        <text>Řekni mi o tomto tichém přístavu.</text>
+    </string>
+    <string id="owl_story_1">
+        <text>A kdo sakra jsi, že po mně chceš informace, co? Řeknu ti jen to, co už tady všichni ostatní vědí. Byl tu jeden podivný stalker, ukázalo se, že je to major SSU. Byl to dobrý pomocník a také se vypořádal s nemalým nebezpečím. Ale v poslední době to šlo všechno z kopce... Jantarův psyemitor a Vypalovač mozku byly opět zapnuté. V černobylské jaderné elektrárně zjevně probíhají nějaké aktivity a je to na dosah. Družstvo zkušených šlídlů zmizelo a potom další družstvo narazilo na nějaký Monolit poblíž pily, co jsem slyšel. Po tom rachotu lidé odešli a mutanti toho využívají ve svůj prospěch a nekontrolovaně se množí. Tohle není místo pro nováčky, to ti můžu říct.</text>
+    </string>
+    <string id="owl_story_2">
+        <text>Ale vidím, že tu není všechno ztraceno. Je tu ještě něco, co bychom měli mít na paměti?</text>
+    </string>
+    <string id="owl_story_3">
+        <text>Ano, jsem zprostředkovatel informací. Víš, někteří fesači sem přicházejí, aby se vymanili z krytího závodu a zbohatli. Ale tady nahore číhá spousta nebezpečí - kultisté, mutanti, zombie, na co si vzpomenete. V těchto bažinách může šlídil snadno zemřít. Takže kdybys náhodou, ehm, "našel" někoho z nich mrtvého... zaplatím za jejich PDA, bez otázek... kapiš?</text>
+    </string>
+    <string id="owl_story_4">
+        <text>Jo, chápu tě.</text>
+    </string>
+	
+<string id="information_about_stash_owl_zat_0">
+    <text>Máš nějaké informace o skrýších?</text>
+</string>
+<string id="information_about_stash_owl_zat_1">
+    <text>Mám všechno a ještě víc - tedy pokud máš peníze. Mám spoustu volných informací z různých zdrojů. Osm tisíc za tohle, nic méně.</text>
+</string>
+
+<string id="information_about_stash_owl_zat1_0">
+    <text>Tady. %c[d_orange][8000 RU]</text>
+</string>
+<string id="information_about_stash_owl_zat1_1">
+    <text>Pravda. Zde jsou tvoje souřadnice.</text>
+</string>
+
+<string id="find_blackbox_mlr_reward_owl_0">
+    <text>Máš zájem o data z černé skřínky?</text>
+</string>
+<string id="find_blackbox_mlr_reward_owl_1">
+    <text>Coož - samozřejmě! Dej to sem.</text>
+</string>
+
+<string id="boroda_story_0">
+    <text>Musíš být Fousek.</text>
+</string>
+<string id="boroda_story_1">
+    <text>To je pravda. Ještě jsem tě tu neviděl - vítej na Skadovsku.</text>
+</string>
+<string id="boroda_story_2">
+    <text>Co tady můžu dělat?</text>
+</string>
+<string id="boroda_story_3">
+    <text>Cokoli, co bys nejraději dělal. Od Sultanova odchodu je lov artefaktů v okolí větší brňáka než kdy jindy. Pokud máš v plánu vydat se na jih směrem k dílnám rozvodny a stanici na zpracování odpadu, buď opatrný. Syndikát drží tato území a představuje docela velkou hrozbu. Pokud náhodou najdi nějaké artefakty, klidně je sem přines - rád ti nabídnu slušnou cenu. Zůstaň v těchto končinách v bezpečí, stalkere.</text>
+</string>
+<string id="boroda_story_4">
+    <text>Děkuji.</text>
+</string>
+
+<string id="devushka_boroda_help_0">
+    <text>Ahoj Fousku! Pořád ještě jdeme na čas, že? Máme pro tebe dárek.</text>
+</string>
+<string id="devushka_boroda_help_1">
+    <text>Vlastně právě včas. Tady máte oba odměnu za své potíže.</text>
+</string>
+
+	
+<!-- Noah (Loner Honcho) Character Description -->
+	<string id="noah_start_dialog_0">
+		<text>Člověče, co jsi to sakra střelil? Málem jsi mě zabil!</text>
+	</string>
+	<string id="noah_start_dialog_1">
+		<text>Proč jsi tady? Žádné kecy - neztrácej můj čas.</text>
+	</string>
+	<string id="noah_start_dialog_2">
+		<text>Jen klid chlape. Jen si prohlížím. Potřebuješ pomoct? Můžeš mi odpovědět na pár otázek? </text>
+	</string>
+	<string id="noah_start_dialog_3">
+		<text>Odpovím, ale neobtěžuj se s tím.</text>
+	</string>
+	
+	<string id="noah_start_dialog1_0">
+		<text>Mám pár otázek.</text>
+	</string>
+	<string id="noah_start_dialog1_1">
+		<text>...</text>
+	</string>
+		<string id="noah_start_dialog1_2">
+			<text>Kde jsi vzal tohoto psa?</text>
+		</string>
+		<string id="noah_start_dialog1_7">
+			<text>To je Lassie. Sladká malá fenka... Nebýt ji, už dávno by mě sežrali ve spánku. Prokletí mutanti... Nenavidím je! Jakmile zavřes víčka, začnou po tobě natahovat své odporné drápy, tesáky a tykadla...</text>
+		</string>
+		<string id="noah_start_dialog1_8">
+			<text>Vidim.</text>
+		</string>
+		<string id="noah_start_dialog1_9">
+			<text>A ta šteňata - kde se vzala, když Lassie tráví veškerý čas s tebou? Hehe.</text>
+		</string>
+		<string id="noah_start_dialog1_3">
+			<text>Proč žiješ v téhle popelnici?</text>
+		</string>
+		<string id="noah_start_dialog1_10">
+			<text>Je to archa! Pamatuj si to... budeš, jestli chceš žít ty zmrde! Když příjde vlna, zůstaň blizko. Zde budeš mít šanci přežit. Sem žádny mutant nepronikne.</text>
+		</string>
+		<string id="noah_start_dialog1_11">
+			<text>Jaká "vlna"? O čem to mluvíš? </text>
+		</string>
+		<string id="noah_start_dialog1_12">
+			<text>Ty bytosti mě sledují ve dne v noci. Ty to nechápeš... ti chrapouni z jižní nahorní plošiny mě sledovali až k Arše! Jsem zkuseny lovec a vím, že by obět nepronásledovali tak zatraceně dlouho. Nšco mi není jasne... musí mít nějakou kolektivní mysl. Mé myšlenky potvrdily nedávné utoky těch hrůz na barku.</text>
+		</string>
+		
+		
+		
+		
+<string id="noah_start_dialog1_13">
+    <text>Pokud jsou tvoje odhady správné, máme před sebou poriadny problém.</text>
+</string>
+<string id="noah_start_dialog1_4">
+    <text>Proč lidem nevěříš?</text>
+</string>
+<string id="noah_start_dialog1_14">
+    <text>Časem sama najdeš odpověď.</text>
+</string>
+<string id="noah_start_dialog1_5">
+    <text>Myslím, že půjdu.</text>
+</string>
+<string id="tasks_noah_dialog_0">
+    <text>Potřebuješ pomoc?</text>
+</string>
+<string id="tasks_noah_dialog_1">
+    <text>No... Mám pár laskavostí, které bys pro mě mohl udělat.</text>
+</string>
+<string id="tasks_noah_dialog_2">
+    <text>Najdi novou brokovnici.</text>
+</string>
+<string id="tasks_noah_dialog_5">
+    <text>Moje současná střelnice je na nic. Kdybys mi mohl přinést něco lepšího, třeba Saigu... No, nejsem si jistý, jestli sehnat takovou zbraň v Zóně je možné. Viděl jsem ale pár banditů s Armsel Protectou. Můžeš mi jednu z nich přinést.</text>
+</string>
+<string id="tasks_noah_dialog_3">
+    <text>Vypořádej se se snorci na jižní náhorní plošině.</text>
+</string>
+<string id="tasks_noah_dialog_6">
+    <text>Je na čase skoncovat s těmi strašnými tvory. Každou noc je slyším, jak se plíží kolem baráku, vyčkávají, dýchají a čichají. Aby ses dostal na jižní plošinu, musíš použít teleport. Označil jsem ti ho na mapě - je nedaleko spálené usedlosti.</text>
+</string>
+<string id="tasks_noah_dialog_4">
+    <text>Změnil jsem názor.</text>
+</string>
+<string id="task_1_noah_done_0">
+    <text>Tady je Armsel Protecta.</text>
+</string>
+<string id="task_1_noah_done_1">
+    <text>...Působivé. Díky za pomoc. Teď si ty bestie třikrát rozmyslí, než se tu začnou plížit.</text>
+</string>
+<string id="task_2_noah_done_0">
+    <text>Mám ty snorci, bylo jich docela dost. Proč tě lovili?</text>
+</string>
+<string id="task_2_noah_done_1">
+    <text>Nejsem si jistý. Dřív jsem se tam občas vydal, abych je uklidil, ale už na to nemám čas... Musím dávat pozor na štěňata. Takže děkuji za pomoc.</text>
+</string>
+	
+	
+<string id="zat_a2_stalker_barmen_actor_info_0">
+    <text>Řekni mi, jaký je tady život.</text>
+</string>
+<string id="zat_a2_stalker_barmen_actor_info_1">
+    <text>To je široké téma. Zkus se zeptat na nějaké konkrétní otázky a já se ti na ně pokusím odpovědět.</text>
+</string>
+<string id="zat_a2_stalker_barmen_actor_info_1111">
+    <text>Co zde stalker dělá?</text>
+</string>
+<string id="zat_a2_stalker_barmen_actor_info_11111">
+    <text>Na to se zeptej sám sebe, kámo. Vystoupí na břeh ze Skadovska, aby prozkoumali terén a pátrali po artefaktech, přičemž střílejí po všem a po každém, kdo se na ně vrhne. Vrátí se na Skadovsk, aby se opili a pokecali... užili si trochu R&amp;R před dalším nájezdem... i když, když je zasáhne emise, je to docela jiná scéna. Tehdy si všichni pevně sedneme a vzpomeneme na ty, kteří se nestihli včas ukrýt...</text>
+</string>
+<string id="zat_a2_stalker_barmen_aktor_info_1112">
+    <text>Co vyhnalo stalkery do centra Zóny?</text>
+</string>
+<string id="zat_a2_stalker_barmen_actor_info_11121">
+    <text>Vtipná otázka. Někteří se vydali objevit další zlatý důl na artefakty. Některé sem přivedly zvěsti o Oáze. Jiní hledali  Plnič přání. A pak jsou tu základní lidské touhy: chamtivost a zvědavost... Každý má své důvody. Jsem si jistý, že i ty máš své.</text>
+</string>
+<string id="zat_a2_stalker_barmen_herec_info_1113">
+    <text>Jak jste se sem dostal?</text>
+</string>
+<string id="zat_a2_stalker_barmen_actor_info_11131">
+    <text>Přišel jsem sem s Grousem poté, co byl Vypalovač mozku zneškodněn. Ale jsem si jistý, že to není to, co bys opravdu chtěl vědět, nemám pravdu? Zabývám se hlavně artefakty. Venku už je plno četek, takže cenní zákazníci chtějí vzácné věci. Proto jsem se rozhodl založit stalker-ský tábor, kde se ještě dají sehnat opravdové předměty vysoké hodnoty. Vždyť když se stalker vrátí s kořistí, co vlastně potřebuje? Jedno vychlazené v ruce a starý dobrý lidský kontakt, to je to, co potřebuje. A o to ve Skadovsku jde především.</text>
+</string>
+<string id="zat_a2_stalker_barmen_aktor_info_1114">
+    <text>Co si myslíš o banditech?</text>
+</string>
+<string id="zat_a2_stalker_barmen_actor_info_11141">
+    <text>No, je to takhle: Na palubě Skadovska proti nim nic nemám, pokud se chovají slušně. Koneckonců, úplně blbce nepotkáte zas tak často. Někteří z nich jsou vlastně bývalí stalkerové. Kdo ví, třeba se některý z těch chudáků opravdu rozhodne vzdát se podvodnického řemesla dřív, než chytí kulku... Život je plný překvapení.</text>
+</string>
+<string id="zat_a2_stalker_barmen_aktor_info_1115">
+    <text>No, to je v pořádku. Zapomeň na to.</text>
+</string>
+<string id="zat_a2_stalker_barmen_actor_info_11151">
+    <text>Jestliže to říkáš.</text>
+</string>
+<string id="zat_b7_stalkers_victims_dialog_11">
+    <text>Ahoj, stalkere. Právě teď nemám čas. Promluvíme si později, ano?</text>
+</string>
+
+<string id="zat_b22_stalker_medic_start_1">
+    <text>Co tě sem přivádí?</text>
+</string>
+<string id="zat_b22_stalker_medic_dialog_start_21">
+    <text>Poslouchám.</text>
+</string>
+<string id="zat_b22_stalker_medic_dialog_start_22">
+    <text>Ahoj, potřebuješ pomoc?</text>
+</string>
+<string id="zat_b22_stalker_medic_dialog_start_23">
+    <text>Dobrý den.</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_0">
+    <text>Potřebuji lékařskou pomoc.</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_1">
+    <text>Uvidím, co se dá dělat.</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_2">
+    <text>Podívám se na to... Hmm... Mne připadáš v pořádku. Nemáš žádná zranění ani nejevíš známky nemoci z ozáření. Měl bys být v pořádku.</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_111">
+    <text>Budu k tobě upřímný - samozřejmě můžeš použít lékárničku nebo dvě a všechno bude v pořádku. Většinu tvých problémů mohu vyřešit za řekněme 1850 RU. Mám velmi dobré sérum, které tě v mžiku postaví na nohy. Ale všechny ty žářící radioaktivní částice budou stále proudit ve tvém těle. Ne, to sérum nespraví. Ale za dalších 1480 RU navrch z tebe dostanu všechny tyhle sračky. Takže, jak jsi se rozhodl?</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_11">
+    <text>Cože? Je všechno tak špatné?</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_1111">
+    <text>No tak si vezmi peníze a dej se do práce. Zdraví je důležitější než peníze.</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_1112">
+    <text>Dobře, opravte jen radiaci. Rány si můžu obvázat sám.</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_1113">
+    <text>Víte co, doktore? Ošetří se sám!</text>
+</string>
+
+
+<string id="zat_b22_stalker_medic_need_health_care_11111">
+    <text>Jednu chvilku, prosím... Ano, teď už by mělo být všechno v pořádku. Můžeš jít.</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_11112">
+    <text>No, na slabé záření nezemřeš. Alespoň prozatím. Ale nepřebírám žádnou zodpovědnost, pokud vykrvácíš. Hodně štěstí, kamaráde!</text>
+</string>
+<string id="zat_b22_stalker_medic_need_health_care_11113">
+    <text>Jak si přeješ, soudruhu. Neměj mi za zlé, když náhle přestaneš žít.</text>
+</string>
+<string id="zat_b18_noah_start_11">
+    <text>Kdo jsi ty?</text>
+</string>
+<string id="zat_b18_noah_start_111">
+    <text>Stalker. Už jsme se setkali.</text>
+</string>
+<string id="zat_b18_noah_start_1111">
+    <text>Nezpomínám si... Každopádně, co potřebuješ?</text>
+</string>
+<string id="zat_b18_noah_start_112">
+    <text>Stalker. Prostě stalker.</text>
+</string>
+<string id="zat_b18_noah_start_1121">
+    <text>Vidím. Hledáš útočiště v Arše? Cítíš se tu jako doma.</text>
+</string>
+<string id="zat_b18_noah_start_113">
+    <text>Nic ti do toho není.</text>
+</string>
+<string id="zat_b18_noah_start_21">
+    <text>Aha, to jsi ty. Co chceš?</text>
+</string>
+<string id="zat_b3_stalker_tech_start_15">
+    <text>Moudrá volba, příteli. Musíš udržovat svou zbraň v bezvadném stavu... A jestli máš u sebe flašku nebo dvě, můžu ti ji tady hojně vylepšovat. Chceš pádák přišítý k brokovnici? To můžu udělat, hehe.</text>
+</string>
+<string id="zat_b3_stalker_tech_drink_1_0">
+    <text>Mám nějaký chlast. Chceš panáka?</text>
+</string>
+<string id="zat_b3_stalker_tech_drink_1_2">
+    <text>No, už nemám flašku, chlape. Když jsem viděl položku 62, pomyslel jsem si: "To je ono, dávám si skoky...". Vidíš, chlast tě prostě rozhodí. Není to součást zdravé stravy. A když jsem pryč, kdo ti sežene náboje do Gaussovy pušky?</text>
+</string>
+<string id="zat_b3_stalker_tech_drink_2_0">
+    <text>Tady máš další lahev.</text>
+</string>
+<string id="zat_b3_stalker_tech_drink_3_0">
+    <text>Mám ještě třetí, kdybys potřeboval další.</text>
+</string>
+	
+</string_table>

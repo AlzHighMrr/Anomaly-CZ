@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_locations">
+		<text>Lokace</text>
+	</string>
+	
+	<string id="encyclopedia_locations_agroprom">
+<text>Agroprom</text>
+</string>
+<string id="encyclopedia_locations_agroprom_text">
+<text>
+	%c[pda_green]Informace\n%c[ui_gray_1]Podivná, silně zamořená oblast. Přestože armáda přebudovala jižní komplex na své operační velitelství, ve zbytku oblasti často straší nebezpeční mutanti, kteří střeží tajemství, jež je lepší neprozkoumávat.
+	\n \n%c[pda_blue]Propojené lokace%c[ui_gray_1]
+	\n- Velké bažiny
+	\n- Smetiště
+	\n- Yantar
+	\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+	\n- Tuto lokaci obsadila společnost Povinnost jako své velitelství během Války frakcí v roce 2011. Během této doby byla část jižního komplexu přeměněna na muzeum taxidermie divokých zvířat Zóny.
+	\n- Továrna a výzkumný ústav byly oficiálně založeny po incidentu v roce 1986 za účelem testování životaschopnosti zemědělství na ozářené půdě.
+	\n- Konspirace mezi stalkery říkají, že zařízení byla ve skutečnosti využívána k mnohem zákeřnějším účelům před První emisí v roce 2006.
+</text>
+</string>
+
+	
+	<string id="encyclopedia_locations_agroprom_underground">
+<text>Podzemí Agropromu</text>
+</string>
+<string id="encyclopedia_locations_agroprom_underground_text">
+<text>
+	%c[pda_white]Podzemí Agropromu%c[ui_gray_1] je podzemní síť tunelů.\n
+	\n%c[pda_green]Informace%c[ui_gray_1]
+	\nNikdo si není příliš jistý, k jakému účelu byly tyto katakomby určeny, protože zatímco některé prostory byly zjevně využívány k nezbytným účelům, jako je například vodovod, jiné se zdají mít výrazně vědecký charakter.\n
+	\nDnes slouží už jen jako úkryt pro zoufalce... a jako loviště pro mutanti, kteří loví nic netušící pronásledovatele, kteří se odváží vstoupit dovnitř.
+	\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+	\n- Během okupace Agropromu vojskem Povinností zorganizovali brutální čistky mutantů žijících v této podzemní oblasti.
+	\n- Naznačuje se, že hlavním zájmem armády v Agropromu je prozkoumat tyto katakomby kvůli znamením spiknutí. Zatím nic nenalezli.
+	\n- Je známo, že v těchto tunelech se pohybují temné, stínové postavy. Mějte se na pozoru.
+</text>
+</string>
+
+<string id="encyclopedia_locations_army_warehouses">
+<text>Armádní skladiště</text>
+</string>
+<string id="encyclopedia_locations_army_warehouses_text">
+<text>
+	%c[pda_green]Informace\n%c[ui_gray_1]Opuštěná vojenská základna vedle zchátralé vesnice a malého močálu. Vesnice, kdysi zamořená legií krvavě žíznivců, si vysloužila temnou pověst, která od ní odháněla většinu pronásledovatelů. Armádní základna mezitím už léta slouží jako hlavní velitelství Svobody. Právě z této základny brání Barieru na severu před Monolitem a odtud se mnoho odvážných i pošetilých stalkerů snaží proniknout hlouběji do Zóny.
+	\n \n%c[pda_blue]Připojené lokace%c[ui_gray_1]
+	\n- Rostok
+	\n- Mrtvé město
+	\n- Rudý les
+	\n- Radar
+	\n- Hřbitov nákladních aut
+	\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+	\n- Toto místo bylo vojenským velitelstvím před druhou velkou emisí v roce 2011, která zombifikovala většinu přítomných vojáků.
+	\n- Hlasy těchto nyní mrtvých vojáků jsou údajně slyšet na vybraných radiových frekvencích téměř z jakéhokoli místa v Zóně.
+	\n- Navzdory všeobecnému přesvědčení se ne všichni Svobodní, kteří jsou zde umístěni, zdeťuji z rekreačních důvodů. Někteří to dělají proto, aby se zbavili okolní hrůzy způsobené Vypalovačem mozku, který může podprahově působit až na vzdálenost několika kilometrů.
+</text>
+</string>
+
+	
+	<string id="encyclopedia_locations_chernobyl_npp">
+	<text>Černobylská jaderná elektrárna</text>
+</string>
+<string id="encyclopedia_locations_chernobyl_npp_text">
+	<text>
+		Černobylská %c[pda_white]JE%c[ui_gray_1], v sovětských dobách známa jako %c[pda_green]JE%c[ui_gray_1] V. I. Lenina, je považována za nejikoničtější památku v Zóně.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nNa tomto místě došlo 26. dubna 1986 k první katastrofě, kdy po výbuchu reaktoru č. 4 po přepětí a neúspěšném havarijním odstavení byly do atmosféry vypuštěny obrovské chuchvalce radioaktivních materiálů.\n
+		\nV okruhu 30 kilometrů od stanice byla provedena úplná evakuace obyvatelstva a vytvořena uzavřená zona - vše uvnitř bylo odděleno od zbytku světa prostřednictvím chráněného perimetru.\n
+		\nAčkoli se stanice nachází velmi hluboko na území Monolitu, stalkerové se sem pokoušeli dostat po celá léta - věřili, že se zde nachází zařízení, které má moc splnit jejich nejvroucnější přání.
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Nejposvátnější půda Monolitu. Pověrčiví stalkerové věří, že toto místo střeží duše mrtvých.
+		\n- Střelec, Tesák a Přízrak byli první stalkerové, kteří se dostali do NPP a vrátili se zpět se zdravým rozumem. Druhá velká emise byla vypuštěna Zónou jako odveta.
+		\n- Jasná obloha zde utrpěla drtivou porážku v roce 2011, kdy Třetí velká emise vedla k tomu, že mnoho jejich členů a vůdců (spolu se Strelokem) bylo zajato, zabito nebo konvertováno.  
+		\n- Střelec se sem později v roce 2012 vrátil s částečně obnovenou myslí, aby se postavil něčemu pod JE. Od té doby už Zóna nikdy nebyla stejná.
+		\n- Armáda podnikla několik výprav za znovuzískáním JE, všechny však skončily neúspěchem.
+	</text>
+</string>
+
+<string id="encyclopedia_locations_cordon">
+	<text>Kordon</text>
+</string>
+<string id="encyclopedia_locations_cordon_text">
+	<text>
+		%c[pda_green]Informace\n%c[ui_gray_1]Považuj ho za předsíň Zóny - je to dobré místo pro nováčky, aby se v ní zorientovali. Na jihozápadě se nachází vesnice stalkerů - nenechte si ujít příležitost promluvit si s tamním obchodníkem! Nejjižnější cíp Kordonu je však vojenskou základnou a vojáci často hlídkují na okolních cestách. Útok na vojáky se nedoporučuje, pokud nepředstavují přímou hrozbu.
+		\n \n%c[pda_blue]Spojená místa%c[ui_gray_1]
+		\n- Smetiště
+		\n- Velké bažiny
+		\n- Temná kotlina
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Armáda bývala v Kordonu přítomna ve větší míře, se silnými posádkami u dnes zanedbaného železničního mostu a severního kontrolního stanoviště.
+		\n- V roce 2012 se zoldáci pokusili obsadit vesnici nováků, ale byli odraženi Střelcem a Fanatikem.
+		\n- Velká část pašování v Zóně probíhá přes tuto oblast.
+	</text>
+</string>
+
+	
+	<string id="encyclopedia_locations_dark_valley">
+    <text>Temné údolí</text>
+</string>
+<string id="encyclopedia_locations_dark_valley_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]Ponuré místo, které za svou pověst vděčí dvěma věcem: pevnosti banditů na severu a podzemnímu laboratoři na východě. Místní banditští lordi dělají vše pro to, aby laboratoř zůstala uzavřená, a mají k tomu dobrý důvod - téměř nikdo se z ní nedostane živý a nikdo nedokáže říct proč.
+        \n \n%c[pda_blue]Připojené lokace%c[ui_gray_1]
+        \n- Smetiště
+        \n- Temná kotlina
+        \n- Hřbitov nákladních aut
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Tato lokace byla velitelstvím Svobody během války frakcí v roce 2011.
+        \n- Armáda do této oblasti zřídka vysílá lehké jednotky Spetsnaz, které se obvykle zaměřují na zabezpečení nebo posílení laboratoře.
+        \n- Před nehodami za Bariérou byla Povinnost téměř na pokraji likvidace hrozby Banditů v této lokalitě jednou provždy.
+    </text>
+</string>
+
+<string id="encyclopedia_locations_darkscape">
+    <text>Temná kotlina</text>
+</string>
+<string id="encyclopedia_locations_darkscape_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]Temná kotlina ve tvaru zhruba půlměsíce spojuje jižní okraj Temného údolí s opuštěným tunelem v Kordonu. Z oblasti vedou cesty na jih a východ, i když není známo, kam přesně vedou. Je to hustě zalesněná oblast s několika málo orientačními body, několik jich však vycnívá. Na konci nejužší části údolí leží zřícený železniční most, součást železnice, která prochází Kordonem a Velkou bažinou.
+        \nNa jihu se silnice rozděluje před kopcem. Na jihozápadě, hluboko v divočině, leží opuštěný statek, zbavený všeho. Hlavní silnice pokračuje ke křižovatce, vedle níž leží opuštěná čerpací stanice. Odtud vede silnice na západ, přímo do Kordonu.
+        \n \n%c[pda_blue]Připojená místa%c[ui_gray_1]
+        \n- Kordon
+        \n- Temné údolí
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Vzhledem ke své odlehlosti a ponuré povaze je toto místo prvotřídním místem pro stalkery, kteří se chtějí ukryt před lovci odměn nebo se jinak oddělit od politiky mezi frakcemi, která je běžná ve zbytku Zóny.
+    </text>
+</string>
+
+	
+<string id="encyclopedia_locations_dead_city">
+    <text>Mrtvé město</text>
+</string>
+<string id="encyclopedia_locations_dead_city_text">
+    <text>
+        Mrtvé město%c[pda_white]Mrtvé město%c[ui_gray_1], kdysi plné energie, je nyní jen rozpadající se růzinou.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]
+        \nKdysi zde žili ti, kteří nenašli domov v Limansku nebo Pripjati, ale většina historie tohoto místa je již dávno zapomenuta.\n
+        \nNázev, který městu dali stalkeroře, lze považovat za výstižný - město je kvůli svému stavu přirovnáváno k mrtvoli - rozkládá se a chátrá pod vlivem živlů.\n
+        \nPřestože je město neustále obleháno nájezdníky z Monolitu a mutanti, žoldnéřská frakce si zde zřídila své sídlo a udržuje si zde malou, ale mocnou přítomnost.
+        \n \n%c[pda_blue]Propojené lokace%c[ui_gray_1]
+        \n- Limansk
+        \n- Armádní skladiste
+        \n- Yantar
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Až do roku 2012 většina stalkerů neverila, že toto místo existuje. Po ztrátě tohoto tajemství využívají žoldáci svoji pověst k odrazování nechtěných návštěvníků.
+    </text>
+</string>
+
+<string id="encyclopedia_locations_deserted_hospital">
+    <text>Nemocnice v opuštěné oblasti</text>
+</string>
+<string id="encyclopedia_locations_deserted_hospital_text">
+    <text>
+        Opuštěná nemocnice%c[pda_white]Opuštěná nemocnice%c[ui_gray_1], nebo také %c[pda_green]Limanská nemocnice%c[ui_gray_1], je velká a opuštěná budova téměř celá zahlebená do země.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]
+        \nAčkoliv o historii této nemocnice není veřejně nic známo, lze předpokládat, že jejím původním účelem bylo sloužit obyvatelům nedalekého Limansku.\n
+        \nJednou z nejzajímavějších zvláštností tohoto místa je skutečnost, že se nějakým způsobem propadlo do země, protože zemětřesení v této části světa jsou velmi neobvyklá a obvykle jsou tak malá, že si jich nikdo nevšimne.\n
+        \nJedná se také o jedinou významnější oblast v Zóně, o níž je známo, že neobsahuje žádnou radioaktivní nebo anomální aktivitu - přesto je však pro většinu stalkerů nebezpečná, protože se zde scházejí nejrůznější kultisté uctívající Zónu.
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Toto je jedno z mála míst v Zóně, které se nemohou dotknout emise ani psy-boure.
+        \n- Toto místo byvalo jedním z nejsilněji opevněných míst v Zóně, kde byly po celých úzkých chodnících nemocnice rozmístěeny kulomety a vrtulníky.
+        \n- Ačkoliv z opevnění nezůstalo téměř nic, spekuluje se, že se nemocnice od té doby stala pomocným chrámem monolitických sil.
+    </text>
+</string>
+	
+<string id="encyclopedia_locations_garbage">
+	<text>Smetiště</text>
+</string>
+<string id="encyclopedia_locations_garbage_text">
+	<text>
+		%c[pda_green]Informace\n%c[ui_gray_1]Rozlehly hřbitov strojů. Hned po první havárii tam byly vysýpány celé hromady radioaktivního odpadu. Většinou ruiny starých budov zamořených mutanti. Stejně jako předměstí Zóny se to tu hemží stalker-y-začátečníky a občas se tu potuluje nějaký bandita, který si vždycky dává pozor na volnasky. K pamětihodnostem patří opuštěný vlakový hangár uprostřed oblasti a bleší trh na severu.
+		\n \n%c[pda_blue]Připojené lokace%c[ui_gray_1]
+		\n- Kordon
+		\n- Temné údolí
+		\n- Agroprom
+		\n- Rostok
+		\n- Divoká Oblast
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Ve vlakovém hangáru se prý scházejí oddaní lovci mutantů v Zóně.
+		\n- Toto místo bylo kdysi velitelstvím Banditů, kteří za vlády Yogy chytali a zotročovali stalkery, aby pracovali v pracovních táborech pro artefakty.
+		\n- Nesčetné hromady šrotu zde existují od původní nehody v roce 1986.
+		\n- Jako křižovatka mezi teritorií Povinnosti, Stalkerů, Vojska a Banditu může toto místo často upadat do stavu anarchy.
+	</text>
+</string>
+<string id="encyclopedia_locations_generators">
+	<text>Generátory</text>
+</string>
+<string id="encyclopedia_locations_generators_text">
+	<text>
+		%c[pda_green]Informace\n%c[ui_gray_1]Rodiště Zóny.
+		\n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+		\n- Černobylská jaderná elektrárna
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Toto místo je místem, kde by C-vědomí řídilo tok energie z noosféry, když se pokoušelo přetvořit lidské myšlení.
+		\n- Je to zdaleka nejčizejší místo v Zóně, bylo by moudré zůstat ve střehu a držet se co nejvíce na cestě.
+	</text>
+</string>
+	
+	<string id="encyclopedia_locations_great_swamp">
+		<text>Velké bažiny</text>
+	</string>
+	<string id="encyclopedia_locations_great_swamp_text">
+		<text>
+			%c[pda_green]Informace\n%c[ui_gray_1]Baziny se skladaji prevazne z kalne ozarene vody a vysokeho rakosi, vsude se jako labyrintove mosty tahnou tenke pruchody bezpecne pudy. V krajine se nachazi nekolik opustenych budov a osad.
+			\nNa severu lezi vyzkumny ustav Agroprom, hned za Loveckym lesem. Na vychode lezi Kordon. A na zapade se nachazi tajemny tunel Tuzla.
+			\nVelka bazina je vynikajicim mistem pro kazdeho, kdo se chce drzet stranou a zaroven mit "civilizaci" v pohodlnem dosahu.
+			\n \n%c[pda_blue]Propojene lokace%c[ui_gray_1]
+			\n- Kordon
+			\n- Agroprom
+			\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+			\n- O laskavem doktorovi, ktery se potuluje po teto bazine, se vypraveji legendy, ackoli ho uz leta nikdo nevidel.
+			\n- Take se vypravi o prizracnych postavach, ktere v noci obchazeji baziny, zejmena pobliz cesty do Agropromu.
+		</text>
+	</string>
+		
+	<string id="encyclopedia_locations_jupiter">
+	<text>Jupiter</text>
+</string>
+<string id="encyclopedia_locations_jupiter_text">
+	<text>Jupiter
+		%c[pda_green]Informace\n%c[ui_gray_1]Jupiter, který se nachází západně od Přípjaťi, je rozsáhlá oblast se stanicí Janov poblíž středu. Staré nádraží funguje jako tábor pro mnoho stalkerů, protože v něm sídlí obchodník, technik a zdravotník. Vědci si poblíž stanice zřídili bunkr, kde zkoumají Zónu spolu s jejími anomáliemi a artefakty, a někteří stalkerové se utábořili také ve staré cementárně na severovýchodě. Další místa, jako je lom, vesnice Kopachy a komplex Volchov AA, jsou dávno opuštěna, nyní je obývají pouze mutanti a "chodící mrtvoly".
+		\n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+		\n- Růdy les
+		\n- Zaton
+		\n- Přípjať
+		\n- Jupiter'ské podzemí
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Podle legendy se někde v této oblasti skrývá artefakt Oáza.
+		\n- Díky místním leteckým anomáliím se zde nachází několik havarovaných letadel.
+		\n- Stanice Janov byla kdysi společná pro Svobodu i Povinnost, které spolu vedly studenou válku za Bariérou. Tento napjatý vztah však přerušil návrat Monolitu a následný zmatek. 
+	</text>
+</string>
+<string id="encyclopedia_locations_jupiter_underground">
+	<text>Jupiterské podzemí</text>
+</string>
+<string id="encyclopedia_locations_jupiter_underground_text">
+	<text>
+		Jupiterské podzemí%c[pda_white]Jupiter Underground%c[ui_gray_1], známé také jako %c[pda_green]Přípjať Underground%c[ui_gray_1] a %c[pda_green]Přípjať-1%c[ui_gray_1], je řada tunelů, které vedou hluboko pod povrchem.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nTyto tajné tunely, které se kdysi používaly k tajnému a nepozorovanému přesunu zboží a materiálu, o čemž svědčí četné rezavějící transporty, byly po druhé katastrofě opuštěny a naplněny jedovatými plyny.\n
+		\Až nedávno se skupině stalkerů podařilo tunely ze strany Jupiteru znovu otevřít, což poskytlo dostatek času na jejich odvětrání a zabezpečení.\n
+		\nJistěže "bezpečný" je v Zóně relativní pojem, protože ti, kdo se odvážili do podzemí, hlásí, že se setkali s nesčetnými snorky a zombifikovanými stalkery.
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Výtah do této oblasti z továrny Jupiter je již dlouho poškozený. Schody naštěstí fungují dobře.
+		\n- Monolitové už jsou moudří, že tento tunel používají pronásledovatelé, a začínají na to patřičně reagovat.
+	</text>
+</string>
+		
+	<string id="encyclopedia_locations_lab_x16">
+    <text>Laboratoř X-16</text>
+</string>
+<string id="encyclopedia_locations_lab_x16_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]V této laboratoři je umístěn psyemitor známý jako Zázračný stroj. Každý, kdo se k němu přiblíží příliš blízko bez patřičné ochrany, bude proměněn v nemyslící zombie.
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Zázračný stroj je zařízení typu wetware, které do své konstrukce zabudovalo nepřirozeně velký lidský mozek.
+        \n- Jeho vypnutí vyžaduje postupné přepínání několika páček, počínaje tou nejnižší.
+        \n- Ghost, legendární stalker a člen Strelokovy původní posádky, zemřel při pokusu o studium této laboratoře pro ekology. Když se Strelokovi později podařilo laboratoř zcela vypnout (alespoň na čas), je pravděpodobné, že se vrátil, aby svého přítele pohřbil.
+    </text>
+</string>
+<string id="encyclopedia_locations_lab_x18">
+    <text>Laboratoř X-18</text>
+</string>
+<string id="encyclopedia_locations_lab_x18_text">
+    <text>
+        \n%c[pda_green]Informace\n%c[ui_gray_1]Tato laboratoř údajně obsahuje cenné informace o psy-emitorech a také množství artefaktů. Přesto se místní obyvatelé tomuto místu vyhýbají, a to z dobrého důvodu.
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- V této laboratoři se pravděpodobně zrodilo velké množství dnešních mutantů, zejména těch s psychickými schopnostmi.
+    </text>
+</string>
+<string id="encyclopedia_locations_lab_x19">
+    <text>Laboratoř X-19</text>
+</string>
+<string id="encyclopedia_locations_lab_x19_text">
+    <text>
+        %c[pda_white]Laboratoř X-19%c[ui_gray_1], známá také jako %c[pda_green]Laboratoř X-10%c[ui_gray_1].\n
+        \n%c[pda_green]Informace\n%c[ui_gray_1]V této laboratoři se nachází mechanismus, který ovládá Spalovač mozku, mezi znalejšími stalkery známý také jako "Duha vysílač". Laboratoř má pro Monolit velký význam a Monolit si ji váží téměř stejně jako samotné JE.
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Výražení mozkového děla usnadní cestování mezi oběma stranami Bariéry. Šance, že se poté dostanete ven bez smrti, však není velká.
+    </text>
+</string>
+
+<string id="encyclopedia_locations_lab_x8">
+    <text>Laboratoř X-8</text>
+</string>
+<string id="encyclopedia_locations_lab_x8_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]Výzkum, který zde probíhal, se zaměřoval na mnoho různých oblastí, včetně psy-pólů a noosféry a takzvaného "předmětu 62", prototypu zbraně, která využívá fragmenty artefaktu k zajištění ohromující síly. Je také velmi pravděpodobné, že zde byly provedeny počáteční studie vedoucí ke vzniku Brain Scorcheru. Zůstala jen hrstka dokumentů, které jsou velmi žádané místními žoldáky.
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Studie položky 62 později pokračovaly v zařízení v Zatonu.
+        \n- Podle pověsti se jeden z výzkumných týmů, který zde byl umístěn před rokem 2006, skládal ze tří členů: N. A. Lebedev, E. F. Kalancha a V. I. Suslov. Jestli existují nějaké důkazy, se teprve ukáže.
+    </text>
+</string>
+<string id="encyclopedia_locations_limansk">
+    <text>Limansk</text>
+</string>
+<string id="encyclopedia_locations_limansk_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]Tajné výzkumné město Limansk je prázdné místo, ačkoli po první katastrofě v roce 1986 nedošlo k oficiální evakuaci. Po skutečném vzniku Zóny v roce 2006 se stal ještě nehostinnějším místem, protože město a jeho okolí zaplnily anomálie a odřízly ho od světa.
+        \nKdyž v září 2011 udeřila Druhá velká emise, anomálie zmizely a do města se hrnuli stalkerové, kteří hledali snadnou cestu kolem Mozkomora, a tak se setkali s Bandity a Monolitem. V současnosti se některé z anomálií vrátily a opuštěné budovy a vozidla, které město hyzdí, jsou obvykle svědky jen občasného průjezdu hlídky Merkuru nebo Monolitu.
+        \nLeží severně od Mrtvého města.
+        \n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+        \n- Mrtvé město
+        \n- Růdy les
+        \n- Opuštěná nemocnice
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Lesník vzpomíná na staré sovětské obyvatele města a říká, že byli fanaticky loajální i za skutečně nepříznivých okolností.
+        \n- Limansk byl pravděpodobně prvním místem, kde byla postavena psy-anténa, ačkoliv tento prototyp je již dávno nefunkční a nelze jej použít ani opravit.
+    </text>
+</string>
+<string id="encyclopedia_locations_monolith_control_center">
+    <text>Řídicí centrum monolitu</text>
+</string>
+<string id="encyclopedia_locations_monolith_control_center_text">
+    <text>
+        \n%c[pda_green]Informace%c[ui_gray_1]
+        \nČást sarkofágu naplněná výpočetními stroji. Jejich přesný účel není znám, ale zjevně je po sobě zanechaly předchozí výzkumné týmy. Monolit je od té doby udržuje s překvapivou péčí.
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Možná zde kdysi komunikovali největší monolitické starší se svým božstvem.
+        \n- K dosažení této oblasti byl dříve zapotřebí speciální dekodér, který vyrobil Fang.
+    </text>
+</string>
+		
+	<string id="encyclopedia_locations_monolith_war_lab">
+    <text>Válečná laboratoř Monolitu</text>
+</string>
+<string id="encyclopedia_locations_monolith_war_lab_text">
+    <text>
+        \n%c[pda_green]Informace%c[ui_gray_1]
+        \nPůvodně zde sídlilo C-vědomí, od jejich zdánlivé smrti je toto posvátné místo udržováno Monolitem s pomstychtivým záměrem.
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Někteří členové Skupiny si uvědomili, že jejich individuální intelekt není dost silný na to, aby mohli přímo ovlivňovat noosféru, a proto vytvořili stroj, který by je proměnil v hivemind.
+        \n- Od té doby o sobě mluvili jako o Společném vědomí a okamžitě si podřídili zbytek Skupiny kolem sebe.
+    </text>
+</string>
+<string id="encyclopedia_locations_outskirts">
+    <text>Předměstí</text>
+</string>
+<string id="encyclopedia_locations_outskirts_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]Druhá, ještě vzdálenější část Přípjati. populace mutantů je zde silná a obzvláště smrtelně nebezpečná. Lidská přítomnost je zde minimální, tvoří ji převážně monolitické a zombifikované stalkery spolu se dvěma malými, lehkými základnami stalkerů a žoldáků, z nichž obě soupeří o obsah zdejší laboratoře X-Lab.
+        \n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+        \n- Přípjať
+        \n- Jupiterské podzemí
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Název "Předměstí" je technicky vzato nesprávný, ale dobře vystihuje tuto čtvrť Přípjať, protože leží mimo to, co stalkery považují za skutečné srdce města.
+        \n- V této čtvrti proběhla v roce 2012 velká vojenská evakuace poté, co se nepodařilo zabezpečit JE. Nyní je místem setkávání jen těch nejzkušenějších a nejblahovějších stalkerů.
+    </text>
+</string>
+<string id="encyclopedia_locations_pripyat">
+    <text>Pripjať</text>
+</string>
+<string id="encyclopedia_locations_pripyat_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]V tomto městě kdysi stalkerové inženýři pracující na černobylské jaderné elektrárně. Dříve bylo samo o sobě velkolepým městem, nyní je z něj město ducha, jehož hlavními správci jsou monolity.
+        \n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+        \n- Radar
+        \n- Jupiter
+        \n- Předměstí
+        \n- Černobylská Jaderná Elektrárna
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Legendární stalker Fang má hrob v Přípjaťi. Má také hrob v armádních sklaďištích.
+        \n- Toto město je prostředním bodem, odkud Monolit organizuje obranu všech svých dalších významných území.
+    </text>
+</string>
+		
+	<string id="encyclopedia_locations_red_forest">
+    <text>Rudý les</text>
+</string>
+<string id="encyclopedia_locations_red_forest_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]Vlastně jen nejzápadnější průchozí oblast Rudého lesa a také pravděpodobně nejbezpečnější. Přesto je všeobecně považována za jednu z nejnebezpečnějších oblastí v celé Zóně kvůli vysoké aktivitě mutantů.
+        \n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+        \n- Armádní Skladiste (Army Warhouses)
+        \n- Jupiter
+        \n- Limansk
+        \n- Radar
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Název "Rudý les" pochází od borovicových listů v oblasti, které se zbarvily do jasné zrzavé barvy poté, co absorbovaly smrtelné množství radiace z černobylské havárie v roce 1986.
+    </text>
+</string>
+<string id="encyclopedia_locations_radar">
+    <text>Radar</text>
+</string>
+<string id="encyclopedia_locations_radar_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]Východní polovina Rudého lesa. Strašlivé místo. Snadno zde zmizíte beze stopy, bez ohledu na to, jaké štěstí jste měli v dosavadním životě. V tomto cípu lesa žije Mozkomor, a kdo se k němu přiblíží, okamžitě zesílí, promění se v zombie a začne neklidně šířit po Zóně. Často po něm zůstane jen lidská schránka. Jen málokdo se vrátí se zdravou myslí.
+        \n \n%c[pda_blue]Připojené lokace%c[ui_gray_1]
+        \n- Armádní válečné domy
+        \n- Rudý les
+        \n- Přípjať
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Navzdory temné pověsti této oblasti by to byla nejlepší cesta do severní části Zóny, kdyby byla spolu s Přípjaťí zabrána Monolitem.
+    </text>
+</string>
+<string id="encyclopedia_locations_rostok">
+    <text>Rostok</text>
+</string>
+<string id="encyclopedia_locations_rostok_text">
+    <text>
+        %c[pda_green]Informace\n%c[ui_gray_1]Nejcennější leno Dluhu, Rostok, je dříve opuštěná průmyslová oblast, která byla částečně obnovena a znovu využita pro potřeby frakce. Je bezpečným útočištěm pro pravidelné stalkery a vědce, kteří ho pravidelně využívají k vzájemným setkáním z celé Zóny. Pod Dutyho dohledem vzkvétají dva nezávislé podniky - bar 100Rads a Arnie's Arena; určitě se na tato místa zajděte podívat.
+        \n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+        \n- Divoká Oblast
+        \n- Smetiště
+        \n- Armádní skladiste
+        \n- Hřbitov nákladních aut
+        \n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+        \n- Služba používá k prosazování pravidla "žádné zbraně" v Rostoku. Veřejné použití zbraně se trestalo trestem smrti. Od té doby bylo toto pravidlo zrušeno.
+        \n- Služba si dříve velmi vybírala, kdo může vstoupit do Rostoku, průměrné stalkery zatěžovala daní a většinu nováčků rovnou odmítala vpustit. Toto pravidlo bylo zrušeno.
+        \n- Po Druhé velké emisi v roce 2011 byl Rostok od zbytku Zóny oříznut neprostupnými anomálními poli. Tato nucená izolace přetrvala až do Třetí velké emise koncem tohož roku a efektivně umožnila Svobodě zakotvit se v Armádních skladech s relativně malým odporem.
+    </text>
+</string>
+		
+<string id="encyclopedia_locations_sarcophagus">
+	<text>Sarkofág</text>
+</string>
+<string id="encyclopedia_locations_sarcophagus_text">
+	<text>
+		%c[pda_green]Informace\n%c[ui_gray_1]Sarkofág se skládá z vnitřní struktury legendárního reaktoru 4 Černobylské jaderné elektrárny.
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Většina legend, které obklopují Plnicí prani, ukazuje na to, že se nachází právě zde.
+		\n- Proto očekávej, že Monolit bude tuto oblast zúřivě bránit.
+	</text>
+</string>
+<string id="encyclopedia_locations_truck_cemetery">
+	<text>Hřbitov nákladních vozidel</text>
+</string>
+<string id="encyclopedia_locations_truck_cemetery_text">
+	<text>
+		%c[ui_gray_1]Hřbitov %c[pda_white]Nákladních aut%c[ui_gray_1], oficiálně %c[pda_green]Hřbitov techniky Rassokha%c[ui_gray_1], je obří vrakoviště plné ozářených vozidel.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nHřbitov nákladních vozidel, temná ozvěna menší a bezpečnější oblasti "Odpadky" na jihozápadě, je skládkou vozidel, která byla použita při rozsáhlých radičních sanančních pracích po havárii v roce 1986.\n
+		\nPřestože většina zde hnízícího vybavení byla před desetiletími v perfektním stavu, nebylo možné je prakticky dekontaminovat. Jiné vybavení se prostě úplně rozbilo. Ať tak či onak, všechny hrdinské stroje, které zmírnily následky černobylské katastrofy, zde byly ponechány napospas smrti.\n
+		\nOd konečného vzniku zóny v roce 2006 však tato oblast ožila. Někdy se zde odehrávají spory mezi frakcemi. Obvykle je to lihenní mutantů.\n
+		\nPřestože je Zóna tak izolovaná a těžko přístupná, mnozí slidilové si všimli, že zdejší vozidla jsou postupně rozebírána - mnozí se domnívají, že se někdo, možná armáda, pokouší zachránit kovy a nelegálně je prodat do srotu.
+		\n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+		\n- Armádní skladiste
+		\n- Rostok
+		\n- Temné údolí
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Navzdory rizikům si bandité zřídili základnu v severní části této oblasti, pravděpodobně aby se spojili mezi Svobodou a Temným údolím.
+		\n- Mnoho zdejších vozidel začalo ztrácet radioaktivitu, což znamená, že je bude brzy možné bezpečně odstranit a legálně sešrotovat, pokud vláda někdy získá kontrolu nad touto oblastí.
+		\n- Tato mapa je oblíbeným místem skrýší paranoidních slidilů, protože jen málokdo jiný je ochoten odvážně hledat mutanti a anomálie, jen aby našel jehlu v kupce sena.
+	</text>
+</string>
+		
+	<string id="encyclopedia_locations_wild_territory">
+	<text>Divoká Oblast</text>
+</string>
+<string id="encyclopedia_locations_wild_territory_text">
+	<text>
+		%c[pda_green]Informace\n%c[ui_gray_1]Pokud by tě někdy zajímalo, jak vypadal Rostok před příchodem Důstojníků, tato oblast ti poskytne docela přesnou představu. Pravidelní slidilové tudy neradi cestují přímo, protože tato oblast je obvykle zamořena mutanti nebo se hemží bandity a žoldáky. Přesto se v tomto chaosu skrývá příležitost - nezřídka se stává, že důstojníci Služby nebo Barman z Rostoku vypisují odměny za nesčetná nebezpečí, která zde číhají.
+		\n \n%c[pda_blue]Propojené lokace%c[ui_gray_1]
+		\n- Rostok
+		\n- Smetiště
+		\n- Jantar
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Služba chtěla zahrnout Divoké území jako součást Rostoku už dávno, ale vždycky se zdálo, že na to nemá dostatek lidí.
+		\n- Toto místo je místem hrozného masakru, ke kterému došlo v roce 2012. Žoldáci pod velením Vlčího psa zlikvidovali velkou skupinu ekologů a jejich strážců, kteří tudy procházeli, a zanechali pouze dva přeživší. Vlkodav byl spolu s celým svým týmem brzy zlikvidován v rámci odvety. V dnešní době nechávají žoldáci ekology většinou na pokoji, až na několik krátkodobých výjimek.
+	</text>
+</string>
+<string id="encyclopedia_locations_yantar">
+	<text>Jantar</text>
+</string>
+<string id="encyclopedia_locations_yantar_text">
+	<text>
+		%c[pda_green]Informace\n%c[ui_gray_1]Legendární jezero Jantar dávno vyschlo a na jeho místě zůstala jen mělká bažina. Toto místo je morbídní a prosycené smrtí, straší zde věci, které už nejsou lidské. Stopaři, kteří se odváží příliš blízko komplexu na severu, často slyší hlasy, někdy zesílí nebo se přidají k řadám chodících mrtvých. Většina přícházejících lidí, kteří sem přicházejí, sem přichází jen proto, aby obchodovali s místními ekology, přívětivými dušemi, které štědře platí za vzorky mutantů a artefaktů, mimo jiné za práci.
+		\n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+		\n- Mrtvé město
+		\n- Divoká Oblast
+		\n- Agroprom
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\n- Na tomto místě se nachází nechvalně známý Zázračný stroj, psychiatrická instalace, která přivedla mnoho lidí k šílenství.
+		\n- Ekologický bunkr je veden jedinečně zručným člověkem, o němž se říká, že je největším odborníkem na zařízení psychické ochrany v Zóně.
+		\n- Ekologický bunkr dříve střežila Povinnost, než došlo k úbytku jejich pracovníků. Nyní Ekologové najímají jako stálé stráže členy téměř ze všech frakcí.
+	</text>
+</string>
+		
+<string id="encyclopedia_locations_zaton">
+	<text>Zaton</text>
+</string>
+<string id="encyclopedia_locations_zaton_text">
+	<text>
+		%c[pda_white]Zaton%c[ui_gray_1] neboli %c[pda_white]Zadní voda%c[ui_gray_1] je vyschlý kanál, který se kdysi vleval do řeky Pripjat\n
+		\n%c[0,100,255,150]Informace%c[ui_gray_1]
+		\nToto místo, které je poseto vraky mnoha člunů, baráků a nákladních lodí, připomíná spíše bažinu než bývalý průmyslový areál.\n
+		\nRadiace je zde kromě vody a několika roztroušených kapes minimální, ale na mnoha místech se často vyskytují monolity, mutanti nebo zombifikovaní stalkerové.\n
+		\nPřestože se nachází daleko v centru Zóny a je obklopen monolitickými územími, je zde mnoho osad, jako například Skadovsk a Sevčenko.
+		\n \n%c[pda_blue]Připojené lokality%c[ui_gray_1]
+		\n- Jupiter
+		\n- Černobylská Jaderná Elektrárna
+		\n \n%c[0,100,255,150]Trivia%c[ui_gray_1]
+		\n- Bandité a Stalkeři kdysi sdíleli tuto oblast v relativním míru, přičemž Fousek se často snažil apelovat na lepší povahu prvního z nich. Nemělo to však trvat dlouho a mír se v roce 2012 předvídatelně zhroutil.
+		\n- V jedné z vyplavených lodí prý žije šílený Stalker. Při průzkumu neznámých vraků by bylo moudré ustoupit, než otevřete nějaké dveře.
+	</text>
+</string>
+
+</string_table>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="esc_m_trader_task_new_tasks_addon_dead_night_name">
+    <text>Mrtvá Noc</text>
+</string>
+<string id="esc_m_trader_task_new_tasks_addon_dead_night_text">
+    <text>Lonery v Temné Kotlině večerem zmizí beze stopy. Sidorovič mě požádal, abych zjistil, co se děje.</text>
+</string>
+<string id="esc_m_trader_task_new_tasks_addon_dead_night_about">
+    <text>Naši kluci hlásí, že někteří Lonery nedávno zmizeli na cestě ze sauny v Temné Kotlině do naší vesnice. Cesta byla vždy relativně bezpečná, takže lidé často cestovali v noci, aby se vyhnuli banditům a vojákům. Jejich křik v temnotě byl slyšet chlapy zůstávající u sauny, ale nikdo nebyl dost odvážný riskovat život, pokoušejíc se jim pomoci. Těla chybějících stalkerů nebyla nalezena po rozbřesku. Stalkeři tady se sešli a vybrali malou sumu pro někoho, kdo bude ochoten vyšetřit, co se stalo.</text>
+</string>
+<string id="esc_m_trader_task_new_tasks_addon_dead_night_finish">
+    <text>Strašný osud... díky, že jsi poslal mrtvé na svůj poslední odpočinek a zajistil, že se k jejich silám přidají ještě další kluci. Tady - zasloužil sis to.</text>
+</string>
+<string id="dead_night_details">
+    <text>Vyšetři místo během noci</text>
+</string>
+
+
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall_name">
+    <text>Padající Nebe</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall_text">
+    <text>Armáda dostala posily v podobě nového vrtulníku Mi-24, který by mohl být použit k útoku na staré vojenské sklady, kde se nachází Freedom. Lukash mě pověřil sestřelením tohoto létajícího monstra. Měl bych se dostat do Agropromu co nejdříve.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall_about">
+    <text>Víš, Duty není naše jediné problémy tady. Armáda by také ráda získala zpět naši základnu, aby získala kontrolu nad středem Zóny. To, co je zdržuje, jsou tenké zdroje... nebo to alespoň bylo do nedávna. Jedna z našich jednotek byla rozmetána vrtulníkem Mi-24. Přežil jen jeden muž, aby vyprávěl příběh. Musíme jednat, než se seberou další síly. \n \nTeď - neřeknu, že to bude snadná mise... je velká šance, že se z toho nevyhrabeš celý, ale pokud uspěješ, čeká tě dobrý obnos peněz.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_skyfall_finish">
+    <text>Tak to je můj člověk! Nemyslím si, že se o těch parchantech budeme muset znovu starat poté, co uvidí tvoje ohňostroje.</text>
+</string>
+<string id="skyfall_details">
+    <text>Znič vrtulník</text>
+</string>
+<string id="skyfall_stealth_message">
+    <text>Šmejd! Rozhodl ses o tom postarat potichu. Lepší plán jsem nemohl naplánovat sám! Teď to nezpackej a snaž se umístit nějaké výbušniny tam, kde je nikdo neuvidí.</text>
+</string>
+<string id="skyfall_run_fail_message">
+    <text>Takže jsi utekl... měl jsem pocit, že jsem si vybral špatného člověka pro tuhle práci...</text>
+</string>
+<string id="skyfall_confrontation_message">
+    <text>Myslíš si, že tě nemůžeme vidět, stalkeru? Přijít sem byla tvoje poslední chyba.</text>
+</string>
+<string id="skyfall_cover_blow_message">
+    <text>Tady máme lstivého potkana!</text>
+</string>
+<string id="skyfall_blow_cover_run_message">
+    <text>Vidím tě! Neutečeš, stalkeru!</text>
+</string>
+
+
+	<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_name">
+    <text>Drž Pozici</text>
+</string>
+<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_text">
+    <text>Bandité se chystají útočit na Smetiště s velkými silami a usilovat o úplnou kontrolu nad ním. Petrenko mě požádal, abych se uzavřel na Bleším trhu a odpuzoval je zpět.</text>
+</string>
+<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_about">
+    <text>Naši špioni hlásí obrovskou koncentraci banditů blízko průchodu mezi Temným údolím a Smetištěm. Dovolit jim získat kontrolu nad Smetištěm je nepřijatelné. Máme ale problémy s lidskými zdroji kvůli těm zatraceným hipíkům na severu... a proto tě pošlu na tuto misi sám. Vím - zní to jako šílenství, ale měl bys dostat nějakou pomoc od lonerů, kteří často toto místo navštěvují, pokud ještě nebyli přepadnuti nějakým menším oddílem banditů.</text>
+</string>
+<string id="bar_dolg_general_petrenko_stalker_task_hold_the_ground_finish">
+    <text>Skvělá práce, soudruhu! Tady - to je pro tebe.</text>
+</string>
+<string id="hold_the_ground_on_position_message">
+    <text>Nepřítel začal postupovat! Připrav se na bitvu, stalkeru!</text>
+</string>
+<string id="hold_the_ground_defended_position_message">
+    <text>To by mělo být poslední z nich. Ihned mi hlásit, stalkeru!</text>
+</string>
+<string id="hold_the_ground_run_fail_message">
+    <text>Patetické... neměl bych ti věřit na téhle práci.</text>
+</string>
+<string id="hold_the_ground_details">
+    <text>Bránit pozici</text>
+</string>
+
+<string id="cit_killers_merc_trader_stalker_task_no_step_back_name">
+    <text>Ani o krok zpět</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_no_step_back_text">
+    <text>Mesiáši postupně ztrácejí kontrolu nad Limanskem a Dushman má obavy, že Mrtvé Město brzy podstoupí útok od Monolitu. Musím získat zpět území až k mostu a zničit veškeré možné posily, které by mohli dostat.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_no_step_back_about">
+    <text>Poslouchej, kámo - mám pro tebe osobní kontrakt. Status quo v Limansku se nedávno začal postupně sklání ve prospěch Monolitu. Možná máme lesklé vybavení, ale oni mají zbraň, kterou jsme dosud podceňovali - fanatismus.\n \nNáš lukrativní byznys tady by mohl brzy skončit - někteří z mých kontraktorů už toto místo opustili, protože se bojí, že fanatikové sem mohou přijít kdykoliv. Tady máš deal - jdi do Limansku a vrátí status quo - odešli Monolit za most a znič všechny oddíly, které by se mohly pokusit ho znovu překročit.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_no_step_back_finish">
+    <text>Dobrá práce. Teď se můžeme vrátit k normálnímu podnikání. Tady - vezmi si to. Rychle se vrátím, až noví kontraktanti zjistí, že je tu opět bezpečno.</text>
+</string>
+<string id="no_step_back_on_position_message">
+    <text>Naše radary ukazují obrovskou skupinu Monolitianů mířících k posílení ztracené pozice. Připrav se!</text>
+</string>
+<string id="no_step_back_defended_position_message">
+    <text>Skvělá práce, partneru. Radary neukazují žádnou další nepřátelskou aktivitu v oblasti. Teď pojď - musíme si promluvit.</text>
+</string>
+<string id="no_step_back_run_fail_message">
+    <text>Právě jsi ztratil svůj kontrakt, kámo. Měl jsem najmout opravdové bojovníky...</text>
+</string>
+<string id="no_step_back_details">
+    <text>Bránit pozici</text>
+</string>
+
+
+<string id="simulation_task_gambling_with_life_name">
+    <text>Hazard se životem</text>
+</string>
+<string id="simulation_task_gambling_with_life_text">
+    <text>Přijal jsem sázku s Freedomerem, že zabiju zdravého Upíra pouze nožem. Ti hippies mají podivné nápady, ale peníze jsou peníze, takže...</text>
+</string>
+<string id="simulation_task_gambling_with_life_about">
+    <text>Včera jsem si s jedním ze svých kámošů užil nejlepší tripy života. Nejsem si jistý, odkud měl tu sračku, ale chlape... kopal to jak sviňa...\n \nKaždopádně - zpět na věc. Víš, oba máme rádi hazard a on vymyslel pěkně nesmyslnou sázku. Řekl, že vsadí hezkou sumu na to, že někdo zabije Upíra pouze nožem. Jeden z našich chlapíků - stále nadržený - zahlédl jeho řeč a odešel ven základny tu noc. Už se nikdy nevrátil, ale sázka stále platí. Chudák... zajímalo by mě, co se s ním stalo...\n \nTeď kde jsem skončil? Ah, ano - ta sázka! Vypadáš jako tvrdej chlap. Nechtěl bys zkusit štěstí? Připevním malou kameru na tvůj oblek, abych později mohl ukázat video mému kámošovi. Co - nemyslel jsi si, že ti povím jeho jméno tady, že jo? Chci něco i pro sebe z toho mít.\n \nPamatuj - je tu jedna věc - mutant musí být zdravý. Můj kámoš na videu uvidí předchozí rány a nebude žádný výplatu.</text>
+</string>
+<string id="simulation_task_gambling_with_life_finish">
+    <text>Zanechal jsi ve mě dojem, kámo! Teď mi dovol přinést toto nahrávání svému příteli. Tady máš svoji část.</text>
+</string>
+<string id="gambling_with_life_details">
+    <text>Splň sázku</text>
+</string>
+
+<string id="simulation_task_vengence_amplified_name">
+    <text>Zesílená Pomsta</text>
+</string>
+<string id="simulation_task_vengence_amplified_text">
+    <text>Bandita mě chce, abych sekáčem rozsekal chimeru na kusy na odplatu za jeho kamaráda. Vzít na sebe tuto úlohu byla asi chyba...</text>
+</string>
+<string id="simulation_task_vengence_amplified_about">
+    <text>Slyšel jsi o chimerách, že? Zatraceně velká a ošklivá hovada... všeho nejlepšího jim! Poslali bráchu na tu druhou stranu. V noci jsme hlídali obvod a byli jsme přepadeni jedním z těchto příšer. Skočil rovnou na mého bráchu a strhl mu nohu. Jeho křik upozornil zbytek tábora a povedlo se nám to zvíře odehnat. Trvalo to ale příliš dlouho a můj brácha zemřel na ztrátu krve...\n \nTak tady máš deal - připevněte tuhle kameru ke svému obleku a usekej jedné z těchto parchantů nohu! Nebo víš co? Usekej ji na kusy! Chci vidět, jak trpí nesnesitelnou bolest!\n \nJsou fakt tvrdí, takže bude v pořádku, když bude závěrečný úder proveden sekyrkou.</text>
+</string>
+<string id="simulation_task_vengence_amplified_finish">
+    <text>Byl jsi krutý ve svých metodách, můj příteli. Oceňuji to. Vidět tu zuřivost změnit se ve strach a bolest v očích tohoto zvířete mě uspokojilo...</text>
+</string>
+<string id="vengence_amplified_details">
+    <text>Sekni příšeru na kusy</text>
+</string>
+
+
+<string id="yan_stalker_sakharov_task_brain_game_name">
+    <text>Hra s Mozky</text>
+</string>
+<string id="yan_stalker_sakharov_task_brain_game_text">
+    <text>Sakharov potřebuje ovládač s nepoškozeným mozkem pro další výzkum jeho psi schopností.</text>
+</string>
+<string id="yan_stalker_sakharov_task_brain_game_about">
+    <text>Jsem vždycky rád, když vidím mladé lidi, kteří jsou tak ochotní přispět k vědeckým projektům! Vidíte - zkoumáme tajemství Zóny už velmi dlouho a přesto je stále tolik k objevování. Jedním z nejfascinujících a zároveň nejnebezpečnějších zjevů v Zóně jsou ovládači. Stalkři se obvykle snaží vyhnout střetu s nimi a když je nevyhnutelný, chtějí - pochopitelně - co nejrychleji eliminovat střelbou do hlavy. Proto jsou většina vzorků mozku, které dostaneme, pro nás velmi málo užitečné. Bylo by velmi oceňováno, kdybyste jeden z nich zabil, aniž byste poškodili jeho mozek, a informovali nás o této události co nejdříve, abychom mohli vyslat skupinu, která by ho zabezpečila, a ujistila se, že k nám dorazí, než se jeho tkáně začnou rozkládat.</text>
+</string>
+<string id="yan_stalker_sakharov_task_brain_game_finish">
+    <text>Děkuji za váš přínos naší vědecké komunitě, mladý příteli.</text>
+</string>
+<string id="brain_game_details">
+    <text>Ukradni vzorek</text>
+</string>
+<string id="brain_game_success_report">
+    <text>Profesore - podařilo se mi získat vzorek, který jste požadoval. Posílám vám souřadnice.</text>
+</string>
+<string id="brain_game_success_response">
+    <text>Skvělá práce! Okamžitě pošlu jedno z našich týmů. Prosím, navštivte mě v naší bunkru - čeká vás odměna.</text>
+</string>
+
+<string id="urgent_orders_name">
+    <text>Naléhavé Rozkazy</text>
+</string>
+<string id="bar_dolg_leader_task_urgent_orders_text">
+    <text>Jeden z našich vojáků z Duty byl vážně zraněn novým druhem Upíra a potřebuje léčbu od vědců. Musím pospíšit!</text>
+</string>
+<string id="bar_dolg_leader_task_urgent_orders_finish">
+    <text>Skvělá práce, vojáku! Zachránil jsi svého bratra v zbrani. Tak drž až do konce.</text>
+</string>
+<string id="bar_dolg_leader_task_urgent_orders_report">
+    <text>Vojáku! Tohle je generál Voronin! Mám pro tebe naléhavý rozkaz. Jeden z našich bratrů byl zraněn a otráven nějakým novým druhem Upíra. Náš lékař mu nemůže pomoci. Kontaktoval jsem profesora Sakharova s žádostí o pomoc a existuje šance, že jeho experimentální léčba by mohla našemu bratrovi pomoci.\n \nMusíš se okamžitě vydat směrem k Yantar a doprovodit skupinu vědců zpět k naší základně. Neselžeš, vojáku!</text>
+</string>
+<string id="bar_dolg_leader_task_urgent_orders_scientists_response">
+    <text>Ahoj, mladíku! Dostal jsem informace o tvém příjezdu od tvého generála. Moji asistenti mají všechno, co potřebují k vyléčení tvého přítele, a brzy k tobě přistoupí.</text>
+</string>
+<string id="bar_dolg_leader_task_urgent_orders_fail">
+    <text>Náš bratr právě vydechl naposledy. Zklamal jsi mě, vojáku... zklamal jsi nás všechny.</text>
+</string>
+
+
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_text">
+    <text>Jeden ze spolubojovníků byl vážně zraněn novým druhem Upíra a potřebuje léčbu od vědců. Musím spěchat!</text>
+</string>
+<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_finish">
+    <text>Skvělá práce, vojáku! Zachránil jsi svého bratra v zbrani. Propuštěn.</text>
+</string>
+<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_report">
+    <text>Vojáku! Tohle je plukovník Kuzněcov! Mám pro tebe naléhavý rozkaz. Jeden z našich bratrů byl zraněn a otráven nějakým novým druhem Upíra. Náš lékař mu nemůže pomoci. Kontaktoval jsem profesora Sakharova s žádostí o pomoc a existuje šance, že jeho experimentální léčba by mohla našemu bratrovi pomoci.\n \nMusíš se okamžitě vydat směrem k Yantar a doprovodit skupinu vědců zpět k naší základně. Neselžeš, vojáku!</text>
+</string>
+<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_scientists_response">
+    <text>Ahoj, mladíku! Dostal jsem informace o tvém příjezdu od plukovníka Kuzněcova. Moji asistenti mají všechno, co potřebují k vyléčení tvého přítele, a brzy k tobě přistoupí.</text>
+</string>
+<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_urgent_orders_fail">
+    <text>Jsi pozdě, vojáku... náš lékař právě potvrdil úmrtí. Měj se na pozoru, aby tě vyšší velitelství nevolalo k soudnímu procesu.</text>
+</string>
+
+<string id="bar_visitors_barman_stalker_trader_task_baba_yaga_name">
+    <text>Baba Jaga</text>
+</string>
+<string id="bar_visitors_barman_stalker_trader_task_baba_yaga_text">
+    <text>Někteří stalkeri byli pozorováni, jak večer kolem anomálie Čarodějky Jelly zmizí doslova ve vzduchu, když se pokoušeli chytit zdánlivě volný artefakt. Musím zjistit, co se děje.</text>
+</string>
+<string id="bar_visitors_barman_stalker_trader_task_baba_yaga_about">
+    <text>Když trávíte všechny své dny na místě jako tohle, slyšíte spoustu zajímavých příběhů. Většina z nich jsou čirá nesmyslnost, ale jeden přišel od samotného Řezníka. Ten chlap je tady celkem legenda... tvrďák, který udělal ze Smetiště obyvatelné místo... alespoň do určité míry.\n \nTeď k příběhu - právě před tím, než to vzdal, Řezník šel ven z hangáru na cigaretu. Uviděl skupinu nováčků z dálky, kteří zastavili u anomálie Čarodějky Jelly, aby vyzvedli artefakt. Poté, co jeden z nich sáhl pro něj, zmizeli v krátkém blesku. Jejich křik byl slyšet z lesa několik sekund. Řezník věděl, že je už pozdě na jejich zachránění, tak tam stál a čekal. Na krátký okamžik viděl štíhlou siluetu staré ženy. Neměl chuť honit ducha v noci, tak šel tam další den, jen aby našel holé kosti stalkerů. Pokusil se během dne lovit příšeru, ale nikdy se neukázala. Varoval všechny stalkery, kteří tudy prošli, a tak se mezi nimi narodil příběh o Babě Jaze - víte... té strašidelné staré dámě z pohádek pro děti, co žije na bažině nebo v lese a unáší děti, které jdou příliš daleko od domova.\n \nŘezník mě navštívil nedávno. Snažil se zjistit, co to místo straší, ale zdá se, že příšera je dost chytrá na to, aby se vyhnula té vražedné mašinérii. Jelikož Rostok navštěvuje mnohem zkušenější stalkři, požádal mě, abych našel někoho ochotného vypořádat se s tou starou čarodějkou. Co ty na to?</text>
+</string>
+<string id="bar_visitors_barman_stalker_trader_task_baba_yaga_finish">
+    <text>Takže ta čarodějnice je skutečná! Zóna mě nikdy nepřestane překvapovat. Říkáš, že jsi nenašel tělo? Škoda - doufejme, že se už nikdy nevrátí.\n \n*šepot* Baba Jaga... svatá pětka... *šepot*</text>
+</string>
+<string id="baba_yaga_details">
+    <text>Prozkoumej místo večer</text>
+</string>
+
+
+<string id="mar_smart_terrain_base_stalker_leader_marsh_task_house_of_horrors_name">
+    <text>Dům hrůzy</text>
+</string>
+<string id="mar_smart_terrain_base_stalker_leader_marsh_task_house_of_horrors_text">
+    <text>Na severovýchodním kontrolním stanovišti bylo nalezeno vyvrácené tělo člena Clear Sky. Cold mě požádal, abych zjistil, co se tam venku poflakuje při noci.</text>
+</string>
+<string id="mar_smart_terrain_base_stalker_leader_marsh_task_house_of_horrors_about">
+    <text>Víte, bažina byla vždycky dost nebezpečné místo. Tvrdě jsme bojovali, abychom zde vybudovali naši základnu a zajistili okolí. V poslední době se k nám mutanti zřídka dostávají blízko. Renegádi stále občas útočí naši vnější stanici, ale vždy litují svých rozhodnutí.\n \nApropos - v poslední době se tam děje něco divného. Naši kluci hlásí tajemné štěkání a šepoty, které se ozývají z nikde. Vzhledem k tomu, že se v okolí nenašli žádní mutanti, nechávali jsme to být... dokud nebylo nalezeno vykrvácené tělo jednoho z našich strážných za budovou, když šel v noci na močení a dlouho se nevracel.\n \nTehdy jsem si vzpomněl na jednu věc... Když byl Lebedev naším vůdcem, jeden starý loner přišel do naší hospody a vyprávěl příběh o klidné rodině s psem, která tam žila před havárií v Černobylu. Ten muž také začal slyšet hlasy, které ho dohnaly k šílenství. Ztratil rozum a v noci zabil celou svou rodinu, včetně psa. Druhý den, když si uvědomil, co udělal, oběsil se... Mám špatný pocit, že by tyto incidenty mohly být spojeny. Stále musíme to místo hlídat, ale nemohu riskovat ztrátu dalšího muže. Jsi ochoten se podívat na věc?</text>
+</string>
+<string id="mar_smart_terrain_base_stalker_leader_marsh_task_house_of_horrors_finish">
+    <text>Asi ten stařík říkal pravdu... co za příběh. Budeme muset zvýšit bezpečnost na místě, aby se to už nikdy nestalo. Tady - tohle je pro tebe.</text>
+</string>
+<string id="house_of_horrors_details">
+    <text>Prozkoumej místo v noci</text>
+</string>
+
+<string id="zat_a2_stalker_barmen_task_mirage_name">
+    <text>Miráž</text>
+</string>
+<string id="zat_a2_stalker_barmen_task_mirage_text">
+    <text>Zachráněný lovec artefaktů tvrdí, že byl postřelen dalším stalkrem, který vypadal přesně jako on. Beard mě požádal, abych navštívil místo a podíval se kolem.</text>
+</string>
+<string id="zat_a2_stalker_barmen_task_mirage_about">
+    <text>%c[0,255,255,255]!!Pokud hraješ Call of Pripyat přiběh tak nesmíš vzít tento quest!!:\n Mám pro tebe úkol. Jak už možná víš, vždycky mám nějaké kontrakty od sběratelů na nějaké vzácné artefakty a není lepší místo, kde bych je našel. Jeden z mých kontraktorů byl nedávno přiveden zpátky s kulkou v břiše po výpravě do Železného lesa. Ten parchant měl štěstí, že ho někdo zachytil jeho SOS signálem. Po probuzení z narkózy řekl nějaký neuvěřitelný příběh.\n \nTvrdí, že když se skláníl, aby sebral artefakt, slyšel někoho, kdo ho volá. Když se otočil, osoba stála nedaleko za ním a mířila na něj pistolí. Okamžitě se zbláznil, když si uvědomil, že tato osoba vypadala přesně jako on, ale nestihl panikařit, protože hned poté dostal kuli. Když spadl a podíval se zpátky, střelec nikde nebyl vidět. Okamžitě poslal SOS a ne dlouho poté omdléval. Byl nalezen skupinou, která nebyla daleko odtud. Zachránci tvrdili, že všichni slyšeli nějaké šepty, když opouštěli místo, ale nechtěli tak rychle zjistit, co to bylo. Tady máš dohodu - zjisti, co se tam skrývá, a dostaneš pěkné peníze, co?</text>
+</string>
+<string id="zat_a2_stalker_barmen_task_mirage_finish">
+    <text>Wow... věděl jsem, že burery dokážou manipulovat hmotou, ale neočekával jsem, že mohou dělat tohle do té míry! Nemyslím si, že mi věří návštěvníci, když jim budu vyprávět tvůj příběh. Tady, vydělal jsi to.\n \nŠťastnou honbu, stalker... *smích*</text>
+</string>
+<string id="mirage_details">
+    <text>Prozkoumej místo</text>
+</string>
+
+<string id="jup_b220_trapper_task_big_game_name">
+    <text>Velká Kořist</text>
+</string>
+<string id="jup_b220_trapper_task_big_game_text">
+    <text>Skupina pseudogigantů se uhnízdila v jižním železničním tunelu v Jupiteru. Trapper mě požádal, abych se o ně postaral.</text>
+</string>
+<string id="jup_b220_trapper_task_big_game_about">
+    <text>Máš zájem zlepšit své lovecké dovednosti? Vědci z bunkru hlásili hlasité dunění a řevy, které vycházely z jižního železničního tunelu, a nabídli vysokou cenu komukoli, kdo bude ochoten prozkoumat místo a postarat se o potenciální hrozbu. Bez pochyb to musí být pseudogigant... nebo dokonce pár z nich. Skvělá příležitost pro zdokonalení svých dovedností v lovu těchto majestátních, ale nebezpečných monster. Co říkáš? Jsi připraven na lov velké zvěře?</text>
+</string>
+<string id="jup_b220_trapper_task_big_game_finish">
+    <text>Co za příběh! Nemyslel jsem, že pseudogiganti mohou dosahovat takových velikostí... teď lituji, že jsem se nevrátil z důchodu jen proto, abych si toto zabití nechal pro sebe. Každopádně, tady máš odměnu.</text>
+</string>
+<string id="big_game_details">
+    <text>Prozkoumej místo</text>
+</string>
+
+
+<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_enforce_embargo_name">
+    <text>Prosazování Embarga</text>
+</string>
+<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_enforce_embargo_text">
+    <text>Jeden stalker plánuje prodat artefakt sběrateli ze zóny. Musím ho zastavit a přinést zpět plukovníkovi.</text>
+</string>
+<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_enforce_embargo_about">
+    <text>Neměj strach, vojáku. Je jedna věc, kterou je třeba vyřešit. Náš tajný agent odposlechl rozhovor dvou stalkerů v baru 100 Rads. Hovořili o svém posledním kontraktu na doručení jedné z těch lesklých věcí zvaných artefakty sběrateli za hranicí - docela neobvyklý sběratel, abych byl přesný. A to je místo, kde vstupujeme my. Musíš tu věc zastavit a přinést mi ji zpět, rozuměl?</text>
+</string>
+<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_enforce_embargo_finish">
+    <text>Skvělá práce, vojáku - pokračuj takhle. Odejdi.</text>
+</string>
+
+<string id="esc_m_trader_task_cold_blooded_betrayal_name">
+    <text>Chladnokrevná zrada</text>
+</string>
+<string id="esc_m_trader_task_cold_blooded_betrayal_text">
+    <text>Sidorovič mě požádal, abych přivedl bývalého lonera, který zabil své spolubojovníky, před soud. Musím také přinést zpět artefakt, který byl příčinou jeho zločinů.</text>
+</string>
+<string id="esc_m_trader_task_cold_blooded_betrayal_about">
+    <text>Mám pro tebe docela neobvyklý úkol na hledání artefaktů. Dostal jsem žádost o neobvyklý artefakt od klienta za hranicí a smlouvu brzy na to převzala skupina dvou nováčků vedená nějakým zkušenějším chlapem. O dvě dny později jsem od nich dostal zprávu, že ho našli kolem Smetiště a druhý den se vrací. Byl jsem trochu překvapen... obvykle tam najdeš jen nějaký odpad.\n \nTeď k zajímavé části. Rozhodli se přenocovat v hangáru. Řezník zmínil, že jeden z nich byl zejména nervózní po neshodě s vedoucím skupiny. Právě chvíli před tím, než šel spát, slyšel výstřely směrem od ohniště a hlasité kroky někoho, kdo vyběhl z hangáru. Když dorazil ke kempu s pistolí v rukou, uviděl pouze dvě těla a žádné z nich nebylo ten podezřelý chlapík, na kterého si pamatoval. Na těle vedoucího našel poznámku o kontraktu a informoval mě o incidentu.\n \nTen parchant pravděpodobně poprvé viděl artefakt jako tento a rozhodl se zabít své bratry, jen aby si ho ukořistil, a zároveň mě podrazil. To byla jeho poslední chyba. Vstřel mu do hlavy a přineste zpět to, co ukradl.</text>
+</string>
+<string id="esc_m_trader_task_cold_blooded_betrayal_finish">
+    <text>Takže spravedlnost byla naplněna... Dobrá práce, stalkeru.</text>
+</string>
+
+<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_shakedown_name">
+    <text>Vyšetřování</text>
+</string>
+<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_shakedown_text">
+    <text>Olivius chce, abych mu přinesl artefakt, který vědci našli na území banditů.</text>
+</string>
+<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_shakedown_about">
+    <text>Poslouchej, kámo. Jak už asi víš, nazýváme toto místo naším a bereme to vážně. Občas máme návštěvníky, kteří se zdají nerozumět, a obvykle to pro ně končí špatně. Naši kluci zahlédli skupinu vědců, kteří šmátrají kolem Glowing Pit. Protože obvykle nosí nějaké pokročilé detektory artefaktů a to místo je dost nebezpečné, naši kluci se rozhodli nechat vědce udělat tu špinavou práci a pak si vzít cokoli, co našli, z jejich mrtvých těl. Když zahlédli, že naši hosté balí nějaké třpytivé dobrůtky do olověné bedny, jeden z našich nejlepších střelců zdvihl své SKS, připravujíc se k výstřelu. Právě v tom samém okamžiku mu doslova explodovala hlava... dostal odstřelovačskou kouli do hlavy. Zbytek jeho skupiny nevěděl, odkud výstřel přišel, takže utekli o život, jak nejrychleji mohli. Když se větší skupina vrátila zpět, nikde je nenašla. Vzali si také věci našeho mrtvého bratra.\n \nMy bereme věci od ostatních - ne obráceně... Najdi ty parchanty, nauč je této lekci a přineste mi bednu zpět.</text>
+</string>
+<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_shakedown_finish">
+    <text>Haha - tady to je. Nevrátí našeho bratra k životu, ale rozhodně povznese náladu kolem.</text>
+</string>
+
+
+	<string id="yan_stalker_sakharov_task_stolen_specimen_name">
+    <text>Ukradený Exemplář</text>
+</string>
+<string id="yan_stalker_sakharov_task_stolen_specimen_text">
+    <text>Vědci přišli o vzácný artefakt od skupiny Sin. Souhlasil jsem s jeho získáním zpět.</text>
+</string>
+<string id="yan_stalker_sakharov_task_stolen_specimen_about">
+    <text>Myslím, že pro tebe mám práci. Nedávno jsme vyslali expedici do Limansku s cílem provést některá měření anomálních aktivit v této oblasti. Jelikož jde o místo trvalé bitvy mezi žoldnéři a silami Monolitu, rozhodli jsme se najmout několik expertů z jejich řad, aby kryli naše kolegy. Vše šlo podle plánu... až do určitého bodu.\n \nNaši kluci získali potřebná data a našli docela vzácný artefakt. Když se připravovali k odchodu, silná emise zasáhla místo. Schovali se v suterénu nedaleké budovy. Když věci utichly, žoldnéři vyšli ven, aby prozkoumali okolí. Není to dlouho, co naši kolegové slyšeli střelbu. Nestihli ani vzít své zbraně, když do suterénu dopadla granáta, roztrhala dvěma vědcům těla na kusy. Poslední - sotva naživu - se plazil ke vzdálené zdi, pevně se držíc kontejneru s artefaktem. Tři muži s bledými tvářemi vstoupili do suterénu, míříc na něj zbraně. Když jejich vůdce uviděl kontejner, vztáhl rukou a ukázal na něj. Přeživší, aniž by dvakrát přemýšlel, hodil krabici k němu, už vyslovujíc své modlitby. Fanatikové však jeho život neukončili, viděli, že už umírá. Chytili krabici a odešli v tichu. Náš kluk v té chvíli omdlel a byl nalezen nedalekou skupinou žoldáků, kteří na místo dorazili pozdě. Naštěstí je naživu.\n \nTady je má žádost. Potřebujeme ten artefakt zpět. Je to klíčový odkaz pro shromážděná data. Krabice měla na sobě GPS stopačku, takže budeš schopen najít ty fanatiky. Jsem pacifista, ale s nevědomou vírou není žádné jednání. Udělej, co musíš udělat.</text>
+</string>
+<string id="yan_stalker_sakharov_task_stolen_specimen_finish">
+    <text>Skvělá práce, chlape. Teď můžeme pokračovat v našem výzkumu... na památku našich padlých kolegů.</text>
+</string>
+
+<string id="trader_pri_a15_mlr_task_blood_stained_coin_name">
+    <text>Krvavá mince</text>
+</string>
+<string id="trader_pri_a15_mlr_task_blood_stained_coin_text">
+    <text>Kasiér mě pověřil získáním vzácného artefaktu, který byl odebrán skupinou vědců ze skupiny ISG.</text>
+</string>
+<string id="trader_pri_a15_mlr_task_blood_stained_coin_about">
+    <text>Vypadáš jako někdo, kdo rád podstupuje riziko, že? Mám pro tebe velmi lukrativní smlouvu na vzácný artefakt. Ve skutečnosti mi jiný stalker přinesl ten artefakt před pár dny. Mohl bys se ptát, proč je smlouva stále platná, že? No... skupina velmi nebezpečných lidí sledovala tohoto stalkera. Když jsme se sem chystali uzavřít obchod, vtrhli dovnitř a všechny překvapili. Bylo ihned znát, že jsou všichni experti ve svém řemesle - nosili špičkové brnění a hlavně. Ani jedna střela však nezazněla - věděli jsme, že jsme odsouzeni, takže jsme se vzdali. Jejich vůdce pomalu přišel ke mně, udeřil mě do obličeje svou železnou pěstí a vzal kontejner s artefaktem a platbou, která byla připravena pro stalkera. Varoval nás, že pokud by je někdo následoval, nechali by zde nikoho naživu. Takže jsme tam zůstali celý den...\n \nPůvodní smluvník nebyl spokojen s tím, jak se věci vyvinuly. Krabice měla na sobě GPS stopačku, takže vyrazil hledat tyto lidi. Vzhledem k tomu, že jsem ho už dlouho neviděl, předpokládám, že kousá trávu. Neměli jsme štěstí najít podobný artefakt a klient ztrácí trpělivost. Takže jsem přemýšlel - byl bys ochoten jim to vrátit jménem mého jména a přinést zpět balíček?</text>
+</string>
+<string id="trader_pri_a15_mlr_task_blood_stained_coin_finish">
+    <text>Jsem ohromen, stalker. Nečekal jsem, že tě uvidím zpět naživu. Tady - zasloužil jsi si to.</text>
+</string>
+
+
+	<string id="jup_a6_stalker_barmen_task_the_keepsake_name">
+    <text>Památný předmět</text>
+</string>
+<string id="jup_a6_stalker_barmen_task_the_keepsake_text">
+    <text>Souhlasil jsem, že pomstím smrt bratra určitého stalkera a přinesu zpět příčinu jeho smrti jako památný předmět.</text>
+</string>
+<string id="jup_a6_stalker_barmen_task_the_keepsake_about">
+    <text>Poslechni, příteli. Nebudeš se bát zabít pro peníze, že? Zvláště pokud jde o odporný havěť...\nVěc je taková - před pár dny navštívil Yanov nějaký stalker. Jeho tvář byla bezvýrazná... věděl jsem, že viděl nějakou svině. Přišel ke mně a objednal dvě láhve vodky. Jen tu stál v tichu, každou chvíli si udělal doušek, díval se na dno svého kofolu. Neuběhla ani hodina, když jedna láhev byla pryč. Pak konečně prolomil mlčení těmito slovy - "Dnes jsem ztratil bratra... ne jako pravého přítele, ale jako skutečného bratra...". Poté pokračoval tím, že mi vyprávěl celý příběh. Přišli do Jupiteru na svou poslední smlouvu předtím, než opustí Zónu. Dohodli se, že najdou velmi vzácný artefakt za dobrou cenu a toto místo se zdálo být pro tuto úlohu perfektní - dostatečně na sever a relativně bezpečné. Po několika dnech hledání našli jeden na anomálii Konkrétní koupel... nebo spíše jeho bratr našel jeden, když šel trochu dál do křoví, aby si udělal svou potřebu. Když se chystal vrátit, uslyšel výstřel od odstřelovací pušky a krátce poté viděl svého bratra padat na zem. Skryl se znovu ve křoví. K jeho tělu se přiblížila skupina těžce obrněných fanatiků z Monolitu. Stalker věděl, že v tomto okamžiku nemůže nic udělat. Vzali kontejner s artefaktem, hodili tělo do anomálie a krátce poté odešli. Než se mu podařilo přiblížit, tělo jeho bratra se už rozplynulo.\n \nV této fázi mu už nezáleželo na smlouvě. Tady nechal slušnou částku peněz s kontaktními údaji a řekl, že kdokoli zabije ty parchanty a přinese zpět artefakt, může si ho vzít. Chce ho jako památku. Co na to říkáš? Vypadá to jako velmi ušlechtilá věc. Krabice měla na sobě lokalizátor, takže nebudeš mít problémy najít cíl, i když se možná budeš muset vydat na nějaké nebezpečné místo.</text>
+</string>
+<string id="jup_a6_stalker_barmen_task_the_keepsake_finish">
+    <text>Dnes jsi udělal dobrou věc, stalker. Náš přítel už opustil Zónu, ale já se postarám o to, aby se mu dostal balíček.</text>
+</string>
+
+<string id="nta_intercept_item">
+    <text>Interceptovat předmět:</text>
+</string>
+
+</string_table>

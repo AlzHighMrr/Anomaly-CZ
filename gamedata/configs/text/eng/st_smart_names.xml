@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+	<string id="monster_zombied_night">
+		<text>Nocturnal humanoid</text>
+	</string>
+	<string id="monster_zombied_day">
+		<text>Diurnal humanoid</text>
+	</string>
+	<string id="monster_predatory_night">
+		<text>Nocturnal predator</text>
+	</string>
+	<string id="monster_predatory_day">
+		<text>Diurnal predator</text>
+	</string>
+	<string id="monster_vegetarian">
+		<text>Herbivorous mutant</text>
+	</string>
+<string id="zoo_monster">
+<text>Mutant</text>
+</string>
+<string id="monster_special">
+<text>Speciální mutant</text>
+</string>
+
+<string id="st_sq_enemy">
+	<text>Nepřítel</text>
+</string>
+<string id="st_sq_friends">
+	<text>Přítel</text>
+</string>
+<string id="st_sq_neutral">
+	<text>Neutrální</text>
+</string>
+<string id="st_sq_count">
+	<text>Počet = </text>
+</string>
+<string id="st_sq_count_companions">
+	<text>Počet společníků: </text>
+</string>
+<string id="st_sq_target">
+	<text>Cíl</text>
+</string>
+<string id="st_sq_type">
+	<text>Druh:</text>
+</string>
+
+
+<string id="st_sm_faction">
+	<text>Frakce:</text>
+</string>
+<string id="st_sm_squad_count">
+	<text>Kapacita=</text>
+</string>
+<string id="st_sm_max_population">
+	<text>z_</text>
+</string>
+<string id="st_sm_respawn">
+	<text>Čas k obnovení %d h %d min %.0f sekund</text>
+</string>
+
+
+	<string id="st_squad_show_1">
+		<text>clear_sky_1</text>
+	</string>
+	<string id="st_squad_show_2">
+		<text>clear_sky_2</text>
+	</string>
+	<string id="st_squad_show_3">
+		<text>warfare_1</text>
+	</string>
+	<string id="st_squad_show_4">
+		<text>warfare_2</text>
+	</string>
+	<string id="st_squad_show_5">
+		<text>only_natural</text>
+	</string>
+	<string id="st_squad_show_0">
+		<text>Skrýt</text>
+	</string>
+<string id="ui_mm_squad_on_map">
+	<text>Skupiny na mapě</text>
+</string>
+<string id="ui_mm_smarts_on_map">
+	<text>Zobrazit inteligenci</text>
+</string>
+
+
+
+
+<string id="st_esc_smart_terrain_3_16_name">
+    <text>Kordon. Armádní stanoviště</text>
+</string>
+<string id="st_esc_smart_terrain_2_12_name">
+    <text>Kordon. Střed vesnice</text>
+</string>
+<string id="st_esc_smart_terrain_4_13_name">
+    <text>Kordon. Stanový tábor</text>
+</string>
+<string id="st_esc_smart_terrain_2_14_name">
+    <text>Kordon. Táborák pod stromem</text>
+</string>
+<string id="st_esc_smart_terrain_4_11_name">
+    <text>Kordon. Tábor poblíž dodávky</text>
+</string>
+<string id="st_esc_smart_terrain_1_11_name">
+    <text>Kordon. Tajný tábor</text>
+</string>
+<string id="st_esc_smart_terrain_5_12_name">
+    <text>Kordon. Tábor stalkerů</text>
+</string>
+<string id="st_esc_smart_terrain_7_11_name">
+    <text>Kordon. Parkoviště vozidel</text>
+</string>
+<string id="st_esc_smart_terrain_5_9_name">
+    <text>Kordon. Výtah</text>
+</string>
+<string id="st_esc_smart_terrain_4_9_name">
+    <text>Kordon. Táborák u mostu</text>
+</string>
+<string id="st_esc_smart_terrain_6_8_name">
+    <text>Kordon. Stanoviště pod mostem</text>
+</string>
+<string id="st_esc_smart_terrain_8_10_name">
+    <text>Kordon. Kopec za benzínkou</text>
+</string>
+<string id="st_esc_smart_terrain_8_9_name">
+    <text>Kordon. Tábořiště u náspu</text>
+</string>
+<string id="st_esc_smart_terrain_9_7_name">
+    <text>Kordon. Odlehlé tábořiště</text>
+</string>
+<string id="st_esc_smart_terrain_6_6_name">
+    <text>Kordon. Opuštěné domy</text>
+</string>
+<string id="st_esc_smart_terrain_5_7_name">
+    <text>Kordon. Prasečí Farma</text>
+</string>
+<string id="st_esc_smart_terrain_3_7_name">
+    <text>Kordon. Táborák v lese</text>
+</string>
+<string id="st_esc_smart_terrain_5_6_name">
+    <text>Kordon. Bivak na louce</text>
+</string>
+<string id="st_esc_smart_terrain_5_4_name">
+    <text>Kordon. Táborák u silnice</text>
+</string>
+<string id="st_esc_smart_terrain_5_2_name">
+    <text>Kordon. Předsunuté stanoviště</text>
+</string>
+
+<string id="st_ds_ptr4_name">
+    <text>Darkscape. Opuštěný nákladní vůz</text>
+</string>
+<string id="st_ds2_lager_st_name">
+    <text>Darkscape. Tábor na útesu</text>
+</string>
+<string id="st_ds2_st_dogs_name">
+    <text>Darkscape. Lesní shromaždiště</text>
+</string>
+<string id="st_ds_grverfer2_name">
+    <text>Darkscape. Shromaždiště u silnice</text>
+</string>
+<string id="st_ds_ptr2_name">
+    <text>Darkscape. Odpočinková oblast</text>
+</string>
+<string id="st_ds_deb1_name">
+    <text>Darkscape. Silniční blokáda</text>
+</string>
+<string id="st_ds_kem2_name">
+    <text>Darkscape. Benzínová stanice</text>
+</string>
+<string id="st_ds2_domik_st_name">
+    <text>Darkscape. Lesní úkryt</text>
+</string>
+<string id="st_ds_boars_nest_name">
+    <text>Darkscape. Shromaždiště na útesu</text>
+</string>
+<string id="st_ds2_st_hoofs_name">
+    <text>Darkscape. Místo na zasednutí</text>
+</string>
+<string id="st_ds_ptr_name">
+    <text>Darkscape. Zřícený železniční most</text>
+</string>
+<string id="st_ds_ptr3_name">
+    <text>Darkscape. Radiaktivní kamionové zastávka</text>
+</string>
+<string id="st_ds_kem3_name">
+    <text>Darkscape. Malý most</text>
+</string>
+<string id="st_ds_kem1_name">
+    <text>Darkscape. Průchod temnou údolím</text>
+</string>
+
+
+<string id="st_mar_smart_terrain_base_name">
+	<text>Velké bažiny. Skrytá základna</text>
+</string>
+<string id="st_mar_smart_terrain_5_12_name">
+	<text>Velké bažiny. Rybářská víska</text>
+</string>
+<string id="st_mar_smart_terrain_6_11_name">
+	<text>Velké bažiny. Rozhledna</text>
+</string>
+<string id="st_mar_smart_terrain_8_11_name">
+	<text>Velké bažiny. Zničený kostel</text>
+</string>
+<string id="st_mar_smart_terrain_11_11_name">
+	<text>Velké bažiny. Jižní vesnice</text>
+</string>
+<string id="st_mar_smart_terrain_10_10_name">
+	<text>Velké bažiny. Táborák na břehu</text>
+</string>
+<string id="st_mar_smart_terrain_8_9_name">
+	<text>Velké bažiny. Začátek stezky</text>
+</string>
+<string id="st_mar_smart_terrain_6_10_name">
+	<text>Velké bažiny. Malý rybník</text>
+</string>
+<string id="st_mar_smart_terrain_3_10_name">
+	<text>Velké bažiny. Rozcestí</text>
+</string>
+<string id="st_mar_smart_terrain_doc_2_name">
+	<text>Velké bažiny. Opuštěná rozhledna</text>
+</string>
+<string id="st_mar_smart_terrain_5_8_name">
+	<text>Velké bažiny. Čerpací stanice</text>
+</string>
+<string id="st_mar_smart_terrain_6_8_name">
+	<text>Velké bažiny. Holý ostrov</text>
+</string>
+<string id="st_mar_smart_terrain_8_8_name">
+	<text>Velké bažiny. Vypálený statek</text>
+</string>
+<string id="st_mar_smart_terrain_10_7_name">
+	<text>Velké bažiny. Tábořiště v bažině</text>
+</string>
+<string id="st_mar_smart_terrain_3_7_name">
+	<text>Velké bažiny. Ostrov z balvanů</text>
+</string>
+<string id="st_mar_smart_terrain_4_7_name">
+	<text>Velké bažiny. Bivak na kládě</text>
+</string>
+<string id="st_mar_smart_terrain_6_7_name">
+	<text>Velké bažiny. Příbřežní barikády</text>
+</string>
+<string id="st_mar_smart_terrain_7_7_name">
+	<text>Velké bažiny. Tábořiště v pustině</text>
+</string>
+<string id="st_mar_smart_terrain_10_5_name">
+	<text>Velké bažiny. Strojový dvůr</text>
+</string>
+<string id="st_mar_smart_terrain_8_4_name">
+	<text>Velké bažiny. Tábořiště v rákosí</text>
+</string>
+<string id="st_mar_smart_terrain_6_4_name">
+	<text>Velké bažiny. Improvizovaný tábor</text>
+</string>
+<string id="st_mar_smart_terrain_4_5_name">
+	<text>Velké bažiny. Trosky vesnice</text>
+</string>
+<string id="st_mar_smart_terrain_3_3_name">
+	<text>Velké bažiny. Kotviště</text>
+</string>
+<string id="st_mar_smart_terrain_doc_name">
+	<text>Velké bažiny. Zákop</text>
+</string>
+<string id="st_mar_smart_terrain_12_2_name">
+	<text>Velké bažiny. Severní statek</text>
+</string>
+<string id="st_mar_smart_terrain_11_3_name">
+	<text>Velké bažiny. Tábořiště u náklaďáku</text>
+</string>
+<string id="st_mar_smart_terrain_7_3_name">
+	<text>Velké bažiny. Tábořiště pod náspem</text>
+</string>
+
+<string id="st_gar_smart_terrain_3_7_name">
+	<text>Smetiště. Ostrov z balvanů</text>
+</string>
+<string id="st_gar_smart_terrain_6_7_name">
+	<text>Smetiště. Vyhlídkové místo</text>
+</string>
+<string id="st_gar_smart_terrain_5_6_name">
+	<text>Smetiště. Spadlý jeřáb</text>
+</string>
+<string id="st_gar_smart_terrain_6_6_name">
+	<text>Smetiště. Lesní úkryt</text>
+</string>
+<string id="st_gar_smart_terrain_1_7_name">
+	<text>Smetiště. Improvizovaná základna</text>
+</string>
+<string id="st_gar_smart_terrain_3_5_name">
+	<text>Smetiště. Vlakové depo</text>
+</string>
+<string id="st_gar_smart_terrain_2_4_name">
+	<text>Smetiště. Úkryt za potrubím</text>
+</string>
+<string id="st_gar_smart_terrain_1_5_name">
+	<text>Smetiště. Silniční blokáda</text>
+</string>
+<string id="st_gar_smart_terrain_4_5_name">
+	<text>Smetiště. Autobusová zastávka</text>
+</string>
+<string id="st_gar_smart_terrain_5_5_name">
+	<text>Smetiště. Tábor</text>
+</string>
+<string id="st_gar_smart_terrain_7_4_name">
+	<text>Smetiště. Malá základna</text>
+</string>
+<string id="st_gar_smart_terrain_6_3_name">
+	<text>Smetiště. Bleší trh</text>
+</string>
+<string id="st_gar_smart_terrain_6_1_name">
+	<text>Smetiště. Skrytý tábor</text>
+</string>
+<string id="st_gar_smart_terrain_5_2_name">
+	<text>Smetiště. Opevněná základna</text>
+</string>
+<string id="st_gar_smart_terrain_4_2_name">
+	<text>Smetiště. Štěrkový důl</text>
+</string>
+<string id="st_gar_smart_terrain_5_4_name">
+	<text>Smetiště. Okrajová poštovní stanice</text>
+</string>
+<string id="st_gar_smart_terrain_8_3_name">
+	<text>Smetiště. Západní základna</text>
+</string>
+<string id="st_gar_smart_terrain_8_5_name">
+	<text>Smetiště. Lesní tábor</text>
+</string>
+<string id="st_gar_smart_terrain_5_8_name">
+	<text>Smetiště. Přechod</text>
+</string>
+
+<string id="st_agr_smart_terrain_6_4_name">
+	<text>Agroprom. Slepý konec tunelu</text>
+</string>
+<string id="st_agr_smart_terrain_5_3_name">
+	<text>Agroprom. Barikáda z vagónu</text>
+</string>
+<string id="st_agr_smart_terrain_5_2_name">
+	<text>Agroprom. Kruh z kamenů</text>
+</string>
+<string id="st_agr_smart_terrain_2_2_name">
+	<text>Agroprom. Tábořiště poblíž balvanu</text>
+</string>
+<string id="st_agr_smart_terrain_1_2_name">
+	<text>Agroprom. Tábor v bažině</text>
+</string>
+<string id="st_agr_smart_terrain_1_3_name">
+	<text>Agroprom. Staré tábořiště</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_near_1_name">
+	<text>Agroprom. Severní vchod</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_name">
+	<text>Agroprom. Výzkumný ústav</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_near_2_name">
+	<text>Agroprom. Východní vchod</text>
+</string>
+<string id="st_agr_smart_terrain_4_6_name">
+	<text>Agroprom. Kontrolní stanoviště</text>
+</string>
+<string id="st_agr_smart_terrain_5_7_name">
+	<text>Agroprom. Stanoviště u díry</text>
+</string>
+<string id="st_agr_smart_terrain_7_5_name">
+	<text>Agroprom. Tábořiště na kopci</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_name">
+	<text>Agroprom. Tovární Komplex</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_near_3_name">
+	<text>Agroprom. Vstup do továrny</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_2_name">
+	<text>Agroprom. Zadní východ</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_near_1_name">
+	<text>Agroprom. Okolí železničního nástupiště</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_near_2_name">
+	<text>Agroprom. Cesta z Agropromu</text>
+</string>
+
+
+<string id="st_val_smart_terrain_7_4_name">
+	<text>Temné údolí. Severní továrna</text>
+</string>
+<string id="st_val_smart_terrain_7_3_name">
+	<text>Temné údolí. Sklad továrny</text>
+</string>
+<string id="st_val_smart_terrain_9_4_name">
+	<text>Temné údolí. Strašidelná budova</text>
+</string>
+<string id="st_val_smart_terrain_7_5_name">
+	<text>Temné údolí. Administrativní blok</text>
+</string>
+<string id="st_val_smart_terrain_8_6_name">
+	<text>Temné údolí. Předsunutá základna továrny</text>
+</string>
+<string id="st_val_smart_terrain_9_2_name">
+	<text>Temné údolí. Vyvrácený strom</text>
+</string>
+<string id="st_val_smart_terrain_6_4_name">
+	<text>Temné údolí. Pohraniční pozorovatelna na kopci</text>
+</string>
+<string id="st_val_smart_terrain_6_5_name">
+	<text>Temné údolí. Tábor v rokli</text>
+</string>
+<string id="st_val_smart_terrain_8_7_name">
+	<text>Temné údolí. Stanový tábor</text>
+</string>
+<string id="st_val_smart_terrain_7_8_name">
+	<text>Temné údolí. Ostrov s rozhlasem</text>
+</string>
+<string id="st_val_smart_terrain_8_9_name">
+	<text>Temné údolí. Osamělý ostrov</text>
+</string>
+<string id="st_val_smart_terrain_1_2_name">
+	<text>Temné údolí. Zadní dvůr továrny</text>
+</string>
+<string id="st_val_smart_terrain_9_6_name">
+	<text>Temné údolí. Tábor poblíž továrny</text>
+</string>
+<string id="st_val_smart_terrain_9_10_name">
+	<text>Temné údolí. Tábor s táborákem na svahu</text>
+</string>
+<string id="st_val_smart_terrain_4_0_name">
+	<text>Temné údolí. Vepřín</text>
+</string>
+<string id="st_val_smart_terrain_5_10_name">
+	<text>Temné údolí. Srazový bod</text>
+</string>
+<string id="st_val_smart_terrain_3_0_name">
+	<text>Temné údolí. Improvizovaný tábor</text>
+</string>
+<string id="st_val_smart_terrain_7_11_name">
+	<text>Temné údolí. Procházka tmavým údolím</text>
+</string>
+<string id="st_yan_smart_terrain_6_4_name">
+	<text>Yantar. Sakharovův bunkr</text>
+</string>
+<string id="st_yan_smart_terrain_3_6_name">
+	<text>Yantar. Nížiny</text>
+</string>
+<string id="st_yan_smart_terrain_4_5_name">
+	<text>Yantar. Převaděčka</text>
+</string>
+<string id="st_yan_smart_terrain_2_5_name">
+	<text>Yantar. Vstup do továrny</text>
+</string>
+<string id="st_yan_smart_terrain_1_6_name">
+	<text>Yantar. Tábor u anomálií</text>
+</string>
+<string id="st_yan_smart_terrain_3_4_name">
+	<text>Yantar. Tovární stodola</text>
+</string>
+<string id="st_yan_smart_terrain_zombi_spawn_name">
+	<text>Yantar. Sesutý tovární jeřáb</text>
+</string>
+<string id="st_yan_smart_terrain_2_4_name">
+	<text>Yantar. Tajemná továrna</text>
+</string>
+<string id="st_yan_smart_terrain_5_5_name">
+	<text>Yantar. Vstup do kanalizace</text>
+</string>
+<string id="st_yan_smart_terrain_4_4_name">
+	<text>Yantar. Hřeben</text>
+</string>
+<string id="st_yan_smart_terrain_5_3_name">
+	<text>Yantar. Jezero Yantar</text>
+</string>
+<string id="st_yan_smart_terrain_6_2_name">
+	<text>Yantar. Výhledový bod</text>
+</string>
+<string id="st_yan_smart_terrain_4_2_name">
+	<text>Yantar. Táborák u anomálie</text>
+</string>
+<string id="st_yan_smart_terrain_snork_u_name">
+	<text>Yantar. Snorčí útočiště</text>
+</string>
+
+
+<string id="st_ros_smart_stalker_killers1_name">
+	<text>Divoká oblast. Staveniště</text>
+</string>
+<string id="st_ros_smart_monster7_name">
+	<text>Divoká oblast. Podchod</text>
+</string>
+<string id="st_ros_smart_snork1_name">
+	<text>Divoká oblast. Radioaktivní přístřešek</text>
+</string>
+<string id="st_ros_smart_killers1_name">
+	<text>Divoká oblast. Vchod</text>
+</string>
+<string id="st_ros_smart_stalker1_name">
+	<text>Divoká oblast. Opuštěný stavební materiál</text>
+</string>
+<string id="st_ros_smart_poltergeist2_name">
+	<text>Divoká oblast. Zchátralá nádraží</text>
+</string>
+<string id="st_ros_smart_monster5_name">
+	<text>Divoká oblast. Sesutý tunel</text>
+</string>
+<string id="st_ros_smart_monster4_name">
+	<text>Divoká oblast. Uhlíkový vlak</text>
+</string>
+
+
+<string id="st_bar_zastava_2_name">
+	<text>Rostok. Západní opěrný bod</text>
+</string>
+<string id="st_bar_zastava_dogs_lair_2_name">
+	<text>Rostok. Útočiště mutantů</text>
+</string>
+<string id="st_bar_visitors_name">
+	<text>Rostok. 100 radů bar</text>
+</string>
+<string id="st_bar_dolg_general_name">
+	<text>Rostok. Vstup do základny</text>
+</string>
+<string id="st_bar_dolg_bunker_name">
+	<text>Rostok. Improvizované kasárny</text>
+</string>
+<string id="st_bar_zastava_name">
+	<text>Rostok. Jižní opěrný bod</text>
+</string>
+<string id="st_bar_zastava_dogs_lair_name">
+	<text>Rostok. Rostovský příkop</text>
+</string>
+
+
+<string id="st_trc_sim_20_name">
+	<text>Hřbitov nákladních aut. Východní kontrolní bod</text>
+</string>
+<string id="st_trc_sim_17_name">
+	<text>Hřbitov nákladních aut. Tábor za sutinami</text>
+</string>
+<string id="st_trc_sim_7_name">
+	<text>Hřbitov nákladních aut. Lesní vyhlídka</text>
+</string>
+<string id="st_trc_sim_21_name">
+	<text>Hřbitov nákladních aut. Zadní části</text>
+</string>
+<string id="st_trc_sim_4_name">
+	<text>Hřbitov nákladních aut. Kopec poblíž spáleného domu</text>
+</string>
+<string id="st_trc_sim_18_name">
+	<text>Hřbitov nákladních aut. Tábor mezi kamiony</text>
+</string>
+<string id="st_trc_sim_1_name">
+	<text>Hřbitov nákladních aut. Pozorovatelna</text>
+</string>
+<string id="st_trc_sim_2_name">
+	<text>Hřbitov nákladních aut. Tábor u kontejnerů</text>
+</string>
+<string id="st_trc_sim_3_name">
+	<text>Hřbitov nákladních aut. Rozcestí</text>
+</string>
+<string id="st_trc_sim_12_name">
+	<text>Hřbitov nákladních aut. Lesní úkryt</text>
+</string>
+<string id="st_trc_sim_10_name">
+	<text>Hřbitov nákladních aut. Lesní zákoutí</text>
+</string>
+<string id="st_trc_sim_11_name">
+	<text>Hřbitov nákladních aut. Hřbitov vojenských vozidel</text>
+</string>
+<string id="st_trc_sim_14_name">
+	<text>Hřbitov nákladních aut. Hřbitov požárních vozů</text>
+</string>
+<string id="st_trc_sim_15_name">
+	<text>Hřbitov nákladních aut. Hřbitov vrtulníků</text>
+</string>
+<string id="st_trc_sim_6_name">
+	<text>Hřbitov nákladních aut. Vyhlídková věž</text>
+</string>
+<string id="st_trc_sim_19_name">
+	<text>Hřbitov nákladních aut. Hřbitov nákladních aut</text>
+</string>
+<string id="st_trc_sim_5_name">
+	<text>Hřbitov nákladních aut. Křižovatka</text>
+</string>
+<string id="st_trc_sim_16_name">
+	<text>Hřbitov nákladních aut. Předměstí hřbitova</text>
+</string>
+<string id="st_trc_sim_9_name">
+	<text>Hřbitov nákladních aut. Kopec</text>
+</string>
+<string id="st_trc_sim_13_name">
+	<text>Hřbitov nákladních aut. Místo setkání u rokle</text>
+</string>
+<string id="st_trc_sim_8_name">
+	<text>Hřbitov nákladních aut. Hřbitov nákladních cisteren</text>
+</string>
+
+
+<string id="st_cit_bandits_2_name">
+	<text>Mrtvé město. Odloučené domy</text>
+</string>
+<string id="st_cit_kanaliz1_name">
+	<text>Mrtvé město. Výhled na město</text>
+</string>
+<string id="st_cit_bandits_name">
+	<text>Mrtvé město. Opuštěná škola</text>
+</string>
+<string id="st_cit_killers_name">
+	<text>Mrtvé město. Sportovní centrum</text>
+</string>
+<string id="st_cit_killers_vs_bandits_name">
+	<text>Mrtvé město. Opuštěný panelový dům</text>
+</string>
+<string id="st_cit_killers_2_name">
+	<text>Mrtvé město. Zničené domy</text>
+</string>
+<string id="st_cit_kanaliz2_name">
+	<text>Mrtvé město. Terénní deprese</text>
+</string>
+<string id="st_zombie_smart_ds_mlr_1_name">
+	<text>Mrtvé město. Mrtvý dvůr</text>
+</string>
+<string id="st_zombie_smart_ds_mlr_2_name">
+	<text>Mrtvé město. Byty</text>
+</string>
+
+<string id="st_mil_smart_terrain_7_4_name">
+	<text>Armádní Skladiště. Opuštěná vesnice</text>
+</string>
+<string id="st_mil_smart_terrain_7_12_name">
+	<text>Armádní Skladiště. Vojenská základna</text>
+</string>
+<string id="st_mil_smart_terrain_8_3_name">
+	<text>Armádní Skladiště. Skrytý úkryt</text>
+</string>
+<string id="st_mil_smart_terrain_2_10_name">
+	<text>Armádní Skladiště. Vesnice kousavých</text>
+</string>
+<string id="st_mil_smart_terrain_4_3_name">
+	<text>Armádní Skladiště. Pozorovatelna ve městě</text>
+</string>
+<string id="st_mil_smart_terrain_4_2_name">
+	<text>Armádní Skladiště. Základní služby ve vesnici</text>
+</string>
+<string id="st_mil_smart_terrain_2_2_name">
+	<text>Armádní Skladiště. Opevněná kontrolní stanoviště</text>
+</string>
+<string id="st_mil_smart_terrain_2_4_name">
+	<text>Armádní Skladiště. Opuštěný statek</text>
+</string>
+<string id="st_mil_smart_terrain_2_1_name">
+	<text>Armádní Skladiště. Úkryt</text>
+</string>
+<string id="st_mil_smart_terrain_2_6_name">
+	<text>Armádní Skladiště. Spadlý vrtulník</text>
+</string>
+<string id="st_mil_smart_terrain_3_8_name">
+	<text>Armádní Skladiště. Bariéra</text>
+</string>
+<string id="st_mil_smart_terrain_4_8_name">
+	<text>Armádní Skladiště. Vyhlídková věž u bariéry</text>
+</string>
+<string id="st_mil_smart_terrain_4_7_name">
+	<text>Armádní Skladiště. Tábor u silnice</text>
+</string>
+<string id="st_mil_smart_terrain_7_8_name">
+	<text>Armádní Skladiště. Vstup do vojenské základny</text>
+</string>
+<string id="st_mil_smart_terrain_7_10_name">
+	<text>Armádní Skladiště. Zničená transformační stanice</text>
+</string>
+<string id="st_mil_smart_terrain_7_7_name">
+	<text>Armádní Skladiště. Společný prostor vojenské základny</text>
+</string>
+<string id="st_mil_smart_terrain_4_5_name">
+	<text>Armádní Skladiště. Tábor na otevřeném prostranství</text>
+</string>
+
+
+<string id="st_rad_entrance_name">
+	<text>Radar. Zničený kontrolní bod</text>
+</string>
+<string id="st_rad_valley_name">
+	<text>Radar. Opuštěný tank</text>
+</string>
+<string id="st_rad_after_valley_name">
+	<text>Radar. Opuštěná vozidla</text>
+</string>
+<string id="st_rad2_prip_teleport_name">
+	<text>Radar. Tajný objekt</text>
+</string>
+<string id="st_rad2_loner_0001_name">
+	<text>Radar. Silniční blok</text>
+</string>
+<string id="st_rad_snork1_name">
+	<text>Radar. Strašidelné útočiště</text>
+</string>
+<string id="st_rad_zombied1_name">
+	<text>Radar. Úkryt mutantů</text>
+</string>
+<string id="st_rad_snork2_name">
+	<text>Radar. Průchod</text>
+</string>
+<string id="st_rad_pseudodogs_name">
+	<text>Radar. Úkryt poblíž vrtulníku</text>
+</string>
+<string id="st_rad_bloodsucker_name">
+	<text>Radar. Srazový bod u plotu</text>
+</string>
+<string id="st_rad_zombied2_name">
+	<text>Radar. Samotné místo</text>
+</string>
+<string id="st_rad_antenna_patrol_name">
+	<text>Radar. Mozkový zmačkovač</text>
+</string>
+<string id="st_rad_antenna_monolith_name">
+	<text>Radar. Vstup do mozkového zmačkovače</text>
+</string>
+<string id="st_rad_antenna_camper_name">
+	<text>Radar. Vstup do tunelu</text>
+</string>
+<string id="st_rad2_loner_0002_name">
+	<text>Radar. Písečné pytle</text>
+</string>
+<string id="st_rad2_loner_0000_name">
+	<text>Radar. Přední stanoviště</text>
+</string>
+<string id="st_rad_valley_dogs_name">
+	<text>Radar. Radar, úkryt psů</text>
+</string>
+<string id="st_red_smart_terrain_6_3_name">
+	<text>Rudý les. Ďábelský tábor</text>
+</string>
+<string id="st_red_smart_terrain_monsters_name">
+	<text>Rudý les. Opuštěný tank</text>
+</string>
+<string id="st_red_smart_terrain_monsters_2_name">
+	<text>Rudý les. Důlní šachta</text>
+</string>
+<string id="st_red_smart_terrain_6_6_name">
+	<text>Rudý les. Ohniště v lese</text>
+</string>
+<string id="st_red_smart_terrain_bridge_name">
+	<text>Rudý les. Limanský most</text>
+</string>
+<string id="st_red_smart_terrain_5_5_name">
+	<text>Rudý les. Skrýš u skal</text>
+</string>
+<string id="st_red_smart_terrain_5_6_name">
+	<text>Rudý les. Lesní mýtina</text>
+</string>
+<string id="st_red_smart_terrain_monsters_3_name">
+	<text>Rudý les. Známá nora</text>
+</string>
+<string id="st_red_smart_terrain_4_5_name">
+	<text>Rudý les. Starý lesní tábor</text>
+</string>
+<string id="st_red_smart_terrain_4_3_name">
+	<text>Rudý les. Prostranství</text>
+</string>
+<string id="st_red_smart_terrain_3_3_name">
+	<text>Rudý les. Místo setkání</text>
+</string>
+<string id="st_red_smart_terrain_4_2_name">
+	<text>Rudý les. Tábor u vchodu</text>
+</string>
+<string id="st_red_smart_terrain_3_1_name">
+	<text>Rudý les. Opuštěný kontrolní bod</text>
+</string>
+<string id="st_red_smart_terrain_3_2_name">
+	<text>Rudý les. Důlní baráky</text>
+</string>
+<string id="st_red_bridge_bandit_smart_skirmish_name">
+	<text>Rudý les. Limanský tunel</text>
+</string>
+
+<string id="st_lim_smart_terrain_1_name">
+    <text>Limansk. Tábor u zničeného domu</text>
+</string>
+<string id="st_lim_smart_terrain_3_name">
+    <text>Limansk. Kontrolní stanoviště</text>
+</string>
+<string id="st_lim_smart_terrain_4_name">
+    <text>Limansk. Bariéra anomálie</text>
+</string>
+<string id="st_lim_smart_terrain_5_name">
+    <text>Limansk. Průchod uvnitř domu</text>
+</string>
+<string id="st_lim_smart_terrain_6_name">
+    <text>Limansk. Opuštěná budova</text>
+</string>
+<string id="st_lim_smart_terrain_7_name">
+    <text>Limansk. Zničený most</text>
+</string>
+<string id="st_lim_smart_terrain_8_name">
+    <text>Limansk. Transformátor u stodol</text>
+</string>
+<string id="st_lim_smart_terrain_9_name">
+    <text>Limansk. Stará staveniště</text>
+</string>
+<string id="st_lim_smart_terrain_10_name">
+    <text>Limansk. Rozpadlý dům</text>
+</string>
+<string id="st_katacomb_smart_terrain_name">
+    <text>Opuštěná nemocnice</text>
+</string>
+<string id="st_pri_smart_neutral_stalker1_name">
+    <text>Pripyat. Tábor vypálené jámy</text>
+</string>
+<string id="st_pri_smart_monolith_stalker2_name">
+    <text>Pripyat. Tábor poblíž Monobloků</text>
+</string>
+<string id="st_pri_smart_monster_lair1_name">
+    <text>Pripyat. Strážní stanoviště u přívěsu</text>
+</string>
+<string id="st_pri_smart_monolith_stalker3_name">
+    <text>Pripyat. Hlavní silnice</text>
+</string>
+<string id="st_pri_smart_controler_lair1_name">
+    <text>Pripyat. Opuštěná budova</text>
+</string>
+<string id="st_pri_smart_monolith_stalker4_name">
+    <text>Pripyat. Předmostí u sochy</text>
+</string>
+<string id="st_pri_depot_name">
+    <text>Pripyat. Autobusové nádraží</text>
+</string>
+<string id="st_pri_smart_controler_lair2_name">
+    <text>Pripyat. Tábor u rezavých autobusů</text>
+</string>
+<string id="st_pri_smart_snork_lair2_name">
+    <text>Pripyat. Sesutý Leninův pomník</text>
+</string>
+<string id="st_pri_smart_tushkano_lair1_name">
+    <text>Pripyat. Hotel Pripyat</text>
+</string>
+<string id="st_pri_smart_snork_lair1_name">
+    <text>Pripyat. Tábor u radioaktivních ruin</text>
+</string>
+<string id="st_pri_monolith_name">
+    <text>Pripyat. Kulturní centrum</text>
+</string>
+<string id="st_pri_smart_monolith_stalker6_name">
+    <text>Pripyat. Vchod do stadionu</text>
+</string>
+<string id="st_pri_smart_pseudodog_lair1_name">
+    <text>Pripyat. Opuštěný tábor</text>
+</string>
+<string id="st_pri_smart_giant_lair1_name">
+    <text>Pripyat. Stadionová aréna</text>
+</string>
+<string id="st_pri_smart_bloodsucker_lair1_name">
+    <text>Pripyat. Starý trh</text>
+</string>
+
+
+<string id="st_gen_smart_terrain_cemetery_name">
+	<text>Generátory. Hřbitov</text>
+</string>
+<string id="st_gen_smart_terrain_junk_name">
+	<text>Generátory. Sesutý jeřáb</text>
+</string>
+<string id="st_gen_smart_terrain_lab_entrance_2_name">
+	<text>Generátory. Opuštěná rozvodna</text>
+</string>
+<string id="st_gen_smart_terrain_lab_entrance_name">
+	<text>Generátory. Výzkumný ústav na povrchu</text>
+</string>
+<string id="st_gen_smart_terrain_forest_name">
+	<text>Generátory. Strašidelné lesní úkryty</text>
+</string>
+<string id="st_gen_smart_terrain_urod_name">
+	<text>Generátory. Pozorovatelna</text>
+</string>
+<string id="st_gen_smart_terrain_military_name">
+	<text>Generátory. Opuštěná kontrolní stanice</text>
+</string>
+<string id="st_warlab_common_consciousness_smart_terrain_name">
+	<text>Monolith Výzkumný ústav</text>
+</string>
+<string id="st_pri_b36_smart_terrain_name">
+	<text>Předměstí. Přístav na řece</text>
+</string>
+<string id="st_pri_sim_2_name">
+	<text>Předměstí. Slepá ulice</text>
+</string>
+<string id="st_pri_a28_heli_name">
+	<text>Předměstí. Dvůr divadla</text>
+</string>
+<string id="st_pri_sim_1_name">
+	<text>Předměstí. Kino Prometheus</text>
+</string>
+<string id="st_pri_b303_name">
+	<text>Předměstí. Starý servisní středisko</text>
+</string>
+<string id="st_pri_a28_evac_name">
+	<text>Předměstí. Parkoviště u bytového domu</text>
+</string>
+<string id="st_pri_b302_name">
+	<text>Předměstí. Úkryt</text>
+</string>
+<string id="st_pri_sim_6_name">
+	<text>Předměstí. Zadní ulička nemocnice</text>
+</string>
+<string id="st_pri_a17_name">
+	<text>Předměstí. Nemocnice</text>
+</string>
+<string id="st_pri_b301_name">
+	<text>Předměstí. Zničená škola</text>
+</string>
+<string id="st_pri_a28_school_name">
+	<text>Předměstí. Vchod do školy</text>
+</string>
+<string id="st_pri_b306_name">
+	<text>Předměstí. Služební středisko Jubileiny</text>
+</string>
+<string id="st_pri_sim_10_name">
+	<text>Předměstí. Ďábelská silnice</text>
+</string>
+<string id="st_pri_sim_12_name">
+	<text>Předměstí. Útočiště mutantů</text>
+</string>
+<string id="st_pri_a16_name">
+	<text>Předměstí. Prádelna</text>
+</string>
+<string id="st_pri_a28_base_name">
+	<text>Předměstí. Předzahrádka prádelny</text>
+</string>
+<string id="st_pri_b35_military_name">
+	<text>Předměstí. Výhled na město</text>
+</string>
+<string id="st_pri_sim_5_name">
+	<text>Předměstí. Monoblokový průchod</text>
+</string>
+<string id="st_pri_a28_shop_name">
+	<text>Předměstí. Opuštěný obchod</text>
+</string>
+<string id="st_pri_a28_arch_name">
+	<text>Předměstí. Stavební oblouk</text>
+</string>
+<string id="st_pri_a22_smart_terrain_name">
+	<text>Předměstí. Tábor mezi bytovými domy</text>
+</string>
+<string id="st_pri_sim_3_name">
+	<text>Předměstí. Brána mateřské školy</text>
+</string>
+<string id="st_pri_a25_smart_terrain_name">
+	<text>Předměstí. Mateřská škola</text>
+</string>
+<string id="st_pri_b307_name">
+	<text>Předměstí. Ohnivý park</text>
+</string>
+<string id="st_pri_sim_7_name">
+	<text>Předměstí. Opuštěné kouty</text>
+</string>
+<string id="st_pri_sim_9_name">
+	<text>Předměstí. Tábor poblíž rozvodny</text>
+</string>
+<string id="st_pri_a21_smart_terrain_name">
+	<text>Předměstí. Potraviny</text>
+</string>
+<string id="st_pri_sim_8_name">
+	<text>Předměstí. Pesí doupě</text>
+</string>
+<string id="st_pri_sim_11_name">
+	<text>Předměstí. Otevřený tábor</text>
+</string>
+<string id="st_pri_a18_smart_terrain_name">
+	<text>Předměstí. Knihkupectví</text>
+</string>
+<string id="st_pri_b304_monsters_smart_terrain_name">
+	<text>Předměstí. Obchodní dům</text>
+</string>
+<string id="st_pri_sim_4_name">
+	<text>Předměstí. Autobusové nádraží</text>
+</string>
+<string id="st_pri_b35_mercs_name">
+	<text>Předměstí. Bytový komplex</text>
+</string>
+<string id="st_pri_b305_dogs_name">
+	<text>Předměstí. Zahrada bytového komplexu</text>
+</string>
+<string id="st_pri_a15_name">
+	<text>Předměstí. Vchod do kanalizace</text>
+</string>
+
+<string id="st_jup_a12_name">
+	<text>Jupiter. Sklad kontejnerů</text>
+</string>
+<string id="st_jup_sim_10_name">
+	<text>Jupiter. Úkryt</text>
+</string>
+<string id="st_jup_a12_merc_name">
+	<text>Jupiter. Silnice u auta</text>
+</string>
+<string id="st_jup_sim__name">
+	<text>Jupiter. Sesuv vlakového tunelu</text>
+</string>
+<string id="st_jup_b203_name">
+	<text>Jupiter. Podzemní větrací komplex</text>
+</string>
+<string id="st_jup_b212_name">
+	<text>Jupiter. Větrací komplex</text>
+</string>
+<string id="st_jup_b32_name">
+	<text>Jupiter. Parkoviště</text>
+</string>
+<string id="st_jup_sim_1_name">
+	<text>Jupiter. Tábor u kolejí</text>
+</string>
+<string id="st_jup_b205_smart_terrain_name">
+	<text>Jupiter. Komplex Volkhov AA</text>
+</string>
+<string id="st_jup_sim_16_name">
+	<text>Jupiter. Tábor u jezera</text>
+</string>
+<string id="st_jup_sim_9_name">
+	<text>Jupiter. Teritorium zombie</text>
+</string>
+<string id="st_jup_b19_name">
+	<text>Jupiter. Vesnice Kopachy</text>
+</string>
+<string id="st_jup_b6_anom_2_name">
+	<text>Jupiter. Vyhlídka Kopachy</text>
+</string>
+<string id="st_jup_b1_name">
+	<text>Jupiter. Severozápadní tunel</text>
+</string>
+<string id="st_jup_b46_name">
+	<text>Jupiter. Chladicí věž</text>
+</string>
+<string id="st_jup_sim_21_name">
+	<text>Jupiter. Samotné útočiště</text>
+</string>
+<string id="st_jup_sim_8_name">
+	<text>Jupiter. Bažina</text>
+</string>
+<string id="st_jup_sim_14_name">
+	<text>Jupiter. Úkryt mutantů</text>
+</string>
+<string id="st_jup_b202_name">
+	<text>Jupiter. Železniční stanice</text>
+</string>
+<string id="st_jup_a6_name">
+	<text>Jupiter. Stanice Yanov</text>
+</string>
+<string id="st_jup_b211_name">
+	<text>Jupiter. Tábor u bažiny</text>
+</string>
+<string id="st_jup_sim_20_name">
+	<text>Jupiter. Rozbořený most</text>
+</string>
+<string id="st_jup_b200_name">
+	<text>Jupiter. Jupiterova vyhlídka</text>
+</string>
+<string id="st_jup_b200_tushkan_smart_terrain_name">
+	<text>Jupiter. Cementárna</text>
+</string>
+<string id="st_jup_sim_7_name">
+	<text>Jupiter. Vyhlídka v lomu</text>
+</string>
+<string id="st_jup_b25_name">
+	<text>Jupiter. Lom</text>
+</string>
+<string id="st_jup_b207_name">
+	<text>Jupiter. Improvizovaná opěrná základna</text>
+</string>
+<string id="st_jup_b207_depot_attack_name">
+	<text>Jupiter. Otevřené pláně</text>
+</string>
+<string id="st_jup_sim_15_name">
+	<text>Jupiter. Vrchol kopce</text>
+</string>
+<string id="st_jup_b206_name">
+	<text>Jupiter. Cestní tábor</text>
+</string>
+<string id="st_jup_a10_smart_terrain_name">
+	<text>Jupiter. Kontrolní stanoviště</text>
+</string>
+<string id="st_jup_b41_name">
+	<text>Jupiter. Hermannův bunkr</text>
+</string>
+<string id="st_jup_sim_6_name">
+	<text>Jupiter. Svah lomu</text>
+</string>
+<string id="st_jup_b209_name">
+	<text>Jupiter. Vstup k bitumenové anomálii</text>
+</string>
+<string id="st_jup_sim_5_name">
+	<text>Jupiter. Rozcestí</text>
+</string>
+<string id="st_jup_sim_4_name">
+	<text>Jupiter. Opuštěný motor</text>
+</string>
+<string id="st_jup_b204_name">
+	<text>Jupiter. Přístavní opěrný bod</text>
+</string>
+<string id="st_jup_sim_11_name">
+	<text>Jupiter. Hluboký les</text>
+</string>
+<string id="st_jup_sim_12_name">
+	<text>Jupiter. Tábor před komplexem</text>
+</string>
+<string id="st_jup_sim_18_name">
+	<text>Jupiter. Jupiterovo tovární skladiště</text>
+</string>
+<string id="st_jup_sim_17_name">
+	<text>Jupiter. Suchý kanál</text>
+</string>
+<string id="st_jup_a9_name">
+	<text>Jupiter. Vstup do továrny</text>
+</string>
+<string id="st_jup_b47_name">
+	<text>Jupiter. Vnitřní cesty</text>
+</string>
+<string id="st_jup_sim_19_name">
+	<text>Jupiter. Vrakoviště továrny</text>
+</string>
+<string id="st_jup_b8_smart_terrain_name">
+	<text>Jupiter. Spadlý vrtulník</text>
+</string>
+<string id="st_jup_b219_name">
+	<text>Jupiter. Továrna</text>
+</string>
+<string id="st_jup_b4_name">
+	<text>Jupiter. Úkryt pod mostem</text>
+</string>
+<string id="st_jup_sim_3_name">
+	<text>Jupiter. Mělká bažina</text>
+</string>
+<string id="st_jup_sim_13_name">
+	<text>Jupiter. Nebezpečný tábor</text>
+</string>
+<string id="st_jup_b205_smart_terrain_tushkano_name">
+	<text>Jupiter. Volkhovský podzemní sklad</text>
+</string>
+<string id="st_jup_sim_2_name">
+	<text>Jupiter. Západní tunel</text>
+</string>
+<string id="st_jup_b208_name">
+	<text>Jupiter. Východní tunel</text>
+</string>
+<string id="st_depo_terrain_name">
+	<text>Jupiter. Továrna podzemí</text>
+</string>
+
+
+<string id="st_aes_smart_terrain_monolit_blockpost4_name">
+<text>Jižní Černobylská Elektrárna. Elektrárna</text>
+</string>
+<string id="st_aes_smart_terrain_monolit_blockpost2_name">
+<text>Jižní Černobylská Elektrárna. Cistérny s ropou</text>
+</string>
+<string id="st_aes_smart_terrain_monolit_blockpost_name">
+<text>Jižní Černobylská Elektrárna. Vstup do elektrárny</text>
+</string>
+<string id="st_aes_smart_terrain_soldier2_name">
+<text>Jižní Černobylská Elektrárna. Kancelářský komplex</text>
+</string>
+<string id="st_aes_smart_terrain_monsters1_name">
+<text>Jižní Černobylská Elektrárna. Hlavní silnice</text>
+</string>
+<string id="st_aes_smart_terrain_monsters2_name">
+<text>Jižní Černobylská Elektrárna. Vzdálený tábor</text>
+</string>
+<string id="st_aes_smart_terrain_monsters3_name">
+<text>Jižní Černobylská Elektrárna. Přenosové věže</text>
+</string>
+<string id="st_aes_smart_terran_soldier_name">
+<text>Jižní Černobylská Elektrárna. Pohraniční stanoviště</text>
+</string>
+<string id="st_aes_smart_terrain_monsters4_name">
+<text>Jižní Černobylská Elektrárna. Opuštěný tábor</text>
+</string>
+
+<string id="st_sar_monolith_general_name">
+	<text>Sarkofág</text>
+</string>
+<string id="st_sar_monolith_sklad_name">
+	<text>Sarkofág</text>
+</string>
+<string id="st_sar_monolith_bloodsuckers_name">
+	<text>Sarkofág</text>
+</string>
+<string id="st_sar_monolith_poltergeists_name">
+	<text>Sarkofág</text>
+</string>
+<string id="st_sar_monolith_guard_name">
+	<text>Sarkofág</text>
+</string>
+<string id="st_sar_monolith_zombies_name">
+	<text>Sarkofág</text>
+</string>
+<string id="st_aes2_monolith_snipers_2_name">
+	<text>Severní Černobylská Elektrárna. Vnitřní tábor</text>
+</string>
+<string id="st_aes2_monolith_snipers_1_name">
+	<text>Severní Černobylská Elektrárna. Střechy</text>
+</string>
+<string id="st_aes2_monolith_camp1_name">
+	<text>Severní Černobylská Elektrárna. Velký tábor</text>
+</string>
+<string id="st_aes2_monolith_camp2_name">
+	<text>Severní Černobylská Elektrárna. Vnitřní strážnice</text>
+</string>
+<string id="st_aes2_monsters2_name">
+	<text>Severní Černobylská Elektrárna. Přistávací plocha</text>
+</string>
+<string id="st_aes2_monolith_camp3_name">
+	<text>Severní Černobylská Elektrárna. Tábor na střeše</text>
+</string>
+<string id="st_aes2_monsters1_name">
+	<text>Severní Černobylská Elektrárna. Zadní východ</text>
+</string>
+
+<string id="st_aes2_monolith_snipers_3_name">
+	<text>Severní Černobylská Elektrárna. Sklad elektrárny</text>
+</string>
+<string id="st_aes2_monolith_camp4_name">
+	<text>Severní Černobylská Elektrárna. Sklad na střeše</text>
+</string>
+
+<string id="st_zat_b40_smart_terrain_name">
+	<text>Zaton. Zpracovatelská stanice</text>
+</string>
+<string id="st_zat_sim_10_name">
+	<text>Zaton. Ďábelské lesy</text>
+</string>
+<string id="st_zat_sim_14_name">
+	<text>Zaton. Jižní planina</text>
+</string>
+<string id="st_zat_b12_name">
+	<text>Zaton. Preobraženský most</text>
+</string>
+<string id="st_zat_sim_11_name">
+	<text>Zaton. Improvizovaný tábor</text>
+</string>
+<string id="st_zat_b54_name">
+	<text>Zaton. Tábor Jizvy</text>
+</string>
+<string id="st_zat_sim_24_name">
+	<text>Zaton. Přechod přes řeku</text>
+</string>
+<string id="st_zat_b5_smart_terrain_name">
+	<text>Zaton. Stanice rangerů</text>
+</string>
+<string id="st_zat_sim_28_name">
+	<text>Zaton. Úkryt poblíž mostu</text>
+</string>
+<string id="st_zat_sim_16_name">
+	<text>Zaton. Tvrz mutantů</text>
+</string>
+<string id="st_zat_b14_smart_terrain_name">
+	<text>Zaton. Těžební stanice</text>
+</string>
+<string id="st_zat_sim_18_name">
+	<text>Zaton. Osamělé kopce</text>
+</string>
+<string id="st_zat_sim_1_name">
+	<text>Zaton. Úkryt v kopcích</text>
+</string>
+<string id="st_zat_b53_name">
+	<text>Zaton. Tábor u kotle</text>
+</string>
+<string id="st_zat_sim_29_name">
+	<text>Zaton. Lesnatý vrch</text>
+</string>
+<string id="st_zat_a1_name">
+	<text>Zaton. Vzdálené tábořiště</text>
+</string>
+<string id="st_zat_sim_15_name">
+	<text>Zaton. Severovýchodní výhled na řeku</text>
+</string>
+<string id="st_zat_b42_smart_terrain_name">
+	<text>Zaton. Starý přístav</text>
+</string>
+<string id="st_zat_sim_2_name">
+	<text>Zaton. Tábor u břehu</text>
+</string>
+<string id="st_zat_sim_30_name">
+	<text>Zaton. Zapomenuté kopce</text>
+</string>
+<string id="st_zat_sim_3_name">
+	<text>Zaton. Severní výhled na řeku</text>
+</string>
+<string id="st_zat_sim_19_name">
+	<text>Zaton. Nebezpečné vrcholky</text>
+</string>
+<string id="st_zat_sim_4_name">
+	<text>Zaton. Severní silnice</text>
+</string>
+<string id="st_zat_b104_zombied_name">
+	<text>Zaton. Opuštěná pila</text>
+</string>
+<string id="st_zat_sim_5_name">
+	<text>Zaton. Úkryt za balvany</text>
+</string>
+<string id="st_zat_b101_name">
+	<text>Zaton. Smrtící tábor</text>
+</string>
+<string id="st_zat_sim_6_name">
+	<text>Zaton. Výhled na anomálii v bažině</text>
+</string>
+<string id="st_zat_b38_name">
+	<text>Zaton. Komplex antén Krug</text>
+</string>
+<string id="st_zat_b38u_name">
+	<text>Zaton. Ventilační komplex</text>
+</string>
+<string id="st_zat_sim_7_name">
+	<text>Zaton. Komplexní zalesněné oblasti</text>
+</string>
+<string id="st_zat_sim_8_name">
+	<text>Zaton. Úkryt mutantů</text>
+</string>
+<string id="st_zat_sim_26_name">
+	<text>Zaton. Starý lesní tábor</text>
+</string>
+<string id="st_zat_b39_name">
+	<text>Zaton. Tábor u Dubové anomálie</text>
+</string>
+<string id="st_zat_sim_25_name">
+	<text>Zaton. Tankovací stanice</text>
+</string>
+
+<string id="st_zat_sim_13_name">
+<text>Zaton. Krajní tábor</text>
+</string>
+<string id="st_zat_b33_name">
+<text>Zaton. Úkryt Snorků</text>
+</string>
+<string id="st_zat_b55_name">
+<text>Zaton. Tábor U Zvěřince</text>
+</string>
+<string id="st_zat_b100_name">
+<text>Zaton. Železný les</text>
+</string>
+<string id="st_zat_a23_smart_terrain_name">
+<text>Zaton. Sestřelený vrtulník</text>
+</string>
+<string id="st_zat_sim_9_name">
+<text>Zaton. Hlubiny Železného lesa</text>
+</string>
+<string id="st_zat_b103_merc_smart_name">
+<text>Zaton. Dílny v elektrárně</text>
+</string>
+<string id="st_zat_b56_name">
+<text>Zaton. Tábor U Cirkusu</text>
+</string>
+<string id="st_zat_stalker_base_smart_name">
+<text>Zaton. Vrak lodi Skadovsk</text>
+</string>
+<string id="st_zat_sim_20_name">
+<text>Zaton. Vstup do podzemí</text>
+</string>
+<string id="st_zat_b20_smart_terrain_name">
+<text>Zaton. Vypálený statek</text>
+</string>
+<string id="st_zat_b28_name">
+<text>Zaton. Tajná jeskyně</text>
+</string>
+<string id="st_zat_b106_smart_terrain_name">
+<text>Zaton. Izumrudnoye</text>
+</string>
+<string id="st_zat_sim_17_name">
+<text>Zaton. Tajný vstup do podzemí</text>
+</string>
+<string id="st_zat_sim_21_name">
+<text>Zaton. Centrální vyhlídka</text>
+</string>
+<string id="st_zat_sim_27_name">
+<text>Zaton. Mělká řeka</text>
+</string>
+<string id="st_zat_b7_stalker_raider_name">
+<text>Zaton. Strojovna Shevčenka</text>
+</string>
+<string id="st_zat_b7_name">
+<text>Zaton. Vrak lodi Shevčenko</text>
+</string>
+<string id="st_zat_sim_23_name">
+<text>Zaton. Bažinatá řeka</text>
+</string>
+<string id="st_zat_b18_name">
+<text>Zaton. Stará barže</text>
+</string>
+<string id="st_zat_medic_home_start_name">
+<text>Zaton. Přístavní tábor</text>
+</string>
+<string id="st_zat_b52_name">
+<text>Zaton. Přístavní jeřáby</text>
+</string>
+<string id="st_zat_sim_12_name">
+<text>Zaton. Piknik u silnice</text>
+</string>
+<string id="st_zat_sim_22_name">
+<text>Zaton. Hora</text>
+</string>
+<string id="st_zat_medic_home_smart_name">
+<text>Zaton. Opuštěný dům</text>
+</string>
+
+
+<string id="st_agr_u_monsters_name">
+	<text>Podzemí Agropromu</text>
+</string>
+<string id="st_agr_u_bloodsucker_name">
+	<text>Podzemí Agropromu</text>
+</string>
+<string id="st_agr_u_bloodsucker_2_name">
+	<text>Podzemí Agropromu</text>
+</string>
+<string id="st_agr_u_bandits_name">
+	<text>Podzemí Agropromu</text>
+</string>
+<string id="st_agr_u_soldiers_name">
+	<text>Podzemí Agropromu</text>
+</string>
+<string id="st_lx8_smart_terrain_name">
+	<text>Laboratoř X-8</text>
+</string>
+<string id="st_bun2_st_bloodsucker_name">
+	<text>Laboratoř X-19</text>
+</string>
+<string id="st_bun_krovosos_nest_name">
+	<text>Laboratoř X-19</text>
+</string>
+<string id="st_bun2_tushkano_lair_name">
+	<text>Laboratoř X-19</text>
+</string>
+<string id="st_dar_control_poltergeist_name">
+	<text>Laboratoř X-18</text>
+</string>
+<string id="st_dar_angar_name">
+	<text>Laboratoř X-18</text>
+</string>
+<string id="st_dar_smart_snork_name">
+	<text>Laboratoř X-18</text>
+</string>
+<string id="st_dar_poltergeist_ring_name">
+	<text>Laboratoř X-18</text>
+</string>
+<string id="st_dar_poltergeist_tele_name">
+	<text>Laboratoř X-18</text>
+</string>
+<string id="st_dar_military_scout_name">
+	<text>Laboratoř X-18</text>
+</string>
+<string id="st_dar_poltergeist_tele_round_name">
+	<text>Laboratoř X-18</text>
+</string>
+<string id="st_x162_st_snork_name">
+	<text>Laboratoř X-16</text>
+</string>
+<string id="st_x162_st_gigant_name">
+	<text>Laboratoř X-16</text>
+</string>
+<string id="st_x162_st_burer_name">
+	<text>Laboratoř X-16</text>
+</string>
+<string id="st_x162_st_poltergeist_name">
+	<text>Laboratoř X-16</text>
+</string>
+<string id="st_pas_b400_canalisation_name">
+	<text>Jupiterské podzemí</text>
+</string>
+<string id="st_pas_b400_downstairs_name">
+	<text>Jupiterské podzemí</text>
+</string>
+<string id="st_pas_b400_elevator_name">
+	<text>Jupiterské podzemí</text>
+</string>
+<string id="st_pas_b400_fake_name">
+	<text>Jupiterské podzemí</text>
+</string>
+<string id="st_pas_b400_hall_name">
+	<text>Jupiterské podzemí</text>
+</string>
+<string id="st_pas_b400_track_name">
+	<text>Jupiterské podzemí</text>
+</string>
+<string id="st_pas_b400_tunnel_name">
+	<text>Jupiterské podzemí</text>
+</string>
+<string id="st_pas_b400_way_name">
+	<text>Jupiterské podzemí</text>
+</string>
+
+<!-- MLR -->
+<string id="ui_st_red_forest_vagon_csky">
+	<text>Tábor Marque (Rudý les)</text>
+</string>
+<string id="ui_st_truck_cemetery_bandits_post">
+	<text>Tábor na okrajích (Hřbitov Nákladních aut.)</text>
+</string>
+<string id="ui_st_yanov_depo_monolith">
+	<text>Východní tunel (Jupiter)</text>
+</string>
+<string id="ui_st_bridge_red_forest_mon">
+	<text>Most do Limansku (Rudý les)</text>
+</string>
+<string id="ui_st_fo_cordon">
+	<text>Jižní kontrolní stanoviště (Kordon)</text>
+</string>
+<string id="ui_st_dasc_sawwill">
+	<text>Pila (Darkscape)</text>
+</string>
+<string id="ui_st_l13_generators">
+	<text>Vojenská laboratoř (Generátory)</text>
+</string>
+<string id="st_bar100rent_name">
+	<text>Bar u 100 Radů</text>
+</string>
+<string id="st_gar_baraholka_name">
+	<text>Bleší trh</text>
+</string>
+<string id="st_gar_outpost_name">
+	<text>Kontrolní stanoviště u Rostoku</text>
+</string>
+<string id="st_gar_angar_name">
+	<text>Vlakový hangár</text>
+</string>
+<string id="st_yanbunker_name">
+	<text>Mobilní vědecká laboratoř</text>
+</string>
+<string id="st_yancomplex_name">
+	<text>Průmyslový komplex</text>
+</string>
+<string id="st_novice_village_name">
+	<text>Vesnice nováčků</text>
+</string>
+<string id="st_south_blokpost_name">
+	<text>Jižní kontrolní stanoviště</text>
+</string>
+<string id="st_ATP_name">
+	<text>Parkoviště vozidel</text>
+</string>
+<string id="st_elevator_name">
+	<text>Výtah</text>
+</string>
+<string id="st_tunnel_electr_name">
+	<text>Tunel s palivým chmýřím</text>
+</string>
+<string id="st_neut_base_name">
+	<text>Prasečí Farma</text>
+</string>
+<string id="st_north_blockpost_name">
+	<text>Armádní checkpoint</text>
+</string>
+<string id="st_dar_farm_name">
+	<text>Farma</text>
+</string>
+<string id="st_dar_complex_name">
+	<text>Průmyslový komplex</text>
+</string>
+<string id="st_bs_village_name">
+	<text>Vesnice Upírů</text>
+</string>
+<string id="st_base_freedom_name">
+	<text>Armádní skladiště</text>
+</string>
+<string id="st_border_name">
+	<text>Bariéra</text>
+</string>
+<string id="st_mon_base_name">
+	<text>Palác kultury</text>
+</string>
+<string id="st_hotel_poless_name">
+	<text>Hotel</text>
+</string>
+<string id="st_big_bus_station_name">
+<text>Autobusové nádraží</text>
+</string>
+<string id="st_ds_administration_name">
+<text>Administrativa</text>
+</string>
+<string id="st_ds_market_name">
+<text>Tržiště</text>
+</string>
+<string id="st_ds_HoC_name">
+<text>Dům kultury</text>
+</string>
+<string id="st_lim_zastava_name">
+<text>Předsunutá stanoviště</text>
+</string>
+<string id="st_lim_bubbles_name">
+<text>Kosmické anomálie</text>
+</string>
+<string id="st_lim_nonbuild_name">
+<text>Staveniště</text>
+</string>
+<string id="st_lim_dyga_name">
+<text>Radarová instalace Duga</text>
+</string>
+<string id="st_lim_old_church_name">
+<text>Starý Kostel</text>
+</string>
+<string id="st_lim_village_csky_name">
+<text>Základna Jasné Oblohy</text>
+</string>
+<string id="st_lim_water_pump_station_name">
+<text>Čerpací stanice</text>
+</string>
+<string id="st_lim_mechanic_yard_name">
+<text>Strojírna</text>
+</string>
+<string id="st_lim_bridge_name">
+<text>Most do Limansku</text>
+</string>
+<string id="st_lim_house_lesnik_name">
+<text>Budova Lesníka</text>
+</string>
+<string id="st_lim_post_vishka_name">
+<text>Pozorovací stanoviště</text>
+</string>
+<string id="st_agr_SRI_name">
+<text>Výzkumný institut Agroprom</text>
+</string>
+<string id="st_red_crap_name">
+<text>Ďábelský tábor</text>
+</string>
+<string id="st_red_dark_yar_name">
+<text>Tmavá banka</text>
+</string>
+<string id="st_red_central_mine_name">
+<text>Důl</text>
+</string>
+<string id="st_tc_bandit_base_name">
+<text>Tábor na okrajích</text>
+</string>
+<string id="st_tc_kpp_name">
+<text>Kontrolní stanoviště</text>
+</string>
+<string id="st_tc_vert_name">
+<text>Vrtulník v Rudém lese</text>
+</string>
+<string id="st_radar_first_zastava_name">
+<text>První předsunutá stanoviště</text>
+</string>
+<string id="st_rad_bunker_name">
+<text>Bunkr</text>
+</string>
+<string id="st_dasc_treesucker_state_name">
+<text>Pila</text>
+</string>
+
+<!-- Missing Smarts -->
+
+<string id="st_esc_smart_terrain_9_10_name">
+    <text>Kordon. Výběžek u tunelu</text>
+</string>
+<string id="st_agr_smart_terrain_7_4_name">
+    <text>Agroprom. Cesta k odpadu</text>
+</string>
+<string id="st_agr_smart_terrain_5_4_name">
+    <text>Agroprom. Rozcestí</text>
+</string>
+<string id="st_agr_smart_terrain_6_6_name">
+    <text>Agroprom. Improvizovaný tábor</text>
+</string>
+<string id="st_pol_sim_1_name">
+    <text>Louka. Dvůr továrny</text>
+</string>
+<string id="st_pol_smart_terrain_1_1_name">
+    <text>Louka. Vesnice</text>
+</string>
+<string id="st_pol_smart_terrain_1_2_name">
+    <text>Louka. Jídelna ą14</text>
+</string>
+<string id="st_pol_smart_terrain_1_3_name">
+    <text>Louka. Staré parkoviště</text>
+</string>
+<string id="st_pol_smart_terrain_2_1_name">
+    <text>Louka. Tovární správa</text>
+</string>
+<string id="st_pol_smart_terrain_2_2_name">
+    <text>Louka. Tovární dílna</text>
+</string>
+<string id="st_val_smart_terrain_5_8_name">
+    <text>Temné údolí. Polní tábor</text>
+</string>
+<string id="st_val_smart_terrain_5_7_name">
+    <text>Temné údolí. Koncová základna</text>
+</string>
+<string id="st_rad_prip_road_name">
+    <text>Radar. Betonové desky</text>
+</string>
+<string id="st_rad_rusty_forest_center_name">
+    <text>Radar. Mrtvý les</text>
+</string>
+<string id="st_rad_freedom_vs_duty_name">
+    <text>Radar. Cesta do Pripjati</text>
+</string>
+<string id="st_rad2_rad_prip_road_name">
+    <text>Radar. Křižovatka</text>
+</string>
+<string id="st_hotel_poless_smart_alife_name">
+    <text>Pripjať. Dvůr hotelu</text>
+</string>
+<string id="st_mlr_terrain_name">
+    <text>Pripjať. Divadelní sál</text>
+</string>
+<string id="st_monolith_snipers_smart_1_mlr_name">
+    <text>Pripjať. Alej zatracení</text>
+</string>
+<string id="st_kbo_terrain_name">
+    <text>Předměstí. Vchod do servisního centra</text>
+</string>
+<string id="st_pri_a16_mlr_copy_name">
+    <text>Předměstí. Vchod do prádelny</text>
+</string>
+<string id="st_gen_undeground_smart_mlr_burers_name">
+    <text>Generátory. Úkryt burerů</text>
+</string>
+<string id="st_gen_undeground_smart_mlr_giant_name">
+    <text>Generátory. Úkryt pseudogiganta</text>
+</string>
+<string id="st_gen_undeground_smart_mlr_controller_name">
+    <text>Generátory. Úkryt kontroléra</text>
+</string>
+
+</string_table>

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<!-- 100% -->
+	<!-- Lukash (Freedom Honcho) Default Storyline Task -->
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_name">
+	<text>Získat další úkol</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_text">
+	<text>Čeká mě další úkol. Měl bych se k němu dostat.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_about">
+	<text>Chci, aby ses s někým setkal. Není to můj přítel, ale mohl by využít tvé pomoci.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_finish">
+	<text>Dobře, stalkere.</text>
+</string>
+
+
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+	<text>Eliminuj cíl pro Lukáše</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+	<text>Lukáš má cíl, který potřebuje zlikvidovat.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+	<text>Ahoj, jsem rád, že jsi přišel. Potřebuji, abys pro mě něco udělal. Existuje jeden náš společný nepřítel, kterého je třeba zlikvidovat. Je nebezpečný. Okamžitě ho zlikviduj.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+	<text>Úžasně, brácho! Díky.</text>
+</string>
+
+
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+	<text>Útok Svobody na Monolit</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+	<text>Lukáš mě požádal, abych vedl Svobodu při útoku na Monolit.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+	<text>Síly Monolitu stále prolamují naši blokádu. Chci se s nimi pro jednou utkat. Zverboval jsem útočnou jednotku a chci, abys ji vedl při invazi na Monolitické území. Znič je.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+	<text>Člověče, ty seš fakt zabiják. Skvělá práce.</text>
+</string>
+
+
+
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+	<text>Prohledat laboratoř X-8</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+	<text>Prohledej laboratoř X-8 na Předměstí a najdi důkazy o obsazení Jasné oblohy.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+	<text>Obdržel jsem informaci, že bývalí členové Jasné oblohy mohli před časem obsadit laboratoř X-8. Potřebuji, abys laboratoř prozkoumal a zjistil, zda se ti podaří získat nějaké dokumenty, které tam mohli zanechat.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+	<text>Výborně. Odvedl jsi dobrou práci.</text>
+</string>
+
+	<!-- Lukash's Missing Dialogue -->
+
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
+	<text>Svoboda!</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
+	<text>Lukáš mě seznámí se způsobem života Svobody za symbolickou částku 15 000 RU.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
+	<text>He, a ty asi hledáš sladkou chuť Svobody, že? Jo, to ti můžu zařídit. Stačí se zeptat sám sebe na jednu věc - "Mám na to, abych byl drsňák"? Protože na to, abys s námi mohl válčit, musíš mít větší kameny než Smrtící lampy. Jistě, zažíváme tu spoustu dobrých chvil, ale až se to posere, musíš být připraven pomoci bránit své bratry proti fanatickým, fašistickým vládám... Bojujeme za Svobodnou zónu. Pokud to s pomocí při budování anarchistické utopie myslíš vážně, láskavě si pro kluky vyčlen 15 000 RU a já tě rád představím.</text>
+</string>
+<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
+	<text>Dobrá práce. Konečně jsi v řadách Svobody. Ale jedno varování - každý, kdo naruší svobodu mých chlapců, má tendenci skončit spánkem v Upíří vesnici. Nezapomeň být ohleduplný k ostatním v okolí.</text>
+</string>
+
+<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
+	<text>Svoboda!</text>
+</string>
+<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
+	<text>Lukáš mě seznámí se způsobem života Svobody za symbolickou částku 15 000 RU.</text>
+</string>
+<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
+	<text>Heh, a ty asi hledáš sladkou chuť Svobody, že? Jo, to ti můžu zařídit. Stačí se zeptat sám sebe na jednu věc - "Mám na to, abych byl drsňák"? Protože na to, abys s námi mohl válčit, musíš mít větší kameny než Smrtící lampy. Jistě, zažíváme tu spoustu dobrých chvil, ale až se to posere, musíš být připraven pomoci bránit své bratry proti fanatickým, fašistickým vládám... Bojujeme za Svobodnou zónu. Pokud to s pomocí při budování anarchistické utopie myslíš vážně, láskavě si pro kluky vyčlen 15 000 RU a já tě rád představím.</text>
+</string>
+<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
+	<text>Dobrá práce. Konečně jsi v řadách Svobody. Ale jedno varování - každý, kdo naruší svobodu mých chlapců, má tendenci skončit spánkem v Upíří vesnici. Nezapomeň být ohleduplný k ostatním v okolí.</text>
+</string>
+
+	<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+	<text>Zničit nepřátelský oddíl</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+	<text>Oddíl stalkerů co působí přátelům Svobody problémy. Lukáš nabízí odměnu tomu, kdo tyto grázly zneškodní.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+	<text>Máš chuť pomoci Svobodě za odměnu? Máme tu pár zatracených grázlů, kteří se nechtějí usadit, a je čas jim dát lekci. Tihle darebáci se vkrádají na naše území. Stříleli na naše přátele. A k tomu mají tu drzost, že zplynují mé muže! Je čas jim dát smrtící lekci o osobním prostoru. Dokážeš to?</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+	<text>Aha, skvěle! Možná teď tady budeme mít zatracený klid, co?</text>
+</string>
+
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+	<text>Napadení nepřítele</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+	<text>Byl jsem pověřen nájezdem na nepřátelské území pro Svobodu. Po splnění úkolu bych měl podat zprávu Lukášovi.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+	<text>Mám pro tebe nebezpečný, ale důležitý úkol, pokud jsi ochotný. S Monolitem na severu a Povinnost na jihu to začíná být na můj vkus trochu klaustrofobické. Potřebuji certifikovaného drsňáka, který by přepadl nepřátelský tábor a poskytl nám více prostoru k dýchání. Troufneš si být tím drsňákem?</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+	<text>Ha! Ty jsi to fakt dokázal, ty blázně! Tady, tohle sis zasloužil, spolu s mým respektem.</text>
+</string>
+
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+	<text>Eliminujte Monolitickou konverzi</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+	<text>Člen Svobody konvertoval k Monolitu. Lukáš mě pověřil, abych ho našel a zabil.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+	<text>Mám pro tebe opravdu těžké zprávy, člověče. Jeden z našich bojovníků za svobodu se dostal pod vliv Monolitu. Byl to dobrý člověk a vím, že by nechtěl dál žít jako zabiják s vymytým mozkem od nějakého mimozemského krystalu. Prosím, najdi ho a sejmě ho. Jinak to budou muset udělat jeho starí přátelé.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+	<text>Je to hotové? Dobře. Vím, že to bylo těžké. Naši bratři u Barikády si připijí na svého padlého druha. Co se týče tebe, tady je tvá odměna.</text>
+</string>
+
+
+	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
+	<text>Setkání s problematickým stalkerem</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_text">
+	<text>Lukáš mě odmění za dopadení problematického stalkera.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_about">
+	<text>Nedaleko odtud se prochází jeden chlápek. Jednou jednoho z našich zastřelil. A něco takového se neodpouští. Vezmeš na sebe úkol ho sejmout? Zaplatíme, neboj se.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_finish">
+	<text>Sakra jo! To ho naučí, aby si s námi nezahrával. Tady máš odměnu, jak jsem slíbil. Dobrá práce, stalkere.</text>
+</string>
+
+
+
+	<!-- NAJDI ZBRAN PRO UKOL SVOBODY -->
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
+	<text>Přineste Lukášovi spolehlivou %s</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_text">
+	<text>Lukáš mě požádal, abych našel konkrétní střelnou zbraň v bezvadném stavu. Měl bych se k němu vrátit, jakmile najdu, co chce.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
+	<text>Ačkoli dobrodinci Svobody zásobují chlapce potřebnou výzbrojí, já bych z osobních důvodů opravdu potřeboval novou %s. Pokud byste náhodou našli nějakou ve výborném stavu, byl bych ochoten vám za ni výrazně zaplatit.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_about">
+	<text>Ačkoli dobrodinci Svobody zásobují chlapce potřebnou výzbrojí, já bych z osobních důvodů opravdu potřeboval novou %s. Pokud byste náhodou našli nějakou ve výborném stavu, byl bych ochoten vám za ni výrazně zaplatit.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_finish">
+	<text>Dobře provedeno. Tento nový střelec bude mít obrovský význam v případě, že dojde k nejhoršímu. Tady je platba, kterou jsem slíbil.</text>
+</string>
+	
+	
+	
+	<!-- Lukash (Freedom Honcho) Ukol Decimate the Enemy -->
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_name">
+	<text>Šťastný spouštěč</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_text">
+	<text>Lukáš podporuje agresi proti některým nepřátelům Svobody. Mohu mu za sladkou odměnu přinést %s.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_about">
+	<text>No, právě teď jsme se zasekli v situaci, kdy se jedná o kladivo a kovadlinu. Víš, fanatiky na severu, extremisty na jihu a k tomu ještě pro jistotu přimícháme pár vojenských hrdlorezů. Co kdybys jim vysvětlil, co si myslíme o jejich nařízeních a příkazech po staru? Na konci tě čeká sladká odměna, neboj se.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_about">
+	<text>No, právě teď jsme se zasekli v situaci, kdy jsme se ocitli v pozici kladiva a kovadliny. Víš, fanatiky na severu, extremisty na jihu a k tomu ještě pro jistotu přimícháme pár vojenských hrdlorezů. Co kdybys jim vysvětlil, co si myslíme o jejich nařízeních a příkazech po staru? Až je ponížíš, přivez mi %ses jako trofeje. Na konci tě čeká sladká odměna, neboj se.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_6_fetch_finish">
+	<text>Hej, dobrá práce, chlape. Tady máš peníze.</text>
+</string>
+	
+	<!-- Lukash (Freedom Honcho) Smrtelny hrich Neuhasitelny plamen Ukoly -->
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_about">
+	<text>Hej, člověče. Tady je jedna věc. Pamatuješ si na ty lidi z Hříchu? Když jsi jim naposledy nakopal jejich kolektivní zadek, nedostali to, takže si myslím, že je nejvyšší čas na přídavek. Loki říkal, že byli spatřeni, jak jsou v Zatonu neukáznění, zejména v okolí opuštěných dílen rozvodny. Jdi je zlikvidovat.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_7_finish">
+	<text>Někteří z novějších stalkerů z řad Svobody si začínají myslet, že jsi druhý příchod Ramba. To, že se pořád vracíš živý a zdravý z takových úkolů, mě nutí si myslet, že na tom něco bude. Takže tady. Něco pro našeho Ramba.</text>
+</string>
+
+
+	<!-- Lukash (Freedom Honcho) Rescue the Freedom Agent Task -->
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_name">
+	<text>Zoneraker</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_text">
+	<text>Z neprátelské frakce je třeba získat špeha Svobody. Musím zabít ostatní členy oddílu a pak ho doprovodit zpět na základnu. Špion má SVD.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_about">
+	<text>Jeden z mých nejlepších mužů se momentálně skrývá mezi nepřáteli a snaží se zjistit jejich tajemství. Obvykle je to solidní chlapík, takže když začne vynechávat naše kontaktní časy, začnu si dělat starosti. Mám tušení, že ho někdo udal a že oddíl, u kterého je, teď tiše čeká na ideální příležitost, aby ho umlčel natrvalo. Musíme ho dostat domů. Nechal mi ping na polohu, ale je s jinými stalkery. Musíš se o ně postarat a přivést mého muže zpět v jednom kuse. Poznáš ho podle jeho pušky, SVD. Při útoku na skupinu bude muset střílet na tebe, aby zachoval klam, ale nebude mířit příliš dobře, takže se nezlob.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_finish">
+	<text>Dobrá práce. Je čas namazat tomuhle chlápkovi koule za jeho znalosti.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_join">
+	<text>Hej chlape, přestaň! Jsem ten špeh Svobody! Omlouvám se, že jsem na tebe vystřelil. Musel jsem se pro jistotu kryt... naštěstí jsi to zvládl. Pokud mě bezpečně přivedeš do Armádních skladů, Lukáš tě dobře odmění. Vezmi mě, já půjdu za tebou! </text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_8_msg_leave">
+	<text>Díky, že jsi mě vytáhl z ohně, stalkere! Uvidíme se!</text>
+</string>
+
+
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_name">
+	<text>Proč nemůžeme mít hezké věci</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_text">
+	<text>Lukáš mě požádal, abych zničil vojenská vozidla v Kordonu dříve, než v Zóně napáchají nějaké škody. Budu potřebovat výbušniny.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_about">
+	<text>Máš výbušniny? Pokud ano, mám pro tebe velký úkol. Právě teď armáda přiváží do Zóny obrněná vozidla, aby posílila své jednotky. Ptám se tě, je to férové? Podívej se na ty rezavé, nefunkční kusy šrotu, které nám hnijí ve skladech! Když nemůžeme mít v Zóně funkční tanky my, nemůže je mít ani vláda! Moji špioni říkají, že tato vozidla právě přijíždějí, aby byla umístěna na kontrolním stanovišti v Kordonu. Neboj se, postarají se o to, aby vozidla byla při tvé návštěvě bez posádky, takže je budeš moci zničit, aniž by se proměnila ve švýcarský sýr. Chceš dovnitř? Tak si sbal ananasy a něco na brko a vyraž!</text>
+</string>
+
+
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+	<text>Přines divokou zvěř pro Svobodu</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_text">
+	<text>Skinflint říkal, že mi zaplatí, když mu přinesu %s. Je čas jít na lov.</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_about">
+	<text>Mám pro tebe přesně tu práci, člověče, pokud se nebojíš několika mutantů. Máš zájem?</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_about">
+	<text>Takže, někteří kluci plánují večeři na oslavu narozenin Boba Marleyho. Lepší pozdě než nikdy, že? Každopádně čím víc masa na hostinu seženeme, tím líp - takže pokud jsi někde venku, přines mi dostatek % a já se postarám, aby to stálo za to. Jah na tebe nikdy nezapomene!</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
+	<text>Aha, z tohohle bude skvělé jídlo, až se to dostane do rukou kuchaři. Tady máš platbu. Proč si nekoupit trochu vodky a neoslavit to?</text>
+</string>
+
+
+
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
+	<text>Doručit uzamčený kufr pro Skinflinta</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_text">
+	<text>Skinflint má zásilku, kterou je třeba vyzvednout.</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_about">
+	<text>Jeden z našich kurýrů měl dnes přivézt zásilku. Bohužel ho museli schovat na bezpečném místě, když se o nich dozvěděla hlídka Povinnosti. Než se na síti zneviditelnili, poslali mi souřadnice skrýše, takže pokud jsi ochotný projít se tam a dokončit práci tím, že zboží přineseš, dám ti část jejich výplaty.</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_finish">
+	<text>Podívejme se na to... ach ano. Přesně to jsme potřebovali. Děkujeme, stalkere, tady je tvůj podíl z výplaty.</text>
+</string>
+
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_name">
+	<text>Přízraky ve tmě</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_text">
+	<text>Skinflint mi zaplatí, abych zastavil strašlivého mutanta, který straší v Upíří vesnici. Budu se muset mít na pozoru.</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_about">
+	<text>V poslední době se v táboře trochu horší spí. Každou noc slyšíme křik, ale než s tím stihneme něco udělat, dalšího z našich mužů pohltí tma. Druhý den najdeme jejich znetvořené ostatky rozházené po vesnici Upírů.
+	Lukáš si myslí, že ve městě může být vzácný druh Krvavce. Tmavší, silnější a krutější zkurvysyn, který vychází jen v noci. Několik našich válečných psů si myslí, že bychom měli přestat s nočními výpravami, dokud se nestěhuje a nezačne snad místo toho dělat bordel ve Službě, a věří, že je příliš riskantní jít po něm přímo.
+    No, já říkám, že jestli máš odvahu počkat na něj ve Vesnici po setmění, rád tě zasypu rubly za zabití toho parchanta a zbytek chlapů tady bude vděčný, že se zase dobře vyspí. Nebo aspoň tak dobře, jak se dá spát takhle blízko Vypalovače mozku.</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
+	<text>Páni, ty jsi to opravdu dokázal! Ty blázne. Dám táboru vědět dobrou zprávu. Jsem rád, že tu máme lovce, jako jsi ty.</text>
+</string>
+
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_name">
+	<text>Nedostatkové zásoby</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_text">
+	<text>Skinflint potřebuje %s, aby pomohl udržet zásoby mediků Svobody. Souhlasil jsem, že mu pomůžu.</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_about">
+	<text>Hej, chlape. Někteří z našich chlapů se občas chovají až příliš dobrodružně. Nemáme dost zásob, abychom je všechny ošetřili.</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_about">
+	<text>Tak. Víš, jak drsný a bouřlivý může být život ve Svobodě, že? Vyhnout se kulkám a bojovat s fanatiky je tu prostě na denním pořádku. Ačkoliv se díky tomu bojovníci Svobody cítí drsně, znamená to také, že se nám nedostává léků. Jelikož je Solid příliš vysoko na to, aby organizoval zdravotnické zásoby, připadá nyní tato zodpovědnost na mě. Kdybys mohl pomoci tím, že přineseš nějaké %, budeš mít od Svobody vděčnost. A taky pár mých rublů.</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_fetch_finish">
+	<text>Aha, skvěle. Postarám se, aby tyhle věci zůstaly mimo Solidův dohled, dokud je jeho pacienti nebudou potřebovat. Díky moc, stalkere.</text>
+</string>
+	
+
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
+	<text>Vybavení pro lov artefaktů</text>
+</string>
+<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
+	<text>No, je tu něco důležitého, na co je třeba se podívat. Jde o tohle: pokud nebudeme riskovat štěstí v Bělorusku, existují přesně dva vědecké bunkry, které může Svoboda kontaktovat kvůli zásobám pro ponoření v anomáliích. Nic víc, nic míň. Jeden z nich je sevřený mezi bandity z Povinnosti, vojenskými hrdlořezy a kdo ví čím ještě. Druhý je jen kousek od Pripyati. A obě... jsou sponzorovány stejnou vládou, proti které bojujeme. Musíme si TEĎ začít dělat zásoby nového vybavení pro lov artefaktů pro případ, že by některé z těch míst bylo náhle odříznuto od našich běžců. Potřebuji, abyste začali ve velkém shánět detektory medvědů a kontejnery na artefakty. Chápu, že získání všeho, co požaduji, bude chvíli trvat. Neboj se, tvoje platba bude adekvátní. Pokud si dáš práci navíc a seženeš nějaké baterie, dostaneš dokonce i bonus. Takže, jdeš do toho?</text>
+</string>
+	
+	
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
+
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
+	<text>Najít %s pro Šrouba</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
+	<text>%s jsou vyžadovány Šroubem pro instalaci základních vylepšení vybavení. Měl bych mu je přinést, pokud nějaké najdu.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_about">
+	<text>Jo! Nějací bandité nám měli dát nějaké nové nástroje z Temného údolí, ale nikdy se neukázali! Eh, nejspíš stejně kecali, ale jestli se ti podaří najít nějaké obyčejné základní nářadí, přines ho sem co nejrychleji. Za svou pomoc bys dostal dobře zaplaceno.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_about">
+	<text>Dobře! Jakmile najdeš nějaké %s, můžu to tady konečně rozjet.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
+	<text>Díky, chlape! Věděl jsem, že mám důvod, proč jsem se tě ptal. Vypadáš jako člověk, který umí udělat pořádný kus práce.</text>
+</string>
+
+
+
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
+	<text>Najdi %s pro Šrouba</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
+	<text>%s potřebuje Šroub k instalaci pokročilých vylepšení vybavení. Měl bych mu je přinést, pokud nějaké najdu.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_about">
+	<text>Jo, víš, co není v pořádku? Sedíme přímo uprostřed jedné ze starých vládních zbrojnic - kdysi to byl skutečný sklad jejich speciálních jednotek. Ale polovina toho úžasného vybavení, které tu po nich zůstalo, se tu jen tak povaluje a rezaví, protože nemáme vhodné nástroje na údržbu.\n\nMěli bychom to změnit. Přineste mi další sadu nářadí - tentokrát něco pokročilejšího. Je čas ukázat Cloveku, že umíme řídit jeho válečné stroje lépe než on sám!" </text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
+	<text>Díky. Pokud se ti v tomhle podaří vyjít mi vstříc, budu moci v budoucnu provádět i složitější vylepšení tvého vybavení.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
+	<text>Jestli budeš takhle pokračovat, všichni tady tě budou milovat. Ještě jednou díky, chlape.</text>
+</string>
+
+
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_name">
+	<text>Najdi %s pro Šrouba</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_text">
+	<text>%s jsou vyžadovány Šroubem pro instalaci vylepšení odborného vybavení. Mám mu je přinést, pokud nějaké najdu.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_about">
+	<text>No, špatná zpráva je, že většinu velkých zbraní schovaných ve zbrojnici opravdu v tuto chvíli nelze zachránit. Dobrá zpráva je tato - mohl bych provést opravdu pěkné kalibrace zařízení, které máme funkční, dokonce i našich exoskeletů. Budu však potřebovat přesnější sadu nástrojů.\n\nChceš ještě jednou pomoci technikům Svobody? Odměna bude ještě lepší než minule a já ti k tomu přidám i pár lekcí údržby v terénu!</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_about">
+	<text>Ha! Ty naprosto šílený chlapče! No, tak pokračuj. Až se vrátíš s odborným nářadím, ukážu ti, co dokáže talentovaný mechanik.</text>
+</string>
+<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
+	<text>Cloveče, tohle se Svobodě bude líbit. Brokovnice s padáky! Pancéřové SMG! Já to zařídím! Tady máš prachy za dobře odvedenou práci.</text>
+</string>
+	
+
+	<!-- Defend the barrier -->
+<string id="barrier_defense_monolith_announce">
+	<text>Každému sprátelenému Stalkerovi, který čte tuto zprávu, tak k Barieře se blíží velká skupina Monolitu. Každá pomoc bude oceněna a odměněna.</text>
+</string>
+<string id="barrier_defense_monolith_title">
+	<text>Bránit Barieru</text>
+</string>
+<string id="barrier_defense_monolith_descr">
+	<text>Svoboda žádá o pomoc při odražení útoku monolitu.</text>
+</string>
+
+<string id="barrier_defense_monolith_chatter_1">
+	<text>Monolit? Prodám...</text>
+</string>
+<string id="barrier_defense_monolith_chatter_2">
+	<text>Whoa, peníze zdarma. Už jdu!</text>
+</string>
+<string id="barrier_defense_monolith_chatter_3">
+	<text>Stejně jsem neměl v plánu jít v nejbližší době do Armádních skladů.</text>
+</string>
+<string id="barrier_defense_monolith_chatter_4">
+	<text>Odměněn jak? Peníze, artefakty, zbraně? Přece se tam nebudu tahat jen kvůli nějakému vůdci.</text>
+</string>
+<string id="barrier_defense_monolith_chatter_5">
+	<text>Propana! Jsem moc daleko, došel bych tam, až už bude po všem. Chtěl jsem vyzkoušet svoji novou pušku.</text>
+</string>
+<string id="barrier_defense_monolith_chatter_6">
+	<text>Zabíjení monolitu? Udělám to zadarmo, zatracení sráči.</text>
+</string>
+<string id="barrier_defense_monolith_chatter_7">
+	<text>Můžu si nechat, co najdu na tělech?</text>
+</string>
+	
+<string id="barrier_defense_monolith_intro_1">
+	<text>Slyšel jsem tvůj přenos, přišel jsem ti pomoci bránit Barieru.</text>
+</string>
+<string id="barrier_defense_monolith_intro_2">
+	<text>Výborně, zvědové hlásili, že se blíží několik monolitických oddílů a každá další zbraň je vítána. Zaujměte pozici a počkejte, až se fanatici objeví, jednoduché, že? Pokud budeš mít pocit, že toho začíná být moc a rozhodneš se utéct, nebudeme ti to vyčítat, ale na odměnu samozřejmě můžeš zapomenout.</text>
+</string>
+
+<string id="barrier_defense_monolith_outro_1">
+	<text>Bariera je v bezpečí... alespoň prozatím.</text>
+</string>
+<string id="barrier_defense_monolith_outro_2">
+	<text>Dobrá střelba stalkere, tohle by mělo pokrýt část olova, které jsi do těch bastardů vložil. A něco navíc na uvolnění. Jsem rád, že jsme tě tu měli!</text>
+</string>
+
+<string id="barrier_defense_monolith_start_announce">
+	<text>Zvědové říkají, že jsou právě v pohybu, všichni na místa!</text>
+</string>
+<string id="barrier_defense_monolith_midchatter">
+	<text>A sakra, pozor! Mají RPG!</text>
+</string>
+<string id="barrier_defense_monolith_run_announce">
+	<text>Tohle není letní tábor stalkerů. Buď rád, že jsou tu lidé, kteří mají větší koule než ty, aby se postarali o bezpečí tvého pozemku.</text>
+</string>
+<string id="barrier_defense_monolith_end_announce">
+	<text>Dobrá práce, bratři, a díky všem dobrovolníkům, kteří neutekli. Vraťte se ke mně pro odměnu.</text>
+</string>
+	
+<string id="barrier_defense_zombie_announce">
+	<text>Každému správělenému Stalkerovi, který toto čte, se k Barieře blíží velká skupina zombie, každá pomoc bude oceněna a odměněna.</text>
+</string>
+<string id="barrier_defense_zombie_title">
+	<text>Bránit Barieru</text>
+</string>
+<string id="barrier_defense_zombie_descr">
+	<text>Svoboda žádá o pomoc při odražení útoku zombie.</text>
+</string>
+
+<string id="barrier_defense_zombie_chatter_1">
+	<text>Ubohé věci...</text>
+</string>
+<string id="barrier_defense_zombie_chatter_2">
+	<text>Přejdu to, prostě se mi to nezdá.</text>
+</string>
+<string id="barrier_defense_zombie_chatter_3">
+	<text>No, aspoň to není Monolit.</text>
+</string>
+<string id="barrier_defense_zombie_chatter_4">
+	<text>Tak ať to stojí za to, minule jsem utratil víc nábojů, než kolik jsem za to dostal.</text>
+</string>
+<string id="barrier_defense_zombie_chatter_5">
+	<text>Propána! Jsem moc daleko, došel bych tam, až už bude po všem. Chtěl jsem vyzkoušet svoji novou pušku.</text>
+</string>
+<string id="barrier_defense_zombie_chatter_6">
+	<text>Zombici z Radaru? Sakra... můj kamarád tam byl před pár dny.</text>
+</string>
+<string id="barrier_defense_zombie_chatter_7">
+	<text>Můžu si nechat to, co najdu na tělech?"</text>
+</string>
+	
+	
+<string id="barrier_defense_zombie_intro_1">
+	<text>Slyšel jsem váš přenos, přišel jsem pomoci v boji proti zombií.</text>
+</string>
+<string id="barrier_defense_zombie_intro_2">
+	<text>Velmi dobře, obvykle se většinou ubráníme, ale díky Monolitu a těm předstíraným vojákům máme málo lidí, mělo by to být snadné jako střelba na střelnici.</text>
+</string>
+
+<string id="barrier_defense_zombie_start_announce">
+	<text>Horda se prořezává skrz, všichni zaujměte pozice!</text>
+</string>
+<string id="barrier_defense_zombie_midchatter">
+	<text>Nikdy neskončí?</text>
+</string>
+<string id="barrier_defense_zombie_run_announce">
+	<text>Co to je, bojí se věci, které sotva střelí zpátky?</text>
+</string>
+<string id="barrier_defense_zombie_end_announce">
+	<text>Dobrá práce, bratři, konečně mohou odpocívat v pokoji. Dobrovolníci, vraťte se ke mě pro odměnu.</text>
+</string>
+	
+<string id="barrier_defense_zombie_outro_1">
+	<text>Všichni jsou mrtví, teď už doopravdy.</text>
+</string>
+<string id="barrier_defense_zombie_outro_2">
+	<text>Dobře, doufám, že jsi tam nikoho nepoznal. Někdy se lidé vracejí z Bariéry ještě otřesenější než při boji s Monolitem. Pojďme se na ty ubohé duše napít a něco, co ti pomůže neskončit jako oni.</text>
+</string>
+
+<string id="barrier_defense_reinforcements_1">
+	<text>Vydržte, chlapi, jdeme vám na pomoc!</text>
+</string>
+<string id="barrier_defense_reinforcements_2">
+	<text>Právě jsme vyrazili ze základny, za chvíli tam budeme.</text>
+</string>
+<string id="barrier_defense_reinforcements_3">
+	<text>Je to tam tak zle? Myslel jsem, že vás je dost!</text>
+</string>
+<string id="barrier_defense_reinforcements_4">
+	<text>Už to začalo! No tak, kluci, pohněte zadkem, nebo přijdeme o veškerou akci!</text>
+</string>
+	
+<string id="mil_freedom_medic_task_1_name">
+	<text>Najdi %s pro Solida</text>
+</string>
+<string id="mil_freedom_medic_task_1_text">
+	<text>A %s potřebuje Solid pro svou práci na zdravotnických potřebách. Měl bych mu ho přinést, pokud ho najdu.</text>
+</string>
+<string id="mil_freedom_medic_task_1_about">
+	<text>Udržovat to, co zbylo ze skladu zdravotnických potřeb, při tom množství zranění, která musím denně ošetřovat, je znepokojující. Obvazy a lékárničky mi brzy nebo později dojdou. Potřebuji, abys mi našel jednu z těch starých lékárniček. Určitě se budou hodit.</text>
+</string>
+<string id="mil_freedom_medic_task_1_fetch_about">
+	<text>To si piš, že tam je. Hledal jsem všude možné %s. Měl by obsahovat ten správný koktejl ingrediencí, které potřebuji k výrobě nejrůznějších drog. Pro léčebné účely, samozřejmě. Vím, co o mně někteří kluci tady říkají. Neposlouchej ty kecy. Potřebuju jenom nějakou slušnou výbavu a budu schopen dát svoji malou kliniku zase do pořádku.</text>
+</string>
+<string id="mil_freedom_medic_task_1_fetch_finish">
+	<text>Skvělá práce! Jsem tvým velkým dlužníkem.</text>
+</string>
+
+</string_table>

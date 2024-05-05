@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="st_cap_check_soulslike_mode">
+    <text>Režim Soulslike</text>
+</string>
+
+<string id="st_mm_ck_soulslike_mode_desc">
+    <text>
+        %c[0,150,150,150]V režimu Soulslike se smrt technicky nikdy nestane. Po "smrti" tě zachrání náhodný Stalker v oblasti. Vrátí tě zpět na poslední místo, kde jsi se spawnul, kde se probudíš a najdeš od nich zprávu\n
+        o tom, jak tě našli, a jak daleko mohli zajít, aby tě dostali na bezpečné místo. Věci, které měla tvoje postava, je nutné získat zpět, některé mohou být ztraceny a jejich stav se může zhoršit, vše záleží na nastavení.\n 
+        \n %c[200,200,50,50]Není kompatibilní s režimem Azazel.\n
+        \n %c[200,200,50,50]Není kompatibilní s režimem Ironman.
+    </text>
+</string>
+
+</string_table>

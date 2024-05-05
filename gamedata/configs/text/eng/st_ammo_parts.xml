@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="st_windows-1251"?>
+<string_table>
+
+	<!-- Jamming -->
+<string id="st_casing_pistol">
+<text>Plášt, pistole</text>
+</string>
+<string id="st_casing_pistol_desc">
+<text>Malé mosazné pláštì s iniciátory pro støelivo ruèních pistolí. Tyto náboje lze pøeformovat na libovolnou velikost od 7,62x25 až po .357 Magnum.</text>
+</string>
+<string id="st_casing_shotgun">
+<text>Plášt, brokovnice</text>
+</string>
+<string id="st_casing_shotgun_desc">
+<text>Prázdné nábojnice s mosaznými iniciátory používané k výrobì brokovnicové munice.</text>
+</string>
+<string id="st_casing_r5">
+<text>Plášt, malorážová puška</text>
+</string>
+<string id="st_casing_r5_desc">
+<text>Støednì velké mosazné pláštì s iniciátory pro náboje pušek. Tyto náboje lze pøeformovat na libovolnou velikost pro použití støel o délce 39 mm nebo 45 mm.</text>
+</string>
+<string id="st_casing_r7">
+<text>Plášt, velkorážová puška</text>
+</string>
+<string id="st_casing_r7_desc">
+<text>Velké mosazné pláštì s iniciátory pro náboje plnohodnotných pušek.</text>
+</string>
+<string id="st_powder_pistol">
+<text>Støelný prach, pistole/brokovnice</text>
+</string>
+<string id="st_powder_pistol_desc">
+<text>Rychle hoøící dvousložkový Støelný prach urèená pro použití ve brokovnicích a malých ruèních nábojích. Tato varianta bezdýmného støelného prachu produkuje menší celkovou energii než pomalejší prachy, ale hoøí èistìji a rychleji.</text>
+</string>
+<string id="st_powder_rifle">
+<text>Støelný prach, malorážová puška</text>
+</string>
+<string id="st_powder_rifle_desc">
+<text>IMR Støelný prach pro lehké náboje pušek a nìkteré tìžké ruèní náboje. Tento prach hoøí støední rychlostí a produkuje dostateèné množství energie. Nelze použít v samoèinných ruèních zbraních a brokovnicích, protože nedostateèný tlak zpùsobí neúplné hoøení a zanesení.</text>
+</string>
+<string id="st_powder_mag">
+<text>Støelný prach, puška</text>
+</string>
+<string id="st_powder_mag_desc">
+<text>Výnosný pomalu hoøící kulový prach urèený pro velké puškové náboje. Tento prach poskytuje nejvíce energie a hoøí nejpomaleji, proto je vhodný pouze pro použití v puškové munici velkého kalibru vystøelované z dlouhohlavòových zbraní.</text>
+</string>
+<string id="st_handgun_rounds">
+<text>Pláštì pro ruèní pistole</text>
+</string>
+<string id="st_handgun_rounds_desc">
+<text>Rùznì velké náboje pro ruèní pistole získané z munice. Budou užiteèné pøi výrobì nové munice.</text>
+</string>
+<string id="st_handgun_ap_rounds">
+<text>Pláštì pro ruèní pistole, prùbojné</text>
+</string>
+<string id="st_handgun_ap_rounds_desc">
+<text>Rùznì velké náboje pro ruèní pistole získané z munice. Tyto náboje obsahují slitinové prùbojníky zasazené do nábojnice. Ruèní náboje jsou obvykle pøíliš pomalé na prùnik pancíøem, i když jsou vybaveny prùbojníky, pokud se nepoužije náplò s pøetlakovým nábojem nebo pokud støela není speciálnì navržena pro prùboj pancíøem, jako napøíklad støela 5.7x28.</text>
+</string>
+<string id="st_shotgun_rounds">
+<text>Olovìné broky</text>
+</string>
+<string id="st_shotgun_rounds_desc">
+<text>Malé olovìné brokové kulièky používané ve loveckých brokovnicích. Tyto lze také roztavit a odlít velké brokové projektily.</text>
+</string>
+<string id="st_shotgun_ap_rounds">
+<text>Probíjecí šipka</text>
+</string>
+<string id="st_shotgun_ap_rounds_desc">
+<text>Zakalený ocelový šípovitý projekt se zabudovanou sabótu. Tyto jsou navrženy tak, aby byly vystøelovány z policejních brokovnic a poškozovaly motorové bloky, ale docela dobøe si vedou i proti tìlesné zbroji.</text>
+</string>
+<string id="st_rifle5_rounds">
+<text>Malorážové puškové nábojnice</text>
+</string>
+<string id="st_rifle5_rounds_desc">
+<text>Rùznì velké malorážové puškové nábojnice používané v útoèných puškách. Vojensky vyrábìné a pokryté celometalovým pláštìm, optimalizované pro pøesnost.</text>
+</string>
+<string id="st_rifle5_ap_rounds">
+<text>Malorážové puškové nábojnice, prùbojné</text>
+</string>
+<string id="st_rifle5_ap_rounds_desc">
+<text>Rùznì velké malorážové puškové nábojnice s slitinovými prùbojníky používané v útoèných puškách. Jedná se o speciální náboje urèené k prùniku pancíøem na standardních vzdálenostech, za cenu nižší úèinnosti proti tìlu.</text>
+</string>
+
+<string id="st_rifle7_rounds">
+	<text>Puškové nábojnice</text>
+</string>
+<string id="st_rifle7_rounds_desc">
+	<text>Plnohodnotné puškové nábojnice pokryté kovovým pláštìm. Tyto jsou bìžnì používány pro nabíjení nábojù pro lov a vojenské ostøelování.</text>
+</string>
+<string id="st_rifle7_ap_rounds">
+	<text>Puškové støely, prùbojné</text>
+</string>
+<string id="st_rifle7_ap_rounds_desc">
+	<text>Plnohodnotné puškové støely s vloženými slitinovými prùbojníky. Tyto se nacházejí v nábojích urèených pro vojenské a speciální jednotky, které mají za cíl pøekonat tìlesnou zbroj z velké vzdálenosti.</text>
+</string>
+
+<string id="st_batch_breakdown">
+	<text>Hromadná demontáž[!]</text>
+</string>
+	
+</string_table>

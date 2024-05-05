@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Upgrading Parts
+-->
+
+<string_table>
+
+<!-- Outfits -->
+	<string id="st_upgr_o_health">
+    <text>Balíček pro vylepšení oblečení 'HPs-1'</text>
+</string>
+<string id="st_upgr_o_health_desc">
+    <text>Balíček obsahující různé mechanické zařízení s různými druhy injektorů a úložištěm sterilní tekutiny. Stalkerové mají tendenci poskládat různé věci v naději, že některé z nich budou pro ně užitečné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení oblečení stejné kvality, aby vytvořil sadu pro vylepšení oblečení.\n\n
+        Balíček má štítek 'HPs-1'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_bleed">
+    <text>Balíček pro vylepšení oblečení 'KrV'</text>
+</string>
+<string id="st_upgr_o_bleed_desc">
+    <text>Balíček obsahující různé mechanické zařízení s různými druhy injektorů a úložištěm sterilní tekutiny. Stalkerové mají tendenci poskládat různé věci v naději, že některé z nich budou pro ně užitečné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení oblečení stejné kvality, aby vytvořil sadu pro vylepšení oblečení.\n\n
+        Balíček má štítek 'KrV'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_power">
+    <text>Balíček pro vylepšení oblečení 'UPRz'</text>
+</string>
+<string id="st_upgr_o_power_desc">
+    <text>Balíček obsahující různé komponenty, přezky a další náhodné věci. Stalkerové mají tendenci poskládat různé věci v naději, že některé z nich budou pro ně užitečné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení oblečení stejné kvality, aby vytvořil sadu pro vylepšení oblečení.\n\n
+        Balíček má štítek 'UPRz'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_carry">
+    <text>Balíček pro vylepšení oblečení 'OSEL'</text>
+</string>
+<string id="st_upgr_o_carry_desc">
+    <text>Balíček obsahující různé komponenty, přezky a další náhodné věci. Stalkerové mají tendenci poskládat různé věci v naději, že některé z nich budou pro ně užitečné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení oblečení stejné kvality, aby vytvořil sadu pro vylepšení oblečení.\n\n
+        Balíček má štítek 'OSEL'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_arty">
+    <text>Balíček pro vylepšení oblečení 'APTe'</text>
+</string>
+<string id="st_upgr_o_arty_desc">
+    <text>Balíček obsahující různé komponenty, přezky a další náhodné věci. Stalkerové mají tendenci poskládat různé věci v naději, že některé z nich budou pro ně užitečné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení oblečení stejné kvality, aby vytvořil sadu pro vylepšení oblečení.\n\n
+        Balíček má štítek 'APTe'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_run">
+    <text>Balíček pro vylepšení oblečení 'DVgt'</text>
+</string>
+<string id="st_upgr_o_run_desc">
+    <text>Balíček obsahující pokročilé hydraulické motory. Stalkerové mají tendenci poskládat různé věci v naději, že některé z nich budou pro ně užitečné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení oblečení stejné kvality, aby vytvořil sadu pro vylepšení oblečení.\n\n
+        Balíček má štítek 'DVgt'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_armor">
+    <text>Balistický materiál 'BRna'</text>
+</string>
+<string id="st_upgr_o_armor_desc">
+    <text>Balíček obsahující různé druhy balistických plátů a podložek - kevlar, titan, beryl, hliník, polymer a uhlíková vlákna. Malé balíčky jako tento jsou přinášeny ozbrojenými silami zvenčí k provádění ad-hoc oprav a úprav jejich pancéřových obleků. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balistickými materiálovými balíčky stejné kvality, aby vytvořil sadu pro vylepšení zbroje.\n\n
+        Balíček má štítek 'BRna'.\n
+    </text>
+</string>
+
+	
+<string id="st_upgr_o_damage">
+    <text>Balistický materiálový balíček 'PzDH'</text>
+</string>
+<string id="st_upgr_o_damage_desc">
+    <text>Balíček obsahující různé druhy balistických plátů a podložek - kevlar, titan, beryl, hliník, polymer a uhlíková vlákna. Malé balíčky jako tento jsou přiváženy vnějšími ozbrojenými silami k provádění ad-hoc oprav a úprav jejich pancéřových obleků. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balistickými materiálovými balíčky stejné kvality, aby vytvořil sadu pro vylepšení zbroje.\n\n
+        Balíček má štítek 'PzDH'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_durability">
+    <text>Balistický materiálový balíček 'PRCh'</text>
+</string>
+<string id="st_upgr_o_durability_desc">
+    <text>Balíček obsahující různé druhy balistických plátů a podložek - kevlar, titan, beryl, hliník, polymer a uhlíková vlákna. Malé balíčky jako tento jsou přiváženy vnějšími ozbrojenými silami k provádění ad-hoc oprav a úprav jejich pancéřových obleků. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balistickými materiálovými balíčky stejné kvality, aby vytvořil sadu pro vylepšení zbroje.\n\n
+        Balíček má štítek 'PRCh'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_weight">
+    <text>Balistický materiálový balíček 'LGkY'</text>
+</string>
+<string id="st_upgr_o_weight_desc">
+    <text>Balíček obsahující různé druhy balistických plátů a podložek - kevlar, titan, beryl, hliník, polymer a uhlíková vlákna. Malé balíčky jako tento jsou přiváženy vnějšími ozbrojenými silami k provádění ad-hoc oprav a úprav jejich pancéřových obleků. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balistickými materiálovými balíčky stejné kvality, aby vytvořil sadu pro vylepšení zbroje.\n\n
+        Balíček má štítek 'LGkY'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_chem">
+    <text>CBRN Materiálový balíček 'CHM-1'</text>
+</string>
+<string id="st_upgr_o_chem_desc">
+    <text>Balíček obsahující různé materiály oděvu odolné vůči CBRN hrozbám, vysokým teplotám, napětí a jiným hrozbám. Malé balíčky jako tyto jsou dováženy Ministerstvem vědy k nahrazení částí v jejich ochranných oblecích, ale stejně dobře slouží stalkerům, kteří chtějí vylepšit své provizorní oblečení. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky CBRN materiálu stejné kvality, aby vytvořil sadu pro vylepšení ochrany proti životnímu prostředí.\n\n
+        Tento balíček má štítek 'CHM-1'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_burn">
+    <text>CBRN Materiálový balíček 'KHMy'</text>
+</string>
+<string id="st_upgr_o_burn_desc">
+    <text>Balíček obsahující různé materiály oděvu odolné vůči CBRN hrozbám, vysokým teplotám, napětí a jiným hrozbám. Malé balíčky jako tyto jsou dováženy Ministerstvem vědy k nahrazení částí v jejich ochranných oblecích, ale stejně dobře slouží stalkerům, kteří chtějí vylepšit své provizorní oblečení. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky CBRN materiálu stejné kvality, aby vytvořil sadu pro vylepšení ochrany proti životnímu prostředí.\n\n
+        Tento balíček má štítek 'KHMy'.\n
+    </text>
+</string>
+
+	
+	<string id="st_upgr_o_shock">
+    <text>CBRN Materiálový balíček 'MSCh'</text>
+</string>
+<string id="st_upgr_o_shock_desc">
+    <text>Balíček obsahující různé materiály oděvu odolné vůči CBRN hrozbám, vysokým teplotám, napětí a jiným hrozbám. Malé balíčky jako tyto jsou dováženy Ministerstvem vědy k nahrazení částí v jejich ochranných oblecích, ale stejně dobře slouží stalkerům, kteří chtějí vylepšit své provizorní oblečení. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky CBRN materiálu stejné kvality, aby vytvořil sadu pro vylepšení ochrany proti životnímu prostředí.\n\n
+        Tento balíček má štítek 'MSCh'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_psi">
+    <text>CBRN Materiálový balíček 'MZg'</text>
+</string>
+<string id="st_upgr_o_psi_desc">
+    <text>Balíček obsahující různé materiály oděvu odolné vůči CBRN hrozbám, vysokým teplotám, napětí a jiným hrozbám. Malé balíčky jako tyto jsou dováženy Ministerstvem vědy k nahrazení částí v jejich ochranných oblecích, ale stejně dobře slouží stalkerům, kteří chtějí vylepšit své provizorní oblečení. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky CBRN materiálu stejné kvality, aby vytvořil sadu pro vylepšení ochrany proti životnímu prostředí.\n\n
+        Tento balíček má štítek 'MZg'.\n
+    </text>
+</string>
+
+<string id="st_upgr_o_rad">
+    <text>CBRN Materiálový balíček 'CHst'</text>
+</string>
+<string id="st_upgr_o_rad_desc">
+    <text>Balíček obsahující různé materiály oděvu odolné vůči CBRN hrozbám, vysokým teplotám, napětí a jiným hrozbám. Malé balíčky jako tyto jsou dováženy Ministerstvem vědy k nahrazení částí v jejich ochranných oblecích, ale stejně dobře slouží stalkerům, kteří chtějí vylepšit své provizorní oblečení. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky CBRN materiálu stejné kvality, aby vytvořil sadu pro vylepšení ochrany proti životnímu prostředí.\n\n
+        Tento balíček má štítek 'CHst'.\n
+    </text>
+</string>
+
+	
+
+<!-- Weapons -->
+
+<string id="st_upgr_w_reliability">
+    <text>Balíček úprav pro malé zbraně 'D-11'</text>
+</string>
+<string id="st_upgr_w_reliability_desc">
+    <text>Balíček obsahující několik různých dílů pro různé zbraně, včetně spoušťových mechanismů, zámků a nosičů, pružin na tlumivku zpětného rázu a vedených tyčí. Náhradní díly jsou shromažďovány stalkery, pokud nejsou komponenty okamžitě potřebné v jejich zbraních, buď pro opětovný prodej nebo budoucí použití. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky úprav pro malé zbraně stejné kvality k vytvoření sady pro vylepšení mechanismu zbraně. \n \n
+        Tento balíček má štítek 'R-11' \n
+    </text>
+</string>
+
+<string id="st_upgr_w_recoil">
+    <text>Balíček úprav pro malé zbraně 'K-01'</text>
+</string>
+<string id="st_upgr_w_recoil_desc">
+    <text>Balíček obsahující několik různých dílů pro různé zbraně, včetně spoušťových mechanismů, zámků a nosičů, pružin na tlumivku zpětného rázu a vedených tyčí. Náhradní díly jsou shromažďovány stalkery, pokud nejsou komponenty okamžitě potřebné v jejich zbraních, buď pro opětovný prodej nebo budoucí použití. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky úprav pro malé zbraně stejné kvality k vytvoření sady pro vylepšení mechanismu zbraně. \n \n
+        Tento balíček má štítek 'K-01' \n
+    </text>
+</string>
+
+<string id="st_upgr_w_calibre">
+    <text>Balíček úprav pro malé zbraně 'C-22'</text>
+</string>
+<string id="st_upgr_w_calibre_desc">
+    <text>Balíček obsahující několik různých dílů pro různé zbraně, včetně spoušťových mechanismů, zámků a nosičů, pružin na tlumivku zpětného rázu a vedených tyčí. Náhradní díly jsou shromažďovány stalkery, pokud nejsou komponenty okamžitě potřebné v jejich zbraních, buď pro opětovný prodej nebo budoucí použití. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky úprav pro malé zbraně stejné kvality k vytvoření sady pro vylepšení mechanismu zbraně. \n \n
+        Tento balíček má štítek 'C-22' \n
+    </text>
+</string>
+
+<string id="st_upgr_w_rpm">
+    <text>Balíček úprav pro malé zbraně 'R-39'</text>
+</string>
+<string id="st_upgr_w_rpm_desc">
+    <text>Balíček obsahující několik různých dílů pro různé zbraně, včetně spoušťových mechanismů, zámků a nosičů, pružin na tlumivku zpětného rázu a vedených tyčí. Náhradní díly jsou shromažďovány stalkery, pokud nejsou komponenty okamžitě potřebné v jejich zbraních, buď pro opětovný prodej nebo budoucí použití. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky úprav pro malé zbraně stejné kvality k vytvoření sady pro vylepšení mechanismu zbraně. \n \n
+        Tento balíček má štítek 'R-39'\n 
+    </text>
+</string>
+
+<string id="st_upgr_w_firemode">
+    <text>Balíček úprav pro malé zbraně 'F-23'</text>
+</string>
+<string id="st_upgr_w_firemode_desc">
+    <text>Balíček obsahující několik různých dílů pro různé zbraně, včetně spoušťových mechanismů, zámků a nosičů, pružin na tlumivku zpětného rázu a vedených tyčí. Náhradní díly jsou shromažďovány stalkery, pokud nejsou komponenty okamžitě potřebné v jejich zbraních, buď pro opětovný prodej nebo budoucí použití. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky úprav pro malé zbraně stejné kvality k vytvoření sady pro vylepšení mechanismu zbraně. \n \n
+        Tento balíček má štítek 'F-23'\n 
+    </text>
+</string>
+
+<string id="st_upgr_w_weight">
+    <text>Balíček úprav pro malé zbraně 'W-02'</text>
+</string>
+<string id="st_upgr_w_weight_desc">
+    <text>Krabice plná náhodných pistolových střenek, kompenzátorů, náhradních hlavní a polymerového nábytku pro různé zbraně. Nepochybně doprava objednaná nějakým zbrojím nebo obchodníkem v Zóně. Stav dílů kolísá a někdy zanechává něco k požádání, a je zřejmé, že tato sada je docela provizorní. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n 
+        Tento balíček má štítek 'W-02'\n 
+    </text>
+</string>
+
+<string id="st_upgr_w_speed">
+    <text>Balíček úprav pro malé zbraně 'V-99'</text>
+</string>
+<string id="st_upgr_w_speed_desc">
+    <text>Krabice plná náhodných pistolových střenek, kompenzátorů, náhradních hlavní a polymerového nábytku pro různé zbraně. Nepochybně doprava objednaná nějakým zbrojím nebo obchodníkem v Zóně. Stav dílů kolísá a někdy zanechává něco k požádání, a je zřejmé, že tato sada je docela provizorní. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n 
+        Tento balíček má štítek 'V-99'\n 
+    </text>
+</string>
+
+	
+	<string id="st_upgr_w_magazine">
+    <text>Balíček úprav pro malé zbraně 'M-45'</text>
+</string>
+<string id="st_upgr_w_magazine_desc">
+    <text>Krabice plná náhodných pistolových střenek, kompenzátorů, náhradních hlavní a polymerového nábytku pro různé zbraně. Nepochybně doprava objednaná nějakým zbrojím nebo obchodníkem v Zóně. Stav dílů kolísá a někdy zanechává něco k požádání, a je zřejmé, že tato sada je docela provizorní. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n 
+        Tento balíček má štítek 'M-45'\n
+    </text>
+</string>
+
+<string id="st_upgr_w_dispersion">
+    <text>Balíček s náhradními díly 'D-19'</text>
+</string>
+<string id="st_upgr_w_dispersion_desc">
+    <text>Krabice plná náhodných pistolových střenek, kompenzátorů, náhradních hlavní a polymerového nábytku pro různé zbraně. Nepochybně doprava objednaná nějakým zbrojím nebo obchodníkem v Zóně. Stav dílů kolísá a někdy zanechává něco k požádání, a je zřejmé, že tato sada je docela provizorní. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n 
+        Tento balíček má štítek 'D-19'\n
+    </text>
+</string>
+
+<string id="st_upgr_w_inertion">
+    <text>Balíček úprav pro malé zbraně 'H-7'</text>
+</string>
+<string id="st_upgr_w_inertion_desc">
+    <text>Krabice plná náhodných pistolových střenek, kompenzátorů, náhradních hlavní a polymerového nábytku pro různé zbraně. Nepochybně doprava objednaná nějakým zbrojím nebo obchodníkem v Zóně. Stav dílů kolísá a někdy zanechává něco k požádání, a je zřejmé, že tato sada je docela provizorní. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n 
+        Tento balíček má štítek 'H-7'\n
+    </text>
+</string>
+
+<string id="st_upgr_w_muffle">
+    <text>Balíček pro optiku a montáže zbraní 'SPS'</text>
+</string>
+<string id="st_upgr_w_muffle_desc">
+    <text>Balíček obsahující různé montážní držáky (dovetail, M-LOK, Picatinny), nástroje pro přidání závitů k hlavním a optické mířidla různé kvality. Pravděpodobně druhá ruka vybavení, vyměněná za některé mutantní části nebo artefakty. Kvalita je pochybná, ale některé části zde mohou být použitelné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n
+        Tento balíček má štítek 'SPS'\n
+    </text>
+</string>
+
+	
+<string id="st_upgr_w_grenade_mount">
+    <text>Balíček pro optiku a montáže zbraní 'Gzh-L'</text>
+</string>
+<string id="st_upgr_w_grenade_mount_desc">
+    <text>Balíček obsahující různé montážní držáky (dovetail, M-LOK, Picatinny), nástroje pro přidání závitů k hlavním a optická mířidla různé kvality. Pravděpodobně druhá ruka vybavení, vyměněná za některé mutantní části nebo artefakty. Kvalita je pochybná, ale některé části zde mohou být použitelné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n
+        Tento balíček má štítek 'Gzh-L'\n
+    </text>
+</string>
+
+<string id="st_upgr_w_scope">
+    <text>Balíček pro optiku a montáže zbraní 'OByE'</text>
+</string>
+<string id="st_upgr_w_scope_desc">
+    <text>Balíček obsahující různé montážní držáky (dovetail, M-LOK, Picatinny), nástroje pro přidání závitů k hlavním a optická mířidla různé kvality. Pravděpodobně druhá ruka vybavení, vyměněná za některé mutantní části nebo artefakty. Kvalita je pochybná, ale některé části zde mohou být použitelné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n
+        Tento balíček má štítek 'OByE'\n
+    </text>
+</string>
+
+<string id="st_upgr_w_scope_mount">
+    <text>Balíček pro optiku a montáže zbraní 'MTt'</text>
+</string>
+<string id="st_upgr_w_scope_mount_desc">
+    <text>Balíček obsahující různé montážní držáky (dovetail, M-LOK, Picatinny), nástroje pro přidání závitů k hlavním a optická mířidla různé kvality. Pravděpodobně druhá ruka vybavení, vyměněná za některé mutantní části nebo artefakty. Kvalita je pochybná, ale některé části zde mohou být použitelné. Tento balíček není samostatně užitečný, ale může být kombinován s jinými balíčky pro vylepšení zbraně stejné kvality k vytvoření sady pro tělo zbraně. \n \n
+        Tento balíček má štítek 'MTt'\n
+    </text>
+</string>
+
+
+</string_table>

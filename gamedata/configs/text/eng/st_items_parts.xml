@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Advanced Weapon Repair Mod 0.3 by Faustle (2017)
+-->
+
+<string_table>
+
+<!--
+ITEMS
+-->
+
+	<string id="st_prt_i_ammo">
+    <text>Díly nábojů</text>
+</string>
+<string id="st_prt_i_ammo_descr">
+    <text>Tyto díly nábojů lze znovu použít při vytváření lepších variant. Proto si je někteří Stalkeři rádi nechávají u sebe.\n \n
+    </text>
+</string>
+<string id="st_prt_i_paper">
+    <text>Papírové listy</text>
+</string>
+<string id="st_prt_i_paper_descr">
+    <text>Trhané listy hedvábného papíru. I v takovém místě jako je Zóna se dají využít k různým účelům. Nejlevnější způsob balení jídla nebo čištění nečistot.\n \n
+    </text>
+</string>
+<string id="st_prt_i_textolite">
+    <text>Textolitový základ</text>
+</string>
+<string id="st_prt_i_textolite_descr">
+    <text>Skelněno-tkaninový laminát vytvořený z vláken a polymerického pojiva (bakelit, polyesterová pryskyřice, epoxidová pryskyřice). S odpovídajícími dovednostmi může být skvělou pomocí při opravách.\n \n
+    </text>
+</string>
+<string id="st_textile_patch_b">
+    <text>Látkové plátno</text>
+</string>
+<string id="st_textile_patch_b_descr">
+    <text>Jednoduché látkové plátno, běžně používaný jak k opravám oděvů, tak k rozprostření olejů a čisticích rozpouštědel na mechanismy palných zbraní. Lze jej aplikovat pomocí libovolné jehly nebo lepidla.\n \n
+    </text>
+</string>
+<string id="st_textile_patch_m">
+    <text>Textilní plátno</text>
+</string>
+<string id="st_textile_patch_m_descr">
+    <text>Plátno armádního stupně, který lze použít k terénním opravám oděvů a lehkých brnění. Tento materiál je ceněn pro relativně nízkou cenu a vysokou všestrannost a často je používán Zonerama. Vyžaduje středně kvalitní šicí vybavení a pokročilé lepidlo pro použití. Lze jej také použít k zlepšení rozprostření tekutin během údržby zbraní.\n \n
+    </text>
+</string>
+<string id="st_textile_patch_e">
+    <text>Zesílený textilní plát</text>
+</string>
+<string id="st_textile_patch_e_descr">
+    <text>Tlustý textilní plát s kevlarovým polstrováním. Lze jej použít k opravám středního a těžkého brnění. Je dostatečně velký na zakrytí více poškozených oblastí. K jeho použití je zapotřebí kvalitních šicích sad a lepidel. Jako alternativní využití slouží mazání a čištění zbraní - díky zvýšené tvrdosti je schopen dosáhnout méně přístupných částí palných zbraní.\n \n
+    </text>
+</string>
+<string id="st_prt_i_capacitors">
+    <text>Sada kondenzátorů</text>
+</string>
+<string id="st_prt_i_capacitors_descr">
+    <text>Elektrické kondenzátory slouží k ukládání elektrické energie. Nejjednodušší kondenzátor se skládá z dvou kovových destiček a dielektrika mezi nimi. Je hlavní součástí většiny elektrických zařízení díky svému úkolu v usměrnění střídavého proudu, ukládání elektrické energie a potlačování rušení. V Zóně jsou poměrně vzácné, ale velmi užitečné.\n \n</text>
+</string>
+	
+	
+<string id="st_prt_i_transistors">
+    <text>Krabice tranzistorů</text>
+</string>
+<string id="st_prt_i_transistors_descr">
+    <text>Krabice s vysoce kvalitními bipolárními tranzistory (BJT). Tranzistor se skládá ze tří částí (báze, emitru a kolektoru), které společně slouží k generování, převodu a zesílení elektrických oscilací.\n \n
+    </text>
+</string>
+<string id="st_prt_i_resistors">
+    <text>Krabice rezistorů</text>
+</string>
+<string id="st_prt_i_resistors_descr">
+    <text>Rezistory jsou nejběžnější elektronické součástky používané v elektronice. Omezují a řídí průchod elektrického proudu v obvodech, aby zajistily správné napájení ostatních součástek. Tato krabice obsahuje sadu rezistorů s různými hodnotami odporu a tolerancí, od 12 do 82 milionů ohmů.\n \n
+    </text>
+</string>
+<string id="st_prt_i_copper">
+    <text>Měděný drát</text>
+</string>
+<string id="st_prt_i_copper_descr">
+    <text>Elektrotechnický měděný drát se používá v mnoha zařízeních k řízení přenosu nebo používání elektrické energie. V čisté formě je vzácný, ale v případě potřeby se dá snadno získat z běžných starých rádií, radiostanic a další elektroniky.\n \n
+    </text>
+</string>
+<string id="st_prt_i_wood">
+    <text>Dřevěné díly</text>
+</string>
+<string id="st_prt_i_wood_descr">
+    <text>Kusy širokozrnného lehkého cedrového dřeva. Často používané pro venkovní projekty, jako je nábytek, terasy a nástroje. I když v místě jako je Zóna nemusí být příliš užitečné, lze je využít při výrobě.\n \n
+    </text>
+</string>
+<string id="st_prt_i_scrap">
+    <text>Kovový šrot</text>
+</string>
+<string id="st_prt_i_scrap_descr">
+    <text>Hrstka kovových úlomků a kousků vybavení. Různé typy a třídy oceli a hliníkových slitin. Lze je použít k pomoci při opravě vybavení na terénu nebo možná dokonce při výrobě.\n \n
+    </text>
+</string>
+<string id="st_prt_i_fasteners">
+    <text>Připojovací materiál</text>
+</string>
+<string id="st_prt_i_fasteners_descr">
+    <text>Hrstka šroubů, podložek, matic, hřebíků a malých kusů kovových plátů. Různé typy a velikosti. Lze je použít k pomoci při opravě vybavení na terénu nebo možná dokonce při výrobě.\n \n
+    </text>
+</string>
+<string id="st_prt_i_plastic">
+    <text>Plastová fólie</text>
+</string>
+<string id="st_prt_i_plastic_descr">
+    <text>Malý balíček z polyethylénové fólie nízké hustoty. Tento tenký plastový materiál se používá k oddělování prostorů nebo objemů, k uchovávání předmětů a jako bariéra. Plastové filmy se používají v široké škále aplikací. Navzdory částečnému roztržení je polyethylen skvělým řešením pro balení a izolaci, zejména potravin a léků.\n \n
+    </text>
+</string>
+	
+	<string id="st_prt_i_glass">
+		<text>Kusy skla</text>
+	</string>
+	<string id="st_prt_i_glass_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_i_ceramic">
+		<text>Keramická základna</text>
+	</string>
+	<string id="st_prt_i_ceramic_descr">
+		<text>.</text>
+	</string>
+	
+	<string id="st_prt_i_leather">
+		<text>Kožená role</text>
+	</string>
+	<string id="st_prt_i_leather_descr">
+		<text>.</text>
+	</string>
+
+	<string id="st_prt_i_rubber">
+		<text>Pryž</text>
+	</string>
+	<string id="st_prt_i_rubber_descr">
+		<text>Standardní pryž průmyslové kvality.</text>
+	</string>
+	
+	<string id="st_prt_i_triggermechanism">
+		<text>Spouštěcí mechanismus</text>
+	</string>
+	<string id="st_prt_i_triggermechanism_descr">
+		<text>Spouštěcí mechanismus a sestava z neznámé střelné zbraně. Většina spouští je velmi podobná a není důvod, proč by tato nemohla být zkrácena tak, aby pasovala téměř na jakoukoli zbraň.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] - %c[ui_gray_2] Základní materiál\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_spring">
+		<text>Pružina</text>
+	</string>
+	<string id="st_prt_i_spring_descr">
+		<text>Malá pružina buď ze spoušťové sestavy, nebo z vnitřních částí neznámé střelné zbraně. Pravděpodobně by mohla být upravena tak, aby nahradila většinu malých pružin.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] - %c[ui_gray_2] Základní materiál\n
+		</text>
+	</string>
+	
+	<string id="st_prt_i_pistolgrip">
+		<text>Pistolová rukojeť</text>
+	</string>
+	<string id="st_prt_i_pistolgrip_descr">
+		<text>Pistolová rukojeť z nějaké neznámé zbraně. Tuto pogumovanou rukojeť by pravděpodobně bylo možné vytvarovat nebo vytvarovat tak, aby pasovala na téměř jakoukoli střelnou zbraň.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] - %c[ui_gray_2] Základní materiál\n
+		</text>
+	</string>
+
+	
+
+
+<!--
+WEAPONS (rifles)
+-->
+
+<!-- Barrels-->
+<string id="st_barrel_1">
+    <text>18,5mm hlaveň [R] (Hlaveň)</text>
+</string>
+<string id="st_barrel_1_descr">
+    <text>Hlaveň z dvojhlavňové brokovnice ráže 18,5 mm.\n \n
+    </text>
+</string>
+<string id="st_barrel_2">
+    <text>18,5mm hlaveň [R] (Hlaveň)</text>
+</string>
+<string id="st_barrel_2_descr">
+    <text>Hlaveň z kohoutkové brokovnice ráže 18,5 mm.\n \n
+    </text>
+</string>
+<string id="st_barrel_3">
+    <text>18,5mm hlaveň [K] (Hlaveň)</text>
+</string>
+<string id="st_barrel_3_descr">
+    <text>Hlaveň ráže 18,5 mm.\n \n
+    </text>
+</string>
+<string id="st_barrel_4">
+    <text>7,62mm hlaveň [V] (Hlaveň)</text>
+</string>
+<string id="st_barrel_4_descr">
+    <text>Hlaveň z pušky ráže 7,62 mm.\n \n
+    </text>
+</string>
+<string id="st_barrel_5">
+    <text>7,92mm hlaveň [V] (Hlaveň)</text>
+</string>
+<string id="st_barrel_5_descr">
+    <text>Hlaveň z německé pušky ráže 7,92 mm.\n \n
+    </text>
+</string>
+<string id="st_barrel_6">
+    <text>9mm tlumič hlavně [AS/PP] (Hlaveň)</text>
+</string>
+<string id="st_barrel_6_descr">
+    <text>Hlaveň s integrovaným tlumičem hluku z automatického speciálního účelového 9mm kulometu.\n \n
+    </text>
+</string>
+<string id="st_barrel_7">
+    <text>7,62mm hlaveň [A|V] (Hlaveň)</text>
+</string>
+<string id="st_barrel_7_descr">
+    <text>Hlaveň ze samonabíjecí nebo automatické pušky ráže 7,62 mm.\n \n
+    </text>
+</string>
+<string id="st_barrel_8">
+    <text>5,45mm hlaveň [?] (Hlaveň)</text>
+</string>
+<string id="st_barrel_8_descr">
+    <text>Hlaveň z automatické pušky ráže 5,45 mm.\n \n
+    </text>
+</string>
+<string id="st_barrel_9">
+    <text>5,56mm hlaveň [?] (Hlaveň)</text>
+</string>
+<string id="st_barrel_9_descr">
+    <text>Hlaveň z automatické pušky ráže 5,56 mm.\n \n
+    </text>
+</string>
+<string id="st_barrel_10">
+    <text>7,62mm hlaveň [P] (Hlaveň)</text>
+</string>
+<string id="st_barrel_10_descr">
+    <text>Hlaveň z pušky ráže 7,62 mm s regulátorem plynu.\n \n
+    </text>
+</string>
+<string id="st_barrel_11">
+    <text>9mm hlaveň [AS/PP] (Hlaveň)</text>
+</string>
+<string id="st_barrel_11_descr">
+    <text>Hlaveň z automatického účelového 9mm nebo PP kulometu.\n \n
+    </text>
+</string>
+<string id="st_barrel_12">
+    <text>7,62mm hlaveň [PP] (Hlaveň)</text>
+</string>
+<string id="st_barrel_12_descr">
+    <text>Hlaveň ze znamenitého nebo dokonce legendárního systému samopalů PPSh.\n \n
+    </text>
+</string>
+<string id="st_barrel_13">
+    <text>12,7x55mm hlaveň (Hlaveň)</text>
+</string>
+<string id="st_barrel_13_descr">
+    <text>Hlaveň z automatické pušky ráže 12,7x55 mm.\n \n
+    </text>
+</string>
+
+
+<!-- Trigger mechanisms -->
+<string id="st_trigger_components_1">
+    <text>Jednomódový kohoutkový spoušťový mechanismus (Spoušť)</text>
+</string>
+<string id="st_trigger_components_1_descr">
+    <text>Jednomódový kohoutkový spoušťový mechanismus.\n \n
+    </text>
+</string>
+<string id="st_trigger_components_2">
+    <text>Dvoumódový kohoutkový spoušťový mechanismus (Spoušť)</text>
+</string>
+<string id="st_trigger_components_2_descr">
+    <text>Dvoumódový kohoutkový spoušťový mechanismus. Navržen pro použití jak v automatické, tak jednotlivé střelbě.\n \n
+    </text>
+</string>
+<string id="st_trigger_components_3">
+    <text>Třírežimový kohoutkový spoušťový mechanismus (Spoušť)</text>
+</string>
+<string id="st_trigger_components_3_descr">
+    <text>Třírežimový kohoutkový spoušťový mechanismus. Navržen pro použití v automatickém, jednotlivém a dvoumódovém režimu střelby. Pevně spjat s designem zbraně.\n \n
+    </text>
+</string>
+<string id="st_trigger_components_4">
+    <text>Spoušťový mechanismus pro jednotlivou střelbu s odpalovací jehlou (Spoušť)
+    </text>
+</string>
+<string id="st_trigger_components_4_descr">
+    <text>Spoušťový mechanismus pro jednotlivou střelbu s odpalovací jehlou.\n \n
+    </text>
+</string>
+<string id="st_trigger_components_5">
+    <text>Spoušťový mechanismus pro dvoumódovou střelbu s odpalovací jehlou (Spoušť)
+    </text>
+</string>
+<string id="st_trigger_components_5_descr">
+    <text>Spoušťový mechanismus pro dvoumódovou střelbu s odpalovací jehlou. Umožňuje střelbu v jednotlivém a automatickém režimu.\n \n
+    </text>
+</string>
+<string id="st_trigger_components_6">
+    <text>Spoušťový mechanismus s kohoutem [R] (Spoušť)</text>
+</string>
+<string id="st_trigger_components_6_descr">
+    <text>Spoušťový mechanismus s kohoutem z dvojhlavňové brokovnice.\n \n
+    </text>
+</string>
+
+
+<!-- Breech blocks -->
+<string id="st_bolt_carrier_1">
+    <text>Kluzný závorní nosič [R] (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_1_descr">
+    <text>Kluzný závorní nosič, vyrobený východními výrobci.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_2">
+    <text>Kluzný závorní nosi [R] (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_2_descr">
+    <text>Kluzný závorní nosič, vyrobený východními výrobci, z speciálních automatických zbraní.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_3">
+    <text>Kluzný závorní nosič [NATO] (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_3_descr">
+    <text>Dlouhý kluzný blok s otočným závorem, vyrobený NATO, z automatické pušky standardního kalibru.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_4">
+    <text>Kluzný závorní nosič s blokováním (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_4_descr">
+    <text>Kluzný závorní nosič s blokováním.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_5">
+    <text>Polosvobodný kluzný závorní nosič (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_5_descr">
+    <text>Polosvobodný kluzný závorní nosič s válečkovou brzdou.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_6">
+    <text>Kluzný závorní nosič s blokujícím závorem (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_6_descr">
+    <text>Kluzný závorní nosič s blokujícím závorem.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_7">
+    <text>Kluzný závorní nosič s pákovým blokem (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_7_descr">
+    <text>Kluzný závorní nosič s pákovým blokem.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_8">
+    <text>Nosič z dvojhlavňové brokovnice [R]</text>
+</string>
+<string id="st_bolt_carrier_8_descr">
+    <text>Nosič z dvojhlavňové brokovnice.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_9">
+    <text>Nosič z dvojhlavňové brokovnice [R]</text>
+</string>
+<string id="st_bolt_carrier_9_descr">
+    <text>Nosič z dvojhlavňové brokovnice.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_10">
+    <text>Kluzný závorní nosič s otočným závorem [NATO] (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_10_descr">
+    <text>Kluzný závorní nosič s otočným závorem, výrobek zemí NATO, pro automatickou pušku velkého kalibru.\n \n
+    </text>
+</string>
+<string id="st_bolt_carrier_11">
+    <text>Kluzný volný závorní nosič podélného typu [PP] (Nosič)</text>
+</string>
+<string id="st_bolt_carrier_11_descr">
+    <text>Kluzný volný závorní nosič z lehkého kulometu.\n \n
+    </text>
+</string>
+
+<!-- Breech heads -->
+<string id="st_bolt_1">
+<text>Klesající závěr [R] (zámek)</text>
+</string>
+<string id="st_bolt_1_descr">
+<text>Klesající závěr od hladkého brokového nebo kulového zbraně s páčkovým zamykacím mechanismem. Vzhledem jsou plošky klínu v dobrém stavu, bez výrazného opotřebení.\n\n
+</text>
+</string>
+
+<string id="st_bolt_2">
+	<text>Otočný zamykací hlavový mechanismus [2 zámky] [P] (zámek)</text>
+</string>
+<string id="st_bolt_2_descr">
+	<text>Otočný zamykací mechanismus s dvěma zámky z kulometu s podélně posuvným závěrem a otáčením zámku. Vzhledem jsou zamykací hlavy v dobrém stavu, bez velkých známek opotřebení.\n\n
+	</text>
+</string>
+<string id="st_bolt_3">
+	<text>Otočný zamykací mechanismus [2 zámky] [K] (zámek)</text>
+</string>
+<string id="st_bolt_3_descr">
+	<text>Otočný zamykací mechanismus s dvěma zámky z automatické nebo poloautomatické hladké kulovnice s podélně posuvným závěrem a otáčením zámku.\n\n
+	</text>
+</string>
+<string id="st_bolt_4">
+	<text>Otočný zamykací mechanismus [2 zámky] [V] (zámek)</text>
+</string>
+<string id="st_bolt_4_descr">
+	<text>Otočný zamykací mechanismus s dvěma zámky z pušky s podélně posuvným závěrem a uzamykací vahou a podélně posuvnou závěrkou se zámkem ve tvaru "šroubovky".\n\n
+	</text>
+</string>
+<string id="st_bolt_5">
+	<text>Otočný zamykací mechanismus [3 zámky] [V] (zámek)</text>
+</string>
+<string id="st_bolt_5_descr">
+	<text>Otočný zamykací mechanismus s třemi zámky z pušky s podélně posuvným závěrem a otáčením zámku.\n\n
+	</text>
+</string>
+<string id="st_bolt_6">
+	<text>Otočný zamykací mechanismus [2 zámky] [?] (zámek)</text>
+</string>
+<string id="st_bolt_6_descr">
+	<text>Otočný zamykací mechanismus s dvěma zámky z kulometu s podélně posuvným závěrem a otáčením zámku.\n\n
+	</text>
+</string>
+<string id="st_bolt_7">
+	<text>Otočný zamykací mechanismus [4 zámky] [AS] (zámek)</text>
+</string>
+<string id="st_bolt_7_descr">
+	<text>Otočný zamykací mechanismus s čtyřmi zámky z speciální automatické pušky s podélně posuvným závěrem a otáčením zámku.\n\n
+	</text>
+</string>
+<string id="st_bolt_8">
+	<text>Otočný zamykací mechanismus [6 zámků] [?] (zámek)</text>
+</string>
+<string id="st_bolt_8_descr">
+	<text>Otočný zamykací mechanismus se šesti zámky z kulometu s podélně posuvným závěrem a otáčením zámku.\n\n
+	</text>
+</string>
+<string id="st_bolt_9">
+	<text>Otočný zamykací mechanismus [7 zámků] [?] (zámek)</text>
+</string>
+<string id="st_bolt_9_descr">
+	<text>Otočný zamykací mechanismus s sedmi zámky z kulometu s podélně posuvným závěrem a otáčením zámku.\n\n
+	</text>
+</string>
+<string id="st_bolt_10">
+	<text>Otočný zamykací mechanismus [8 zámků] [?] (zámek)</text>
+</string>
+<string id="st_bolt_10_descr">
+	<text>Otočný zamykací mechanismus s osmi zámky z kulometu s podélně posuvným závěrem a otáčením zámku.\n\n
+	</text>
+</string>
+<string id="st_bolt_11">
+	<text>Nabíjecí mechanismus s kladkou ze dvouhlavňové brokovnice [R] (zámek)</text>
+</string>
+<string id="st_bolt_11_descr">
+	<text>Pravá a levá nabíjecí kladka ze dvouhlavňové brokovnice.\n\n
+	</text>
+</string>
+<string id="st_bolt_12">
+	<text>Kladky z brokovnice se svislými kladkami [R] (zámek)</text>
+</string>
+<string id="st_bolt_12_descr">
+	<text>Pravá a levá kladka ze svislé brokovnice.\n\n
+	</text>
+</string>
+<string id="st_bolt_13">
+	<text>Otočný zamykací mechanismus [2 zámky] [?] [NATO] (zámek)</text>
+</string>
+<string id="st_bolt_13_descr">
+	<text>Otočný zamykací mechanismus s dvěma zámky z velkorážné automatické pušky vyráběné v zemích NATO, s posuvným nosičem závěru a zámkem ve tvaru "šroubovky".\n\n
+	</text>
+</string>
+<string id="st_bolt_14">
+	<text>Otočný zamykací mechanismus [?/PP] (zámek)</text>
+</string>
+<string id="st_bolt_14_descr">
+	<text>Otočný zamykací mechanismus buď z PP nebo z automatické pušky s podélným, částečně volným posuvným nosičem závěru.\n\n
+	</text>
+</string>
+
+
+<string id="st_bolt_15">
+	<text>Bubínek s hlavní pružinou [PP] (zámek)</text>
+</string>
+<string id="st_bolt_15_descr">
+	<text>Bubínek s hlavní pružinou z některého domácího PP s podélným posuvným volným nosičem závěru.\n\n
+	</text>
+</string>
+<string id="st_bolt_16">
+	<text>Bubínek s hlavní pružinou [PP] [NATO] (zámek)</text>
+</string>
+<string id="st_bolt_16_descr">
+	<text>Bubínek s hlavní pružinou z některého dovozeného PP s podélným posuvným volným nosičem závěru.\n\n
+	</text>
+</string>
+<string id="st_bolt_17">
+	<text>Bubínek s hlavní pružinou [PP] [PPSh] (zámek)</text>
+</string>
+<string id="st_bolt_17_descr">
+	<text>Bubínek s hlavní pružinou z některého sovětského PP, jako je PP systému Špagin, s podélným posuvným volným nosičem závěru.\n\n
+	</text>
+</string>
+
+
+<!-- Gas tubes, etc -->
+
+<string id="st_gas_tube_1">
+	<text>Plynová trubice [K] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_1_descr">
+	<text>Plynová trubice z hlavně brokovnice.\n\n
+	</text>
+</string>
+<string id="st_gas_tube_2">
+	<text>Rukojeť [R] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_2_descr">
+	<text>Pohyblivá rukojeť z pumpy brokovnice.\n\n
+	</text>
+</string>
+<string id="st_gas_tube_3">
+	<text>Plynová trubice [V] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_3_descr">
+	<text>Plynová trubice z samonabíjecí pušky.\n\n
+	</text>
+</string>
+<string id="st_gas_tube_4">
+	<text>Plynová trubice [AS/PP] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_4_descr">
+	<text>Plynová trubice z speciální automatické pušky. 9mm.\n\n
+	</text>
+</string>
+<string id="st_gas_tube_5">
+	<text>Plynová trubice [A|V] [R] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_5_descr">
+	<text>Plynová trubice ze samonabíjecí nebo automatické pušky (Rusko).\n\n
+	</text>
+</string>
+<string id="st_gas_tube_6">
+	<text>Plynová trubice [A|V] [NATO] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_6_descr">
+	<text>Plynová trubice ze samonabíjecí nebo automatické pušky (NATO).\n\n
+	</text>
+</string>
+<string id="st_gas_tube_7">
+	<text>Plynová trubice [P] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_7_descr">
+	<text>Plynová trubice z kulometu.\n\n
+	</text>
+</string>
+<string id="st_gas_tube_8">
+	<text>Vyhazovač [V] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_8_descr">
+	<text>Vyhazovač z pušky se posuvným nosičem závěru a zámkem.\n\n
+	</text>
+</string>
+<string id="st_gas_tube_9">
+	<text>Vyhazovač z dvouhlavňové brokovnice [R] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_9_descr">
+	<text>Vyhazovač (vysunovač) z dvouhlavňové brokovnice.\n\n
+	</text>
+</string>
+<string id="st_gas_tube_10">
+	<text>Vyhazovač z dvouhlavňové brokovnice [R] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_10_descr">
+	<text>Vyhazovač z dvouhlavňové brokovnice.\n\n
+	</text>
+</string>
+<string id="st_gas_tube_11">
+	<text>Plynová trubice [PP] (plynová trubice)</text>
+</string>
+<string id="st_gas_tube_11_descr">
+	<text>Plynová trubice z samopalů MP5 s rukojetí.\n\n
+	</text>
+</string>
+
+
+<!--
+WEAPONS (pistols)
+-->
+
+<!-- barrels -->
+<string id="st_prt_w_p_barrel_1">
+	<text>Hlaveň 9x18mm (hlaveň)</text>
+</string>
+<string id="st_prt_w_p_barrel_1_descr">
+	<text>Hlaveň 9x18mm.\n\n</text>
+</string>
+<string id="st_prt_w_p_barrel_2">
+	<text>Hlaveň 9x19mm (hlaveň)</text>
+</string>
+<string id="st_prt_w_p_barrel_2_descr">
+	<text>Hlaveň 9x19mm.\n\n</text>
+</string>
+<string id="st_prt_w_p_barrel_3">
+	<text>Hlaveň .45 (hlaveň)</text>
+</string>
+<string id="st_prt_w_p_barrel_3_descr">
+	<text>Hlaveň .45.\n\n</text>
+</string>
+<string id="st_prt_w_p_barrel_4">
+	<text>Hlaveň 5.7mm (hlaveň)</text>
+</string>
+<string id="st_prt_w_p_barrel_4_descr">
+	<text>Hlaveň 5.7mm.\n\n</text>
+</string>
+<string id="st_prt_w_p_barrel_5">
+	<text>Hlaveň 7.62mm (hlaveň)</text>
+</string>
+<string id="st_prt_w_p_barrel_5_descr">
+	<text>Hlaveň 7.62mm.\n\n</text>
+</string>
+<string id="st_prt_w_p_barrel_6">
+	<text>Hlaveň 9x18mm (uzavřená) (hlaveň)</text>
+</string>
+<string id="st_prt_w_p_barrel_6_descr">
+	<text>Uzavřená hlaveň 9x18mm.\n\n</text>
+</string>
+<string id="st_prt_w_p_barrel_7">
+	<text>Hlaveň .357 (hlaveň)</text>
+</string>
+<string id="st_prt_w_p_barrel_7_descr">
+	<text>Hlaveň .357.\n\n</text>
+</string>
+
+<!-- trigger mechanism -->
+<string id="st_prt_w_p_trigger_1">
+	<text>Jednočinný mechanismus spouště (spoušť)</text>
+</string>
+<string id="st_prt_w_p_trigger_1_descr">
+	<text>Jednočinný mechanismus spouště.\n\n</text>
+</string>
+<string id="st_prt_w_p_trigger_2">
+	<text>Double-action mechanismus spouště (spoušť)</text>
+</string>
+<string id="st_prt_w_p_trigger_2_descr">
+	<text>Double-action mechanismus spouště.\n\n</text>
+</string>
+<string id="st_prt_w_p_trigger_3">
+	<text>Double-action (DA/SA) mechanismus spouště (spoušť)</text>
+</string>
+<string id="st_prt_w_p_trigger_3_descr">
+	<text>Double-action (DA/SA) mechanismus spouště.\n\n</text>
+</string>
+<string id="st_prt_w_p_trigger_4">
+	<text>Double-action mechanismus spouště "MP412" (spoušť)</text>
+</string>
+<string id="st_prt_w_p_trigger_4_descr">
+	<text>Double-action mechanismus spouště "MP412".\n\n</text>
+</string>
+	
+	
+<!-- recoil spring assembly -->
+<string id="st_prt_w_p_spring_1">
+	<text>Sestava pružiny zpětného rázu 9 mm [sovětská] (pružina)</text>
+</string>
+<string id="st_prt_w_p_spring_1_descr">
+	<text>Sestava pružiny zpětného rázu 9 mm sovětské výroby.\n\n</text>
+</string>
+<string id="st_prt_w_p_spring_2">
+	<text>Sestava pružiny zpětného rázu 9 mm [ruská] (pružina)</text>
+</string>
+<string id="st_prt_w_p_spring_2_descr">
+	<text>Sestava pružiny zpětného rázu 9 mm ruské výroby.\n\n</text>
+</string>
+<string id="st_prt_w_p_spring_3">
+	<text>Sestava pružiny zpětného rázu .45 (pružina)</text>
+</string>
+<string id="st_prt_w_p_spring_3_descr">
+	<text>Sestava pružiny zpětného rázu .45.\n\n</text>
+</string>
+<string id="st_prt_w_p_spring_4">
+	<text>Sestava pružiny zpětného rázu 9 mm [západní] (pružina)</text>
+</string>
+<string id="st_prt_w_p_spring_4_descr">
+	<text>Sestava pružiny zpětného rázu 9 mm západní výroby.\n\n</text>
+</string>
+<string id="st_prt_w_p_spring_5">
+	<text>Sestava pružiny zpětného rázu 7.62 mm (pružina)</text>
+</string>
+<string id="st_prt_w_p_spring_5_descr">
+	<text>Sestava pružiny zpětného rázu 7.62 mm.\n\n</text>
+</string>
+<string id="st_prt_w_p_spring_6">
+	<text>Sestava pružiny zpětného rázu (R1 DE 6") (pružina)</text>
+</string>
+<string id="st_prt_w_p_spring_6_descr">
+	<text>Sestava pružiny zpětného rázu.\n\n</text>
+</string>
+	
+	
+<!--
+OUTFITS
+-->
+
+<!-- Fabrics and hardware -->
+<string id="st_prt_o_fabrics_1">
+	<text>Tkaniny</text>
+</string>
+<string id="st_prt_o_fabrics_1_descr">
+	<text>Základní součást oblečení. Tyto plátna jsou vyrobená z různých materiálů, jako je bavlna, polyester, vlna a kůže, aby poskytovala pohodlí a odolnost. Používají se také ochranné tkaniny, jako je pryže a balistický nylon, spolu s ochranou kloubů a sadou kovových komponent a zipů.\n\n</text>
+</string>
+<string id="st_prt_o_fabrics_2">
+	<text>Tkaniny (syntetické)</text>
+</string>
+<string id="st_prt_o_fabrics_2_descr">
+	<text>Základní součást oblečení. Tyto textilie jsou směsí syntetických materiálů, jako je polyester a lycra, aby poskytovaly všestrannost a odolnost. Používají se také ochranné tkaniny, jako je pryže a balistický nylon, spolu s ochranou kloubů a sadou kovových komponent a zipů.\n\n</text>
+</string>
+<string id="st_prt_o_fabrics_3">
+	<text>Odolné tkaniny</text>
+</string>
+<string id="st_prt_o_fabrics_3_descr">
+	<text>Tyto plátna jsou vyrobená z různých materiálů, jako je polyester, kůže a plátno, včetně sady kovových komponent a zipů. Mají dobrou odolnost v náročných podmínkách, a proto jsou vhodné pro cestování i uvnitř Zóny.\n\n</text>
+</string>
+<string id="st_prt_o_fabrics_4">
+	<text>Armádní tkaniny</text>
+</string>
+<string id="st_prt_o_fabrics_4_descr">
+	<text>Tkaniny armádní kvality se často používají pro polní oděvy a lehké brnění. Tento materiál je cenově dostupný a velmi všestranný, a proto ho často používají lidé ve Zóně. Používají se také ochranné tkaniny, jako je pryže a balistický nylon, spolu s ochranou kloubů a sadou kovových komponent a zipů.\n\n</text>
+</string>
+	
+<!-- Retardants / Protective textiles -->
+<string id="st_prt_o_retardant_1">
+	<text>Plátna s vrstveným ohnivzdorným úpravou</text>
+</string>
+<string id="st_prt_o_retardant_1_descr">
+	<text>Tyto textilie jsou odolnější proti ohni díky chemickému ošetření nebo výrobě ohnivzdorných vláken. Ve Zóně se takové tkaniny běžně používají v oblečení pro poskytnutí ochrany proti nebezpečným prostředím a anomáliím způsobeným ohněm, jako je Burner a Comet.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_2">
+	<text>Plátna s vrstvenou chemicko/šokovou odolností</text>
+</string>
+<string id="st_prt_o_retardant_2_descr">
+	<text>Tyto textilie jsou odolnější proti elektrickému šoku a chemickým částicím díky chemickému ošetření nebo výrobě speciálních vláken. Ve Zóně se takové tkaniny běžně používají v oblečení pro poskytnutí ochrany proti nebezpečným prostředím a anomáliím způsobeným chemií a elektrickým šokem, jako je Electro a Fruit Punch.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_3">
+	<text>Plátna ošetřená RPVC třídy B</text>
+</string>
+<string id="st_prt_o_retardant_3_descr">
+	<text>Trvanlivý polyvinylchlorid (RPVC) je nehořlavý materiál odolný proti povětrnostním vlivům. RPVC může být také UV stabilizován, aby poskytoval vyšší ochranu proti anomálním nebezpečím.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_4">
+	<text>Plátna z RPVC vinylem třídy A</text>
+</string>
+<string id="st_prt_o_retardant_4_descr">
+	<text>Trvanlivý polyvinylchlorid (RPVC) je nehořlavý materiál odolný proti povětrnostním vlivům. RPVC může být také UV stabilizován, aby poskytoval vyšší ochranu proti anomálním nebezpečím.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_5">
+	<text>Plátna potažená PVC/pryží</text>
+</string>
+<string id="st_prt_o_retardant_5_descr">
+	<text>Odolná a trvanlivá tkanina potažená PVC a polyesterová tkanina s pryžovými vlákny navržená k ochraně proti nebezpečím. Lze ji šít, lepit nebo svářet.\n\n</text>
+</string>
+	
+<string id="st_prt_o_retardant_6">
+	<text>Plátna potažená PVC/uhlíkovými vlákny</text>
+</string>
+<string id="st_prt_o_retardant_6_descr">
+	<text>Odolná a trvanlivá tkanina potažená PVC a polyesterová tkanina s uhlíkovými vlákny navržená k ochraně proti nebezpečím. Lze ji šít, lepit nebo svářet.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_7">
+	<text>Izolační vložky s hořčíkovou mřížkou</text>
+</string>
+<string id="st_prt_o_retardant_7_descr">
+	<text>Tato hořčíková mřížka slouží jako dielektrické vrstvy, které chrání oblečení a jeho nositele před silnými elektrickými šoky a psi-vlnami. Může také nabídnout ochranu proti jiným nebezpečím.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_8">
+	<text>Izolační vyztužená hořčíková-oxidová mřížka</text>
+</string>
+<string id="st_prt_o_retardant_8_descr">
+	<text>Tato hořčíková-oxidová mřížka slouží jako dielektrické vrstvy, které chrání oblečení a jeho nositele před silnými elektrickými šoky a psi-vlnami. Může také nabídnout ochranu proti jiným nebezpečím.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_9">
+	<text>Polymerní pláty (potažené síranem bizmutatým)</text>
+</string>
+<string id="st_prt_o_retardant_9_descr">
+	<text>Termální degradační chování síranu bizmutatého ho činí skvělou volbou pro oblečení používané ve Zóně. Obvykle jsou potaženy na polymerní pláty pro významné pokrytí těla. Může poskytovat ochranu proti environmentálním nebezpečím.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_10">
+	<text>Polymerní pláty (potažené síranem baryovým)</text>
+</string>
+<string id="st_prt_o_retardant_10_descr">
+	<text>Termální degradační chování síranu baryového ho činí skvělou volbou pro oblečení používané ve Zóně. Obvykle jsou potaženy na polymerní pláty pro významné pokrytí těla. Může poskytovat ochranu proti environmentálním nebezpečím.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_11">
+	<text>Aluminizované vrstvy protipožárních tkanin</text>
+</string>
+<string id="st_prt_o_retardant_11_descr">
+	<text>Multivrstvé aluminizované tkaniny jsou speciálně navrženy pro ochranné oděvy a štíty používané v prostředích s vysokým rizikem ohně nebo bezpečnostních nebezpečí spojených s radiačním teplem a chemickými zdroji. Kromě toho tyto tkaniny nabízejí skvělou izolaci proti účinkům psi-vln.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_12">
+	<text>Aluminizované sklolaminátové tkaniny</text>
+</string>
+<string id="st_prt_o_retardant_12_descr">
+	<text>Multivrstvé aluminizované sklolaminátové tkaniny jsou speciálně navrženy pro ochranné oděvy a štíty používané v prostředích s vysokým rizikem úderu nebo bezpečnostních nebezpečí spojených s radiačním teplem a chemickými zdroji. Kromě toho tyto tkaniny nabízejí skvělou izolaci proti účinkům psi-vln.\n\n</text>
+</string>
+
+	
+<string id="st_prt_o_retardant_13">
+	<text>Tkaniny s obsahem PBI</text>
+</string>
+<string id="st_prt_o_retardant_13_descr">
+	<text>Tkaniny s obsahem PBI se v průběhu let staly důvěryhodným materiálem v požární službě. Jsou uznávány jako přední výkonné ochranné tkaniny odolné proti ohni. Zonéři proto využívají tyto tkaniny pro své vlastní oděvy.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_14">
+	<text>Tkaniny s obsahem PBI a úpravou polyesterem</text>
+</string>
+<string id="st_prt_o_retardant_14_descr">
+	<text>Tkaniny s obsahem PBI se v průběhu let staly důvěryhodným materiálem v požární službě. Jsou uznávány jako přední výkonné ochranné tkaniny odolné proti ohni. Zonéři proto využívají tyto tkaniny pro své vlastní oděvy.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_15">
+	<text>Tkaniny s aktivovaným uhlíkovým plátnem (ACC)</text>
+</string>
+<string id="st_prt_o_retardant_15_descr">
+	<text>Původně vyvinuto pro použití v ochranných oblecích proti chemickým látkám. Tkaniny s aktivovaným uhlíkovým plátnem mají mnoho relevantních využití v obraně, průmyslu a lékařství. Výrazně zvyšují účinnost pokročilých a aktivních obvazů a poskytují skvělou ochranu před radiací.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_16">
+	<text>Tkaniny z nevýpletu s aktivním uhlím</text>
+</string>
+<string id="st_prt_o_retardant_16_descr">
+	<text>Původně vyvinuto pro použití v ochranných oblecích proti chemickým látkám. Tkaniny s aktivovaným uhlíkovým plátnem mají mnoho relevantních využití v obraně, průmyslu a lékařství. Výrazně zvyšují účinnost pokročilých a aktivních obvazů a poskytují skvělou ochranu před radiací.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_17">
+	<text>Izolační vložky z konstantanu</text>
+</string>
+<string id="st_prt_o_retardant_17_descr">
+	<text>Vložky vyrobené z konstantanových listů působí jako dielektrické vrstvy, které chrání oděv a jeho nositele před elektrickými šoky, psi-vlnami a radioaktivními materiály. Také mohou poskytovat ochranu před jinými nebezpečími, a proto se využívají uvnitř Zóny.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_18">
+	<text>Izolační vložky z konstantanu s povlakem z plstěnky</text>
+</string>
+<string id="st_prt_o_retardant_18_descr">
+	<text>Vložky vyrobené z konstantanových listů a s povlakem z plstěnky. Působí jako dielektrické vrstvy, které chrání oděv a jeho nositele před elektrickými šoky, psi-vlnami a radioaktivními materiály. Také mohou poskytovat ochranu před jinými nebezpečími, a proto se využívají uvnitř Zóny.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_19">
+	<text>Izolační sklolaminátové tkaniny "polyester"</text>
+</string>
+<string id="st_prt_o_retardant_19_descr">
+	<text>Tepelně odolné tkaniny z "E" sklolaminátových vláken s povlakem z vermikulitového filmu, které poskytují rozšířenou teplotní odolnost až do 1500 °F a dobrou odolnost proti elektrickému šoku až do 20 kV. V místě jako Zóna mohou tyto tkaniny přijít vhod proti anomálním nebezpečím.\n\n</text>
+</string>
+<string id="st_prt_o_retardant_20">
+	<text>Izolační sklolaminátové tkaniny s "saténovým tkaním"</text>
+</string>
+<string id="st_prt_o_retardant_20_descr">
+	<text>Tepelně odolné tkaniny z "E" sklolaminátových vláken s povlakem z vermikulitového filmu, které poskytují rozšířenou teplotní odolnost až do 1700 °F a dobrou odolnost proti elektrickému šoku až do 25 kV. V místě jako Zóna mohou tyto tkaniny přijít vhod proti anomálním nebezpečím.\n\n</text>
+</string>
+	
+<!-- Ballistic inserts -->
+  <string id="st_prt_o_ballistic_1">
+    <text>Kevlarové K129 pláty s vyztuženými keramickými vložkami</text>
+  </string>
+  <string id="st_prt_o_ballistic_1_descr">
+    <text>Kevlarové pláty jsou široce známy pro své ochranné schopnosti a jsou velmi ceněny právě pro tuto vlastnost. Plní širokou škálu funkcí, nejdůležitější z nich je absorpce nárazu projektilů z palných zbraní na přední a zadní části trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancířové výplně také pomáhá udržovat stav oděvu a brání jeho opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_2">
+    <text>Kevlarové Protera pláty s vyztuženými keramickými vložkami</text>
+  </string>
+  <string id="st_prt_o_ballistic_2_descr">
+    <text>Kevlarové pláty jsou široce známy pro své ochranné schopnosti a jsou velmi ceněny právě pro tuto vlastnost. Plní širokou škálu funkcí, nejdůležitější z nich je absorpce nárazu projektilů z palných zbraní na přední a zadní části trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancířové výplně také pomáhá udržovat stav oděvu a brání jeho opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_3">
+    <text>Kevlarové K129 pláty s vložkami z polykarbonátového kompozitu</text>
+  </string>
+  <string id="st_prt_o_ballistic_3_descr">
+    <text>Kevlarové pláty jsou široce známy pro své ochranné schopnosti a jsou velmi ceněny právě pro tuto vlastnost. Plní širokou škálu funkcí, nejdůležitější z nich je absorpce nárazu projektilů z palných zbraní na přední a zadní části trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancířové výplně také pomáhá udržovat stav oděvu a brání jeho opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_4">
+    <text>Kevlarové K129 pláty s uhlíkovým kompozitem</text>
+  </string>
+  <string id="st_prt_o_ballistic_4_descr">
+    <text>Kevlarové pláty jsou široce známy pro své ochranné schopnosti a jsou velmi ceněny právě pro tuto vlastnost. Plní širokou škálu funkcí, nejdůležitější z nich je absorpce nárazu projektilů z palných zbraní na přední a zadní části trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancířové výplně také pomáhá udržovat stav oděvu a brání jeho opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_5">
+    <text>Kevlarové AP ocelové pláty</text>
+  </string>
+  <string id="st_prt_o_ballistic_5_descr">
+    <text>Kevlarové pláty jsou široce známy pro své ochranné schopnosti a jsou velmi ceněny právě pro tuto vlastnost. Plní širokou škálu funkcí, nejdůležitější z nich je absorpce nárazu projektilů z palných zbraní na přední a zadní části trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancířové výplně také pomáhá udržovat stav oděvu a brání jeho opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_6">
+    <text>Kevlarové AP pláty s vyztuženým titanovým kompozitem</text>
+  </string>
+  <string id="st_prt_o_ballistic_6_descr">
+    <text>Kevlarové pláty jsou široce známy pro své ochranné schopnosti a jsou velmi ceněny právě pro tuto vlastnost. Plní širokou škálu funkcí, nejdůležitější z nich je absorpce nárazu projektilů z palných zbraní na přední a zadní části trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancířové výplně také pomáhá udržovat stav oděvu a brání jeho opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_7">
+    <text>Kevlarové K119 pláty s polykarbonátovými vložkami</text>
+  </string>
+  <string id="st_prt_o_ballistic_7_descr">
+    <text>Kevlarové pláty jsou široce známy pro své ochranné schopnosti a jsou velmi ceněny právě pro tuto vlastnost. Plní širokou škálu funkcí, nejdůležitější z nich je absorpce nárazu projektilů z palných zbraní na přední a zadní části trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancířové výplně také pomáhá udržovat stav oděvu a brání jeho opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_8">
+    <text>Kevlarové K119 pláty s vložkami z uhlíkového vlákna</text>
+  </string>
+  <string id="st_prt_o_ballistic_8_descr">
+    <text>Kevlarové pláty jsou široce známy pro své ochranné schopnosti a jsou velmi ceněny právě pro tuto vlastnost. Plní širokou škálu funkcí, nejdůležitější z nich je absorpce nárazu projektilů z palných zbraní na přední a zadní části trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancířové výplně také pomáhá udržovat stav oděvu a brání jeho opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_9">
+    <text>Pláty z polyetylenu třídy B s rozšířeným nosičem</text>
+  </string>
+  <string id="st_prt_o_ballistic_9_descr">
+    <text>Polyetylénové pláty, které poskytují dodatečnou ochranu důležitým oblastem trupu, jsou ceněny pro svou lehkost a flexibilitu. Jsou vyrobeny z polyetylenu třídy B, který poskytuje vysokou odolnost vůči nárazům. Pláty mají rozšířený nosič, který umožňuje pohodlné nošení a dobré přizpůsobení tělu. Používají se především pro vojenské a policejní účely.\n \n
+    </text>
+  </string>
+  <string id="st_prt_o_ballistic_10">
+    <text>Pláty z polyetylenu třídy B s polykarbonátovými vložkami</text>
+  </string>
+  <string id="st_prt_o_ballistic_10_descr">
+    <text>Polyetylénové pláty s polykarbonátovými vložkami kombinují lehkost a odolnost vůči nárazům. Jsou vyrobeny z polyetylenu třídy B, který poskytuje vysokou odolnost, a jsou vybaveny polykarbonátovými vložkami pro zvýšenou ochranu. Pláty poskytují účinnou ochranu před projektily z palných zbraní a jsou široce využívány v armádě a policii.\n \n
+    </text>
+  </string>
+	
+<string id="st_prt_o_ballistic_11">
+<text>Kevlarové pláty K119</text>
+</string>
+<string id="st_prt_o_ballistic_11_descr">
+<text>Kevlarové pláty jsou široce známé pro své ochranné schopnosti a jsou vysoko ceněny právě kvůli této vlastnosti. Plní širokou škálu funkcí, z nichž nejdůležitější je absorpce nárazu střeliva na přední a zadní straně trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancíře také pomáhá udržovat stav obleků, předchází rozkladu v důsledku opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+</text>
+</string>
+
+<string id="st_prt_o_ballistic_12">
+    <text>Vyzdířené kevlarové pláty K119</text>
+</string>
+<string id="st_prt_o_ballistic_12_descr">
+    <text>Kevlarové pláty jsou široce známé pro své ochranné schopnosti a jsou vysoko ceněny právě kvůli této vlastnosti. Plní širokou škálu funkcí, z nichž nejdůležitější je absorpce nárazu střeliva na přední a zadní straně trupu. Představují lehkou alternativu k těžkým ocelovým plátům. Jakýkoli typ pancíře také pomáhá udržovat stav obleků, předchází rozkladu v důsledku opotřebení. Používají se vojenskými jednotkami po celém světě.\n \n
+    </text>
+</string>
+<string id="st_prt_o_ballistic_13">
+    <text>Lehké polyethylenové pancéřové pláty</text>
+</string>
+<string id="st_prt_o_ballistic_13_descr">
+    <text>Polyethylenové pláty poskytují dodatečnou ochranu vitálním oblastem. Tyto tvrdé pancéřové pláty se osvědčily jako účinná ochrana proti všem střelám z ručních zbraní a řady pušek. Tyto vylepšené balistické vesty se staly standardem ve vojenském použití, protože měkké vesty s tělovou ochranou jsou neúčinné proti střelám z vojenských pušek.\n \n
+    </text>
+</string>
+<string id="st_prt_o_ballistic_14">
+    <text>Polyethylenové pancéřové pláty (improvizované)</text>
+</string>
+<string id="st_prt_o_ballistic_14_descr">
+    <text>Polyethylenové pláty poskytují dodatečnou ochranu vitálním oblastem. Tyto tvrdé pancéřové pláty se osvědčily jako účinná ochrana proti všem střelám z ručních zbraní a řady pušek. Tyto vylepšené balistické vesty se staly standardem ve vojenském použití, protože měkké vesty s tělovou ochranou jsou neúčinné proti střelám z vojenských pušek.\n \n
+    </text>
+</string>
+<string id="st_prt_o_ballistic_15">
+    <text>Vrstvy s uhlíkovými nanotrubičkami s tkaninami Kevlar-49</text>
+</string>
+<string id="st_prt_o_ballistic_15_descr">
+    <text>Uhlíkové nanotrubičky (CNT) mají velký potenciál využití při výrobě balistických materiálů odolných proti průstřelu. Pozoruhodné vlastnosti CNT je činí ideálním kandidátem pro posílení polymerů a dalších materiálů a často se používají například v balistických vestách odolných proti střelám.\n \n
+    </text>
+</string>
+<string id="st_prt_o_ballistic_16">
+    <text>Vrstvy s uhlíkovými nanotrubičkami s tkaninami Kevlar-29 (vyzdířené)</text>
+</string>
+<string id="st_prt_o_ballistic_16_descr">
+    <text>Uhlíkové nanotrubičky (CNT) mají velký potenciál využití při výrobě balistických materiálů odolných proti průstřelu. Pozoruhodné vlastnosti CNT je činí ideálním kandidátem pro posílení polymerů a dalších materiálů a často se používají například v balistických vestách odolných proti střelám.\n \n
+    </text>
+</string>
+<string id="st_prt_o_ballistic_17">
+    <text>Vrstvy z polyethylenových vláken s vložkami z polykarbonátu</text>
+</string>
+<string id="st_prt_o_ballistic_17_descr">
+    <text>Polyethylenové pláty poskytují dodatečnou ochranu vitálním oblastem. Tyto tvrdé pancéřové pláty se osvědčily jako účinná ochrana proti všem střelám z ručních zbraní a řady pušek. Tyto vylepšené balistické vesty se staly standardem ve vojenském použití, protože měkké vesty s tělovou ochranou jsou neúčinné proti střelám z vojenských pušek.\n \n
+    </text>
+</string>
+<string id="st_prt_o_ballistic_18">
+    <text>Vyzdířené vrstvy z polyethylenových vláken</text>
+</string>
+<string id="st_prt_o_ballistic_18_descr">
+    <text>Polyethylenové pláty poskytují dodatečnou ochranu vitálním oblastem. Tyto tvrdé pancéřové pláty se osvědčily jako účinná ochrana proti všem střelám z ručních zbraní a řady pušek. Tyto vylepšené balistické vesty se staly standardem ve vojenském použití, protože měkké vesty s tělovou ochranou jsou neúčinné proti střelám z vojenských pušek.\n \n
+    </text>
+</string>
+<string id="st_prt_o_ballistic_19">
+    <text>Vrstvy z uhlíkových vláken</text>
+</string>
+<string id="st_prt_o_ballistic_19_descr">
+    <text>Uhlíková vlákna jsou oproti Kevlaru trochu odlišná a nejsou příliš účinná proti ostrým materiálům. Výhodou uhlíkových vláken je však to, že snášejí vysoké teploty, zatímco Kevlar začíná v této oblasti oslabovat. Materiály vyrobené z uhlíkových vláken mají tendenci být lehké, proto nabízejí větší flexibilitu.\n \n
+    </text>
+</string>
+<string id="st_prt_o_ballistic_20">
+    <text>Vyzdířené vrstvy z uhlíkových vláken</text>
+</string>
+<string id="st_prt_o_ballistic_20_descr">
+    <text>Uhlíková vlákna jsou oproti Kevlaru trochu odlišná a nejsou příliš účinná proti ostrým materiálům. Výhodou uhlíkových vláken je však to, že snášejí vysoké teploty, zatímco Kevlar začíná v této oblasti oslabovat. Materiály vyrobené z uhlíkových vláken mají tendenci být lehké, proto nabízejí větší flexibilitu.\n \n
+    </text>
+</string>
+
+<!-- Supportive installations -->
+<string id="st_prt_o_support_1">
+    <text>Rám exoskeletonu</text>
+</string>
+<string id="st_prt_o_support_1_descr">
+    <text>Mechanický rám poháněný systémem elektrických motorů, pneumatiky, pák a hydrauliky, který poskytuje nositeli nejenom vynikající ochranu, ale také výrazně zvýšenou fyzickou sílu.\n \n
+    </text>
+</string>
+
+</string_table>

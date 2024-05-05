@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<!-- Jammin -->
+<string id="kb_unjam">
+    <text>Odblokuj zaseknutou zbraň</text>
+</string>
+<string id="ui_st_misfire">
+    <text>Zbraň selhala výstřelit!</text>
+</string>
+<string id="ui_st_jam">
+    <text>Zbraň se zasekla!</text>
+</string>
+<string id="ui_st_superjam">
+    <text>Zbraň se vážně zasekla!</text>
+</string>
+<string id="ui_st_nothing">
+    <text>Není co odblokovat</text>
+</string>
+<string id="ui_st_unjam">
+    <text>Zbraň úspěšně odblokovaná</text>
+</string>
+<string id="ui_st_functional">
+    <text>Zbraň je funkční</text>
+</string>
+<string id="ui_st_oldjam">
+    <text>Používáš zásobníky. Zbraň neodblokovávej. Znovu nabij svoji zbraň.</text>
+</string>
+<string id="ui_st_unjam_fail">
+    <text>To se zdá, že nefunguje - musí být opravdu zaseknutá...</text>
+</string>
+<string id="ui_st_parts_damage">
+    <text>Zbraň utrpěla poškození vnitřních součástí.</text>
+</string>
+<string id="st_news_parts_alreadygood">
+    <text>Část nemusí být nahrazena.</text>
+</string>
+<string id="ui_st_heat1">
+    <text>, ale teplá.</text>
+</string>
+<string id="ui_st_heat2">
+    <text>, ale horká!</text>
+</string>
+<string id="ui_st_heat3">
+    <text>, ale velmi horká!</text>
+</string>
+
+	
+<string id="st_unjam">
+    <text>Odblokovat</text>
+</string>
+
+	<!-- Messages -->
+<string id="st_news_parts_success">
+    <text>Úspěšně nahrazený díl: </text>
+</string>
+<string id="st_news_parts_repair_success">
+    <text>Úspěšně opravený díl: </text>
+</string>
+<string id="st_news_parts_fail">
+    <text>%c[d_red]Zbraň již má díl s vyšší kvalitou.</text>
+</string>
+<string id="st_news_parts_incompatible">
+    <text>%c[d_red]Díl není kompatibilní se zbraní.</text>
+</string>
+<string id="st_news_parts_barrel">
+    <text>%c[d_red]Hlavně nelze vyměnit v terénu.</text>
+</string>
+<string id="st_news_parts_trigger">
+    <text>%c[d_red]Spoušť nelze vyměnit v terénu.</text>
+</string>
+<string id="st_news_parts_rusty">
+    <text>%c[d_red]Zbraň je příliš zrezivělá na to, aby se dala rozložit v terénu.</text>
+</string>
+<string id="st_news_dis_items">
+    <text>%c[d_red]Je potřeba vhodný nástroj k demontáži.</text>
+</string>
+<string id="st_news_fieldstrip">
+    <text>Odstraněné díly:</text>
+</string>
+<string id="st_news_cleaned">
+    <text>Vyčištěná součástka:</text>
+</string>
+
+
+	<!-- MCM -->
+<string id="ui_mcm_menu_wpo">
+    <text>WPO</text>
+</string>
+<string id="ui_mcm_wpo_title">
+    <text>Revize součástí zbraní</text>
+</string>
+<string id="ui_mcm_wpo_wpojam">
+    <text>Možnosti zaseknutí zbraně</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon">
+    <text>Ekonomické možnosti</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc">
+    <text>Různé možnosti</text>
+</string>
+<string id="ui_mcm_menu_wpojam">
+    <text>WPO Zaseknutí</text>
+</string>
+<string id="ui_mcm_menu_wpoecon">
+    <text>WPO Ekonomika</text>
+</string>
+<string id="ui_mcm_menu_wpomisc">
+    <text>WPO Různé</text>
+</string>
+
+
+	<string id="ui_mcm_wpo_wpojam_keybind">
+    <text>Klávesová zkratka pro odseknutí</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_jamchance">
+    <text>Multiplikátor šance na zaseknutí</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_jamchance_desc">
+    <text>Multiplikátor pro vaše zbraně, aby se zasekly novým způsobem. Tažením dolů, pokud</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_superjam">
+    <text>Povolit super zaseknutí</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_superjam_desc">
+    <text>Povoluje (nebo zakazuje) ty nepříjemné super zaseknutí. Super zaseknutí jsou zaseknutí, která vyžadují vyjmutí nabité munice, aby se správně vyčistila.</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_simplejam">
+    <text>Při super zaseknutí vypustit zásobník</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_simplejam_desc">
+    <text>Pokud je povoleno, po stisknutí přebití s super zaseknutou zbraní, bude zásobník vytlačen automaticky. Žádné kličkování s inventářem!</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_heat">
+    <text>Povolit přehřátí zbraně</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_heat_desc">
+    <text>Při střelbě se zbraně zahřívají, což ovlivňuje degradaci, šanci na zaseknutí a poškození součástí.</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_oldammo">
+    <text>Stará munice ovlivňuje degradaci</text>
+</string>
+<string id="ui_mcm_wpo_wpojam_oldammo_desc">
+    <text>Stará munice zvyšuje rychlost opotřebení hlavně a šanci na zaseknutí.</text>
+</string>
+
+<string id="ui_mcm_wpo_wpoecon_degradation">
+    <text>Degradace součástek deštěm</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_degradation_desc">
+    <text>Rychlost, kterou se vaše zbraň opotřebovává rychleji za deštivého počasí.</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_threshold">
+    <text>Práh stavu poškození součástí</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_threshold_desc">
+    <text>Stav zbraně, při kterém má použití šanci poškodit součásti. Čím nižší, tím méně součástí bude poškozeno celkově.</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_repairkit">
+    <text>Repasovací sady nahrazují součásti</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_repairkit_desc">
+    <text>Repasovací sady nahrazují součásti (obnovují na 100). Pokud není povoleno, repasovací sady přidají pouze 25 %. Ztěžuje obtížnost, pokud je vypnuto.</text>
+</string>
+
+	<!-- <string id="ui_mcm_wpo_wpoecon_fullservice">
+		<text>Technician Service Level</text>
+	</string>
+	<string id="ui_mcm_wpo_wpoecon_fullservice_desc">
+		<text>Determines the level of service that technicians provide. 	
+			\n\n Clean Weapon Only: Only restores base weapon condition.
+			\n\n Clean Parts: Restores base weapon condition and cleans parts, if applicable.
+			\n\n Full service: Restores base condition, fixes parts, replaces parts.
+		</text>
+	</string> -->
+	
+<string id="st_wpn_service_cost">
+    <text>Náklady na servis:</text>
+</string>
+<string id="st_wpn_service_hint">
+    <text>Udržovat součásti</text>
+</string>
+<string id="st_wpn_service_dropdown">
+    <text>Otevřít menu údržby součástí</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_altroll">
+    <text>Váhové stavy zbraní</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_altroll_desc">
+    <text>Stavy zbraní se hodnotí na základě Lagrangeovy interpolace. Celkově snižuje kvalitu padlých předmětů, což je dobré, pokud rádi sbíráte suroviny, a dobře se kombinuje s následujícím položkou.</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_altpartroll">
+    <text>Váhové stavy součástí</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
+    <text>Používá nový vzorec pro padání součástí zbraní, kde stav zbraně určuje, zda jsou součásti hodnoceny jako dobré nebo špatné. Zlepšuje kvalitu padlých předmětů v nižších úrovních a snižuje kvalitu padlých předmětů ve vyšších úrovních.</text>
+</string>
+
+<string id="ui_mcm_wpo_wpoecon_saletype">
+    <text>Logika prodeje zbraní</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_saletype_desc">
+    <text>Určuje, jak funguje prodej zbraní. \n \n
+        - Standardní: Zbraně se prodávají za cenu odpovídající jejich stavu (není doporučeno pro vyvážení)\n
+        - Uvolněný: Cena prodeje zbraně se mění podle stavu součástí, na základě poškozené/nepoškozené (práh 60 %). Doporučeno.\n
+        - Přísný: Zbraně musí mít všechny součásti nepoškozené (>60 %), aby byly pro prodej vhodné.\n
+        Poznámka: Chybějící součástka zbraně zneplatňuje zbraň pro prodej, bez ohledu na výše uvedené podmínky.
+    </text>
+</string>
+
+	
+	<string id="ui_mcm_lst_vanilla">
+    <text>Standardní</text>
+</string>
+<string id="ui_mcm_lst_easy">
+    <text>Uvolněný</text>
+</string>
+<string id="ui_mcm_lst_hard">
+    <text>Přísný</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_easybarrel">
+    <text>Výměna hlavní bez pracovního stolu</text>
+</string>
+<string id="ui_mcm_wpo_wpoecon_easytrigger">
+    <text>Výměna spouště bez pracovního stolu</text>
+</string>
+
+<string id="ui_mcm_wpo_wpomisc_profanity">
+    <text>Nadávky při zaseknutí zbraně</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_profanity_desc">
+    <text>Povolí barevné dialogy při poruše.</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_profanity_timeout">
+    <text>Vypnout spam nadávek</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_profanity_timeout_desc">
+    <text>Přidá časový limit pro nadávky při zaseknutí, pokud je nastaveno na true. Použijte, pokud nemáte rádi zábavu.</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_display">
+    <text>Zobrazit stav součásti</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_profanity_language">
+    <text>Jazyk nadávek</text>
+</string>
+<string id="ui_mcm_lst_eng">
+    <text>Angličtina</text>
+</string>
+<string id="ui_mcm_lst_rus">
+    <text>Ruština</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_verbosity">
+    <text>Povolit zprávy o zaseknutí</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_verbosity_desc">
+    <text>Ovládá, zda je uživateli zobrazena informace o zaseknutí a poškození interních součástí.</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_fun">
+    <text>Zábavný mod</text>
+</string>
+<string id="ui_mcm_lst_no">
+    <text>Povinnost</text>
+</string>
+<string id="ui_mcm_lst_yes">
+    <text>Samotář</text>
+</string>
+<string id="ui_mcm_lst_ofc">
+    <text>Svoboda</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_debug">
+    <text>Ladění</text>
+</string>
+<string id="ui_mcm_wpo_wpomisc_debug_desc">
+    <text>Ladění, povoluje celou řadu dalších informací v konzolovém záznamu.</text>
+</string>
+
+
+<string id="st_field_strip">
+    <text>Získat součástky</text>
+</string>
+<string id="st_field_strip_fail">
+    <text>Tato zbraň nemá součástky k odstranění.</text>
+</string>
+<string id="ui_st_missing">
+    <text>Tato zbraň má chybějící součásti nebo má poškozenou součást.</text>
+</string>
+
+
+	
+<string id="article_wpo">
+    <text>Údržba Zbraní</text>
+</string>
+<string id="article_wpo_text">
+    <text>
+        %c[pda_green]RYCHLÉ ODPPOVĚDI%c[ui_gray_1]\n \n
+        \n1. Proč se mi zasekává zbraň i při 100% kondici?
+        \nO. Vaše součásti jsou poškozené. Zkontrolujte stav.
+        \n2. Jak se odzasekává?
+        \nO. Dvojitě stiskněte "H" v základu a nebo si ho nastav v nastavení modů v kategorii WPO. Nebo klikněte pravým tlačítkem myši na zbraň v inventáři a vyvoláte možnost odzaseknutí.
+        \n3. Proč ztrácím kondici při výměně součástí?
+        \nO. Musíte promazat zbraň. To se nestane při stavu pod 60%. Použijte Leatherman k snížení množství, nebo pracovní stůl k úplnému odstranění.
+        \n4. Proč mi technici neopravují součásti?
+        \nO. Součásti musí být získány. Součásti můžete zakoupit u technika nebo použít sadu na opravu zbraní. To je jádrové opatření pro trvanlivost WPO. \n \n
+        Zbraně Zbraně předělávají údržbu zbraní v Anomaly zásadním způsobem. Pečlivě si přečtěte tento průvodce, abyste všechno pochopili.\n \n
+
+        %c[pda_green]I. Součásti a Údržba%c[ui_gray_1]\n
+        \n• Celkový stav vaší zbraně (stavový pruh, se kterým jste obvykle zvyklí) je nyní snazší udržovat. Mechanik obnoví tuto hodnotu za 60% nižší cenu. Všechny položky na opravu zbraní jsou mnohem účinnější.
+        \n• Součásti zbraně potřebují údržbu. Stav součástí zbraně můžete snadno zkontrolovat naježením kurzoru myši.
+        \n   • Barva textu indikuje stav.
+        \n%c[d_red]   •  Chybí
+        \n%c[d_orange]   •  Poškozeno a nelze vyčistit
+        \n%c[pda_yellow]   • Zašpiněno a lze vyčistit%c[ui_gray_1]
+        \n• Součásti zbraně lze odstranit rozebráním zbraně. To odstraní každou součást, která není hlavní nebo spoušť.
+        \n• Součásti zbraně lze také nahradit jednoduše přetáhnutím. %c[d_red]POZOR, TO ZMENŠUJE STAV ZBRANĚ, POKUD JE VYŠŠÍ NEŽ 60%. Buďte připraveni s Leathermanem k snížení tohoto dopadu. %c[ui_gray_1]. 
+        \n• Součásti zbraně lze také zdarma nahradit na pracovním stolu, pokud vlastníte správnou sadu na opravu. %c[pda_yellow]To je jeden ze dvou způsobů nahrazení hlavní nebo spouště.%c[ui_gray_1]
+        \n \n
+        %c[pda_green]II. Zasekávání a Poškození Součástí%c[ui_gray_1]\n
+        \n• Součásti mají pět úrovní poškození: %c[d_red]rozbité%c[ui_gray_1], %c[d_red]poškozené%c[ui_gray_1], %c[d_orange]opotřebované%c[ui_gray_1], %c[0,250,250,0]zašpiněné%c[ui_gray_1], %c[d_green]funkční%c[ui_gray_1]
+        \n• Čím více poškozené součásti, tím vyšší je šance na závadu.
+        \n• Existují tři typy závad: zaseknutí, zaseknutí a závažné zaseknutí.
+        \n• Zaseknutí a zaseknutí lze jednoduše odstranit odzaseknutím.
+        \n• Závažné zaseknutí vyžaduje vyjmutí zásobníku před odstraněním zaseknutí.
+        \n• Hlavně necontributují k šanci na zaseknutí. Nicméně špinavé a poškozené hlavně snižují poškození zbraně až o 50%.
+        \n• Střelba zbraní pod 85% stavem (výchozí, změňte %c[pda_yellow]MCM: Práh poškození součástí%c[ui_gray_1]) má šanci poškodit součásti zbraně. 
+        \n• Střelba zbraní za silného deště bude zbraň rychleji opotřebovávat.
+        \n• (TEMPORÁRNĚ ODEBRÁNO) Střelba zbraní po delší dobu způsobuje přehřátí, což vede k více zaseknutím a rychlejšímu opotřebení.
+        \n%c[pda_green]III. Ekonomické změny%c[ui_gray_1]\n
+        \n• Mít čisticí sadu vám umožní čistit "zašpiněné" součásti zbraně (nad 60% stavem). Tím se obnoví 10% stavu.
+        \n• Mít sadu na opravu umožní opravit součásti pomocí pravého kliknutí myši. To spotřebuje náboj a obnoví 25% stav součásti a 10% stav zbraně.%c[pda_yellow]To je druhý způsob opravy hlavní nebo spouště.%c[ui_gray_1]
+        \n• Technici budou náhodně prodávat součásti zbraně za značně předražené ceny. 
+        \n• Součásti zbraní nad 60% lze opravit pomocí pilníků, tyček nebo multitoolů.
+        \n• Součásti zbraní nad 10% lze opravit velmi drahým nástrojovým sadou dostupnou u obchodníků.
+        \n \n Pro všechny další problémy kontaktujte arti#3278 na Discordu. Jsem příliš líný číst komentáře na Moddb.
+    </text>
+</string>
+
+<string id="st_partskit">
+    <text>Sada na opravu součástí</text>
+</string>
+<string id="st_partskit_descr">
+    <text>Vyspělá sada nástrojů zahrnující mikro-soubory, epoxidovou sádru na studené svařování kovů, nastavení elektrolýzy a spoustu maziv, petrolejových destilátů a dalších rozpouštědel. Nástroje v této sadě dokáží obnovit motor Lada na Ferrari, nemluvě o tom, co dokáží s mechanickými součástmi. Pouze nejvíce zničené kusy kovového šrotu nebudou schopny být touto sadou obnoveny. Nicméně, tato sada je extrémně obtížná na sestavení a je proto prodávána v velmi malých množstvích techniky Zóny.\n\n</text>
+</string>
+
+<!-- Info -->
+
+
+<string id="st_dot">
+    <text>•</text>
+</string>
+<string id="st_clean_half">
+    <text>účinnost čištění se sníží na polovinu pod hranicí: </text>
+</string>
+<string id="st_damage_missing">
+    <text>chybějící</text>
+</string>
+<string id="st_damage_0">
+    <text>rozbitý</text>
+</string>
+<string id="st_damage_1">
+    <text>poškozený</text>
+</string>
+<string id="st_damage_2">
+    <text>opotřebovaný</text>
+</string>
+<string id="st_damage_3">
+    <text>špinavý</text>
+</string>
+<string id="st_damage_4">
+    <text>funkční</text>
+</string>
+<string id="st_damage_5">
+    <text>funkční</text>
+</string>
+<string id="st_wpo_replace_parts">
+    <text>udržba součástek</text>
+</string>
+<string id="st_wpo_repair">
+    <text>opravit 25% stavu na </text>
+</string>
+<string id="st_wpo_replace">
+    <text>vyměnit </text>
+</string>
+<string id="st_wpo_clean">
+    <text>vyčistit</text>
+</string>
+<string id="st_wpo_remove">
+    <text>odstranit</text>
+</string>
+
+		<string id="st_name_trigger">
+		<text>Spouštěcí mechanismus</text>
+	</string>
+	<string id="st_name_spring">
+		<text>Pružina zpětného rázu</text>
+	</string>	
+	<string id="st_name_barrel">
+		<text>Hlaveň</text>
+	</string>
+	<string id="st_name_bolt_carrier">
+		<text>Nosič závěru</text>
+	</string>
+	<string id="st_name_bolt">
+		<text>Závěr</text>
+	</string>
+	<string id="st_name_gas_tube">
+		<text>Plynový systém</text>
+	</string>
+	<string id="st_name_extractor">
+		<text>Extraktor</text>
+	</string>
+	<string id="st_name_ejector">
+		<text>Ejektor</text>
+	</string>
+	<string id="st_name_pump">
+		<text>Pumpa</text>
+	</string>
+	<string id="st_name_hammers">
+		<text>Kohoutky</text>
+	</string>
+	<string id="st_name_chock">
+		<text>Závěrka</text>
+	</string>
+	<string id="st_name_all">
+		<text>Vše</text>
+	</string>
+	<string id="st_name_issues">
+		<text>STAV:</text>
+	</string>
+</string_table>

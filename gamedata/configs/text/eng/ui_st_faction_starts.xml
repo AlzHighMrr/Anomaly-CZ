@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<!-- SineDeviance Edits/Adds -->
+	<string id="ui_st_train_hangar">
+		<text>Vlakový hangár (Smetiště)</text>
+	</string>
+	<string id="ui_st_truck_cemetery_bandits_post">
+		<text>Tábor na předměstí (Hřbitov nákladních aut)</text>
+	</string>
+	<string id="ui_st_tc_central_tower">
+		<text>Centrální strážní věž (Hřbitov nákladních aut)</text>
+	</string>
+
+<string id="ui_st_abandoned_sawmill">
+	<text>Zpustlá pila (Zatón)</text>
+</string>
+<string id="ui_st_abandoned_school">
+	<text>Zpustlá škola (Mrtvé město)</text>
+</string>
+<string id="ui_st_abandoned_village">
+	<text>Zpustlá vesnice (Armádní Skladiště)</text>
+</string>
+<string id="ui_st_brain_scorcher">
+	<text>Vypalovač mozku (Radar)</text>
+</string>
+<string id="ui_st_car_park">
+	<text>Automobilový park (Kordon)</text>
+</string>
+<string id="ui_st_construction_site">
+	<text>Staveniště (Divoká oblast)</text>
+</string>
+<string id="ui_st_container_warehouse">
+	<text>Skladiště kontejnerů (Jupiter)</text>
+</string>
+<string id="ui_st_cultural_center">
+	<text>Palác kultury (Pripjat)</text>
+</string>
+
+	
+<string id="ui_st_eastern_factory">
+	<text>Východní továrna (Temné údolí)</text>
+</string>
+<string id="ui_st_factory_complex">
+	<text>Tovární komplex (Agroprom)</text>
+</string>
+<string id="ui_st_hermanns_bunker">
+	<text>Hermannův bunkr (Jupiter)</text>
+</string>
+<string id="ui_st_hidden_base">
+	<text>Skrytá základna (Velké bažiny)</text>
+</string>
+<string id="ui_st_kopachy_village">
+	<text>Vesnice Kopachy (Jupiter)</text>
+</string>
+<string id="ui_st_lodging_house">
+	<text>Dům k přenocování (Rostok)</text>
+</string>
+<string id="ui_st_makeshift_barracks">
+	<text>Makeshift Barracks (Rostok)</text>
+</string>
+<string id="ui_st_military_base">
+	<text>Vojenská základna (Armádní skladiště)</text>
+</string>
+<string id="ui_st_northern_factory">
+	<text>Severní továrna (Temné údolí)</text>
+</string>
+<string id="ui_st_river_port">
+	<text>Říční přístav (Předměstí)</text>
+</string>
+<string id="ui_st_rookie_village">
+	<text>Vesnice nováčků (Kordon)</text>
+</string>
+<string id="ui_st_research_institute">
+	<text>Výzkumný ústav (Agroprom)</text>
+</string>
+<string id="ui_st_sakharovs_bunker">
+	<text>Sacharovův bunkr (Jantar)</text>
+</string>
+<string id="ui_st_skadovsk_vrak lodi">
+	<text>Vrak lodí Skadovsk (Zatón)</text>
+</string>
+<string id="ui_st_southern_checkpoint">
+	<text>Jižní kontrolní bod (Kordon)</text>
+</string>
+<string id="ui_st_sports_center">
+	<text>Sportovní centrum (Mrtvé město)</text>
+</string>
+<string id="ui_st_tunnel_entrance">
+	<text>Vchod do tunelu (Jupiter)</text>
+</string>
+<string id="ui_st_tunnel_refuge">
+	<text>Útočiště v tunelu (Agr. podzemí)</text>
+</string>
+<string id="ui_st_tuzla_outpost">
+	<text>Tuzla Outpost (Velké bažiny)</text>
+</string>
+<string id="ui_st_yanov_station">
+	<text>Stanice Yanov (Jupiter)</text>
+</string>
+<string id="ui_st_pripyat_hospital">
+	<text>Nemocnice (Předměstí)</text>
+</string>
+<string id="ui_st_red_forest_old_mine">
+	<text>Kasárna v dole (Rudý les)</text>
+</string>
+	<string id="ui_st_village_ruins">
+		<text>Ruiny vesnice (Velké bažiny)</text>
+	</string>
+	
+
+	<!-- Last Day -->
+<string id="ui_st_atp">
+	<text>Stanice vozidel (Kordon)</text>
+</string>
+<string id="ui_st_barikady_na_aute">
+	<text>Barikáda u auta (Agroprom)</text>
+</string>
+<string id="ui_st_camp_at_crane">
+	<text>Kemp u jeřábu (Černobylská JE)</text>
+</string>
+<string id="ui_st_camp_on_a_hillock">
+	<text>Tábor na kopci (Truck Cemetery)</text>
+</string>
+<string id="ui_st_check_point">
+	<text>Kontrolní bod (Jupiter)</text>
+</string>
+<string id="ui_st_crossroads">
+	<text>Křižovatka (hřbitov nákladních aut)</text>
+</string>
+<string id="ui_st_curve_beam">
+	<text>Strž (Armadní sklady)</text>
+</string>
+<string id="ui_st_deadlock_of_a_tunnel">
+	<text>Tunel (Agroprom)</text>
+</string>
+<string id="ui_st_destroyed_bridge">
+	<text>Zničený most (Temné údolí)</text>
+</string>
+<string id="ui_st_eastern_checkpoint">
+	<text>Východní kontrolní bod (Hřbitov nákladních aut)</text>
+</string>
+<string id="ui_st_fallen_helicopter">
+	<text>Havarováný vrtulník (Armadní sklady)</text>
+</string>
+<string id="ui_st_farm_base_neytral">
+	<text>Farma (Kordon)</text>
+</string>
+<string id="ui_st_filling_station">
+	<text>Čerpací stanice (Temné údolí)</text>
+</string>
+<string id="ui_st_flea_market">
+	<text>Bleší trh (Smetiště)</text>
+</string>
+<string id="ui_st_forest_area">
+	<text>Lesní oblast (Zaton)</text>
+</string>
+<string id="ui_st_halt_behind_a_dump">
+	<text>Halt (Hřbitov nákladních aut)</text>
+</string>
+<string id="ui_st_hideout">
+	<text>Hideout (Předměstí)</text>
+</string>
+<string id="ui_st_house_on_the_hill">
+	<text>Dům na kopci</text>
+</string>
+<string id="ui_st_kbo_monolit">
+	<text>Servisní středisko Yubileiny (Předměstí)</text>
+</string>
+<string id="ui_st_machine_yard">
+	<text>Strojní dvůr (Velké bažiny)</text>
+</string>
+<string id="ui_st_military_base_two">
+	<text>Vojenská základna (Generátory)</text>
+</string>
+<string id="ui_st_mine_koper">
+	<text>Hlavní základna (Rudý les)</text>
+</string>
+<string id="ui_st_outpost_of_dolg">
+	<text>Výjezdní stanoviště (Smetiště)</text>
+</string>
+<string id="ui_st_parking_at_kamaz">
+	<text>Parkování (Divoká oblast)</text>
+</string>
+<string id="ui_st_parking_on_a_farm">
+	<text>Parkování na farmě (Temné údolí)</text>
+</string>
+<string id="ui_st_parking_under_an_embankment">
+	<text>Pod náspem (Velké bažiny)</text>
+</string>
+<string id="ui_st_pole_bandit_base">
+	<text>Banditský park (Louka)</text>
+</string>
+<string id="ui_st_pole_stalker_village">
+	<text>Khutorok (Louka)</text>
+</string>
+<string id="ui_st_post_of_mercenaries">
+	<text>Kontrolní stanoviště zlodějů (Armadní sklady)</text>
+</string>
+<string id="ui_st_power_station">
+	<text>Vnější dvůr (Černobylská JE)</text>
+</string>
+<string id="ui_st_small_village">
+	<text>Malá vesnice (Temné údolí)</text>
+</string>
+<string id="ui_st_prachechnya">
+	<text>Prachen (Předměstí)</text>
+</string>
+<string id="ui_st_processing_station">
+	<text>Stanice na zpracování odpadu (Zaton)</text>
+</string>
+<string id="ui_st_ruins">
+	<text>Ruins (Opuštěná nemocnice)</text>
+</string>
+<string id="ui_st_store_books_a18">
+	<text>Knihkupectví (Předměstí)</text>
+</string>
+<string id="ui_st_yard">
+	<text>Dvůr (Limansk)</text>
+</string>
+<string id="ui_st_yard_with_a_terrace">
+	<text>Terasa u dvora (Limansk)</text>
+</string>
+</string_table>

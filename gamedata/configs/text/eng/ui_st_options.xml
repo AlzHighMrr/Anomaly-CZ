@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+<string id="ui_mm_options_n">
+	<text>Nastavení</text>
+</string>
+<string id="ui_mm_btn_apply_all">
+	<text>Pro všechny</text>
+</string>
+	
+<!-- Options menu -->
+	<string id="ui_mm_menu_video">
+		<text>Video</text>
+	</string>
+		
+<string id="ui_mm_menu_basic">
+	<text>Základní</text>
+</string>
+<string id="ui_mm_menu_advanced">
+	<text>Pokročilé</text>
+</string>
+<string id="ui_mm_menu_hud">
+	<text>UI/HUD</text>
+</string>
+<string id="ui_mm_menu_player">
+	<text>Hráč</text>
+</string>
+<string id="ui_mm_menu_weather">
+	<text>Počasí</text>
+</string>
+<string id="ui_mm_menu_night">
+	<text>Noc</text>
+</string>
+<string id="ui_mm_menu_sound">
+	<text>Zvuky</text>
+</string>
+<string id="ui_mm_menu_general">
+	<text>Obecné</text>
+</string>
+<string id="ui_mm_menu_environment">
+	<text>Prostředí</text>
+</string>
+<string id="ui_mm_menu_radio">
+	<text>Radio</text>
+</string>
+<string id="ui_mm_menu_control">
+	<text>Ovládání</text>
+</string>
+<string id="ui_mm_menu_keybind">
+	<text>Nastavení Kláves</text>
+</string>
+<string id="ui_mm_menu_gameplay">
+	<text>Hratelnost</text>
+</string>
+<string id="ui_mm_menu_economy_diff">
+	<text>Postup .diff</text>
+</string>
+<string id="ui_mm_menu_gameplay_diff">
+	<text>Hratelnost .diff</text>
+</string>
+<string id="ui_mm_menu_disguise">
+	<text>Maskování</text>
+</string>
+<string id="ui_mm_menu_fast_travel">
+	<text>Rychlé cestování</text>
+</string>
+<string id="ui_mm_menu_backpack_travel">
+	<text>Cestování s batohem</text>
+</string>
+<string id="ui_mm_menu_other">
+	<text>Ostatní</text>
+</string>
+	
+<string id="ui_mm_menu_alife">
+	<text>Zóna</text>
+</string>
+<string id="ui_mm_menu_event">
+	<text>Události</text>
+</string>
+<string id="ui_mm_menu_warfare">
+	<text>Warfare</text>
+</string>
+<string id="ui_mm_menu_azazel">
+	<text>Azazel</text>
+</string>
+<string id="ui_mm_menu_stalker">
+	<text>Stalker</text>
+</string>
+<string id="ui_mm_menu_bandit">
+	<text>Bandita</text>
+</string>
+<string id="ui_mm_menu_csky">
+	<text>Jasná Obloha</text>
+</string>
+<string id="ui_mm_menu_army">
+	<text>Armáda</text>
+</string>
+<string id="ui_mm_menu_freedom">
+	<text>Svoboda</text>
+</string>
+<string id="ui_mm_menu_dolg">
+	<text>Povinnost</text>
+</string>
+<string id="ui_mm_menu_ecolog">
+	<text>Ekologové</text>
+</string>
+<string id="ui_mm_menu_killer">
+	<text>Žoldáci</text>
+</string>
+<string id="ui_mm_menu_monolith">
+	<text>Monolit</text>
+</string>
+<string id="ui_mm_menu_renegade">
+	<text>Odpadlíci</text>
+</string>
+<string id="ui_mm_menu_greh">
+	<text>Hřích</text>
+</string>
+<string id="ui_mm_menu_isg">
+	<text>UNISG</text>
+</string>
+<string id="ui_mm_menu_zombied">
+	<text>Zombici</text>
+</string>
+<string id="ui_mm_menu_dynamic_news">
+			<text>Dynamické novinky</text>
+		</string>
+
+<!-- Buttons -->
+
+<string id="ui_mm_apply">
+	<text>Použít</text>
+</string>
+<string id="ui_mm_reset">
+	<text>Resetovat</text>
+</string>
+<string id="ui_mm_default">
+	<text>Základní</text>
+</string>
+<string id="ui_mm_cancel">
+	<text>Zrušit</text>
+</string>
+<string id="ui_mm_preset">
+	<text>Přednastavení</text>
+</string>
+	
+<!-- Messages -->
+
+<string id="ui_mm_warning_pending">
+	<text>Máš (%s) čekajících změn.</text>
+</string>
+<string id="ui_mm_warning_economy_diff_not_level_present">
+	<text>Faktory obtížnosti progrese jsou přístupné pouze v načtené hře.</text>
+</string>
+<string id="ui_mm_warning_gameplay_diff_not_level_present">
+	<text>Faktory obtížnosti hry jsou přístupné pouze v načtené hře.</text>
+</string>
+<string id="ui_mm_change_done_restart">
+	<text>Změny jsou uloženy, je třeba hru restartovat!</text>
+</string>
+<string id="ui_mm_change_done">
+	<text>Změny jsou uloženy</text>
+</string>
+<string id="ui_mm_discard_changes">
+	<text>Probíhající změny budou zahozeny. Pokračovat?</text>
+</string>
+	
+	
+	<!-- Video - Basic -->
+<string id="ui_mm_title_video_basic">
+	<text>Nastavení videa</text>
+</string>
+<string id="ui_mm_lst_renderer_r1">
+	<text>DirectX 8 (Základní)</text>
+</string>
+<string id="ui_mm_lst_renderer_r2a">
+	<text>DirectX 9 (Základní)</text>
+</string>
+<string id="ui_mm_lst_renderer_r2">
+	<text>DirectX 9 (Normální)</text>
+</string>
+<string id="ui_mm_lst_renderer_r2.5">
+	<text>DirectX 9 (Vylepšený)</text>
+</string>
+<string id="ui_mm_lst_renderer_r3">
+	<text>DirectX 10 (Vylepšený)</text>
+</string>
+<string id="ui_mm_lst_renderer_r4">
+	<text>DirectX 11 (Vylepšený)</text>
+</string>
+<string id="ui_mm_lst_pres_default">
+	<text>Střední</text>
+</string>
+<string id="ui_mm_lst_pres_extreme">
+	<text>Extrémní</text>
+</string>
+<string id="ui_mm_lst_pres_high">
+	<text>Vysoký</text>
+</string>
+<string id="ui_mm_lst_pres_low">
+	<text>Nízký</text>
+</string>
+<string id="ui_mm_lst_pres_minimum">
+	<text>Brambora</text>
+</string>
+<string id="ui_mm_lst_fullscreen">
+	<text>Celá obrazovka</text>
+</string>
+<string id="ui_mm_lst_borderless">
+	<text>Bez okraje</text>
+</string>
+<string id="ui_mm_lst_windowed">
+	<text>V okně</text>
+</string>
+	
+<string id="ui_mm_video_basic_renderer">
+	<text>Typ renderování</text>
+</string>
+<string id="ui_mm_video_basic_preset">
+	<text>Nastavení kvality</text>
+</string>
+<string id="ui_mm_video_basic_resolution">
+	<text>Rozlišení</text>
+</string>
+<string id="ui_mm_video_basic_gamma">
+	<text>Gamma</text>
+</string>
+<string id="ui_mm_video_basic_contrast">
+	<text>Saturace barev</text>
+</string>
+<string id="ui_mm_video_basic_brightness">
+	<text>Jas</text>
+</string>
+<string id="ui_mm_video_basic_hud_fov">
+	<text>HUD FOV</text>
+</string>
+<string id="ui_mm_video_basic_fov">
+	<text>FOV</text>
+</string>
+<string id="ui_mm_video_basic_screen_mode">
+	<text>Režim obrazovky</text>
+</string>
+<string id="ui_mm_video_basic_lighting">
+	<text>Základní nastavení osvětlení</text>
+</string>
+
+		
+	<!-- Video - Advanced -->
+<string id="ui_mm_title_video_advanced">
+	<text>Pokročilé nastavení videa</text>
+</string>
+<string id="ui_mm_prst_video_default">
+	<text>Střední</text>
+</string>
+<string id="ui_mm_prst_video_extreme">
+	<text>Extrémní</text>
+</string>
+<string id="ui_mm_prst_video_high">
+	<text>Vysoký</text>
+</string>
+<string id="ui_mm_prst_video_low">
+	<text>Nízký</text>
+</string>
+<string id="ui_mm_prst_video_minimum">
+	<text>Brambora</text>
+</string>
+<string id="ui_mm_lst_low">
+	<text>Nízký</text>
+</string>
+<string id="ui_mm_lst_medium">
+	<text>Střední</text>
+</string>
+<string id="ui_mm_lst_high">
+	<text>Vysoká</text>
+</string>
+<string id="ui_mm_lst_ultra">
+	<text>Ultra</text>
+</string>
+<string id="ui_mm_lst_extreme">
+	<text>Extrémní</text>
+</string>
+<string id="ui_mm_lst_off">
+	<text>Vypnuto</text>
+</string>
+<string id="ui_mm_lst_default">
+	<text>Výchozí</text>
+</string>
+<string id="ui_mm_lst_hbao">
+	<text>HBAO</text>
+</string>
+<string id="ui_mm_lst_hdao">
+	<text>HDAO</text>
+</string>
+<string id="ui_mm_lst_x2">
+	<text>x2</text>
+</string>
+<string id="ui_mm_lst_x4">
+	<text>x4</text>
+</string>
+<string id="ui_mm_lst_x8">
+	<text>x8</text>
+</string>
+<string id="ui_mm_lst_atest_msaa_dx10_0">
+	<text>Používat DX10</text>
+</string>
+<string id="ui_mm_lst_atest_msaa_dx10_1">
+	<text>Používat DX10.1</text>
+</string>
+<string id="ui_mm_lst_volumetric">
+	<text>Volumetricky</text>
+</string>
+<string id="ui_mm_lst_screen_space">
+	<text>Screen Space</text>
+</string>
+<string id="ui_mm_lst_combined">
+	<text>Obojí</text>
+</string>
+
+	
+
+<string id="ui_mm_video_advanced_ai_torch">
+	<text>Stalkerům je povoleno používat svítilny</text>
+</string>
+<string id="ui_mm_video_advanced_v_sync">
+	<text>Vertikální synchronizace</text>
+</string>
+<string id="ui_mm_video_advanced_refresh_60hz">
+	<text>Obnovovací frekvence 60 Hz</text>
+</string>
+<string id="ui_mm_video_advanced_framelimit">
+	<text>Omezovač FPS</text>
+</string>
+<string id="ui_mm_video_advanced_framelimit_desc">
+	<text>Tento posuvník umožňuje nastavit vlastní omezení počtu snímků za sekundu (FPS). Hodnota "0" znamená žádné omezení.</text>
+</string>
+<string id="ui_mm_header_rendering_dist">
+	<text>Vzdálenost vykreslování</text>
+</string>
+<string id="ui_mm_video_advanced_vis_distance">
+	<text>Svět</text>
+</string>
+<string id="ui_mm_video_advanced_optimize_static_geom">
+	<text>Statické objekty</text>
+</string>
+<string id="ui_mm_video_advanced_optimize_dynamic_geom">
+	<text>Dynamické objekty</text>
+</string>
+<string id="ui_mm_video_advanced_optimize_shadow_geom">
+	<text>Vyřazování vzdálených stínů</text>
+</string>
+<string id="ui_mm_video_advanced_optimize_shadow_geom_desc">
+	<text>Zapnutím této funkce lze zlepšit výkon odstraněním vzdálených stínů (které obvykle nejsou viditelné).
+	\nMůže se však projevit odstraněním velmi dlouhých stínů (zejména při východu/západu slunce).
+	</text>
+</string>
+	
+<string id="ui_mm_header_rendering_quality">
+	<text>Kvalita vykreslování</text>
+</string>
+<string id="ui_mm_video_advanced_texture_lod">
+	<text>Detail textur</text>
+</string>
+<string id="ui_mm_video_advanced_mipbias">
+	<text>Vykreslování MIP textur</text>
+</string>
+<string id="ui_mm_video_advanced_mipbias_desc">
+	<text>Nastavuje kvalitu a ostrost textur ve vzdálenosti.</text>
+</string>
+<string id="ui_mm_video_advanced_geometry_lod">
+	<text>Detail objektů</text>
+</string>
+<string id="ui_mm_video_advanced_detail_textures">
+	<text>Detailní textury</text>
+</string>
+<string id="ui_mm_video_advanced_tf_aniso">
+	<text>Anizotropní filtrování</text>
+</string>
+<string id="ui_mm_video_advanced_ssample">
+	<text>Anti-aliasing</text>
+</string>
+<string id="ui_mm_video_advanced_ssample_list">
+	<text>Anti-aliasing</text>
+</string>
+<string id="ui_mm_video_advanced_smaa">
+	<text>SMAA</text>
+</string>
+<string id="ui_mm_video_advanced_detail_bump">
+	<text>Detail bump</text>
+</string>
+<string id="ui_mm_video_advanced_steep_parallax">
+	<text>Steep parallax</text>
+</string>
+<string id="ui_mm_video_advanced_enable_tessellation">
+	<text>Teselace</text>
+</string>
+<string id="ui_mm_header_grass">
+	<text>Tráva</text>
+</string>
+<string id="ui_mm_video_advanced_detail_density">
+	<text>Hustota trávy</text>
+</string>
+<string id="ui_mm_video_advanced_detail_radius">
+	<text>Vykreslovací vzdálenost trávy</text>
+</string>
+<string id="ui_mm_video_advanced_detail_height">
+	<text>Výška trávy</text>
+</string>
+<string id="ui_mm_video_advanced_grass_shadow">
+	<text>Stín trávy</text>
+</string>
+<string id="ui_mm_video_advanced_sun_details">
+	<text>Detail</text>
+</string>
+	
+<string id="ui_mm_header_lighting">
+	<text>Osvětlení</text>
+</string>
+<string id="ui_mm_video_rozsireny_stin_herce">
+	<text>Stín hráče</text>
+</string>
+<string id="ui_mm_video_advanced_gloss_factor">
+	<text>Speciální (faktor lesku)</text>
+</string>
+<string id="ui_mm_video_advanced_slight_fade">
+	<text>Vzdálenost nasvětlení</text>
+</string>
+<string id="ui_mm_video_advanced_ls_squality">
+	<text>Kvalita stínu</text>
+</string>
+<string id="ui_mm_video_advanced_sun">
+	<text>Sluneční stín</text>
+</string>
+<string id="ui_mm_video_advanced_sun_quality">
+	<text>Kvalita slunečního stínu</text>
+</string>
+<string id="ui_mm_video_advanced_sunshafts_mode">
+	<text>Režim slunečních paprsků</text>
+</string>
+<string id="ui_mm_video_advanced_sunshafts_quality">
+	<text>Kvalita slunečních paprsků (pro volumetrické)</text>
+</string>
+<string id="ui_mm_video_advanced_sunshafts_value">
+	<text>Hlavní intenzita slunečních paprsků</text>
+</string>
+<string id="ui_mm_video_advanced_sunshafts_min">
+	<text>Základní intenzita slunečních paprsků</text>
+</string>
+<string id="ui_mm_video_advanced_ssao_mode">
+	<text>Režim SSAO</text>
+</string>
+<string id="ui_mm_video_advanced_ssao">
+	<text>SSAO kvalita</text>
+</string>
+<string id="ui_mm_video_advanced_volumetric_lights">
+	<text>Volumetrické světlo</text>
+</string>
+	
+	
+	
+<string id="ui_mm_video_advanced_msaa_alphatest">
+	<text>Hladké objekty A-testu</text>
+</string>
+<string id="ui_mm_video_advanced_msaa_opt">
+	<text>Optimalizovat vyhlazování</text>
+</string>
+<string id="ui_mm_header_effects">
+	<text>Efekty</text>
+</string>
+<string id="ui_mm_video_advanced_soft_water">
+	<text>Měkká voda</text>
+</string>
+<string id="ui_mm_video_advanced_soft_particles">
+	<text>Měkké částice</text>
+</string>
+<string id="ui_mm_video_advanced_dof_enable">
+	<text>Hloubka ostrosti (DOF)</text>
+</string>
+<string id="ui_mm_video_advanced_mblur_enable">
+	<text>Rozmazání pohybu</text>
+</string>
+<string id="ui_mm_video_advanced_mblur">
+	<text>Množství rozmazání pohybu</text>
+</string>
+<string id="ui_mm_video_advanced_dynamic_wet_surfaces">
+	<text>Mokré povrchy</text>
+</string>
+<string id="ui_mm_video_advanced_volumetric_smoke">
+	<text>Volumetrický kouř</text>
+</string>
+	
+	<!-- Video - HUD -->
+<string id="ui_mm_title_hud">
+		<text>UI/HUD</text>
+	</string>
+	
+<string id="ui_mm_video_hud_show_crosshair">
+	<text>Zobrazit zaměřovač</text>
+</string>
+<string id="ui_mm_video_hud_crosshair_dist">
+	<text>Vzdálenost cíle zaměřovače</text>
+</string>
+<string id="ui_mm_video_hud_dynamic_crosshair">
+	<text>Dynamický zaměřovač</text>
+</string>
+<string id="ui_mm_video_hud_crosshair_clr_a">
+	<text>Barva zaměřovače (alfa)</text>
+</string>
+<string id="ui_mm_video_hud_crosshair_clr_r">
+	<text>Barva zaměřovače (červená)</text>
+</string>
+<string id="ui_mm_video_hud_crosshair_clr_g">
+	<text>Barva zaměřovače (zelená)</text>
+</string>
+<string id="ui_mm_video_hud_crosshair_clr_b">
+	<text>Barva zaměřovače (modrá)</text>
+</string>
+<string id="ui_mm_video_hud_show_wpn">
+	<text>Zobrazit Zbraň</text>
+</string>
+<string id="ui_mm_video_hud_tips_desc">
+	<text>Zobrazí jméno NPC, když na ně míříte. Barva znázorňuje jejich vztah k hráči, což hráči usnadňuje rozpoznání nepřátel.</text>
+</string>
+<string id="ui_mm_video_hud_show_tracers">
+	<text>Zobrazit Trasírky</text>
+</string>
+<string id="ui_mm_video_hud_show_hud">
+	<text>Zobrazit HUD</text>
+</string>
+<string id="ui_mm_video_hud_show_slots">
+	<text>Zobrazit HUD opasku na Artefakty</text>
+</string>
+<string id="ui_mm_video_hud_show_minimap">
+	<text>Zobrazit Minimapu</text>
+</string>
+<string id="ui_mm_video_hud_show_enemy_health">
+	<text>Zobrazit zdraví nepřítele</text>
+</string>
+<string id="ui_mm_video_hud_show_identity">
+	<text>Zobrazit identifikaci NPC</text>
+</string>
+<string id="ui_mm_video_hud_autohide_stamina_bar">
+	<text>Automatické skrytí stamina baru</text>
+</string>
+<string id="ui_mm_video_hud_ironsights_zoom_factor">
+	<text>Faktor přiblížení (Železná mířidla)</text>
+</string>
+<string id="ui_mm_video_hud_head_bob_factor">
+	<text>Faktor pohybu hlavy</text>
+</string>
+<string id="ui_mm_video_hud_3d_pda">
+	<text>Zobrazit 3D model PDA</text>
+</string>
+	
+	
+	
+	<!-- Video - Visual effects -->
+<string id="ui_mm_title_effects">
+	<text>Efekty hráče</text>
+</string>
+<string id="ui_mm_title_mask">
+	<text>Plynová maska</text>
+</string>
+
+<string id="ui_mm_video_player_animations">
+	<text>Animace použití výbavy</text>
+</string>
+<string id="ui_mm_video_player_shoot_effects">
+	<text>Vylepšené efekty zpětného rázu</text>
+</string>
+<string id="ui_mm_video_player_mask_hud">
+	<text>HUD Masky</text>
+</string>
+<string id="ui_mm_video_player_breathing_fog">
+	<text>Dech na skle masky</text>
+</string>
+<string id="ui_mm_video_player_radiation_effect">
+	<text>Efekt ozáření</text>
+</string>
+<string id="ui_mm_video_player_blood_splash">
+	<text>Efekt krvácení</text>
+</string>
+<string id="ui_mm_video_player_bleed_effect">
+	<text>Rozmazání obrazu při nízkém zdraví</text>
+</string>
+<string id="ui_mm_video_player_item_swap_animation">
+	<text>Animace výměny výbavy</text>
+</string>
+<string id="ui_mm_video_player_hit_impact_effect">
+	<text>Efekt nárazu při zásahu</text>
+</string>
+<string id="ui_mm_video_player_tiny_pfx">
+	<text>Částice prachu</text>
+</string>
+<string id="ui_mm_video_player_fog_pfx">
+	<text>Dynamická mlha dýchání</text>
+</string>
+<string id="ui_mm_video_player_rain_droplets">
+	<text>Kapky deště</text>
+</string>
+<string id="ui_mm_video_player_visor_reflection">
+	<text>Reflexe na skle plynové masky</text>
+</string>
+
+	<!-- Video - Weather -->
+	<string id="ui_mm_lst_rare">
+		<text>Vzácné</text>
+	</string>
+	<string id="ui_mm_lst_regular">
+		<text>Časté</text>
+	</string>
+	<string id="ui_mm_lst_3h">
+		<text>3h</text>
+	</string>
+	<string id="ui_mm_lst_4h">
+		<text>4h</text>
+	</string>
+	<string id="ui_mm_lst_5h">
+		<text>5h</text>
+	</string>
+	<string id="ui_mm_lst_6h">
+		<text>6h</text>
+	</string>
+	<string id="ui_mm_lst_7h">
+		<text>7h</text>
+	</string>
+	<string id="ui_mm_lst_8h">
+		<text>8h</text>
+	</string>
+	<string id="ui_mm_lst_9h">
+		<text>9h</text>
+	</string>
+	<string id="ui_mm_lst_10h">
+		<text>10h</text>
+	</string>
+	<string id="ui_mm_lst_11h">
+		<text>11h</text>
+	</string>
+	<string id="ui_mm_lst_12h">
+		<text>12h</text>
+	</string>
+
+	<string id="ui_mm_video_weather_period">
+		<text>Perioda</text>
+	</string>
+	<string id="ui_mm_video_weather_occurrence">
+		<text>Výskyt</text>
+	</string>
+
+	<!-- Video - Noc -->
+	<string id="ui_mm_title_night">
+		<text>Noc</text>
+	</string>
+	
+	<string id="ui_mm_lst_dark_night">
+		<text>Temné noci</text>
+	</string>
+	<string id="ui_mm_lst_slight_night">
+		<text>Světlé noci</text>
+	</string>
+	<string id="ui_mm_lst_medium_night">
+		<text>Středně jasné noci</text>
+	</string>
+	<string id="ui_mm_lst_bright_night">
+		<text>Velmi jasné noci</text>
+	</string>
+	<string id="ui_mm_lst_8days">
+		<text>8 dní</text>
+	</string>
+	<string id="ui_mm_lst_28days">
+		<text>28 dní</text>
+	</string>
+<string id="ui_mm_lst_moon_phase_0">
+	<text>Nový měsíc</text>
+</string>
+<string id="ui_mm_lst_moon_phase_1">
+	<text>Voskující půlměsíc</text>
+</string>
+<string id="ui_mm_lst_moon_phase_2">
+	<text>1. čtvrtina</text>
+</string>
+<string id="ui_mm_lst_moon_phase_3">
+	<text>Voskující gibbous</text>
+</string>
+<string id="ui_mm_lst_moon_phase_4">
+	<text>Měsíc v úplňku</text>
+</string>
+<string id="ui_mm_lst_moon_phase_5">
+	<text>Slabnoucí gibbous</text>
+</string>
+<string id="ui_mm_lst_moon_phase_6">
+	<text>3. čtvrt</text>
+</string>
+<string id="ui_mm_lst_moon_phase_7">
+	<text>Slabnoucí půlměsíc</text>
+</string>
+<string id="ui_mm_video_night_brightness">
+	<text>Okolní noční jas</text>
+</string>
+<string id="ui_mm_video_night_moon_cycle">
+	<text>Délka měsíčního cyklu</text>
+</string>
+<string id="ui_mm_video_night_moon_phase_state">
+	<text>Zapnout statickou fázi Měsíce</text>
+</string>
+<string id="ui_mm_video_night_moon_phase">
+	<text>Statická fáze měsíce</text>
+</string>
+
+
+	<!-- Sounds - General -->
+<string id="ui_mm_title_sound">
+	<text>Obecné nastavení zvuku</text>
+</string>
+<string id="ui_mm_lst_none">
+	<text>Žádné</text>
+</string>
+<string id="ui_mm_lst_storyonly">
+	<text>Pouze příběh</text>
+</string>
+<string id="ui_mm_lst_all">
+	<text>Všechny</text>
+</string>
+<string id="ui_mm_sound_general_master_volume">
+	<text>Hlasitost zvuků</text>
+</string>
+<string id="ui_mm_sound_general_music_volume">
+	<text>Hlasitost hudby</text>
+</string>
+<string id="ui_mm_sound_general_sound_device">
+	<text>Zvukové zařízení</text>
+</string>
+<string id="ui_mm_sound_general_eax">
+	<text>EAX</text>
+</string>
+<string id="ui_mm_sound_general_snd_targets">
+	<text>Zvukové cíle</text>
+</string>
+<string id="ui_mm_sound_general_dynamic_music">
+	<text>Dynamická hudba</text>
+</string>
+<string id="ui_mm_sound_general_caption">
+	<text>Titulky</text>
+</string>
+
+	
+	<!-- Sounds - Environment -->
+
+<string id="ui_mm_title_sound_environment">
+	<text>Zvukové efekty prostředí</text>
+</string>
+<string id="ui_mm_sound_environment_ambient_volume">
+	<text>Hlasitost zvuku prostředí</text>
+</string>
+<string id="ui_mm_sound_environment_ambient_volume_desc">
+	<text>Tento posuvník ovládá hlasitost zvuku na pozadí, jako jsou cvrčci, vrány, ptáci, noční výkřiky apod.</text>
+</string>
+<string id="ui_mm_sound_environment_wind_sound">
+	<text>Zvuky okolního větru</text>
+</string>
+<string id="ui_mm_sound_environment_breathing_sound">
+	<text>Zvuk dýchání</text>
+</string>
+<string id="ui_mm_sound_environment_helmet_rain_sound">
+	<text>Zvuk kapání deště na helmu</text>
+</string>
+
+	<!-- Zvuky - Radio/Zona FM -->
+	<string id="ui_mm_title_sound_radio">
+		<text>Rádio</text>
+	</string>
+	
+
+<string id="ui_mm_sound_radio_zone">
+	<text>Rádia zóny</text>
+</string>
+<string id="ui_mm_sound_radio_zone_desc">
+	<text>Tato volba umožňuje přehrávání hudby z rádií v okolí Zóny.</text>
+</string>
+<string id="ui_mm_sound_radio_access">
+	<text>Tlačítko pro přístup do nabídky možností rádia</text>
+</string>
+<string id="ui_mm_sound_radio_access_call">
+	<text>Tlačítko pro vyvolání nabídky nastavení rádia</text>
+</string>
+<string id="ui_mm_sound_radio_1_play">
+	<text>Přehrát / zastavit rádio</text>
+</string>
+<string id="ui_mm_sound_radio_2_play">
+	<text>Přehrát / zastavit přehrávač hudby</text>
+</string>
+<string id="ui_mm_sound_radio_vol_up">
+	<text>Tlačítko pro zvýšení hlasitosti</text>
+</string>
+<string id="ui_mm_sound_radio_vol_down">
+	<text>Tlačítko pro snížení hlasitosti</text>
+</string>
+<string id="ui_mm_sound_radio_next">
+	<text>Následující skladba</text>
+</string>
+<string id="ui_mm_sound_radio_previous">
+	<text>Předchozí skladba</text>
+</string>
+<string id="ui_mm_sound_radio_playlist">
+	<text>Následující kanál / seznam skladeb</text>
+</string>
+<string id="ui_mm_sound_radio_emission_intereferences">
+	<text>Rušení signálu při emisích</text>
+</string>
+<string id="ui_mm_sound_radio_underground_intereferences">
+	<text>Rušení signálu uvnitř podzemních prostor</text>
+</string>
+<string id="ui_mm_sound_radio_display_tracks">
+	<text>Zobrazení názvů skladeb hudebního přehrávače na HUD</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_1">
+	<text>Název playlistu 1</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_2">
+	<text>Název playlistu 2</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_3">
+	<text>Název playlistu 3</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_4">
+	<text>Název playlistu 4</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_5">
+	<text>Název playlistu 5</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_6">
+	<text>Název playlistu 6</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_7">
+	<text>Název playlistu 7</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_8">
+	<text>Název playlistu 8</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_9">
+	<text>Název playlistu 9</text>
+</string>
+<string id="ui_mm_sound_radio_playlist_name_10">
+	<text>Název playlistu 10</text>
+</string>
+		
+	<!-- Control - General -->
+	
+<string id="ui_mm_title_control">
+	<text>Obecné</text>
+</string>
+<string id="ui_mm_control_general_mouse_sens">
+	<text>Citlivost myši</text>
+</string>
+<string id="ui_mm_control_general_mouse_sens_aim">
+	<text>Citlivost při zaměřování</text>
+</string>
+<string id="ui_mm_control_general_mouse_invert">
+	<text>Invertovat myš</text>
+</string>
+<string id="ui_mm_control_general_crouch_toggle">
+	<text>Přepnutí režimu přikrčení</text>
+</string>
+<string id="ui_mm_control_general_walk_toggle">
+	<text>Přepnutí režimu chůze</text>
+</string>
+<string id="ui_mm_control_general_sprint_toggle">
+	<text>Přepnutí režimu sprintu</text>
+</string>
+<string id="ui_mm_control_general_lookout_toggle">
+	<text>Přepnutí režimu naklánění</text>
+</string>
+<string id="ui_mm_control_general_aim_toggle">
+	<text>Přepnutí režimu míření</text>
+</string>
+<string id="ui_mm_control_general_pickup_mode">
+	<text>Režim sebraní více itemů</text>
+</string>
+<string id="ui_mm_control_general_pickup_mode_desc">
+	<text>Pokud je tato funkce povolena, můžete sebrat více položek najednou. V opačném případě seberete vždy jednu položku.</text>
+</string>
+<string id="ui_mm_control_general_simple_pda_mode">
+	<text>Jednoduchý režim PDA</text>
+</string>
+<string id="ui_mm_control_general_simple_pda_mode_desc">
+	<text>%c[ui_gray_1]•%c[ui_gray_2]Zapnuto: Jednoduchý režim.
+	\nPDA přejde do režimu zaostření (rozhraní) pouze tehdy, když ho hráč podrží v blízkosti (klávesa pro znovunabití).
+	\n \n%c[ui_gray_1]•%c[ui_gray_2]Vypnoto: Pokročilý režim.
+	\nHráč může přepínat mezi režimy zaměřování/pohybu stisknutím klávesy Granátomet, bez ohledu na to, zda je PDA držen blízko nebo daleko od místa pohledu.
+	</text>
+</string>
+<string id="ui_mm_control_general_disassembly_warning">
+	<text>Podržte tlačítko (ALT) pro demontáž</text>
+</string>
+<string id="ui_mm_control_general_disassembly_warning_desc">
+	<text>Tato volba zabrání hráči rozebírat předměty bez předchozího podržení tlačítka (levý ALT), aby se zabránilo nechtěnému rozebrání předmětu.</text>
+</string>
+
+	
+	<!-- Gameplay - General -->
+	
+<string id="ui_mm_title_gameplay">
+	<text>Obecné nastavení hry</text>
+</string>
+<string id="ui_mm_gameplay_general_hardcore_ai_aim">
+	<text>Hardcore AI zaměřování</text>
+</string>
+<string id="ui_mm_gameplay_general_show_tip_reputation">
+	<text>Upozornění na získání reputace</text>
+</string>
+<string id="ui_mm_gameplay_general_show_tip_reputation_desc">
+	<text>Tato volba informuje hráče o změnách reputace s frakcemi po splnění (nebo nesplnění) úkolu.</text>
+</string>
+<string id="ui_mm_gameplay_general_mechanic_feature">
+	<text>Prodleva oprav od mechaniků</text>
+</string>
+<string id="ui_mm_gameplay_general_mechanic_feature_desc">
+	<text>Pokud je tato funkce povolena, musí hráč čekat den nebo déle, než mechanici dokončí opravy rozbitých předmětů. Předměty jsou po dokončení oprav vráceny.</text>
+</string>
+<string id="ui_mm_gameplay_general_player_name">
+	<text>Jméno hráče</text>
+</string>
+<string id="ui_mm_gameplay_general_outfit_portrait">
+	<text>Portrét hráče podle oblečení</text>
+</string>
+<string id="ui_mm_gameplay_general_outfit_portrait_desc">
+	<text>Změní portrét hráče podle oblečení, které má na sobě. Vypnutím této možnosti se obnoví výchozí portrét zvolený v nabídce Nová hra.</text>
+</string>
+<string id="ui_mm_gameplay_general_char_portrait">
+	<text>Výchozí portrét</text>
+</string>
+<string id="ui_mm_gameplay_general_release_dropped_items">
+	<text>Despawnout staré upuštěné předměty</text>
+</string>
+<string id="ui_mm_gameplay_general_corpse_max_count">
+	<text>Maximální počet mrtvol</text>
+</string>
+<string id="ui_mm_gameplay_general_corpse_max_count_desc">
+	<text>Počet mrtvol je despawnován, aby se zabránilo poklesu výkonu a obsazení A-life způsobenému hromaděním mrtvol.
+	\nProces despawnu začíná, jakmile počet mrtvol, jejich vzdálenost od hráče a časovač despawnu překročí své limity.
+	</text>
+</string>
+<string id="ui_mm_gameplay_general_corpse_min_dist">
+	<text>Vzdálenost mrtvol od hráče [metry]</text>
+</string>
+<string id="ui_mm_gameplay_general_corpse_min_dist_desc">
+	<text>Mrtvoly se despawnují, aby se zabránilo poklesu výkonu a obsazení A-life způsobenému hromaděním mrtvol.
+	\nProces despawnu začíná, jakmile počet mrtvol, jejich vzdálenost od hráče a časovač despawnu překročí své limity.
+	</text>
+</string>
+<string id="ui_mm_gameplay_general_npc_loot_distance">
+	<text>Vzdálenost sbíraní kořisti [metry]</text>
+</string>
+<string id="ui_mm_gameplay_general_npc_loot_distance_desc">
+	<text>Mrtvoli jsou ostatními stalkery vybírány pouze tehdy, pokud je hráč alespoň v této vzdálenosti.
+	\nMělo by jim to zabránit krást hráči těžce vydělanou kořist.
+	</text>
+</string>
+<string id="ui_mm_gameplay_general_max_tasks">
+	<text>Maximální počet úkolů na jedno NPC</text>
+</string>
+<string id="ui_mm_gameplay_general_max_tasks_desc">
+	<text>Kolik úkolů můžete mít najednou aktivních od jednoho NPC.</text>
+</string>
+<string id="ui_mm_gameplay_general_need_equipped_hkit">
+	<text>Lovecká souprava musí být vybavena jako batoh, abys získal bonus</text>
+</string>
+	
+	<!-- Gameplay difficulty -->
+	<string id="ui_mm_title_gameplay_diff">
+	<text>Obtížnost hry</text>
+</string>
+<string id="ui_mm_desc_gameplay_diff">
+	<text>Změny provedené v nastavení herní obtížnosti se použijí pouze na vaši aktivní hru.</text>
+</string>
+<string id="ui_mm_prst_gameplay_easy">
+	<text>Lehká</text>
+</string>
+<string id="ui_mm_prst_gameplay_medium">
+	<text>Střední</text>
+</string>
+<string id="ui_mm_prst_gameplay_hard">
+	<text>Těžká</text>
+</string>
+<string id="ui_mm_lst_great">
+	<text>Nejlepší</text>
+</string>
+<string id="ui_mm_lst_good">
+	<text>Dobrá</text>
+</string>
+<string id="ui_mm_lst_average">
+	<text>Průměrná</text>
+</string>
+<string id="ui_mm_lst_poor">
+	<text>Na hovno</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_actor_immunities">
+	<text>Ochrana hráče</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_actor_immunities_desc">
+	<text>Tato volba řídí imunitu hráče vůči všem zdrojům poškození.
+	\Cím lepší je ochrana, tím větší poškození hráč vydrží.</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_hit_power">
+	<text>Faktor síly zásahu projektilu</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_hit_power_desc">
+	<text>Násobič pro velikost poškození způsobeného kulkami.
+	\n \n%c[pda_yellow]Poznámka:%c[ui_gray_2]
+	\nToto nastavení se vztahuje pouze na střely vystřelené hráčem a nemá vliv na střely vystřelené NPC.
+	</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_dispersion_base">
+	<text>Základní aim nepřátel</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_dispersion_base_desc">
+	<text>Základní hodnota rozptylu nepřátelské zbraně.
+	\nVyšší hodnoty způsobí, že nepřátelé budou na větší vzdálenost méně přesní.
+	</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_dispersion_factor">
+	<text>Faktor zpětného rázu nepřátel</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_dispersion_factor_desc">
+	<text>Násobič zpětného rázu zbraní nepřátel.
+	\nVyšší hodnoty zvýší zpětný ráz nepřátelských zbraní na větší vzdálenost.
+	</text>
+</string>
+
+	
+<string id="ui_mm_gameplay_gameplay_diff_power_loss_bias">
+	<text>Faktor ztráty vydrže</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_weight">
+	<text>Max. nosnost</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_thirst">
+	<text>Dehydratace</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_sleep">
+	<text>Potřeba spánku</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_radiation_day">
+	<text>Radioaktivní vzduch během dne</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_radiation_day_desc">
+	<text>Pokud je tato funkce zapnuta, bude hráč během dne venku dostávat konstantní dávky radiace a podzemní oblasti budou mnohem radioaktivnější.
+	\nPřilby a oblečení se znatelnou ochranou proti radiaci pomohou chránit před tímto efektem.</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_notify_geiger">
+	<text>Varování na radiaci pouze z Geigerova počitače</text>.
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_notify_geiger_desc">
+	<text>%c[ui_gray_1]Zakázáno:%c[ui_gray_2] Hráč uslyší cvaknutí radiace při přiblížení k radioaktivnímu poli.
+	\n \n%c[ui_gray_1]Povoleno:%c[ui_gray_2] Cvakání je slyšet pouze v případě, že hráč má v inventáři Geigerův čítač s dostatečným množstvím baterie.
+	</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_notify_anomaly">
+	<text>Zvuk detektoru anomálie</text>
+</string>
+<string id="ui_mm_gameplay_gameplay_diff_notify_anomaly_desc">
+	<text>Pokud je tato funkce povolena, hráč uslyší varovné pipnutí při přiblížení k anomáliím.</text>
+</string>
+	
+<!-- Gameplay - Progression difficulty -->
+	<string id="ui_mm_title_economy_diff">
+	<text>Obtížnost postupu</text>
+</string>
+<string id="ui_mm_desc_economy_diff">
+	<text>Změny provedené v nastavení obtížnosti postupu se použijí pouze pro aktualní aktivní hru.</text>
+</string>
+<string id="ui_mm_prst_economy_easy">
+	<text>Turista</text>
+</string>
+<string id="ui_mm_prst_economy_medium">
+	<text>Mrchožrout</text>
+</string>
+<string id="ui_mm_prst_economy_hard">
+	<text>Přeživší</text>
+</string>
+<string id="ui_mm_lst_progressive">
+	<text>Progresivní</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_goodwill">
+	<text>Násobitel dosažené dobré vůle</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_goodwill_desc">
+	<text>Násobitel pro množství reputace, kterou hráč získá při plnění úkolů.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_rewards">
+	<text>Násobitel peněžních odměn</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_rewards_desc">
+	<text>Násobitel množství peněz, které hráč získá po splnění úkolů.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_repair">
+	<text>Násobitel nákladů na opravu</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_repair_desc">
+	<text>Čím vyšší je ukazatel, tím vyšší jsou náklady na opravy nabízené u různých techniků.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_upgrade">
+	<text>Násobitel nákladů na vylepšení</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_upgrade_desc">
+	<text>Násobitel pro náklady na služby vylepšení nabízené u různých techniků.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_buy">
+	<text>Násobitel obchodních cen (prodej)</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_buy_desc">
+	<text>Násobitel pro cenu předmětů prodávaných hráčem obchodníkům.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_sell">
+	<text>Násobitel cen pro obchodníky (nákup)</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_sell_desc">
+	<text>Násobitel ceny předmětů, které hráč koupil od obchodníků.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_loots">
+	<text>Násobitel náhody kořisti (předmětů)</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_loots_desc">
+	<text>Násobitel šance na nalezení předmětů v mrtvolách.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_money_loots">
+	<text>Násobitel kořisti (Peníze)</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_money_loots_desc">
+	<text>Násobitel množství peněz nalezených v mrtvolách.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_wpn_condition">
+	<text>Kondice nalezených zbraní</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_stash_chance">
+	<text>Šance na objevení skrýše</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_stash_chance_desc">
+	<text>Šance na vyrabování PDA z mrtvol s umístěním skrýše.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_max_medkit_uses">
+	<text>Kolikrát lze použít lékárničku</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_weapon_degradation">
+	<text>Faktor opotřebování zbraně</text>
+</string>
+
+	
+<string id="ui_mm_gameplay_economy_diff_weapon_degradation_desc">
+	<text>Zbraně degradují s každým vystřeleným nábojem, přičemž míra opotřebování závisí na použité zbrani a munici.
+	\nTento globální faktor slouží jako násobitel těchto individuálních hodnot, aby bylo možné řídit míru opotřebování obecně.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_battery_consumption">
+	<text>Násobitel spotřeby energie baterie</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_battery_consumption_desc">
+	<text>Elektronická zařízení spotřebovávají energii z baterie při používání neustále, přičemž rychlost vybíjení je určena zařízením.
+	\nTento globální faktor slouží jako násobitel těchto individuálních hodnot, aby bylo možné řídit rychlost vyčerpávání baterie obecně.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_limited_bolts">
+	<text>Omezené množství šroubů</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_limited_bolts_desc">
+	<text>Pokud je tato funkce povolena, šrouby již nebudou nekonečné. Hráč si musí šrouby koupit nebo najít, když dojdou.
+	\n \n%c[pda_green]Tip:%c[ui_gray_2]
+	\nHráč může sbírat odhozené šrouby, pokud nejsou poškozené anomáliemi.
+	</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_arty_degradation">
+	<text>Opotřebování artefaktu</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_bkpk_degradation">
+	<text>Opotřebování batohu</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_percentage_parts">
+	<text>Plný procentní systém pro části</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_percentage_parts_desc">
+	<text>Pokud je zapnuto, díly z demontovaných předmětů používají plnou stupnici stavu (stav 1 až 100 %).
+	\nPokud je tato volba vypnuta, předměty používají jednu ze čtyř kategorií stavu (25 %, 50 %, 75 % a 100 % stavu).</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_restock">
+	<text>Cyklus doplňování zásob obchodníků (v hodinách)</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_restock_desc">
+	<text>Určuje počet hodin, než obchodníci zcela doplní zásoby.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_arty_chance">
+	<text>Šance na respawn artefaktu</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_arty_chance_desc">
+	<text>Artefakty obvykle vznikají během emisí a (méně pravděpodobných) psy-bouří uvnitř anomálních polí.
+	\nTato volba řídí možnost, že anomální pole vytvoří artefakt.</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_outfit_drops">
+	<text>Množství kořisti v mrtvolách</text>
+</string>
+<string id="ui_mm_gameplay_economy_diff_outfit_drops_desc">
+	<text>Ovládne, jak lze najít oblečení na mrtvolách.
+	\n \n "Progresivní" znamená, že kapky oblečení závisí na hráčově postupu, vyšší hodnost umožní najít lepší oblečení z kořisti.
+	</text>
+</string>
+	
+<!-- Gameplay - Disguise -->
+	<string id="ui_mm_title_disguise">
+	<text>Nastavení Maskování</text>
+</string>
+<string id="ui_mm_desc_disguise">
+	<text>Hráči se mohou maskovat za členy jiných frakcí, přičemž jejich skutečná identita zůstává skrytá, a to za různými účely, jako jsou krádeže a vraždy. Následující nastavení ovládají aspekty systému převleku. Podrobný článek, který tuto funkci blíže vysvětluje, najdete v encyklopedii PDA.</text>
+</string>
+<string id="ui_mm_gameplay_disguise_state">
+	<text>Zapnout systém maskování</text>
+</string>
+<string id="ui_mm_gameplay_disguise_active_item">
+	<text>Brát v potaz aktivní předmět</text>
+</string>
+<string id="ui_mm_gameplay_disguise_active_item_desc">
+	<text>Pokud je zapnuto, typ a stav předmětu, který hráč drží, je zohledněn při pozorování NPC.
+	\n \nTento faktor řídí důležitost tohoto prvku při výpočtu celkového faktoru podezření.</text>
+</string>
+<string id="ui_mm_gameplay_disguise_active_item_factor">
+	<text>Faktor podezření aktivního prvku</text>
+</string>
+<string id="ui_mm_gameplay_disguise_weapon">
+	<text>Brát v potaz zbraň hráče</text>
+</string>
+<string id="ui_mm_gameplay_disguise_weapon_desc">
+	<text>Pokud je zapnuto, typ a stav zbraně v hlavním slotu hráče je zohledněn při pozorování NPC.
+	\n \nTento faktor řídí důležitost tohoto prvku při výpočtu celkového faktoru podezření.</text>
+</string>
+<string id="ui_mm_gameplay_disguise_weapon_factor">
+	<text>Faktor podezření na hráčovu zbraň</text>
+</string>
+<string id="ui_mm_gameplay_disguise_outfit">
+	<text>Brát v potaz hráčův oděv</text>
+</string>
+<string id="ui_mm_gameplay_disguise_outfit_desc">
+	<text>Pokud je zapnuto, typ a stav zbroje ve slotu pro oblečení hráče se zohlední při pozorování NPC.
+	\n \nTento faktor řídí důležitost tohoto prvku při výpočtu celkového faktoru podezřelosti.
+	\n \n%c[pda_green]Tip:%c[ui_gray_2]
+	\nStav oblečení je rozhodujícím prvkem v systému maskování. NPC budou považovat poškozené oblečení za velmi podezřelé.
+	</text>
+</string>
+<string id="ui_mm_gameplay_disguise_outfit_factor">
+	<text>Faktor podezřelosti hráčova oblečení</text>
+</string>
+<string id="ui_mm_gameplay_disguise_helmet">
+	<text>Brát v potaz přilbu hráče</text>
+</string>
+<string id="ui_mm_gameplay_disguise_helmet_desc">
+	<text>Pokud je zapnuto, typ a stav helmy, kterou má hráč na hlavě, ať už ve slotu pro helmu nebo integrované, se zohlední při pozorování NPC.
+	\n \nTento faktor řídí důležitost tohoto prvku při výpočtu celkového faktoru podezření.
+	\n \n%c[pda_green]Tip:%c[ui_gray_2]
+	\nPřilby jsou důležitým prvkem v systému maskování, protože zakrývají obličej a identitu hráče.
+	</text>
+</string>
+
+	<string id="ui_mm_gameplay_disguise_helmet_factor">
+	<text>Faktor podezření na přilbu hráče</text>
+</string>
+<string id="ui_mm_gameplay_disguise_backpack">
+	<text>Brát v potaz batoh hráče</text>
+</string>
+<string id="ui_mm_gameplay_disguise_backpack_desc">
+	<text>Pokud je zapnuto, přihlíží pozorování NPC k typu a stavu batohu v hráčově slotu na batoh.
+	\n \nTento faktor řídí důležitost tohoto prvku při výpočtu celkového faktoru podezření.
+	\n \n%c[pda_green]Tip:%c[ui_gray_2]
+	\nVelké batohy přitahují větší pozornost, ale tento faktor má malý celkový vliv.
+	</text>
+</string>
+<string id="ui_mm_gameplay_disguise_backpack_factor">
+	<text>Faktor podezření na batoh hráče</text>
+</string>
+<string id="ui_mm_gameplay_disguise_inventory">
+	<text>Brát v potaz hráčův inventář</text>
+</string>
+<string id="ui_mm_gameplay_disguise_inventory_desc">
+	<text>Pokud je zapnuto, množství, váha a velikost předmětů v inventáři hráče se zohlední při pozorování NPC.
+	\n \nTento faktor řídí důležitost tohoto prvku při výpočtu celkového faktoru podezření.
+	\n \n%c[pda_green]Tip:%c[ui_gray_2]
+	\nNošení mnoha předmětů, zejména velkých předmětů, jako jsou zbraně, považují NPC za podezřelé, ale tento faktor má malý celkový vliv.   
+	</text>
+</string>
+<string id="ui_mm_gameplay_disguise_inventory_factor">
+	<text>Faktor podezřelosti na hráčův inventář</text>
+</string>
+<string id="ui_mm_gameplay_disguise_speed">
+	<text>Zohledňuje pohyb hráče</text>
+</string>
+<string id="ui_mm_gameplay_disguise_speed_desc">
+	<text>Pokud je zapnuto, je při pozorování NPC zohledněn pohyb a rychlost hráče.
+	\n \nTento faktor řídí důležitost tohoto prvku při výpočtu celkového faktoru podezření.
+	\n \n%c[pda_green]Tip:%c[ui_gray_2]
+	\nSnažte se splynout s okolím, neutíkejte a neskákejte, když jsou NPC poblíž.
+	</text>
+</string>
+<string id="ui_mm_gameplay_disguise_speed_factor">
+	<text>Součinitel podezření z pohybu hráče</text>
+</string>
+<string id="ui_mm_gameplay_disguise_distance">
+	<text>Zohledňuje vzdálenost mezi hráčem a ostatními</text>
+</string>
+<string id="ui_mm_gameplay_disguise_distance_desc">
+	<text>Pokud je zapnuto, zohledňuje se vzdálenost mezi hráčem a NPC.
+	\n \nTento faktor řídí minimální bezpečnou vzdálenost před výpočtem podezření.
+	</text>
+</string>
+<string id="ui_mm_gameplay_disguise_distance_factor">
+	<text>Minimální bezpečná vzdálenost [metry]</text>
+</string>
+<string id="ui_mm_gameplay_disguise_stay_time">
+	<text>Zohledňuje čas, který hráč stráví v blízkosti NPC</text>
+</string>
+<string id="ui_mm_gameplay_disguise_stay_time_desc">
+	<text>Pokud je zapnuto, zohledňuje se délka času, který hráč stráví v bezpečné vzdálenosti od NPC.
+	\n \nTento faktor řídí maximální povolenou dobu, než se začne počítat podezření.
+	\n \n%c[pda_green]Tip:%c[ui_gray_2]
+	\nTento faktor zahrnuje čas strávený konverzací, takže se příliš nezdržujte.
+	</text>
+</string>
+<string id="ui_mm_gameplay_disguise_stay_time_factor">
+	<text>Maximální bezpečná doba pobytu [sekundy]</text>
+</string>
+	
+<!-- Gameplay - Fast Travel -->
+	
+<string id="ui_mm_desc_fast_travel">
+	<text>S malými omezeními můžete rychle cestovat do mnoha míst v Zóně kliknutím na cestovní značky nacházející se na mapě PDA. Značka rychlého cestování se objeví, jakmile navštívíte lokaci poprvé. Následující nastavení umožňují ovládat aspekty rychlého cestování.</text>
+</string>
+<string id="ui_mm_lst_disabled">
+	<text>Zakázáno</text>
+</string>
+<string id="ui_mm_lst_visit_only">
+	<text>Pouze navštívené</text>
+</string>
+<string id="ui_mm_lst_show_all">
+	<text>Zobrazit vše</text>
+</string>
+<string id="ui_mm_gameplay_fast_travel_state">
+	<text>Stav rychlého cestování</text>
+</string>
+<string id="ui_mm_gameplay_fast_travel_on_combat">
+	<text>Povolit během boje</text>
+</string>
+<string id="ui_mm_gameplay_fast_travel_on_overweight">
+	<text>Povolit při překročení hmotnosti</text>
+</string>
+<string id="ui_mm_gameplay_fast_travel_on_damage">
+	<text>Povolit při zranění</text>
+</string>
+<string id="ui_mm_gameplay_fast_travel_on_emission">
+	<text>Povolit při emisích</text>
+</string>
+<string id="ui_mm_gameplay_fast_travel_long_names">
+	<text>Používat dlouhé názvy</text>
+</string>
+<string id="ui_mm_gameplay_fast_travel_visit_message">
+	<text>Zpráva o návštěvě místa</text>
+</string>
+<string id="ui_mm_gameplay_fast_travel_time">
+	<text>Cestování bez změny času</text>
+</string>
+
+<!-- Gameplay - Backpack Travel -->
+	
+<string id="ui_mm_desc_backpack_travel">
+	<text>S několika omezeními můžete rychle cestovat do skrýší, které si vytvoříte v Zóně kliknutím na ně na mapě PDA. Následující nastavení umožňují ovládat aspekty cestování s batohem.</text>
+</string>
+<string id="ui_mm_gameplay_backpack_travel_state">
+	<text>Stav cestování s batohem</text>
+</string>
+<string id="ui_mm_gameplay_backpack_travel_on_combat">
+	<text>Povolit během boje</text>
+</string>
+<string id="ui_mm_gameplay_backpack_travel_on_damage">
+	<text>Povolit při zranění</text>
+</string>
+<string id="ui_mm_gameplay_backpack_travel_on_emission">
+	<text>Povolit při emisích</text>
+</string>
+<string id="ui_mm_gameplay_backpack_travel_on_overweight">
+	<text>Povolit při překročení hmotnosti</text>
+</string>
+<string id="ui_mm_gameplay_backpack_travel_time">
+	<text>Cestovat bez změny času</text>
+</string>
+	
+<!-- Alife - General -->
+<string id="ui_mm_title_alife">
+    <text>Všeobecné nastavení A-Life</text>
+</string>
+<string id="ui_mm_lst_full">
+    <text>Plný</text>
+</string>
+<string id="ui_mm_lst_on_smarts_only">
+    <text>Pouze na chytrých terénech</text>
+</string>
+<string id="ui_mm_alife_general_alife_stalker_pop">
+    <text>Faktor populace stalkerů</text>
+</string>
+<string id="ui_mm_alife_general_alife_stalker_pop_desc">
+    <text>Násobitel počtu stalkerů, kteří se rozmnožují v celé zóně. Čím větší číslo, tím větší je pravděpodobnost, že se skupiny budou spawnovat.
+    \n \n%c[pda_yellow]Poznámka:%c[ui_gray_2]
+    \nToto nastavení má největší účinek při zahájení nové hry. Úprava tohoto faktoru v probíhající hře způsobí velmi pozvolné změny v populaci, protože v zóně jsou již přítomny oddíly.
+    </text>
+</string>
+<string id="ui_mm_alife_general_alife_mutant_pop">
+    <text>Faktor populace mutantů</text>
+</string>
+<string id="ui_mm_alife_general_alife_mutant_pop_desc">
+    <text>Násobitel pro počet mutantů, kteří se rozmnožují v celé zóně. Čím větší číslo, tím více mutantů se bude spawnovat.
+    \n \n%c[pda_yellow]Poznámka:%c[ui_gray_2]
+    \nToto nastavení má největší účinek při zahájení nové hry. Úprava tohoto faktoru v probíhající hře způsobí velmi pozvolné změny v populaci, protože mutanti jsou v Zóně již přítomni.
+    </text>
+</string>
+<string id="ui_mm_alife_general_offline_combat">
+    <text>Offline boj</text>
+</string>
+<string id="ui_mm_alife_general_offline_combat_desc">
+    <text>Tato volba přispívá k dynamickým aspektům simulace A-Life tím, že umožňuje oddílům ve vzdálených částech Zóny bojovat proti nepřátelům.
+    V závislosti na výsledku těchto bojů může ovlivnit frakce a populaci mutantů.
+    \n \n%c[pda_yellow]Poznámka:%c[ui_gray_2]
+    \n%c[ui_gray_1]-%c[ui_gray_2] Pokud je povolena možnost dynamických vztahů, budou offline boje hrát velkou roli ve změnách vztahu, a to kvůli probíhajícím bitvám mezi frakcemi.
+    \n%c[ui_gray_1]-%c[ui_gray_2] Tato funkce funguje pro všechny herní režimy, včetně válečného.
+    \n%c[ui_gray_1]-%c[ui_gray_2] Uvědomte si, že tato funkce může do určité míry snížit celkovou populaci stalkerů. Pokud chcete mít zónu více zalidněnou, tuto možnost nepovolujte.
+    </text>
+</string>
+
+<string id="ui_mm_alife_general_excl_dist">
+    <text>Bezpečná vzdálenost spawnu NPC od hráče</text>
+</string>
+<string id="ui_mm_alife_general_excl_dist_desc">
+    <text>Cesty se nezrodí, pokud se jejich spawn pointy (inteligentní terény) nacházejí uvnitř vyloučeného poloměru hráče.
+    \nTím se zabrání nevzhledným a nespravedlivým spawnům v blízkosti hráče.
+    </text>
+</string>
+<string id="ui_mm_alife_general_dynamic_anomalies">
+    <text>Dynamické anomálie</text>
+</string>
+<string id="ui_mm_alife_general_dynamic_anomalies_desc">
+    <text>Pokud je tato funkce povolena, mohou emise vytvářet nové anomálie v okolí zóny.
+    \nAnomálie se mohou objevit nebo zmizet v Zóně po každé emisní události.</text>
+</string>
+<string id="ui_mm_alife_general_dynamic_relations">
+    <text>Dynamické vztahy mezi frakcemi</text>
+</string>
+<string id="ui_mm_alife_general_dynamic_relations_desc">
+    <text>Pokud je tato funkce povolena, mohou se vztahy mezi frakcemi měnit v důsledku bitev probíhajících v zóně, ať už k lepšímu nebo horšímu.
+    \nSmrt společných nepřátel může mít pozitivní dopad na vztahy a naopak.
+    \nMíra změny vztahu je určena důležitostí oběti.</text>
+</string>
+<string id="ui_mm_alife_general_war_goodwill_reset">
+    <text>Obnovení dobré vůle s nepřátelskými frakcemi</text>
+</string>
+<string id="ui_mm_alife_general_war_goodwill_reset_desc">
+    <text>Když se frakce stane nepřátelskou frakcí hráče, hráč ztratí veškerou dobrou vůli, kterou s ní dříve získal.</text>
+</string>
+<string id="ui_mm_alife_general_heli_engine_sound">
+    <text>Zvuky vrtulníku</text>
+</string>
+<string id="ui_mm_alife_general_heli_spawn">
+    <text>Hlídky vrtulníku</text>
+</string>
+	
+<!-- Alife - Events -->
+	
+<string id="ui_mm_title_emission">
+    <text>Emise</text>
+</string>
+<string id="ui_mm_title_psi_storm">
+    <text>Psi-bouře</text>
+</string>
+<string id="ui_mm_lst_every_12h">
+    <text>Každých 6-12 hodin</text>
+</string>
+<string id="ui_mm_lst_every_24h">
+    <text>Každých 12-24 hodin</text>
+</string>
+<string id="ui_mm_lst_every_2d">
+    <text>Každý 1-2 dny</text>
+</string>
+<string id="ui_mm_lst_every_4d">
+    <text>Každé 2-4 dny</text>
+</string>
+<string id="ui_mm_lst_kill_at_end">
+    <text>Zabít na konci</text>
+</string>
+<string id="ui_mm_lst_kill_at_wave">
+    <text>Zabít při postupu vlny</text>
+</string>
+<string id="ui_mm_lst_kill_at_vortex">
+    <text>Zabít při víru</text>
+</string>
+<string id="ui_mm_lst_turn_to_zombie">
+    <text>Přeměnit na zombie</text>
+</string>
+<string id="ui_mm_lst_explode">
+    <text>Explodovat</text>
+</string>
+<string id="ui_mm_lst_unhurt">
+    <text>Nezabíjet</text>
+</string>
+<string id="ui_mm_lst_siren_radio">
+    <text>Siréna a radio</text>
+</string>
+<string id="ui_mm_lst_siren">
+    <text>Pouze siréna</text>
+</string>
+<string id="ui_mm_lst_radio">
+    <text>Pouze radio</text>
+</string>
+<string id="ui_mm_lst_no_warning">
+    <text>Žádné varování</text>
+</string>
+<string id="ui_mm_alife_event_emission_state">
+    <text>Povolit emise</text>
+</string>
+<string id="ui_mm_alife_event_emission_frequency">
+    <text>Frekvence</text>
+</string>
+<string id="ui_mm_alife_event_emission_fate">
+    <text>Osud stalkerů</text>
+</string>
+<string id="ui_mm_alife_event_emission_warning">
+    <text>Upozornění</text>
+</string>
+<string id="ui_mm_alife_event_emission_task">
+    <text>Zapnout quest : skrýt se před blowoutem</text>
+</string>
+
+	
+	<string id="ui_mm_alife_event_psi_storm_state">
+    <text>Povolit psy-bouře</text>
+</string>
+<string id="ui_mm_alife_event_psi_storm_frequency">
+    <text>Frekvence</text>
+</string>
+<string id="ui_mm_alife_event_psi_storm_fate">
+    <text>Osud stalkerů</text>
+</string>
+<string id="ui_mm_alife_event_psi_storm_warning">
+    <text>Varování</text>
+</string>
+<string id="ui_mm_alife_event_psi_storm_task">
+    <text>Zapnout quest : skrýt se před Psy-bouří</text>
+</string>
+	
+
+ <!-- Warfare Overhaul -->
+ 		<string id="ui_mm_prst_warfare_alifeoverhaul">
+		<text>Alife Overhaul- Výchozí (1x)</text>
+	</string>
+	<string id="ui_mm_prst_warfare_alifeoverhaul_faster">
+		<text>Alife Overhaul - Rychlá (2x)</text>
+	</string>
+	<string id="ui_mm_prst_warfare_alifeoverhaul_veryfast">
+		<text>Alife Overhaul - Rychlá (5x)</text>
+	</string>
+	<string id="ui_mm_prst_warfare_alifeoverhaul_rapidtest">
+		<text>Alife Overhaul - RapidTest (10x)</text>
+	</string>
+ 
+	<string id="ui_mm_alife_warfare_general_territory_diplo_penalty">
+    <text>Vztahy mezi napadenými oblastmi se zatěžují</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_territory_diplo_penalty_desc">
+		<text>Pokud je toto nastavení povoleno, dvě neutrální frakce soupeřící o jeden bod se navzájem rozzlobí, pokud jedna z nich "zabere" lokaci té druhé. Tím se vytváří tlak na neutrální frakce, které sdílejí společnou hranici. Funguje nejlépe s doplňkem vztahů nebo sníženou hodnotou death_value v souboru dynamic_faction_relations.ltx</text>
+	</string>
+
+	<string id="ui_mm_alife_warfare_general_prevent_mainbase_attacks">
+		<text>Zamezit útokům na hlavní základny</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_prevent_mainbase_attacks_desc">
+		<text>Pokud je toto nastavení povoleno, všechny frakce již nebudou útočit na hlavní základny jiných frakcí, pokud nemají jiný dostupný cíl. Například základna Svobody již nebude posílat útok na základnu Povinnosti v Baru, dokud nebudou existovat žádná jiná uchopitelná místa v dosahu propojené úrovně (Armádní sklady, Mrtvé město, Rudý les, hřbitov nákladních aut). Toto nastavení povolte, pokud chcete zajistit, aby unikátní NPC neumírala při časných invazích. Toto nastavení ZAKÁZAT, pokud používáte náhodně vybrané startovní lokace!</text>
+	</string>
+
+	<string id="ui_mm_alife_warfare_general_extra_loner_fog_of_war">
+    <text>Extra mlha války pro frakci Samotář</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_extra_loner_fog_of_war_desc">
+		<text>Když je toto nastavení aktivní, hráči hrající za "Svobodné stalkery" nebudou moci vidět oddíly samotářů nebo stanoviště mimo vzdálenost jejich válečné mlhy, pokud nepoužijí PDA v2 nebo PDA v3. Je to podobné jako u vidění bez válečné mlhy. Pokud je toto nastavení vypnuto, základny a skupiny volných stalkerů budou viditelné i s PDA v1. Toto nastavení je funkční pouze při zapnuté mlze války.</text>
+	</string>
+
+
+
+<string id="ui_mm_alife_warfare_general_actor_support_goodwill_base">
+    <text>Podpora dobré vůle za zabití: základní</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_support_goodwill_base_desc">
+    <text>Když zabijete nepřítele, získáte tuto část dobré vůle se svou frakcí plus bonus založený na úrovni oběti a násobiteli: dobře vůle = základní + (úroveň nepřítele * násobitel úrovně). Samotáři dostanou 50 % této hodnoty.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_support_goodwill_weight">
+    <text>Podpora dobré vůle za zabití: násobitel úrovně nepřítele</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_support_goodwill_weight_desc">
+    <text>Tato nastavení ovlivňují množství bonusové dobré vůle frakce udělené za zabití na základě úrovně oběti. Získaná dobrá vůle je rovna: dobrá vůle = základní + (úroveň nepřítele * násobitel úrovně)</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_monster_max_squads_per_level_lab">
+    <text>Maximální počet skupin monster na úrovni (laboratoře)</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_max_squads_per_level_lab_desc">
+    <text>Toto nastavení je stejné jako nastavení "maximální počet skupin monster na úrovni", ale platí pro všechny podzemní a laboratorní úrovně.</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_monster_rare_chance_south">
+    <text>Procentuální šance na vzácné mutanti (Jižní Zóna)</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_rare_chance_south_desc">
+    <text>Procentuální šance, že mutanti se spawnují v Armídních skladech/Mrtvém Městě/Autovrakovišti na jihu, budou vzácní mutanti (kontrolér, chiméra, atd.). Výchozí hodnota: 3</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_rare_chance_north">
+    <text>Procentuální šance na vzácné mutanti (Severní Zóna)</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_rare_chance_north_desc">
+    <text>Procentuální šance, že mutanti se spawnují v Limansku/Rudém lese/radaru na severu, budou vzácní mutanti (Kontrolér, Chiméra, atd.). Výchozí hodnota: 10</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_rare_chance_lab">
+    <text>Procentuální šance na vzácné mutanti (laboratoře)</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_rare_chance_lab_desc">
+    <text>Procentuální šance, že mutanti se spawnují v laboratoři, budou vzácní mutanti (kontrolér, chiméra, atd.). Výchozí hodnota: 50</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_offline_combat_distance">
+    <text>Vzdálenost pro offline boj (pouze Warfare)</text>
+</string>
+<string id="ui_mm_alife_warfare_general_offline_combat_distance_desc">
+    <text>Maximální vzdálenost v metrech, na kterou se offline skupiny zapojí do offline boje, když je použita "plná" offline válka. Výchozí hodnota: 50</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_overflow_overrides_manual_control">
+    <text>Automatizovat řízení přeplněných skupin během manuálního ovládání</text>
+</string>
+<string id="ui_mm_alife_warfare_general_overflow_overrides_manual_control_desc">
+    <text>Obvykle, když je deaktivováno manuální řízení frakce, jsou přeplněné skupiny (tj. skupiny překračující limit chytrého terénu) automaticky přeřazeny. Když je povoleno manuální řízení frakce, přeplněné skupiny již nejsou automaticky řešeny. Povolením tohoto nastavení se obnovuje automatizované řešení těchto skupin, zachovávající zbytek funkcionality manuálního řízení frakce.</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_hide_lair_smarts">
+    <text>Skrýt inteligentní terény úkrytů</text>
+</string>
+<string id="ui_mm_alife_warfare_general_hide_lair_smarts_desc">
+    <text>Pokud je povoleno, PDA nebude zobrazovat ikony pro inteligentní terény, které nemají žádné užitečné vlastnosti, jako jsou terény pouze pro mutační úkryty.</text>
+</string>
+
+<string id="ui_mm_alife_warfare_faction_use_bases_not_resources">
+    <text>Kvalita skupiny závisí na počtu základen (nikoli na zdrojích)</text>
+</string>
+<string id="ui_mm_alife_warfare_stalker_use_bases_not_resources_desc">
+    <text>Běžně je kvalita skupiny frakce spočítána na základě počtu držených zdrojů. Když je tato volba vybrána, kvalita skupiny této frakce bude spočítána na základě počtu držených základen. Hlavně určeno pro frakce, kterým nezáleží na zdrojích (např. armáda).</text>
+</string>
+
+<string id="ui_mm_alife_warfare_faction_resurgence_chance">
+    <text>Šance na obnovení</text>
+</string>
+<string id="ui_mm_alife_warfare_stalker_resurgence_chance_desc">
+    <text>Když frakce vlastní nulový počet základen, považují se za 'poražené'. Jakmile jsou poraženy, mají šanci na 'obnovení', kdy se objeví velká útočná síla s cílem obsadit náhodnou nepřátelskou základnu na mapě. Časovač pro tuto útokovou akci závisí na minimální a maximální době obnovení. Kromě toho existuje šance, že pokus o obnovení bude přeskočen: šance na obnovení 50 přeskočí polovinu všech pokusů o obnovení, zatímco šance na obnovení 0 vždy přeskočí pokusy (jako by frakce byla trvale poražena).</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_smart_targets_per_base">
+    <text>Minimální počet inteligentních cílů na základnu</text>
+</string>
+<string id="ui_mm_alife_warfare_stalker_min_smart_targets_per_base_desc">
+    <text>Základna vždy bude zaměřovat alespoň tolik umístění. Základna pošle skupiny na prázdné cíle nebo napadne nepřátelské cíle.</text>
+</string>
+
+<!-- Alife - Warfare - General -->
+	<string id="ui_mm_prst_warfare_default">
+		<text>Rychlé</text>
+	</string>
+	<string id="ui_mm_prst_warfare_yoko">
+		<text>Pomalé</text>
+	</string>
+	
+	
+	
+	
+<string id="ui_mm_title_warfare">
+    <text>Nastavení Warfare</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_all_out_war">
+    <text>Všeobecná válka</text>
+</string>
+<string id="ui_mm_alife_warfare_general_all_out_war_desc">
+    <text>Pokud je povoleno, každá frakce bude nepřátelská ke všem ostatním frakcím. Pokud jsou detekovány Dynamické vztahy DrX, bude toto použito pouze na začátku hry.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_random_starting_locations">
+    <text>Náhodná startovní lokace</text>
+</string>
+<string id="ui_mm_alife_warfare_general_random_starting_locations_desc">
+    <text>Pokud je povoleno, hráč se objeví na náhodné základně v Zóně. Každá další základna bude obsazena pomocí možností random_stalker_chance a random_mutant_chance.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_random_starting_character">
+    <text>Náhodná startovní postava</text>
+</string>
+<string id="ui_mm_alife_warfare_general_random_starting_character_desc">
+    <text>Při povolení této možnosti se po spuštění nové hry náhodně vygeneruje jméno a frakce hráče; nejlépe použít s random_starting_locations.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_random_stalker_chance">
+    <text>Náhodná šance na Stalkery</text>
+</string>
+<string id="ui_mm_alife_warfare_general_random_stalker_chance_desc">
+    <text>Šance, mezi 0 - 100, že se v základně nebo u bodu zdroje objeví skupiny Stalkerů, pokud je povoleno random_starting_locations. Toto je šance, že se objeví jedna skupina. Pokud má základna maximální populaci 2 a random_stalker_chance je nastaveno na 50, pak je 50% šance, že se objeví první skupina a 50% šance, že se objeví druhá skupina.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_random_monster_chance">
+    <text>Náhodná šance na Mutanty</text>
+</string>
+<string id="ui_mm_alife_warfare_general_random_monster_chance_desc">
+    <text>Šance, mezi 0 - 100, že se u bodu území objeví skupiny mutantů, pokud je povoleno random_starting_locations. Na jednom bodě se objeví pouze jeden mutant.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_auto_capture">
+    <text>Povolit automatické zabrání</text>
+</string>
+<string id="ui_mm_alife_warfare_general_auto_capture_desc">
+    <text>Pokud je povoleno, hráč bude moci dobyvat body tím, že stojí v určené vzdálenosti definované v auto_capture_distance po dobu stanovenou v auto_capture_time. Pokud jste blízko více bodů, bude vybrána nejbližší základna, následována zbývajícími základnami a poté body zdroje; územní body nelze dobyvat automaticky.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_auto_capture_max_distance">
+    <text>Maximální vzdálenost pro automatické zabrání</text>
+</string>
+<string id="ui_mm_alife_warfare_general_auto_capture_max_distance_desc">
+    <text>Bod bude automaticky zabrán, pokud je hráč od něj vzdálený méně než tato vzdálenost; pokud je vzdálenost mezi hráčem a dobyvaným bodem větší než tato hodnota, zabrání bude zastaveno.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_auto_capture_wait_time">
+    <text>Čekací doba pro automatické zabrání</text>
+</string>
+<string id="ui_mm_alife_warfare_general_auto_capture_wait_time_desc">
+    <text>Doba, vyjádřená v herních minutách, kterou trvá ruční zabrání bodu.</text>
+</string>
+	<string id="ui_mm_alife_warfare_general_use_old_auto_capture">
+		<text>Použít starou metodu automatického zabrání</text>
+	</string>
+	<string id="ui_mm_alife_warfare_general_use_old_auto_capture_desc">
+		<text>Pokud je tato možnost povolena, automatické zabrání proběhne starou metodou, kdy se po uplynutí doby zachycení na vaší pozici zdarma vytvoří oddíl.</text>
+	</string>
+<string id="ui_mm_alife_warfare_general_fog_of_war">
+    <text>Povolit mlhu války</text>
+</string>
+<string id="ui_mm_alife_warfare_general_fog_of_war_desc">
+    <text>Pokud je povoleno, všechny objekty v dosahu fog_of_war_distance od hráče nebo jakékoliv skupiny stejné frakce budou viditelné. Nastavení show_unfriendly_squads a hide_smarts stále ovlivní, zda je objekt zobrazen na PDA.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_fog_of_war_distance">
+    <text>Vzdálenost mlhy války</text>
+</string>
+<string id="ui_mm_alife_warfare_general_fog_of_war_distance_desc">
+    <text>Pokud je povolena mlha války (fog_of_war), budou na PDA zobrazeny všechny objekty v dosahu této vzdálenosti od hráče nebo jakékoliv skupiny stejné frakce. Nastavení show_unfriendly_squads a hide_smarts stále ovlivní, zda je objekt zobrazen na PDA.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_hide_unfriendly_squads">
+    <text>Skrýt nepřátelské skupiny</text>
+</string>
+<string id="ui_mm_alife_warfare_general_hide_unfriendly_squads_desc">
+    <text>Pokud je povoleno, na PDA nebudou zobrazeny neutrální ani nepřátelské skupiny.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_hide_smarts">
+    <text>Skrýt chytré terény</text>
+</string>
+	<string id="ui_mm_alife_warfare_general_hide_smarts_desc">
+    <text>Pokud je povoleno, na PDA nebudou zobrazovány ikony chytrých terénů. Cíle z frakce hráče budou stále zobrazeny na PDA.</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_hide_underground_smarts">
+    <text>Skrýt podzemní chytré terény na mapě</text>
+</string>
+<string id="ui_mm_alife_warfare_general_hide_underground_smarts_desc">
+    <text>Pokud je povoleno, podzemní chytré body budou skryty na PDA.</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_enemy_new_game_bonus">
+    <text>Povolit bonusové počáteční skupiny nepřátel</text>
+</string>
+<string id="ui_mm_alife_warfare_general_enemy_new_game_bonus_desc">
+    <text>Pokud je povoleno, nepřátelské skupiny budou mít mírně více počátečních skupin, zatímco neutrální a přátelské frakce budou mít mírně méně počátečních skupin.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_enemy_base_boost">
+    <text>Zvýšení základen nepřátel</text>
+</string>
+<string id="ui_mm_alife_warfare_general_enemy_base_boost_desc">
+    <text>Všichni nepřátelské frakce vůči hráči budou považováni za vlastnící větší počet základen navíc oproti skutečnému stavu.</text>
+</string>
+
+
+<string id="ui_mm_alife_warfare_general_enemy_resource_boost">
+    <text>Zvýšení zdrojů nepřátel</text>
+</string>
+<string id="ui_mm_alife_warfare_general_enemy_resource_boost_desc">
+    <text>Všichni nepřátelé frakce hráče budou považováni za vlastnící určený počet zdrojů navíc oproti skutečnému stavu. Zdroje ovlivňují dobu obnovy obranných/útočných/hlídkujících skupin a úroveň dovedností skupin, které jsou vytvářeny; vyšší počet zdrojů znamená rychlejší obnovu s lepšími skupinami.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_influence_weight">
+    <text>Váha podle vlivu hráče</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_influence_weight_desc">
+    <text>Kolik váhy přidá každý bod vlivu. Typické čísla váhy se pohybují mezi 1 a 10; čím vyšší číslo, tím pravděpodobněji jsou body zaměřeny na bod s přidaným vlivem.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_novice_squad_price">
+    <text>Cena začátečnického týmu</text>
+</string>
+<string id="ui_mm_alife_warfare_general_novice_squad_price_desc">
+    <text>Cena začátečnického týmu. Pokud máš tuto částku peněz nebo více a klikni pravým tlačítkem myši na základnu tvé vlastní frakce, objeví se možnost koupit začátečnický tým, který bude okamžitě vytvořen na této základně a bude se považovat za společníky.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_advanced_squad_price">
+    <text>Cena pokročilého týmu</text>
+</string>
+<string id="ui_mm_alife_warfare_general_advanced_squad_price_desc">
+    <text>Cena pokročilého týmu. Pokud máš tuto částku peněz nebo více a klikni pravým tlačítkem myši na základnu tvé vlastní frakce, objeví se možnost koupit pokročilý tým, který bude okamžitě vytvořen na této základně a bude se považovat za společníky.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_veteran_squad_price">
+    <text>Cena veteránského týmu</text>
+</string>
+<string id="ui_mm_alife_warfare_general_veteran_squad_price_desc">
+    <text>Cena veteránského týmu. Pokud máš tuto částku peněz nebo více a klikni pravým tlačítkem myši na základnu tvé vlastní frakce, objeví se možnost koupit veteránský tým, který bude okamžitě vytvořen na této základně a bude se považovat za společníky.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_heli_price">
+    <text>Cena podpůrného vrtulníku</text>
+</string>
+<string id="ui_mm_alife_warfare_general_heli_price_desc">
+    <text>Cena vrtulníku. Pokud máš tuto částku peněz nebo více a klikni pravým tlačítkem myši na základnu tvé vlastní frakce, objeví se možnost koupit vrtulník. V jedné oblasti může být pouze jeden vrtulník pro každou frakci.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight">
+    <text>Velikost odměny za zabití nepřítele</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_support_enemy_rank_weight_desc">
+    <text>Po zabití nepřítele obdržíš odměnu ve výši actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_support_reward_money">
+    <text>Peněžní odměna</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_support_reward_money_desc">
+    <text>Po zabití nepřítele obdržíte odměnu ve výši actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)</text>
+</string>
+
+	
+<string id="ui_mm_alife_warfare_general_actor_support_reward_influence">
+	<text>Body vlivu za podporu</text>
+</string>
+<string id="ui_mm_alife_warfare_general_actor_support_reward_influence_desc">
+	<text>Kdykoliv zabijete nepřítele, dostanete tuto částku bodů vlivu jako odměnu.</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_monster_max_squads_per_level">
+	<text>Maximální počet skupin mutantů na lokaci</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_max_squads_per_level_desc">
+	<text>Když je na úrovni méně než tato hodnota skupin mutantů, úroveň může být cílem pro další skupiny mutantů a mutanti se objeví na jakémkoli neobsazeném místě nebo skrýši na základě proměnných monster_min_faction_respawn a monster_max_faction_respawn.</text>
+</string>
+
+<string id="ui_mm_alife_warfare_general_monster_min_faction_respawn">
+	<text>Minimální doba respawnu mutantů</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_min_faction_respawn_desc">
+	<text>Minimální doba, která uplyne, než se skupina mutantů znovu objeví na skrýši nebo neobsazené základně/oblasti, pokud je na úrovni bodů nižší než monster_max_squads_per_level.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_max_faction_respawn">
+	<text>Maximální čas respawnu mutantů</text>
+</string>
+<string id="ui_mm_alife_warfare_general_monster_max_faction_respawn_desc">
+	<text>Maximální doba, která uplyne, než se skupina mutantů znovu objeví na skrýši nebo neobsazené základně/oblasti, pokud je na úrovni bodů nižší než monster_max_squads_per_level.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_zombies_act_as_faction">
+	<text>Zombíci působí jako frakce</text>
+</string>
+<string id="ui_mm_alife_warfare_general_zombies_act_as_faction_desc">
+	<text>Pokud je povoleno, zombifikovaní stalkeři se budou účastnit válečných konfliktů mezi frakcemi.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat">
+	<text>Povolit offline boj mutantů</text>
+</string>
+<string id="ui_mm_alife_warfare_general_enable_mutant_offline_combat_desc">
+	<text>Pokud je povoleno, mutanti budou se účastnit offline boje. Pokud je zakázáno, mutanti budou mít v Zóně významnější přítomnost.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_disable_smart_pop_cap">
+	<text>Vypnout chytrý limit populace</text>
+</string>
+<string id="ui_mm_alife_warfare_general_disable_smart_pop_cap_desc">
+	<text>Pokud je povoleno, chytré terény nebudou automaticky odstraňovat přebytečné skupiny.</text>
+</string>
+<string id="ui_mm_alife_warfare_general_purge_zone_on_emission">
+	<text>Vyčistit zónu při emisi</text>
+</string>
+<string id="ui_mm_alife_warfare_general_purge_zone_percentage">
+	<text>Procento vyčištění zóny</text>
+</string>
+<string id="ui_mm_alife_warfare_general_debug_logging">
+	<text>Debug záznam (zvětšuje velikost logovacího souboru)</text>
+</string>
+<string id="ui_mm_alife_warfare_general_debug_logging_desc">
+	<text>Pokud je povoleno, Warfare používá debug záznam. Debug záznam bude zaznamenávat začátek a konec většiny funkcí ve Warfare, což výrazně zvětší velikost vašeho logovacího souboru.</text>
+</string>
+	
+<!-- Alife - Warfare - Faction -->
+	<string id="ui_mm_title_warfare_faction">
+	<text>Nastavení frakcí režimu Warfare</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_participate_in_warfare">
+	<text>Účast ve Warfare</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_spawn_on_new_game">
+	<text>Spawnovat při nové hře</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_random_spawn_entries">
+	<text>Náhodný spawn</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_linked_level_targeting">
+	<text>Cíleně propojené úrovně</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_ignore_empty_targets">
+	<text>Ignorovat prázdné cíle</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_offline_power_multiplier">
+	<text>Násobitel síly při offline boji</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_offline_power_multiplier_desc">
+	<text>Když skupina způsobuje poškození v offline boji, je tato hodnota násobena. Pokud je například nastavena na 2, skupiny patřící do této frakce způsobí v offline boji dvojnásobné množství poškození oproti běžným skupinám.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_expansion_aggression">
+	<text>Agresivita expanze</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_expansion_aggression_desc">
+	<text>Pokaždé, když má základna méně než povolený počet cílů a je zavolána funkce "process_targets", vygeneruje se náhodné číslo mezi 0 a 100. Pokud je toto číslo menší nebo rovno agresivitě expanze, frakce si vybere nový cíl. Jinak frakce si nevybere žádné nové cíle.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_night_activity_chance">
+	<text>Pravděpodobnost nočních aktivit</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_night_activity_chance_desc">
+	<text>Pravděpodobnost, že frakce vysílá invazní síly nebo vysílá hlídkové skupiny během noční doby. Noční doba se považuje za období mezi 20:00 a 6:00 hodinou.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_faction_respawn">
+	<text>Minimální doba respawnu</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_faction_respawn_desc">
+	<text>Minimální doba, která musí uplynout, aby se základna spawnula obrannou skupinou. Spolu s dostupnými zdroji základny určuje dobu obnovení obrany základny. Dostupné zdroje základny se určují následovně: celkové_zdroje = global_resources + (regional_resources * 2) + (local_resources * 3). Doba obnovení základny se určí výběrem hodnoty mezi minimální a maximální dobou obnovení frakce s faktorem počtu_zdrojů / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn..</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_faction_respawn">
+	<text>Maximální doba respawnu</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_faction_respawn_desc">
+	<text>Maximální doba, která musí uplynout, aby se základna spawnula obrannou skupinou. Spolu s dostupnými zdroji základny určuje dobu obnovení obrany základny. Dostupné zdroje základny se určují následovně: celkové_zdroje = global_resources + (regional_resources * 2) + (local_resources * 3). Doba obnovení základny se určí výběrem hodnoty mezi minimální a maximální dobou obnovení frakce s faktorem počtu_zdrojů / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_keep_last_base">
+	<text>Ponechat poslední základnu</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_invasion_size">
+	<text>Minimální násobitel populace invaze</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_invasion_size_desc">
+	<text>Minimální násobitel velikosti invaze. Toto se používá společně s maximální velikostí invaze a počtem základen, které frakce vlastní, pro výpočet konečné velikosti invaze. Jedná se o násobitel pro maximální populaci chytrého terénu, takže faktor populace stalkera z možností hratelnosti stalkera ovlivní konečnou velikost invaze. Současná velikost invaze = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size. Současná populace invaze = min(1, target.max_population * current_invasion_size)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_invasion_size">
+	<text>Maximální násobitel populace invaze</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_invasion_size_desc">
+	<text>Maximální násobitel velikosti invaze. Toto se používá společně s maximální velikostí invaze a počtem základen, které frakce vlastní, pro výpočet konečné velikosti invaze. Jedná se o násobitel pro maximální populaci chytrého terénu, takže faktor populace stalkera z možností hratelnosti stalkera ovlivní konečnou velikost invaze. Současná velikost invaze = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size. Současná populace invaze = min(1, target.max_population * current_invasion_size)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_invasion_depart_time">
+	<text>Min. čas odchodu invaze</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_invasion_depart_time">
+	<text>Max. čas odchodu invaze</text>
+</string>
+
+	
+<string id="ui_mm_alife_warfare_faction_min_patrol_squads">
+	<text>Faktor minimálního počtu hlídkových skupin</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_patrol_squads_desc">
+	<text>Minimální faktor počtu hlídkových skupin. Pokud frakce nevlastní žádné základny, každá základna by teoreticky měla mít počet hlídkových skupin roven min_patrol_squads * max_population (tedy nulový, protože nevlastní žádnou základnu). Aktuální faktor hlídkových skupin = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads). Aktuální povolený počet hlídkových skupin = base.max_population * aktuální faktor hlídkových skupin.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_patrol_squads">
+	<text>Faktor maximálního počtu hlídkových skupin</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_patrol_squads_desc">
+	<text>Maximální faktor počtu hlídkových skupin. Pokud frakce vlastní všechny základny, každá základna by měla mít počet hlídkových skupin roven max_patrol_squads * max_population. Aktuální faktor hlídkových skupin = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads). Aktuální povolený počet hlídkových skupin = base.max_population * aktuální faktor hlídkových skupin.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_patrol_time">
+	<text>Minimální doba hlídkování</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_patrol_time_desc">
+	<text>Minimální doba, která musí uplynout, než základna vysílá hlídkovou skupinu. Spolu s dostupnými zdroji základny určuje dobu obnovení hlídkování základny. Dostupné zdroje základny se určují následovně: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Doba obnovení hlídkování základny se určuje výběrem hodnoty mezi min_patrol_time a max_patrol_time s faktorem resource_count / warfare.resource_count. Doba obnovení = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time).</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_patrol_time">
+	<text>Maximální doba hlídkování</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_patrol_time_desc">
+	<text>Maximální doba, která musí uplynout, než základna vysílá hlídkovou skupinu. Spolu s dostupnými zdroji základny určuje dobu obnovení hlídkování základny. Dostupné zdroje základny se určují následovně: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). Doba obnovení hlídkování základny se určuje výběrem hodnoty mezi min_patrol_time a max_patrol_time s faktorem resource_count / warfare.resource_count. Doba obnovení = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time).</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_patrol_hunt_chance">
+	<text>Pravděpodobnost lovu hlídky</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_patrol_hunt_chance_desc">
+	<text>Pokud základna hledá nový cíl pro hlídkovou skupinu a na současné úrovni nebo propojené úrovni je nepřátelská hlídková skupina, jedná se o pravděpodobnost, že základna přiřadí nepřátelskou hlídkovou skupinu jako cíl. Pokud skupina nepřátelskou hlídkovou skupinu nedostane jako cíl, bude jí přiřazeno území poblíž základny, které bude hlídat jako obvykle.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_patrol_rest_time">
+	<text>Minimální doba odpočinku hlídky</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_patrol_rest_time_desc">
+	<text>Minimální doba, po kterou bude hlídková skupina čekat na území. Pravděpodobnost noční aktivity také ovlivňuje, zda bude poslána na nové území.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_patrol_rest_time">
+	<text>Maximální doba odpočinku hlídky</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_patrol_rest_time_desc">
+	<text>Maximální doba, po kterou bude hlídková skupina čekat na území. Pravděpodobnost noční aktivity také ovlivňuje, zda bude poslána na nové území.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_resurgence_wait_time">
+	<text>Minimální doba čekání na obnovení</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_resurgence_wait_time">
+	<text>Maximální doba čekání na obnovení</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_random_squad_count">
+	<text>Náhodný počet skupin</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_random_squad_count_desc">
+	<text>Pokud je povoleno, každá skupina této frakce bude mít náhodný počet NPC mezi min_random_squad_count a max_random_squad_count.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_random_squad_count">
+	<text>Minimální náhodný počet skupin</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_random_squad_count_desc">
+	<text>Pokud je povoleno random_squad_count, jedná se o minimální počet NPC ve skupině pro tuto frakci.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_random_squad_count">
+	<text>Maximální náhodný počet skupin</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_random_squad_count_desc">
+	<text>Pokud je povoleno random_squad_count, jedná se o maximální počet NPC ve skupině pro tuto frakci.</text>
+</string>
+	
+	<string id="ui_mm_alife_warfare_faction_random_patrols">
+    <text>Náhodné hlídky</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_random_patrols">
+    <text>Maximální počet náhodných hlídek</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_random_patrol_time">
+    <text>Minimální doba náhodných hlídek</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_random_patrol_time">
+    <text>Maximální doba náhodných hlídek</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_invasion_departure_chance">
+    <text>Pravděpodobnost odjezdu invaze</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_invasion_departure_chance_desc">
+    <text>Šance, že invaze odjede během aktuální aktualizace procesu cílů. Toto je voláno každých 1 až 5 herních minut.</text>
+</string>
+	
+	<string id="ui_mm_alife_warfare_faction_base_priority">
+    <text>Priorita základny</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_base_priority_desc">
+    <text>Jak moc frakce upřednostňuje základny. Typické čísla priorit se pohybují mezi 0 a 10.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_resource_priority">
+    <text>Priorita zdrojů</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_resource_priority_desc">
+    <text>Jak moc frakce upřednostňuje bodové zdroje. Typické čísla priorit se pohybují mezi 0 a 10.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_territory_priority">
+    <text>Priorita území</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_territory_priority_desc">
+    <text>Jak moc frakce upřednostňuje bodová území. Typické čísla priorit se pohybují mezi 0 a 10.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_flag_priority">
+    <text>Priorita vlajky frakce</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_flag_priority_desc">
+    <text>Jak moc základna upřednostňuje body, které jsou označeny jako vlastnictví dané frakce v souboru gamedata/configs/misc/simulation_objects_props.ltx. Například, pokud se Jasná obloha dívá na bod území, zvýší prioritu bodu o 2, pokud je v tomto souboru pro něj definováno csky = 1.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_is_being_targeted_priority">
+    <text>Priorita je cílem útoku</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_is_being_targeted_priority_desc">
+    <text>Pokud je základna cílem útoku jiné základny, přidá k ní tuto prioritu, aby se pokusila proti invazi bránit.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_target_weaker_priority">
+    <text>Priorita slabšího cíle</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_target_weaker_priority_desc">
+    <text>Jak moc základna upřednostňuje body, ve kterých jsou přítomny slabší skupiny.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_target_stronger_priority">
+    <text>Priorita silnějšího cíle</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_target_stronger_priority_desc">
+    <text>Jak moc základna upřednostňuje body, ve kterých jsou přítomny silnější skupiny.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_target_on_same_level_priority">
+    <text>Priorita stejné úrovně cíle</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_target_on_same_level_priority_desc">
+    <text>Jak moc základna upřednostňuje body, které jsou na stejné úrovni jako ona sama.</text>
+</string>
+
+	<string id="ui_mm_alife_warfare_faction_max_smart_targets_per_base">
+    <text>Maximální počet cílů pro základnu</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_smart_targets_per_base_desc">
+    <text>Kolik bodů může základna najednou napadat oblastí.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_resource_count_modifier">
+    <text>Modifikátor počtu zdrojů</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_resource_count_modifier_desc">
+    <text>Kolik bodů zdrojů je přidáno ke každé dostupnému počtu zdrojových bodů základny. Toto číslo může být záporné. Vyšší čísla způsobují rychlejší obnovení.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_base_count_modifier">
+    <text>Modifikátor počtu základen</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_base_count_modifier_desc">
+    <text>Kolik základen je přidáno ke každému počtu vlastněných základen frakce. Toto číslo může být záporné. Vyšší čísla způsobují více hlídek a větší invazní síly.</text>
+</string>
+	
+	<string id="ui_mm_alife_warfare_faction_enemy_faster_respawn">
+    <text>Povolit rychlejší obnovení nepřátel</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_manual_capture_wait_time">
+    <text>Doba čekání na ruční obsazení</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_offline_combat_distance">
+    <text>Vzdálenost offline boje</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_disable_offline_combat">
+    <text>Zakázat offline boj</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_disable_offline_combat_desc">
+    <text>Pokud je povoleno, skupiny se nebudou účastnit offline boje. To způsobí, že boje se budou odehrávat, jakmile se k nim přiblížíte. Tím se zpomalí průběh boje a zaměří se na vás a skupiny kolem vás.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_simulate_offline_combat_at_smarts">
+    <text>Simulovat offline boj na místech</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_simulate_offline_combat_at_smarts_desc">
+    <text>Pokud je povoleno, skupiny budou simulovat offline boj pouze tehdy, když brání cílový bod. Pokud jsou dvě skupiny poblíž, ale čekají na různých místech, nebudou se účastnit offline boje.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_enable_offline_news">
+    <text>Povolit události offline zpráv</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_enable_offline_news_desc">
+    <text>Pokud je povoleno, budete dostávat aktualizace offline zpráv, když se přátelské skupiny zapojí do offline boje, online boje, nebo když je základna převzata/ztracena od/přátelskou frakcí.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_offline_news_display_percentage">
+    <text>Procento zobrazení offline zpráv</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_offline_news_display_percentage_desc">
+    <text>Číslo mezi 0 a 100; Warfare zobrazí pouze toto procento offline zpráv.</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_randomize_squad_count">
+    <text>Náhodné počty členů skupiny</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_min_squad_count">
+    <text>Minimální počet členů skupiny</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_max_squad_count">
+    <text>Maximální počet členů skupiny</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_factions_keep_last_base">
+    <text>Frakce si ponechají poslední základnu</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_zombie_mode">
+    <text>Režim zombie</text>
+</string>
+	
+	<string id="ui_mm_alife_warfare_faction_target_faction_stronger_priority">
+    <text>Priorita silnější frakce cílem</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_target_faction_weaker_priority">
+    <text>Priorita slabší frakce cílem</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_target_resource_priority">
+    <text>Priorita zdrojů cílové frakce</text>
+</string>
+
+<string id="ui_mm_alife_warfare_faction_lvl_k00_marsh_priority">
+    <text>Priorita úrovně (Velké bažiny)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_k01_darkscape_priority">
+    <text>Priorita úrovně (Temná kotlina)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l01_escape_priority">
+    <text>Priorita úrovně (Kordon)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l02_garbage_priority">
+    <text>Priorita úrovně (Smetiště)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l03_agroprom_priority">
+    <text>Priorita úrovně (Agroprom)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l04_darkvalley_priority">
+    <text>Priorita úrovně (Temný Les)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l05_bar_priority">
+    <text>Priorita úrovně (Rostok)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l06_rostok_priority">
+    <text>Priorita úrovně (Divoká Oblast)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l07_military_priority">
+    <text>Priorita úrovně (Armádní skladiště)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l08_yantar_priority">
+    <text>Priorita úrovně (Yantar)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l09_deadcity_priority">
+    <text>Priorita úrovně (Mrtvé Město)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l10_limansk_priority">
+    <text>Priorita úrovně (Limansk)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l10_radar_priority">
+    <text>Priorita úrovně (Radar)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l10_red_forest_priority">
+    <text>Priorita úrovně (Rudý Les)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l11_hospital_priority">
+    <text>Priorita úrovně (Opuštěná Nemocnice)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l11_pripyat_priority">
+    <text>Priorita úrovně (Pripyat)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l12_stancia_priority">
+    <text>Priorita úrovně (Elektrárna Černobyl (Jih))</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l12u_sarcofag_priority">
+    <text>Priorita úrovně (Sarkofág)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l12u_control_monolith_priority">
+    <text>Priorita úrovně (Monolit Kontrolní Centrum)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l12_stancia_2_priority">
+    <text>Priorita úrovně (Elektrárna Černobyl (Sever))</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_l13_generators_priority">
+    <text>Priorita úrovně (Generátory)</text>
+</string>
+<string id="ui_mm_alife_warfare_faction_lvl_zaton_priority">
+		<text>Level (Zaton) priority</text>
+	</string>
+<string id="ui_mm_alife_warfare_faction_lvl_jupiter_priority">
+		<text>Level (Jupiter) priority</text>
+	</string>
+<string id="ui_mm_alife_warfare_faction_lvl_pripyat_priority">
+		<text>Level (Předměstí) priority</text>
+	</string>
+<string id="ui_mm_alife_warfare_faction_lvl_jupiter_underground_priority">
+		<text>Level (Jupiterské podzemí) priority</text>
+	</string>
+<string id="ui_mm_alife_warfare_faction_lvl_k02_trucks_cemetery_priority">
+		<text>Level (Hřbitov nákladních aut) priority</text>
+	</string>
+	
+	
+<!-- Alife - Warfare - Azazel Mode  -->
+<string id="ui_mm_title_warfare_azazel">
+    <text>Nastavení režimu Warfare Azazel</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_state">
+    <text>Režim Azazel</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_respawn_as_companions">
+    <text>Respawn jako společníka</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_respawn_as_actor_faction">
+    <text>Respawn jako člen vaší frakce</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_respawn_as_allies">
+    <text>Respawn jako spojeneckého stalkera</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_respawn_as_neutrals">
+    <text>Respawn jako neutrálního stalkera</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_respawn_as_enemies">
+    <text>Respawn jako nepřátelského stalkera</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_respawn_as_nearest">
+    <text>Respawn jako nejbližšího stalkera</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_companion_dist_mult">
+    <text>Faktor vzdálenosti pro obnovu společníka</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_actor_faction_dist_mult">
+    <text>Faktor vzdálenosti pro obnovu člena frakce</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_friend_dist_mult">
+    <text>Faktor vzdálenosti pro obnovu přátel</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_ally_dist_mult">
+    <text>Faktor vzdálenosti pro obnovu spojenců</text>
+</string>    
+<string id="ui_mm_alife_warfare_azazel_neutral_dist_mult">
+    <text>Faktor vzdálenosti pro obnovu neutrálních</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_enemy_dist_mult">
+    <text>Faktor vzdálenosti pro obnovu nepřátel</text>
+</string>
+	
+<string id="ui_mm_alife_warfare_azazel_companion_min_respawn_dist">
+    <text>Minimální vzdálenost pro respawn společníka</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_companion_max_respawn_dist">
+    <text>Maximální vzdálenost pro respawn společníka</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_actor_faction_min_respawn_dist">
+    <text>Minimální vzdálenost pro respawn člena frakce</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_actor_faction_max_respawn_dist">
+    <text>Maximální vzdálenost pro respawn člena frakce</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_ally_min_respawn_dist">
+    <text>Minimální vzdálenost pro respawn spojence</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_ally_max_respawn_dist">
+    <text>Maximální vzdálenost pro respawn spojence</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_neutral_respawn_min_dist">
+    <text>Minimální vzdálenost pro respawn neutrálního</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_neutral_respawn_max_dist">
+    <text>Maximální vzdálenost pro respawn neutrálního</text>
+</string>    
+<string id="ui_mm_alife_warfare_azazel_enemy_respawn_min_dist">
+    <text>Minimální vzdálenost pro respawn nepřítele</text>
+</string>
+<string id="ui_mm_alife_warfare_azazel_enemy_respawn_max_dist">
+    <text>Maximální vzdálenost pro respawn nepřítele</text>
+	</string>
+	
+	
+	
+	
+	
+	
+<!-- Alife - Dynamic News -->
+<string id="ui_mm_desc_dynamic_news">
+    <text>Od misí a zpráv o úmrtích po denní vtipy a popichování si, stalkeři komunikují z různých důvodů. Následující nastavení vám umožní filtrovat typ zpráv, které obdržíte ve svém PDA.</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_message_duration">
+    <text>Doba zobrazení zpráv na HUD (v sekundách)</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_death_stalker_news">
+    <text>SOS/zprávy o úmrtích (nepřátelský útok)</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_death_mutant_news">
+    <text>SOS/zprávy o úmrtích (útok mutantů)</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_generic_death_news">
+    <text>Zprávy o úmrtích a objevech</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_death_report_news">
+    <text>Zprávy o úmrtích (necrologie)</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_tips_news">
+    <text>Zprávy s tipy</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_kill_wounded_news">
+    <text>Hrozby</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_found_artifact_news">
+    <text>Objevy artefaktů</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_heli_call_news">
+    <text>Žádosti o vrtulník</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_loot_news">
+    <text>Nalezené vybavení</text>
+</string>
+<string id="ui_mm_alife_dynamic_news_cycle_of_special_news">
+    <text>Doba cyklu speciálních zpráv (v sekundách)</text>
+</string>
+
+	<string id="ui_mm_alife_dynamic_news_reaction_news">
+		<text>Reakce stalkerů</text>
+	</string>
+	
+	<string id="ui_mm_alife_dynamic_news_weather_news">
+		<text>Novinky o počasí</text>
+	</string>
+<string id="ui_mm_alife_dynamic_news_time_news">
+		<text>Novinky o času</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_nearby_activity_news">
+		<text>Povídky o blízkých aktivitách</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_dumb_zombie_news">
+		<text>Pokusy o komunikaci se zombie</text>
+	</string>
+	
+	<string id="ui_mm_alife_dynamic_news_bounty_news">
+		<text>Povídky o odměnách</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_cycle_of_task_news">
+		<text>Časový cyklus zpráv o úkolech (v sekundách)</text>
+	</string>
+
+	<string id="ui_mm_alife_dynamic_news_random_msg_news">
+		<text>Náhodná zpráva</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_factions_report_news">
+		<text>Činnosti v rámci akce</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_zone_activity_news">
+		<text>Činnosti zóny</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_found_dead_news">
+		<text>Objevení mrtvých</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_surge_news">
+		<text>Předpovědi emisí</text>
+	</string>
+	<string id="ui_mm_alife_dynamic_news_cycle_of_random_news">
+		<text>Časový cyklus náhodných zpráv (v sekundách)</text>
+	</string>
+
+	<string id="ui_mm_alife_dynamic_news_companions_news">
+		<text>Vtipkování společníků</text>
+	</string>	
+	<string id="ui_mm_alife_dynamic_news_cycle_of_companions_news">
+		<text>Časový cyklus vtipkování společníků (v sekundách)</text>
+	</string>
+
+	
+<!-- Others -->
+<string id="ui_mm_title_other">
+    <text>Další nastavení</text>
+</string>
+<string id="ui_mm_other_localization">
+    <text>Jazyk</text>
+</string>
+<string id="ui_mm_other_discord">
+    <text>Status na Discordu</text>
+</string>
+<string id="ui_mm_other_discord_desc">
+    <text>Pokud jste připojeni k Discordu a tato volba je povolena, váš stav ve hře se zobrazí na vašem profilu pro všechny k vidění.
+          Zobrazované informace jsou: úroveň, aktivní úkol, frakce, zdraví a herní režim</text>
+</string>
+<string id="ui_mm_other_important_save">
+    <text>Automatické uložení při změně úrovně</text>
+</string>
+<string id="ui_mm_other_autosave_timer">
+    <text>Automatické uložení každých 15 minut</text>
+</string>
+<string id="ui_mm_other_autosave_timer_new">
+    <text>Automatické uložení každých X minut (0 = vypnuto)</text>
+</string>
+<string id="ui_mm_other_quicksave_cnt">
+    <text>Počet rychlých uložení</text>
+</string>
+<string id="ui_mm_other_debug_hud">
+    <text>Debug HUD</text>
+</string>
+<string id="ui_mm_other_debug_map_hud">
+    <text>Debug značky na mapě</text>
+</string>
+<string id="ui_mm_other_debug_map_hud_desc">
+    <text>Zobrazuje značky na mapě pro všechny skupiny ve Zóně spolu s dalšími informacemi pro debugování.</text>
+</string>
+<string id="ui_mm_other_debug_error">
+    <text>Notifikace o chybách</text>
+</string>
+<string id="ui_mm_other_debug_error_desc">
+    <text>Zobrazuje oznámení na HUD, pokud je zaznamenána chyba v konzoli.</text>
+</string>
+	
+	
+	
+<string id="st_sk_desc">
+    <text>Experimentální funkce umožňující tiché eliminace nepřátel bez povšimnutí.\nPro provedení tichého zabití musíte zasáhnout nepřítele vhodnou zbraní (výchozí je Spetnaz Switchblade nebo zásah do hlavy ztlumenou zbraní) bez toho, aby vás nebo oběť spatřil jakýkoli jiný nepřítel. Pokud se vám podaří, nepřítel zemře bez upozornění ostatních spojenců a přátel. Pokud vás však kdokoli spatří poblíž zabitého nepřítele příliš brzy, zjistí, že jste ho zavraždili, a všichni začnou reagovat jako obvykle.\nTato funkce je výchozím nastavením zakázána, protože se stále pracuje na jejím vývoji a může vážně ovlivnit hratelnost (zejména schopnost volně zabíjet spojenecké NPC, pokud se provede správně, nebo eliminovat nepřátelské základny přestrojením).</text>
+</string>
+<string id="ui_mm_menu_silent_kills"><text>Tichá zabití</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_enabled"><text>Povolit tichá zabití</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_melee_enabled"><text>Povolit tichá zabití s ručními zbraněmi</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok"><text>Všechny ruční zbraně jsou vhodné pro tichá zabití</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok_desc"><text>Pokud není zaškrtnuto, ruční zbraň je vhodná pro tiché zabití pouze tehdy, pokud má konfigurační hodnotu "can_stealth_stab" nastavenou na true, výchozí je pouze Spetnaz Switchblade</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_gun_enabled"><text>Povolit tichá zabití se ztlumenými zbraněmi</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_headshot_only"><text>K hlavě je nutný přímý zásah pro tiché zabití střelnou zbraní</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_fresh_time"><text>Čas podezření po tichém zabití</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_fresh_time_desc"><text>Po jak dlouhou dobu vás spatření poblíž mrtvého těla může prozradit jako vraha ostatním nepřátelům, pokud vás uvidí příliš blízko těla</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_suspect_dist"><text>Vzdálenost hráče od těla pro odhalení</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_suspect_dist_desc"><text>Jak blízko se hráč musí nacházet u těla zabitého nepřítele, aby ho ostatní nepřátelé rozpoznali jako vraha</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_melee_hear_dist"><text>Minimální vzdálenost slyšitelnosti tichých zabití ručními zbraněmi</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_melee_hear_dist_desc"><text>Pokud se v okolí vás nebo zabitého nepřítele nachází jakýkoli jiný nepřítel v této vzdálenosti (v metrech), pokus o tiché zabití ruční zbraní selže (v dešti se snižuje)</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist"><text>Minimální vzdálenost slyšitelnosti tichých zabití ztlumenými zbraněmi</text></string>
+<string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist_desc"><text>Pokud se v okolí vás nebo zabitého nepřítele nachází jakýkoli jiný nepřítel v této vzdálenosti (v metrech), pokus o tiché zabití ztlumenou zbraní selže (v dešti se snižuje)</text></string>
+
+
+<string id="ui_mm_gameplay_economy_diff_condition_buy_override"><text>Minimální stav položky pro prodej</text></string>
+<string id="ui_mm_gameplay_economy_diff_condition_buy_override_desc"><text>Toto je hodnota v %, kterou musí mít položka na přijetí obchodníkem, pokud je nastaveno na 0, minimální stav položek je určen konfiguračním souborem každého obchodníka zvlášť.</text></string>
+
+</string_table>

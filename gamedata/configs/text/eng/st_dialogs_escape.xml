@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<!-- ============================================================================================================-->
+	<!--                                                 SIDOROVIČ                                                   -->
+	<!-- ============================================================================================================-->
+<string id="esc_2_12_stalker_trader_start_dialog_1">
+	<text>Čerstvá tvář... Nebo už jsem tě tu někde viděl, stalkere? Já jsem ten, kdo se má podívat, jestli nepotřebuješ nějaké vybavení. Pokud hledáš peníze, vždycky potřebuju někoho, kdo je ochotný dělat špinavou práci.\n \nPohlídám tenhle tábor; všichni stalkeři si tu mohou odpočinout, pokud se vyhýbají potížím. Varuji tě, nezahrávej si s armádou, pracuji jako kůň, abych se ujistil, že se tu nezastaví. Pokud tě zastřelí, je to jen a jen tvá vinna. Stalkeři by měli být relativně v bezpečí, pokud nechají vojáky na pokoji.</text>
+</string>
+<string id="esc_2_12_stalker_trader_start_dialog_2">
+	<text>Hej, stalkere! Co potřebuješ?</text>
+</string>
+<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
+	<text>Záležitost je vyřízena? Dobrá práce, zde je tvá platba.</text>
+</string>
+<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_2_complete">
+	<text>Máš skutečný talent, víš to? Tady je tvá platba. Bude to dobře pro obchod.</text>
+</string>
+
+<string id="devushka_3_quest_0">
+	<text>Sidoroviči, tady je platba od Hip, jak jsem slíbil. Svěřila mi, že ti artefakty přivezu - tady.</text>
+</string>
+<string id="devushka_3_quest_1">
+	<text>Hm, vždycky byl trochu naivní. Tady,platba od Hip. Řekni jí, ať jde za Barmanem, a to co nejdřív - chtěla se posunout ve světě výš a tohle je její šance. Z baru je třeba doručit zásilku někam za Bariéru.</text>
+</string>
+<string id="devushka_3_quest_2">
+	<text>Díky. Dám jí vědět. Myslíš, že do toho půjde?</text>
+</string>
+<string id="devushka_3_quest_3">
+	<text>Hip je v Zóně už hodně dlouho. Byla se Svobodou, ale po jejich přestěhování do Armádních sklaďišt dlouho nezůstala. Od té doby objíždí hranice jako zelenáčka a promarní roky nic neděláním. Barmanova práce ji tak či onak srovná do latě.</text>
+</string>
+
+<string id="st_esc_m_trader_life_ask">
+	<text>Co mi můžeš říct o kšeftech v okolí?</text>
+</string>
+<string id="st_esc_m_trader_life_1">
+	<text>No, na zimní měsíce přichází z Velké země mnoho objednávek, které žádají pseudopsí kožešiny. Takže pokud chceš tuto zimu pohostit dámu a zahřát milé děvče, raději prodej kožešiny mně než nějakému vědci.</text>
+</string>
+<string id="st_esc_m_trader_life_2">
+	<text>Neměl bych to říkat, ale někteří pitomci tady zaplatí za cokoli. Měl jsem několik žádostí o "zuby upírů" - ano, ano, já vím - od lidí, kteří věří, že vlastnictví jednoho z nich přinese štěstí. Jo, jasně. Skoro mi je líto se s těmi hlupáky rozloučit o jejich peníze. Skoro.</text>
+</string>
+<string id="st_esc_m_trader_life_4">
+	<text>Podvodníci. I v Zóně mě trápí podvodníci. Například jeden podivín, se kterým jsem měl co do činění: obcházel ostatní stalkery a tvrdil, že je můj obchodní zástupce. Využíval mé pověsti, aby získal lepší ceny, a pak se snažil rozdávat podřadné věci! Zbraně s rozbitymi hlavněmi, nekvalitní brnění, které se rozpadá i při prudkém větru, proslé konzervy...Jeho rozsudek smrti byl podepsán, jakmile se jeho zlomyslnosti dostaly zpět ke mně. Jakmile si na něj začali stěžovat zákazníci, kteří si mysleli, že jsem do toho nějak zapletený, neměl jsem na výběr. Dostal na prdel.</text>
+</string>
+<string id="st_esc_m_trader_life_5">
+	<text>Armáda tu má celkově dost nízkou morálku. Pro obchod to znamená, že sem tam dostane malý příliv dezertérů, kteří se odtrhnou a přidají se k ekonomice stalkerování. Většina z nich jsou jen bručouni, kteří nevydrží ani týden, ale jiní to po vymání se ze spárů vládní nadvlády dotáhnou v životě opravdu daleko.\n \nTakže jednou za čas se kolem Cordonu ve vesnici nováčků potlouká bývalý Spetsnaz. Smírak je smírak, takže mi vlastně nevadí - i když většina ostatních by přirozeně cítila trochu nedůvěry.\n \nProblém je, když tihle bývalí vojáci dostanou velké nápady a myslí si, že můžou vést můj podnik lépe než já. Jako jeden chlápek ze speciálních jednotek, který se pokusil dát dohromady gang a převrátit mou operaci. Naštěstí ho potkala docela příhodná smrt ve spánku, a tak se jeho chamtivé sny nikdy neuskutečnily.</text>
+</string>
+<string id="st_esc_m_trader_life_6">
+	<text>Zdá se, že tě docela zajímá, jak tady funguje obchod. Chceš se snad sám stát obchodníkem nebo co? \n \nJestliže nemáš kontakty a důvěryhodnost potřebnou k vyjednávání a prodeji za konkurenceschopné ceny, pokud nemáš vlastní zdroj zásob, budeš muset přijít za mnou. Museli byste hrát podle mých pravidel.\n \nAle za současného stavu nemám zájem pomáhat při zakládání dalších obchodníků. Loris, severně od železničního mostu, je už tak dost plný lidí. Potřebuji víc lovců, víc najatých vrahů, víc běžců, víc záchranářů, víc průzkumníků! Ne víc obchodníků.</text>
+</string>
+<string id="st_esc_m_trader_life_7">
+	<text>No, mohu se s tebou podělit o tuto drobnost - nic není pro obchod horší než bandité. Jsou neustále na obtíž, drsně přepadávají mě kurýry, třesou se na potenciální pracovníky na volné noze, šlapou na paty mým stálým klientům. Říkám vám, že bandité jsou u mě vždycky špatná zpráva. Proto s nimi nepromlouvám slovy.\n\nVlastně nepromlouvám slovy s nikým, kdo se plete mezi mé lidi. Můj dosah je daleký a každý, kdo se pokusí poškodit mé operace nebo si zahrávat s někým, na kom mi záleží, se může ocitnout na seznamu odměn přes půlku Zóny.</text>
+</string>
+<string id="st_esc_m_trader_life_8">
+	<text>Nejlepší způsob, jak tady vydělat peníze, stalkere, je nechat si otevřít co nejvíc dveří. Podívej se například na můj vztah s armádou - podle všeho je má přítomnost a operace zde nelegální. Přesto tu sedím, jen kousek od jednoho z jejich hlavních kontrolních stanovišť. Proč? Protože jsem jim vyřizoval dokumenty, posílal jsem jim vzácné mutaní exempláře. Viděl jsem věci a dozvěděl se o nich tajemství, která by je zmrzačila tak, že by se z nich nedalo dostat, kdyby se někdy dostala ven. A přesto mě nemohou umlčet, protože jsem se stal důvodem, proč taková tajemství nakonec zůstávají - tajná. A mohu pro ně získat věci, které nikdo jiný získat nemůže.\n\nVyměníme si laskavosti a je to jeden z důvodů, proč malé svatyně, jako je tato vesnice nováčků, zůstávají v relativním klidu. Nepodceňuj hodnotu toho, když se z potenciálních nepřátel stanou užitečná aktiva. Nepodceňuj používání lsti před sílou.\n\nNo, kdybych se tak mohl domlouvat s bandity... ach jo.</text>
+</string>
+<string id="st_esc_m_trader_life_9">
+	<text>No, jestli se chceš stát stalkerem, přijď nejprve za mnou. Mohu poskytnout přístřeší, zásoby a práci všem nováčkům. Nedaleko odtud je Armádní základna, ale dohodli jsme se, hehe.. takže tady stalkery většinou neruší. Hlavně je nestvi, jasné? Vztahy mezi touhle vesnicí a vojenskou základnou jsou křehkým malým ekosystémem... a já nepotřebuju, aby mi ho nějací hejsci kazili. Každopádně předpokládám, že jsi tu pracovně? Potřebuješ práci? Pamatuju si - podrbeš mě na zádech a já podrbu tebe.</text>
+</string>
+<string id="st_esc_m_trader_life_end">
+	<text>Jak ti připadám? Velký, tlustý vypravěč příběhu? Už jsem skončil s vyprávěním! To je pro tuto chvíli vše! Buď si něco kup, udělej něco užitečného, nebo jdi na chvíli otravovat někoho jiného!</text>
+</string>
+
+
+
+	<!-- ============================================================================================================-->
+	<!--                                                 WOLF                                                        -->
+	<!-- ============================================================================================================-->
+<string id="esc_2_12_stalker_wolf_start_dialog_1">
+		<text>Ahoj, stalkere. Co tě dnes přivádí do vesnice?</text>
+	</string>
+<string id="wolf_st_1">
+	<text>Jsem místní šéf. Mnoho rádoby dobrodruhů sem přichází s proutěnými košíky a dekami na piknik v domnění, že jsou Redrick Schuhart nebo tak něco, a Zóna je samozřejmě spolkne celé. Zatracení šprti a hippíci. Mým úkolem je zajistit, aby se z nich hned první den na tomhle neuvěřitelném místě nestala potrava pro mutanty. Není to snadné, viď? I když mi Fanatik pomáhá učit nováčky... Strávil jsem v Zóně pěknou řádku života. Před časem jsem pracoval s legendárním Označeným, nebo spíše Střelcem. Cestoval jsem po ní, dokonce jsem se několikrát pokusil odejít, ale vždycky mě něco zdrželo, třeba armádní nájezd. Nebo jiná emise, nebo výnosná práce... Takže jsem tady a pořád hlídám nováčky.</text>
+</string>
+
+
+
+
+
+	<!-- ============================================================================================================-->
+	<!--                                                 FANATIC                                                     -->
+	<!-- ============================================================================================================-->
+<string id="esc_2_12_stalker_fanat_start_dialog_1">
+	<text>Ahoj, stalkere. Jak se dnes máš?</text>
+</string>
+<string id="esc_2_12_stalker_fanat_start_dialog_esc_m_trader_task_2">
+	<text>Potřebuješ něco, stalkere?</text>
+</string>
+<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_0">
+	<text>Na parkovišti jsou bandité, o které je třeba se postarat. Sidorovič říkal, že bys mi mohl chtít pomoci.</text>
+</string>
+<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_1">
+	<text>Ano, pomůžu ti. Nechci, aby se někomu z nováčků ještě víc ublížilo.</text>
+</string>
+	
+<string id="fanatic_st_1">
+	<text>Fanatik, to je to jméno, tak mi říkají. Jsem tady v podstatě Wolfův zástupce. Většinou pomáhám s výcvikem nováčků. Víš, je jich docela dost. Učit je střílet z jejich chatrných zbraní, říkat jim, kam mohou a kam nemohou, vybíjet mutanty, držet na uzdě armádní kluky a bandity, je toho hodně i tak blízko hranic Zóny. Ale je to příjemné, víš, zvlášť když se k tobě vrátí s prvním artefaktem a s tím leskem v očích, který jim stále ještě nechybí. Já si nestěžuju. Sám si ještě pamatuju, jaké to bylo být nováčkem.</text>
+</string>
+<string id="fanat_training_start_0">
+	<text>Ahoj... Myslím, že jsem tě tu ještě neviděl. Vypadáš taky dost nově na delší pobyt v Zoně. Jsem zástupce vůdce téhle vesnice, spolu s Wolfem. Jestli chceš, můžu tě naučit pár věcí o přežití v Zóně, aby ses ujistil, že nezemřeš na prvního mutanta nebo anomálii, na kterou narazíš.</text>
+</string>
+<string id="fanat_training_start_1">
+	<text>Víš, vlastně by se mi hodila malá pomoc. Jsem připraven se učit.</text>
+</string>
+<string id="fanat_training_start_2">
+	<text>Ne, díky, budu žít a učit se svým vlastním tempem.</text>
+</string>
+<string id="fanat_training_start_3">
+	<text>Vynikající. Nejdřív tě naučím, jak lovit mutanty. Na druhé straně cesty poblíž je malé stádo divočáků. Kančí mají tlusté lebky a malé mozky, takže nejlepší způsob, jak se s nimi vypořádat, je střelit je do boku nebo - v dokonalém světě - přímo do zadku, a to z pěkné, bezpečné vzdálenosti. Vyřídíme je společně, ale snaž se je ode mě držet dál - v tomhle ročním období jsou v říji.</text>
+</string>
+
+<string id="fanat_training_boars_death_0">
+	<text>Uf, to bylo šílené. Co teď?</text>
+</string>
+<string id="fanat_training_boars_death_1">
+	<text>Dobrá práce. Zkus, jestli je tvůj nůž dost silný na to, abys z nich pár částí získal. Až budeš hotov, vyrazíme do nejbližší anomální zóny.</text>
+</string>
+
+<string id="fanat_training_anomaly_reached_0">
+	<text>Je to tady, co mám teď udělat?</text>
+</string>
+<string id="fanat_training_anomaly_reached_1">
+	<text>Tahle jáma je plná gravitačních anomálií. Vidíš tamhle ten artefakt? To je jen anomální bochník chleba, nevšímej si ho. Ale v této jámě je také medúza a medúzy, stejně jako každý jiný artefakt, mají jak kladné, tak záporné vlastnosti... Je docela štěstí, že tu jedna je. Nyní si povíme něco o vybavení, které bys měl mít pro lov artefaktů.</text>
+</string>
+<string id="fanat_training_anomaly_reached_2">
+	<text>Ukaž mi to.</text>
+</string>
+<string id="fanat_training_anomaly_reached_3">
+	<text>Tady je Echo detektor. Všechny detektory, pokud jsou aktivní, registrují přítomnost artefaktu a měří vzdálenost k nejbližšímu z nich. Jsou základním předpokladem pro nalezení jakéhokoli artefaktu, který není pouhým harampádím. Když uslyšíš pípání, pak víš, že artefakt musí být poblíž. Čím častější pípání, tím je artefakt blíže. Tento starý model bohužel nedokáže odhalit všechny typy artefaktů, ale pro tvůj dnešní pokus by měl být v pořádku. Lepší modely mají lepší detekční dosah a schopnosti.</text>
+</string>
+<string id="fanat_training_anomaly_reached_4">
+	<text>Není to špatné.</text>
+</string>
+<string id="fanat_training_anomaly_reached_5">
+	<text>Nyní druhý nástroj, olovověný kontejner. Vzpomínáš si ještě na povídání o artefaktech a jejich kladných a záporných vlastnostech? Téměř každý artefakt, který stojí za to nosit, je v dnešní době radioaktivní. Olověný kontejner dokáže artefakt uvnitř zcela uzavřít, čímž tě ochrání před jeho radiací, ale také ti znemožní používat jeho další účinky, dokud ho nevyndáš. Bez něj by ti začal zhnout zadek a zemřel bys za méně než pár hodin nošení byt jediného artefaktu. Je poměrně těžký, ale lepší je být v bezpečí, než litovat. Pokud na sobě chceš artefakt skutečně použít, je nejlepší to udělat s pokročilejším kontejnerem - vědci jim říkají "moduly pro aplikaci artefaktu" - který tě ochrání před radiací, aniž by blokoval jeho ostatní vlastnosti. Sidorovič to všechno čas od času prodává, ale AAM si obvykle schovává pro zkušenější stalkery.</text>
+</string>
+<string id="fanat_training_anomaly_reached_6">
+	<text>Dobré vědět. Tenhle kontejner je určitě těžký. Co bude dál?</text>
+</string>
+<string id="fanat_training_anomaly_reached_7">
+	<text>Další je tahle láhev Nemiroffu. Jak jsem říkal, skoro všechny artefakty jsou dnes radioaktivní, a i když sis přinesl olovenou nádobu, samotné pole anomálie tě stejně trochu ozáří. Tahle lahvička ti pomůže... ehm... "Vypudit" trochu toho ozáření z tvého těla.</text>
+</string>
+<string id="fanat_training_anomaly_reached_8">
+	<text>Skvělé, ještě něco?</text>
+</string>
+<string id="fanat_training_anomaly_reached_9">
+	<text>Oh ano, šrouby. Nikdy na ně nezapomínej, než skočíš dovnitř anomálního pole. Několik jich hoď kolem sebe, abys našel cestu okolními anomáliemi.
+\nTo je vše. Jdeme na to. Od teď tě budu krýt.</text>
+</string>
+
+<string id="fanat_training_artefact_taken_1">
+		<text>Hej, mám ten artefakt!</text>
+	</string>
+<string id="fanat_training_artefact_taken_2">
+		<text>No, no... Vidám, že z tebe jednou bude zkušený stalker. Pojďme zpátky do vesnice - tam budeme pokračovat v tvém výcviku.</text>
+	</string>
+
+<string id="fanat_training_back_to_village_1">
+		<text>To bylo něco...</text>
+	</string>
+<string id="fanat_training_back_to_village_2">
+		<text>Jsi unavený? Zdá se, že už umíš uplné základy, ale mám pro tebe další ukol, až budeš připravený.</text>
+	</string>
+
+<string id="fanat_training_stash_search_0">
+		<text>Jsem připraven. Co je to za výzvu?</text>
+	</string>
+
+<string id="fanat_training_stash_search_1">
+	<text>Řekni mi, který sebeúctyhodný stalker nikdy nezjistil tajemství jiného člověka? Zóna je tu společná pro všechny. Kdo to zvládne žít, ten se večer nají a ví jak přežít další den. Někdy je nalezení skrýše nejen úspěchem, ale i nutností. Někde ve vesnici jsem ukryl malé "hnízdečko" - zkus ho najít.</text>
+</string>
+<string id="fanat_training_stash_found_0">
+	<text>Našel jsem to tvoje "hnízdečko"... Díky za artefakt.</text>
+</string>
+
+<!--string id="fanat_training_stash_found_1">
+		<text>Huh... I see that with your level of perception, the Zone won't be taking you so easily. Your final lesson is about to start. Take some time to prepare.</text>
+	</string-->
+<string id="fanat_training_stash_found_1">
+	<text>Huh... Vidím, že s tvou úrovní vnímání tě Zóna tě možná i příjme. To byla tvá poslední lekce. Rozhodně jsi dokázal, že jsi sám sobě stalkerem, a měl bys na to být hrdý. Nic víc tě už naučit nemohu.</text>
+</string>
+
+<string id="fanat_training_bandit_raid_start_0">
+	<text>A jaký je náš poslední úkol?</text>
+</string>
+<string id="fanat_training_bandit_raid_start_1">
+	<text>Uvidíš. Jak víš, nejzákeřnějším nepřítelem člověka - kupodivu - zůstává člověk. Už dlouho se nám daří udržovat stanici vozidel od všech banditů čistou, ale oni se stále vracejí. Byli stálou hrozbou, obvykle jich bylo kolem pěti až sedmi. Pojďme se o ně postarat.</text>
+</string>
+
+<string id="fanat_training_bandit_raid_end_0">
+	<text>Hah, my dva proti nim... Jsme hrdinové!</text>
+</string>
+<string id="fanat_training_bandit_raid_end_1">
+	<text>To, co jsi tu právě nazval hrdinstvím, je pro zkušenější stalkery běžné. Každopádně se vraťme do vesnice.</text>
+</string>
+
+<string id="fanat_training_end_0">
+	<text>Díky, že jsi mě vzal pod svá křídla Wolfe.</text>
+</string>
+<string id="fanat_training_end_1">
+	<text>Ehm, to je to, co dělám. Tady mám nějaké informace o cestě z Agropromu do Jantaru, pokud jsi o ní ještě neslyšel. Chvíli si odpočiň a pak... Agh, kdo jsem, abych ti říkal, co máš dělat? Rozhodně jsi dokázal, že jsi sám sobě stalkerem, a měl bys na to být hrdý. Teď se vydej. Vdechuj ten lahodný radioaktivní vzduch a buď volný!</text>
+</string>
+
+
+
+
+
+
+
+	<!-- ============================================================================================================-->
+	<!--                                                 ŠIKULA                                                      -->
+	<!-- ============================================================================================================-->
+<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
+	<text>Něco pro mě? Na tohle jsem čekal. Spore mi pomáhá udržovat mé kontakty navněk v bezpečí a anonymitě díky šifrování na vysoké úrovni - heh, hackerský sráči. Věř tomu nebo ne, ale kdysi dávno jsem byl členem Jasné oblohy. Stalo se hodně špatných věcí, ale zdá se, že se jim nějak podařilo dát se dohromady. Většina buď zemřela, nebo se vydala vlastní cestou. Nevídal jsem smysl v tom zůstávat, ale kontakt se Sporem jsem si udržel. Aha vlastně.. promiň, zapomněl jsem. Tady je tvoje platba:</text>
+</string>
+<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1_about">
+	<text>Mám pro tebe něco.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_no">
+	<text>Nejsem si jistý, že máš správnou osobu.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_about_0">
+	<text>Můžeš mi odpovědět na pár otázek?</text>
+</string>
+<string id="esc_2_12_stalker_nimble_about_1">
+	<text>Jistě.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_about_1111">
+	<text>Jak dlouho potrvá, než bude moje objednávka hotová?</text>
+</string>
+<string id="esc_2_12_stalker_nimble_about_11111">
+	<text>Záleží na tom, jak je složitá. Obvykle mi to trvá den, někdy i méně.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_about_1114">
+	<text>Řekni mi něco o sobě.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_about_11141">
+	<text>Nic moc k povídání. Měl jsem to dobré i špatné, jako většina lidí. Vstoupil jsem do několika anomálií, byl jsem rukojmím bandity... Do Zóny jsem přišel jako mladý kluk, už je to dávno. Nejprve jsem dělal sysla - antiradary, protipancéřové náboje a tak. Pak jsem pracoval pro Sidoroviče... splácel jsem mu za to, že mi zachránil zadek. Když jsem pro něj tahal kaštany z ohně, navázal jsem pár užitečných kontaktů a hned, jak to šlo, jsem se rozvětvil na vlastní pěst a začal dodávat exkluzivní zakázky. Zatím se mi dařilo vyhýbat se všemu, co mi život přichystal, ale mám pocit, že se mi štěstí vyhýbá. Zároveň už nemám chuť se drtit za drobné.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_about_1116">
+	<text>Díky, chápu.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_about_11161">
+	<text>Rád pomůžu.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_0">
+	<text>Přišel jsem si vyzvednout objednávku.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_111">
+	<text>Tady je tvůj Desert Eagle. Ukázalo se to složitější, než jsem si myslel. Jakýsi pistolník projevil velký zájem, ale sotva jsem ho včas vytrhl. Podívej se sám - ručně vyrobená pistole, všechny komponenty jsou srovnány s bezkonkurenční přesností. Přemýšlel jsi někdy, jak by vypadala dokonalá odstřelovačská pistole? Tak tohle je přesně ona. Dlužíš mi 2 800 navíc.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_1111">
+	<text>Dobře, tady to máš.</text>
+</string>
+
+<string id="esc_2_12_stalker_nimble_get_order_11111">
+	<text>Tady to máš. Rád jsem s tebou obchodoval.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_1112">
+	<text>Tolik toho u sebe nemám.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_11121">
+	<text>Dobře, chvíli ti podržím zbraň. Doufám, že ty peníze brzy najdeš.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_1113">
+	<text>Nechci to koupit.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_11131">
+	<text>Jestliže odmítneš objednávku vyzvednout, nebudu se na tebe moci příště spolehnout. Budu muset zahrnout odhad rizika do ceny a požádat o vyšší zálohu.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_111311">
+	<text>Stále platí, že tuto objednávku nebudu vybírat.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_1113111">
+	<text>V pořádku, jak je libo.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_1114">
+	<text>Přemýšlím o tom.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_11141">
+	<text>Jistě, to záleží na tobě. Chvíli ti tu zbraň podržím.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_112">
+	<text>Tady je tvůj ultrapřesný stepní orel. Dlužíš mi 2 800 navíc.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_121">
+	<text>Podrž Alpine - skutečný krásavec. Můžeš si být jisti, že tato pistole je jediná svého druhu v celé Zóně. Jedinečný model, velmi limitovaná emise objednaná pro jedinou speciální jednotku. Nebylo snadné ji získat, dokonce jsem musel zapojit jednoho ze svých zámorských spolupracovníků. Rozšířený zásobník, extra tvrdá ocelová hlaveň, pouzdro z extra pevných polymerů. Přidej zbývajících 2800 a tenhle miláček je tvůj.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_122">
+	<text>Tady je tvoje pistole Alpine s rozšířeným zásobníkem. Přidej zbývajících 2800 a tenhle miláček je tvůj.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_131">
+	<text>Podívej se, tohle je březen. Pistole patřila žoldákovi jménem Wolfhound. Kompaktní velkorážová střílna s krátkým zpětným rázem a odlehčeným závěrem. Wolfhound byl stoprocentní šmejd, ale ve zbraních se vyznal, to se mu musí nechat. Říkalo se, že jeho oblíbeným trikem bylo ustřelit oběti všechny čtyři končetiny a pak hlavu - ještě než dopadla na zem. Každopádně to bude 2800.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_132">
+	<text>Tady máš rychlopalnou březnovou pistoli. Dlužíš mi 2 800 navíc.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_211">
+	<text>Tady máš - Cutter, samopal. Řeknu to rovnou, ať ti nevadí vzhled. Je to úplně nový model, který se ještě sériově nevyrábí. Je to prototyp, čerstvě vytažený ze zbrojovky. Cílem konstruktéra bylo vyrobit zbraň nové generace pro boj zblízka: kombinaci velké ráže, rychlé střelby a přesnosti. Takže to bude 8 000 navíc.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_212">
+	<text>Ano, tady je Cutter, samopal s rychlou střelbou. To bude 8000 navíc.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_221">
+	<text>Tady je pěkný exemplář - karabínik. Pravá armádní brokovnice. Schopná automatické střelby a zároveň poskytující dobrý protiodrazový účinek díky vyváženému beznárazovému systému. Přidej 8 000 a je tvoje.</text>
+</string>
+
+<string id="esc_2_12_stalker_nimble_get_order_222">
+	<text>Tady je Karabina, automatická brokovnice. Přidej 8 000 a je tvoje.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_231">
+	<text>Myslím, že tohle je přesně to, co potřebuješ. Eliminator, nejnovější vývoj. Celá várka měla být odeslána do střední Afriky, ale dostal jsem "vzorek" jako zvláštní laskavost od přátel. Automatická brokovnice s velkým zásobníkem a vynikající rychlostí střelby. Tvoje za pouhých 8 000.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_232">
+	<text>Jistě. Automatická brokovnice Eliminator s prodlouženým zásobníkem. Za 8 000,</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_311">
+	<text>Jistě, hle, Storm, samopal a granátomet v jednom. Tento prototyp je upravenou verzí konvenční zbraně určené pro speciální jednotky operující v Zóně. Technická inovace v nejlepší formě od našich slovanských bratrů... Přidej 16 000 a je tvoje.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_312">
+	<text>Jistě, tady je Storm, samopal a granátomet s prodlouženým zásobníkem, za příplatek 16 000.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_321">
+	<text>Tady je - GP37, útočná puška nové generace. Přesná, spolehlivá a pohodlná s vestavěným optickým zaměřovačem. Dříve ji vlastnil pozorovatel OSN. Jejich skupina byla vyslána do Zóny na průzkum. Situace se však obrátila k horšímu... 16 000 a puška je tvá.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_322">
+	<text>Tady je - GP37, útočná puška nové generace. Cena je 16 000,</text>.
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_331">
+	<text>Jednu vteřinu. Tady je modulární puška FT-200M, dílo belgických zbrojířů. Přesná, univerzální, šikovná pro praváky i leváky, dodává se s optickým zaměřovačem a granátometem. Dostal jsem ji od nešťastných pozorovatelů OSN... To bude 16 000 navíc.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_332">
+	<text>Tady je modulární puška FT-200M. To bude 16 000 navíc.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_411">
+	<text>Tady je Tide. Vychází z tiché odstřelovací pušky a byla speciálně navržena pro vojenské jednotky k boji proti zombíkům. Tide ustupuje od rychlosti střelby ve prospěch zastavovací síly, což umožňuje odstřelovači vybírat zombie jednu po druhé, aniž by prozradil svou polohu. Poté se však ukázalo, že k zastavení zombií u Barikády budou stačit pouze sklízecí nože, takže se puška nikdy nedostala do sériové výroby. Tohle děťátko je tvé za příplatek 16 000,</text>.
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_412">
+	<text>Tady je Tide, tichá odstřelovací puška se zvýšenou brzdnou silou. Přidej si dalších 16 000 a užij si to.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_421">
+	<text>Zde. Toto je SVU2-A, krátká odstřelovací puška se zvýšenou rychlostí střelby. Koupil jsem ji od Maca, legendárního strážce svobody. Přísahal, že v celé Zóně není žádná jiná taková. Je to exkluzivní zboží, alespoň v těchto končinách. Bude stát 16 000 navíc.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_422">
+	<text>Tak. SVU2-A, krátká odstřelovací puška se zvýšenou rychlostí střelby. Bude to za příplatek 16 000.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_431">
+	<text>Jistě, stačí se podívat na Lynxe tady. Ručně vyrobený místním odborníkem. Už je po smrti, takže žádné kopie nebudou. Vypadá stejně jako každá jiná puška, ale vem si ji na cvičný terč a pocítíš ten rozdíl. Má dokonalou kombinaci přesnosti a zastavovací síly. Přidej zbylých 16 000 a tenhle milaček je tvůj.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_432">
+	<text>Tak, Lynx - odstřelovací puška se zvýšenou přesností a silou. Přidej 16 000 a je tvoje.</text>
+</string>
+
+	
+<string id="esc_2_12_stalker_nimble_get_order_511">
+	<text>Podívej se tady. Podařilo se mi sehnat všechno z mého seznamu - CS-3a se sklem na helmě. Samotná helma sice není ničím speciálním, ale umožňuje instalaci mobilního taktického komplexu, který zahrnuje vysoce kvalitní noční vidění a aktivní infračervený senzor. CS-3a zbroj je opravdu nádherná. Vynikající ochrana před střelami a anomáliemi je vskutku vzácnou vlastností u takto lehkého a pohyblivého obleku. Celá věc tě vyjde na 32 000.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_512">
+	<text>Ano. Sada zbroje CS-3a s taktickou helmem. Celkem 32 000.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_611">
+	<text>Speciálně pro tebe máme oblek SEVA. Všechno je přesně podle tvého přání - uzavřený dýchací modul, tepelně odolný materiál, ochranný elektrický obvod a vnější protikorozní materiály. Navíc několik vestavěných kontejnerů na artefakty jako bonus. Pro každého stalkera nezbytný oblek. Přidej 24 000, jak jsme se domluvili, a je tvůj.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_612">
+	<text>Tady. Oblek SEVA. Cena je 24 000, jak jsme se dohodli.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_711">
+	<text>Tady to je, bojový exoskelet velký jako život. Nejlepší ochrana, jakou můžeš v Zóně získat proti střelám, drápům nebo střepinám granátu, s výjimkou obrněných vozidel. Po obrněných vozidlech si však bere příklad i v tom, že tě zbavuje váhové zátěže - samozřejmě v rozumných mezích. 48 000 a je váš, s bateriemi a servomotory.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_get_order_712">
+	<text>Tady to je, bojový exoskelet velký jako život. 48 000 a je váš.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_0">
+	<text>Chci zadat objednávku.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_1">
+	<text>Žádný problém. Co potřebuješ?</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_11">
+	<text>Pistoli.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_111">
+	<text>Samozřejmě. Bude to 3 500, z toho budu požadovat zálohu 700.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_1111">
+		<text>Dobře, tady to máš.</text>
+	</string>
+<string id="esc_2_12_stalker_nimble_place_order_11111">
+		<text>Spojim se s tebou, jakmile bude objednávka hotová.</text>
+	</string>
+<string id="esc_2_12_stalker_nimble_place_order_1112">
+		<text>Peníze u sebe nemám.</text>
+	</string>
+<string id="esc_2_12_stalker_nimble_place_order_11121">
+	<text>No tak se prosím vrať, až budeš mít peníze.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_1113">
+	<text>Víte, rozmyslel jsem si to.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_11131">
+	<text>Fajn. Pokud se nakonec rozhodneš udělat objednávku, jsem tu vždycky.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_112">
+	<text>Nejsi příliš spolehlivý zákazník, takže tě pistole bude stát 4 200. A budu požadovat zálohu ve výši 1 400.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_113">
+	<text>Obávám se, že nejlepší pistole jsou již vyprodané. Pokud chceš obyčejné věci, zajdi za Sovou.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_12">
+	<text>Zbraň na blízko.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_121">
+	<text>Jistá věc. Cena je 10 000 a z toho budu potřebovat 2 000 předem.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_122">
+	<text>Odmítl sis vyzvednout poslední objednávku... Takže tahle tě bude stát 12 000 a z toho budu potřebovat 4 000 předem.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_123">
+	<text>Hrm... Víš, s tím ti asi nepomůžu. Poptávka je příliš vysoká.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_13">
+	<text>Útočná puška.</text>
+</string>
+
+<string id="esc_2_12_stalker_nimble_place_order_131">
+	<text>Něco velkorážního a s možností rychlé střelby, dobré... Běžná cena je 20 000, přičemž se platí záloha 4 000. Co říkáš?</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_132">
+	<text>Jsi tvrdý zákazník. Budu ti muset naúčtovat 24 000 a 8 000 potřebuji zaplatit předem. Plati?</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_133">
+	<text>Právě teď je špatná doba... Armáda to v Kordonu pěkně hrotí. Nedávno někdo zaútočil na jejich stanoviště, což jim ještě více ztížilo situaci.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_14">
+	<text>Odstřelovací puška.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_141">
+	<text>Pro tebe mohu sehnat to nejlepší jen za 20 000, ale musíš mi zaplatit 4 000 předem.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_142">
+	<text>Spolupráce s tebou s sebou nese určité riziko... Mohu se pokusit vyřídit tvou objednávku za 24 000, ale budeš muset složit zálohu 8 000.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_143">
+	<text>Pardon, tento typ zbraně je nyní těžké sehnat. Můj kontakt na odstřelovače je... řekněme, že je indisponován.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_15">
+	<text>Pancéřový oblek.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_151">
+	<text>Jo, napadá mě něco... vhodného. Bude tě to stát 40 000, ale budeš mi muset zaplatit 8 000 předem.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_152">
+	<text>Jo, něco mě napadá... vhodné. Poslední objednávku jsi odmítl převzít, takže cena bude 48 000 a budeš mi muset zaplatit 16 000 předem.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_153">
+	<text>Nebudu schopen udělat nic lepšího než poslední oblek, který jsem pro tebe sehnal. Ten byl jedinečný a zároveň špičkový.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_16">
+	<text>Oblek s uzavřeným dýchacím modulem.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_161">
+	<text>To je vysoká objednávka... Nebude snadné ho získat, ani náhodou. Můžu se pokusit sehnat jedno z těchto dítek za 30 000, ale musím si říct o zálohu 6 000.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_162">
+	<text>Při minulé objednávce jsi mě zklamal, takže tentokrát si to musím dvakrát rozmyslet. Můžu se pokusit získat jednoho z těchto drobečků za 36 000, ale musím si říct o zálohu 12 000.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_163">
+	<text>Překonal jsem se, abych získal poslední kus. Nemysli si, že to budu schopen zopakovat.</text>
+</string>
+
+<string id="esc_2_12_stalker_nimble_place_order_17">
+		<text>Exoskeleton.</text>
+	</string>
+	
+<string id="esc_2_12_stalker_nimble_place_order_171">
+	<text>O této volbě jsi musel hodně přemýšlet. Mohu sehnat bojovou verzi, ale bude tě to stát 60 000 dolarů. Draze, já vím, ale stojí to za to. Nezapomeň, že 12 000 z toho budu potřebovat zaplatit hned teď.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_172">
+	<text>Při minulé objednávce ses ke mně nechoval moc hezky, takže tahle tě vyjde na 72 000 dolarů. Nezapomeň, že 24 000 z toho budu potřebovat zaplatit hned teď.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_173">
+	<text>V žádném případě. Od té doby, co zavřeli výrobní závod, se volné exoskelety obvykle nacházejí jen na mrtvolách... To prostě není moje metoda.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_18">
+	<text>Teď zrovna nic.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_place_order_2">
+	<text>Omlouvám se, můj obchod je momentálně zavřený. Dočasné potíže s odesíláním objednávek...</text>
+</string>
+<string id="esc_2_12_stalker_nimble_start_11">
+	<text>Dobrý den. Jsem Šikula. Lidé si ke mně chodí pro jedinečné zbraně. Vzácné modely, prototypy, unikátní střelnice - takové věci. Plus elitní vybavení, nejnovější modifikace ochranných a bojových obleků. Každé zboží osobně kontroluji, takže kvalita je zaručena.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_start_12">
+	<text>Dobrý den. Chceš si objednat?</text>
+</string>
+<string id="esc_2_12_stalker_nimble_start_13">
+	<text>Nazdar vole.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_start_14">
+	<text>Tvoje objednávka bude doručena již brzy.</text>
+</string>
+<string id="esc_2_12_stalker_nimble_start_15">
+	<text>Objednávka je dokončena. Přijď si ji prosím vyzvednout.</text>
+</string>
+
+	<!-- ============================================================================================================-->
+	<!--                                                 ARMÁDNÍ MECHANIK                                            -->
+	<!-- ============================================================================================================-->
+
+<string id="army_south_mechan_mlr_st_0">
+	<text>Vidím, že sis prohlížel to staré APC. Co jsi zač - mechanik, řidič?</text>
+</string>
+<string id="army_south_mechan_mlr_st_1">
+	<text>Aha, jsem technik přidělený na toto kontrolní stanoviště.</text>
+</string>
+<string id="army_south_mechan_mlr_st_2">
+	<text>Jak ti mám říkat?</text>
+</string>
+<string id="army_south_mechan_mlr_st_3">
+	<text>No, podle mě není třeba příliš formalit. Vzhledem k mé práci mi vojenská hodnost připadá spíše čestná než praktická. V případě útoku bys mě sotva našel, jak koordinuji vojáky nebo se oháním puškou. Jmenuji se Sergej, ale můžeš mi říkat Serjoza.</text>
+</string>
+<string id="army_south_mechan_mlr_st_4">
+	<text>Rád tě poznávám, Serjozo.</text>
+</string>
+<string id="army_south_mechan_mlr_st_5">
+	<text>Podobně. Kdybys potřeboval něco opravit, dej mi vědět.</text>
+</string>
+<string id="army_south_mechan_mlr_st_6">
+	<text>Co si myslíš o současné situaci?</text>
+</string>
+<string id="army_south_mechan_mlr_st_7">
+	<text>Není toho moc co říct. Jen kousek odsud je vesnice plná ilegálů, ale velení odmítá nařídit proti ní jakoukoli akci. Naši muži občas hlídkují na cestách nebo se potulují po bažinách, ale obecně je to pro naše vojáky nepřátelské místo. Počet zločinců - těch takzvaných "stalkere" -, kteří se potulují mezi námi a naší předstuňovanou základnou v Agropromu, natož mezi námi a Pripjati, je ohromující.</text>
+</string>
+<string id="army_south_mechan_mlr_st_8">
+	<text>Útočí tito takzvaní zločinci na tuto základnu často?</text>
+</string>
+<string id="army_south_mechan_mlr_st_9">
+	<text>Ne, kdyby tohle místo někdo přímo přepadl, bylo by to naprosté peklo. Myslím, že i ten nejhloupější stalker ví, že pokud na tohle místo zaútočí, vojenská přítomnost se rychle vystupňuje a zakročí proti nim. Jsme jako spící medvěd - nikdo do nás nechce moc šťouchat.</text>
+</string>
+<string id="army_south_mechan_mlr_st_10">
+	<text>Budu na to pamatovat.</text>
+</string>
+
+
+	<!-- ============================================================================================================-->
+	<!--                                                 ARMÁDNÍ PRODAVAČ                                          -->
+	<!-- ============================================================================================================-->
+	
+<string id="guid_esc_mlr_military_0">
+	<text>Potřebuji vrtulník. Je to možné zorganizovat?</text>
+</string>
+<string id="guid_esc_mlr_military_1">
+	<text>Je, ale nebudeme spotřebovávat palivo jen kvůli tobě. Tato služba je obvykle vyhrazena našim důvěryhodnějším a zkušenějším operátorům.</text>
+</string>
+<string id="guid_esc_mlr_military_list_0">
+	<text>Do kterých míst nabízíš přepravu?</text>
+</string>
+<string id="guid_esc_mlr_military_list_1">
+	<text>Na naši základnu v Agropromu za pět tisíc rublů, dále na čerpací stanici v Temné kotlině za tři tisíce a do mobilní laboratoře u jezera Yantar za deset tisíc.</text>
+</string>
+<string id="guid_esc_mlr_military_vert_0">
+	<text>Potřeboval bych odvést</text>
+</string>
+<string id="guid_esc_mlr_military_vert_1">
+	<text>Kam to bude?</text>
+</string>
+<string id="guid_esc_mlr_military_vert_2">
+	<text>Na Armádní základnu v Agropromu. %c[d_orange][5000 RU]</text>
+</string>
+<string id="guid_esc_mlr_military_vert_3">
+	<text>K čerpací stanici v Temné kotlině. %c[d_orange][3000 RU]</text>
+</string>
+<string id="guid_esc_mlr_military_vert_4">
+	<text>Do mobilní laboratoře v Jantaru. %c[d_orange][10000 RU]</text>
+</string>
+<string id="guid_esc_mlr_military_vert_5">
+	<text>Změnil jsem názor.</text>
+</string>
+	
+	<!-- ============================================================================================================-->
+	<!--                                                 HIP                                                         -->
+	<!-- ============================================================================================================-->
+	
+<string id="devushka_1_start_0">
+	<text>Byly lepší dny, co potřebuješ?</text>
+</string>
+<string id="devushka_1_start_1">
+	<text>Rád bych se tě zeptal na pár otázek.</text>
+</string>
+<string id="devushka_1_start_2">
+	<text>Nemůžu ti toho moc říct, pokud nehledáš práci. Znám jednoho člověka. Je bohatý ve všech smyslech toho slova - hloupý a privilegovaný stejnou mírou. Právě teď je někde venku a chová se v Zóně jako na safari. Artefakty ho nezajímají. Chce jen sbírat staré zbraně... a střílet s nimi prasata. Dokonce chce najít TOZ se zaměřovačem, který "viděl nějakou opravdovou akci v Zóně", jako suvenýr! A to, co za to chce zaplatit, je naprosto neuvěřitelné!" Problém je v tom, že poslední chlap, kterého jsem potkal a který věděl, kde najít TOZ se zaměřovačem, je Lovec, a ten už před lety zemřel. Ani žádný z velkých obchodníků pod Bariérou nemá zájem ho najít - zdá se, že jim to nestojí za to, aby se tím zabývali.\n \nAle jestli ho najdeš, přines mi ho spolu s dvaceti náboji broku a dostaneš několikanásobek toho, co bys za něj dostal jinde.</text>
+</string>
+<string id="devushka_1_start_3">
+	<text>Mně to zní jako dobrý obchod. Udělám to.</text>
+</string>
+<string id="devushka_1_start_4">
+	<text>Teď nemám zájem, promiň.</text>
+</string>
+<string id="devushka_1_start_6">
+	<text>Dej mi údaje o tom turistovi, jinak jsi mrtvá.</text>
+</string>
+<string id="devushka_1_start_5">
+	<text>Zní mi to jako dobrý obchod. Udělám to.</text>
+</string>
+	
+<string id="devushka_2_start_0">
+	<text>Tady. Dodáno, jak bylo slíbeno.</text>
+</string>
+<string id="devushka_2_start_1">
+	<text>Obávám se, že mám špatné zprávy. Náš klient zemřel. Strašlivě. Netvař se ale tak kyselé! Jeho nedostatek schopnosti přežít předčil jen nedostatek rozvahy. Tady je pár věcí z jeho skrýše.</text>
+</string>
+<string id="devushka_2_start_2">
+	<text>Propan... tak on umřel? Jen tak?</text>
+</string>
+<string id="devushka_2_start_3">
+	<text>Pseudogigant, podle toho, co vím. Když už jsme u toho, mohl bys mi vzít plechovku tuňáka? Má přesně tu správnou velikost a jsem si jistá, že jeho příbuzní budou chtít zbytky v nějakém kontejneru zpátky.</text>
+</string>
+<string id="devushka_2_start_4">
+	<text>Co to sakra...? Kdybych náhodou našel plechovku s tuňákem... možná ti dám vědět. Na zdraví.</text>
+</string>
+<string id="devushka_2_start_5">
+	<text>Obsah jeho skrýše to nezachrání, Hip. Buď vykašli prachy, nebo vykašli krev ty blbko.</text>
+</string>
+	
+<string id="devushka_0_dialog_0">
+	<text>Tady, Hip. Našel jsem pro tebe plechovku.</text>
+</string>
+<string id="devushka_0_dialog_1">
+	<text>Mmm, ten tuňák je výborný! Doufám, že se mi to podaří udržet při zemi, až budu sbírat zbytky po našem zesnulém klientovi.</text>
+</string>
+<string id="devushka_1_dialog_0">
+	<text>Rád bych se tě zeptal na pár otázek.</text>
+</string>
+<string id="devushka_1_dialog_1">
+	<text>A možná mám i nějaké odpovědi.</text>
+</string>
+<string id="devushka_1_dialog_2">
+	<text>Máš nějaké obecné znalosti? O tom, jak přežít? O anomáliích? Něco takového?</text>
+</string>
+<string id="devushka_1_dialog_3">
+	<text>Předně, nikdy nekopni přímo dolů. Za druhé, zaměř se na spodní část krku. Za třetí, nejezte žlutý sníh. Za čtvrté, pravidla zde vlastně nejsou jistá – považuj to za anomálii v celé Zóně. A v neposlední řadě, nepanikař.</text>
+</string>
+<string id="devushka_1_dialog_4">
+	<text>To bylo... poučné?</text>
+</string>
+
+
+<string id="devushka_2_dialog_0">
+	<text>Obvykle děláš sběratelské práce?</text>
+</string>
+<string id="devushka_2_dialog_1">
+	<text>Ano. Slyšel jsi někdy o Šikuloj? Původně pochází z lodi na severu. Než zbohatnul na vlastním podnikání, vydělával si na živobytí."</text>
+</string>
+<string id="devushka_2_dialog_2">
+	<text>To je... rozhodně ambiciózní. Proč ho nevyhledáš, třeba se od něj budeš přímo učit?</text>
+</string>
+<string id="devushka_2_dialog_3">
+	<text>Protože žije za Bariérou a já ještě nejsem dost bláznivá, abych se za ni vydala, proto. Peníze jsou dobré jen tehdy, když žiješ, abys je mohl utratit, víš?</text>
+</string>
+<string id="devushka_2_dialog_4">
+	<text>Dobře, ale vypadáš, jako bys tu už nějakou dobu byla. Proč se pořád poflakuješ po vesnici Nováčku? Stále se snažíš navázat kontakty?</text>
+</string>
+<string id="devushka_2_dialog_5">
+	<text>Ano. Sidorovič zná doslova každého, koho stojí za to v téhle smrtelné pasti znát. Chceš si založit vlastní firmu, ale nejsi členem žádné mocné frakce? Pak potřebuješ jeho kontakty, potřebuješ jeho podporu. Jinak tě někteří chamtivější lidé tady roztrhají na kusy... jako supi, kteří se vrhají na umírajícího. Trvalo mi dlouho, než jsem si získal Sidorovičův respekt.</text>
+</string>
+<string id="devushka_2_dialog_6">
+	<text>A předtím?</text>
+</string>
+
+<string id="devushka_2_dialog_7">
+	<text>No, i předtím na mě pořád dával pozor, i když s nelibostí. Po mém odchodu ze Svobody to byl on, kdo se postaral o to, aby mě Povinnost neobtěžovala za mé minulé činy, i když si myslím, že by byl radši, kdybych prostě odešla. Choval se ke mně jako k dítěti, ale po Povinnosti mě rozhodně nechránil jako dítě; pořád jsem se musela bát banditů a některých stalkerů, kteří chtěli, abych pro ně byla víc, než jsem mohla.</text>
+</string>
+<string id="devushka_2_dialog_8">
+	<text>Někteří lidé prostě neberou "ne" jako odpověď.</text>
+</string>
+<string id="devushka_2_dialog_9">
+	<text>Někteří lidé by si tu vytrvalost měli šetřit na hodnotnější věci. Naštěstí se najdou i slušní lidé. Wolf se ke mně choval jako ke každému jinému nováčkovi, což bylo skvělé. Časem jsem se naučila, jak správně vycházet s ostatními stalkery. Alespoň s těmi, kteří nejsou sjetí nějakým pikem nebo napitý laciným mokem. Bohužel kromě něj a Fanatika tu většině život dlouho nevydrží. Pár nových přátel by se mi hodilo.</text>
+</string>
+<string id="devushka_2_dialog_10">
+	<text>Říkáš to každému, kdo ti přinese plechovku tunáka?</text>
+</string>
+<string id="devushka_2_dialog_11">
+	<text>Oh, prosím. Víš, jak je těžké dávat si pozor na Upíry, když jsi na to sám a ještě žena? Je to mnohem těžší, než to vypadá, to ti slibuju.</text>
+</string>
+<string id="devushka_2_dialog_16">
+	<text>Máš tedy v plánu někam jít?</text>
+</string>
+<string id="devushka_2_dialog_17">
+	<text>Jo, mám před sebou pár rutinních jízd za artefakty. Také musím někdy splnit speciální objednávku - jestli chceš, můžeš jít s námi. Přece jen potřebuju někoho, kdo bude dávat pozor na Upíry. Dostal bys pěkný podíl. Padesát procent by mělo být víc než fér.</text>
+</string>
+<string id="devushka_2_dialog_12">
+	<text>Dobře, počítej se mnou.</text>
+</string>
+<string id="devushka_2_dialog_13">
+	<text>Ne, ne, nechám tě v tom. Možná se k tobě přidám na další výpravě.</text>
+</string>
+<string id="devushka_2_dialog_14">
+	<text>Skvěle! Sidorovič má speciální objednávku na Měsíční svit, Ohnivou kouli a Vyprošťovač. Ty nejsou snadné sehnat, takže to není nijak časově omezené - ale čím dříve, tím lépe. Přece jen si chci vybudovat dobrou pověst spolehlivého člověka.</text>
+</string>
+<string id="devushka_2_dialog_15">
+	<text>Dobře, tak začneme!</text>
+</string>
+
+
+<string id="devushka_3_quest_money_0">
+	<text>Tady jsou těch padesát procent, jak jsme se dohodli. Jsem si jistá, že někdo jiný by zaplatil mnohem víc.</text>
+</string>
+<string id="devushka_3_quest_money_1">
+	<text>Pravděpodobně. Ale co jsme rozhodně udělali, je, že jsme dodrželi slovo. Vydělali jsme na tom pěknou sumu, jsem spokojená.</text>
+</string>
+<string id="devushka_heal_0">
+	<text>Mohl bys mi přinést tuhle lékárničku?</text>
+</string>
+<string id="devushka_heal_1">
+	<text>Cože? Proč bych ti měla nosit lékárničku? Pokud si ji nedokážeš aplikovat sám, jsi nejspíš příliš mrtvý na to, abych tě zachránila.</text>
+</string>
+<string id="devushka_heal_2">
+	<text>Pro jistotu. Věř mi.</text>
+</string>
+<string id="devushka_heal_3">
+	<text>Víš... to je dobrá poznámka.</text>
+</string>
+<string id="devushka_heal_4">
+	<text>Ehm, dobře. Budu ti věřit.</text>
+</string>
+
+	
+<string id="devushka_3_dialog_0">
+	<text>To je neobvyklý etos pro někoho ve zbroji Svobody, i když je to jen bývalý Svobodný.</text>
+</string>
+<string id="devushka_3_dialog_1">
+	<text>Většina prvních členů Svobody byli moji přátelé a já jsem se k nim tak trochu přidal právě proto. Moc se mi ale nelíbilo, jakým směrem se jejich ideologie ubírala a co se z jejich frakce stalo. Chtěl jsem zažít dobrodružství s přáteli. Nechtěl jsem být součástí něčího záměru k védení války.</text>
+</string>
+<string id="devushka_3_dialog_2">
+	<text>Pojď se mnou k táborovému ohni. Mám pro tebe dobré zprávy.</text>
+</string>
+<string id="devushka_4_dialog_0">
+	<text>Sidorovič chtěl, abych ti něco řekl. Zajistil ti rozvoz zboží u Barmana... problém je, že to vyžaduje překročení Bariéry.</text>
+</string>
+<string id="devushka_4_dialog_1">
+	<text>Děkuji, že jsi mi dal vědět. Jeden starý přítel mi právě hodil na PDA zprávu, ve které říká něco podobného. Hele, vrať se sem večer, jo? Potřebuji nějaký čas, abych se psychicky připravila na cestu. Taky budu pořád potřebovat, abys kvůli téhle práci dával pozor na Krvavce, tak ať ti návrat netrvá moc dlouho.</text>
+</string>
+
+<string id="devushka_4_quest_0">
+	<text>Hip, je čas. Jsi připravená jít se podívat na Barkmanovu práci?</text>
+</string>
+<string id="devushka_4_quest_1">
+	<text>Nejsem si tak jistý. Ta zpráva, kterou jsem předtím dostal... byla od Lukáše. Naléhavě potřebuje pomocnou ruku na převoz léků na jejich základnu v Janově. Vím, co jsem předtím říkal o Svobodě, ale oba víme, že z toho nebudou mít prospěch jen oni.</text>
+</string>
+<string id="devushka_4_quest_2">
+	<text>Lukáš si nejspíš najde někoho jiného, kdo bude dělat běh. Barman zabírá jeden z nejcentrálnějších bodů v Zóně - uhrát jeho práci, dokud je ještě k dispozici, by pro tebe bylo z dlouhodobého hlediska lepší.</text>
+</string>
+<string id="devushka_4_quest_3">
+	<text>V tom případě bychom se měli co nejdříve dostat k Lukášovi pro léky - každá vteřina může zachránit život.</text>
+</string>
+<string id="devushka_4_quest_4">
+	<text>Hm, jo, máš pravdu. Svoboda si může najít někoho jiného, kdo jim bude dělat mězka. Barman je to. Pojďme, dokud je to dobré.</text>
+</string>
+<string id="devushka_4_quest_5">
+	<text>Jsem rád, že souhlasíš. Podle toho, co jsem slyšel, vůdce Svobodných v Janově vede pevnou ruku. Udělat tuhle laskavost pro Lukáše by zachránilo více životů než cokoliv, co měl Barkeep na mysli. Až budeš připravená, můžeme vyrazit do Skladu.</text>
+</string>
+<string id="devushka_about_artefact_0">
+	<text>Nevíš, kde bychom mohli najít artefakty, které chce Sidorovič?</text>
+</string>
+<string id="devushka_about_artefact_1">
+	<text>Jistě. Měsíční světla najdeme v elektroanomáliích, Wrenchedy ve virových anomáliích a ohnivé koule v anomáliích Burner.</text>
+</string>
+<string id="devushka_about_artefact_2">
+	<text>Pravda. A předpokládám, že budu hlídat, zatímco ty se do nich budeš nořit?</text>
+</string>
+<string id="devushka_about_artefact_3">
+	<text>Vlastně budu stát na stráži. Ty se do nich můžeš ponořit.</text>
+</string>
+<string id="devushka_about_artefact_4">
+	<text>Nemáš být náhodou lovec artefaktů?</text>
+</string>
+<string id="devushka_about_artefact_5">
+	<text>Řekl jsem ti, kde je najdeš, ne? Kromě toho, takhle to pro tebe bude větší zábava.</text>
+</string>
+	
+
+<string id="devushka_about_semeckiy_0">
+	<text>Hej, Hip? Znáš nějaké příběhy?</text>
+</string>
+<string id="devushka_about_semeckiy_1">
+	<text>Jo, vlastně jo. Slyšel jsi někdy o Juriji Semeckém? Byl známý tím, že aspoň jednou denně umíral na síti Stalker. Nejspíš to byla jenom chyba, ale někteří tvrdí, že Jurij byl jedním z prvních Stalkerů, kteří kdy dosáhli na splnění přání. Vždycky. Říkalo se, že si přál nesmrtelnost. Výsledkem bylo, že umíral, aby se náhodně vzkříšil někde jinde až 24 hodin nebo méně před další nevyhnutelnou smrtí. Některé jeho nekrology byly opravdu hrozné. Jakkoli může být Zóna krásná, skrývá i některé temné věci, které je lepší nechat neprozkoumané.</text>
+</string>
+<string id="devushka_about_semeckiy_2">
+	<text>A víš, proč už se o Jurijových umrtích na síti nepíše?</text>
+</string>
+<string id="devushka_about_semeckiy_3">
+	<text>Přesně ne, ale spekuloval jsem. Přijde mi zajímavé, že se jeho umrtí přestala hlásit krátce poté, co Stalker jménem "Označený" vypnul Spalovač mozku a dostal se do JE. Netuším, co se tam dělo, ale věci se rozhodně změnily. Ať už se stalo cokoli, zdá se, že Jurij teď může v klidu zůstat mrtvý.</text>
+</string>
+<string id="devushka_about_semeckiy_4">
+	<text>Nemyslíš si, že by mohl být ještě naživu?</text>
+</string>
+<string id="devushka_about_semeckiy_5">
+	<text>Možná, ale nejsem si jistá, jaký život by to teď byl. Možná pokračuje jako nějaký druh ducha? To nedokážu říct. Staly se už podivnější věci.</text>
+</string>
+<string id="give_devushka_medved_0">
+	<text>Hej, Hipe! Vezmi mi tenhle detektor, ano?</text>
+</string>
+<string id="give_devushka_medved_1">
+	<text>Přesně to jsem potřebovala - další drahý přístroj, který "pípá".</text>
+</string>
+
+
+<string id="devushka_give_present_0">
+	<text>Co se bude dít dál v budoucnosti, Hip?</text>
+</string>
+<string id="devushka_give_present_1">
+	<text>Víš, na svých cestách s tebou jsem přemýšlela o různých věcech. Možná ještě nenastal ten správný čas, abych se usadila a začala víc podnikat. Myslel jsem si, že je to to, co chci, ale ve skutečnosti jsem se jen bál. To, co opravdu chci, je dobrodružství. Teď si uvědomuju, že je toho ještě tolik, co můžu objevovat.</text>
+</string>
+<string id="devushka_give_present_2">
+	<text>Co takhle jít v Nimbleových stopách?</text>
+</string>
+<string id="devushka_give_present_3">
+	<text>Takže nemůžu dělat nic jiného než celý den sedět na lodi? Možná jsem se tak cítil i předtím, ale podívej se na tohle místo. Jak můžeš vydržet sedět pořád uvnitř, když víš, co je tady venku? Nejsem připraven na klidný život.</text>
+</string>
+<string id="devushka_give_present_4">
+	<text>Tady venku je většinou smrt.</text>
+</string>
+<string id="devushka_give_present_5">
+	<text>A přesto jsi tady, venku, skoro každý den.</text>
+</string>
+<string id="devushka_give_present_6">
+	<text>Co tím myslíš?</text>
+</string>
+<string id="devushka_give_present_7">
+	<text>Těžko se to popisuje, ale myslím, že tu můžu být šťastná. Zóna je opravdu zázrak a ráda bych ji viděla víc.</text>
+</string>
+<string id="devushka_give_present_8">
+	<text>Takže jsi si jistý, že dáš přednost životu poľního šliďáka před životem obchodníka? Dokonce i když budeš mít peníze a konekce, aby ses mohl usadit?</text>
+</string>
+<string id="devushka_give_present_9">
+	<text>Ano, jsem si jistý. Možná až jednou budu stará a tlustá jako Sidorovič, tak si to rozmyslím.</text>
+</string>
+<string id="devushka_give_present_10">
+	<text>Je to od tebe zbrkle. Ještě si to rozmysli.</text>
+</string>
+<string id="devushka_give_present_12">
+	<text>Já už jsem to udělal. Už jsem se rozhodl. Doufal jsem, že mě v tom budeš víc podporovat.</text>
+</string>
+<string id="devushka_give_present_11">
+	<text>Dobře, tak možná zůstaň poblíž. Bude dobře mít někoho, kdo bude dávat pozor na krvežíznivce.</text>
+</string>
+<string id="devushka_give_present_13">
+	<text>Hah! To jsem si taky myslel! Tady, tohle si vezmi jako poděkování. Postaral ses o mě víckrát, než by kdo chtěl spočítat.</text>
+</string>
+<string id="devushka_give_present_14">
+	<text>Hádam, že to je to, co týmy dělají, že? Jdeme na to.</text>
+</string>
+
+<string id="devushka_go_village_0">
+	<text>Hip, myslím, že bude nejlepší, když se prozatím rozejdeme.</text>
+</string>
+<string id="devushka_go_village_1">
+	<text>Jsi si jistý?</text>
+</string>
+<string id="devushka_go_village_2">
+	<text>Ano. Jdeš dělat ty. Je tu něco, co musím vyřídit sám.</text>
+</string>
+<string id="devushka_go_village_3">
+	<text>Ne. Jen tě táhám za nos.</text>
+</string>
+<string id="devushka_go_village_4">
+	<text>Jistě. Občas se zastavím ve vesnici Nováčku, tak se tam možná potkáme? Jen ať už uděláš cokoliv, vrať se prosím živý.</text>
+</string>
+<string id="adventure_time_with_hip_0">
+	<text>Rád tě zase vidím, Hip. Přidáš se ke mně na další výlet do Zóny?</text>
+</string>
+<string id="adventure_time_with_hip_1">
+	<text>Stačilo se jen zeptat.</text>
+</string>
+<string id="st_hip_news_1">
+	<text>Hip: Dobře, tak pojďme k táboráku ve vesnici. Už se nemůžu dočkat, až to uslyším!</text>
+</string>
+<string id="st_hip_news_2">
+	<text>Přeji ti hodně štěstí na tvojí misi, stalkere. Měj se na pozoru.</text>
+</string>
+<string id="st_hip_news_3">
+	<text>Hip: S tou druhou prací bych si moc hlavu nelámala, určitě už ji řeší někdo jiný.</text>
+</string>
+<string id="st_hip_news_4">
+	<text>Fousek se zdá být se svou službou spokojený, a to nebyla zrovna nejbezpečnější kurýrní zakázka. Zůstaň naživu a mohl by to být začátek dobrých obchodních vztahů.</text>
+</string>
+<string id="st_hip_news_5">
+	<text>Hip: Hej, hádam, že jsi měl pravdu, když jsi se nejdřív dobře domluvil s Barkeepem!</text>
+</string>
+<string id="st_hip_news_6">
+	<text>Hip: Vím, že není vždycky snadné udělat něco jen z dobroty srdce.</text>
+</string>
+<string id="st_hip_news_7">
+	<text>Hip: Takže opravdu, děkuji. Pravděpodobně jsi Janovovi pomohl změnit svět k lepšímu.</text>
+</string>
+
+</string_table>

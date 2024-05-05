@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<!--COMMON-->
+<string id="st_mag_weapon_jammed">
+    <text>Zbraň se zasekla</text>
+</string>
+<string id="st_mag_eject_magazine">
+    <text>Vyndat zásobník</text>
+</string>
+<string id="st_mag_unload_ammo">
+    <text>Vybít náboje</text>
+</string>
+<string id="st_mag_loadout_remove">
+    <text>Odebrat z výbavy</text>
+</string>
+<string id="st_mag_loadout_add">
+    <text>Přidat do výbavy</text>
+</string>
+
+<string id="st_mag_retool">
+    <text>Přenastavit (Zásobníky)</text>
+</string>
+
+<string id="st_mag_err_retool">
+    <text>Nelze přenastavit nabitý zásobník! Nejprve odeber všechny náboje.</text>
+</string>
+
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_magazines">
+		<text>Magazines</text>
+	</string>
+	<string id="ui_mcm_menu_mgmt">
+		<text>Mag Management</text>
+	</string>
+	<string id="ui_mcm_menu_hud">
+		<text>Magazine HUD</text>
+	</string>
+	<string id="ui_mcm_menu_gameplay">
+		<text>Gameplay Options</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmtitle">
+		<text>Anomaly Magazines Redux</text>
+	</string>
+	<string id="ui_mcm_magazines_hudtitle">
+		<text>HUD Options</text>
+	</string>
+	<string id="ui_mcm_magazines_gametitle">
+		<text>Gameplay Options</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_loadtime_factor">
+		<text>Bullet load time factor</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_loadtime_factor_desc">
+		<text>Multiplier for bullet load time</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_unloadtime_factor">
+		<text>Bullet unload time factor</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_unloadtime_factor_desc">
+		<text>Multiplier for bullet unload times</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_tooltip">
+		<text>Magazine Tooltip Information</text>
+	</string>
+	<string id="ui_mcm_lst_topround">
+		<text>Top Round Only</text>
+	</string>
+	<string id="ui_mcm_lst_trcap">
+		<text>Top Round + Exact Capacity</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Complete Information.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_mag_tooltip_desc">
+		<text>Verbosity level for magazine data.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_debug">
+		<text>Enable Debug Logs</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_debug_desc">
+		<text>Enables debugging logs in console.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_empty_mags_stack">
+		<text>Stack empty magazines in inventory</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_empty_mags_stack_desc">
+		<text>If enabled, empty magazines will stack together in inventory instead of being separate.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_sort_inv">
+		<text>Sort inventory as magazines are updated</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_sort_inv_desc">
+		<text>Uncheck this if you don't like items in your inventory moving around when magazines are updated.</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_color">
+		<text>Highlight Color</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_color_desc">
+		<text>Highlight color for magazines that are part of your loadout.</text>
+	</string>
+
+	<string id="ui_mcm_magazines_mgmt_highlight_clr_a">
+		<text>Highlight Opacity</text>
+	</string>
+	<string id="ui_mcm_magazines_mgmt_highlight_clr_a_desc">
+		<text>How much of the UI background is visible through the highlight. Lower values make the highlight more subtle.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ram_orange">
+		<text>Orange</text>
+	</string>
+	<string id="ui_mcm_lst_ram_pink">
+		<text>Pink</text>
+	</string>
+	<string id="ui_mcm_lst_ram_blond">
+		<text>Blond</text>
+	</string>
+	<string id="ui_mcm_lst_ram_white">
+		<text>White</text>
+	</string>
+	<string id="ui_mcm_lst_ram_brown">
+		<text>Brown</text>
+	</string>
+	<string id="ui_mcm_lst_ram_blue">
+		<text>Blue</text>
+	</string>
+
+	<string id="ui_mcm_magazines_hud_scale">
+		<text>HUD scale</text>
+	</string>
+
+	<string id="ui_mcm_magazines_hud_ammo_scale">
+		<text>Ammo icon scale.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_grp_by_bt">
+		<text>Group by Weapon.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_grp_by_bt_desc">
+		<text>If enabled, magazines that work with the same weapon will be grouped together. If disabled only identical magazines will be grouped together.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_bgrd">
+		<text>Show Background.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_bgrd">
+		<text>Background Texture.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_group_by_ammo">
+		<text>Group by Ammo.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_group_by_ammo_desc">
+		<text>If enabled, magazines will be broken into groups based on their top round.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_hud">
+		<text>Enable Magazine HUD</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_show_hud_desc">
+		<text>If enabled, you will see magazines currently equipped in your HUD, near your ammo counter.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_icon_text">
+		<text>Enable Ammo Text on Magazine HUD</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_icon_text_desc">
+		<text>If enabled, you will see text on the HUD for the first round in a magazine. Requires Group by Ammo to be enabled.</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_ammo_icon">
+		<text>Enable Ammo Icons on Magazine HUD</text>
+	</string>
+	<string id="ui_mcm_magazines_hud_ammo_icon_desc">
+		<text>If enabled, you will see small ammo icons on the HUD for the first round in a magazine. Requires Group by Ammo to be enabled.</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_retain_round">
+		<text>Enable "one in the chamber"</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_retain_round_desc">
+		<text>If enabled, weapons retain a round in the chamber when magazines are ejected.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_loadstash_behavior">
+		<text>Stash Magazine Loading Behavior</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_loadstash_behavior_desc">
+		<text>Select the style of behavior when rounds are loaded into magazines in stash window. Note that selecting faster options will prevent some implicit features like staggering different ammo types.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_tacload">
+		<text>Disable Interruptable Magazine Loading</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_tacload_desc">
+		<text>Eases weapon reloading by disallowing movement/inventory manipulation from canceling reloads. Makes the game easier but may lead to cases where reloads happen instantaneously when the animation is interrupted.</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_load_behavior">
+		<text>Magazine Loading Behavior</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_load_behavior_desc">
+		<text>Select the style of behavior when rounds are loaded into magazines in inventory or loot window. 
+			\n\nRemarks:
+			\n - Note that selecting faster options will prevent some implicit features like staggering different ammo types.
+			\n - Ammo boxes are the amount contained in one 'ammo' item, this can range from 10 shells for buckshot to 14-16 rounds for handguns.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_unload_behavior">
+		<text>Magazine Unloading Behavior</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_unload_behavior_desc">
+		<text>Select the style of behavior when rounds are removed from magazines. Note that for convenience, magazines always instantly unload from stash.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ind">
+		<text>Round by round</text>
+	</string>
+	<string id="ui_mcm_lst_box">
+		<text>Box by box</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Instant</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_ejection">
+		<text>Empty mag unload behavior</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_ejection_desc">
+		<text>Controls where empty magazines go.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ruck">
+		<text>Put in backpack</text>
+	</string>
+
+	<string id="ui_mcm_lst_loadout">
+		<text>Put in loadout</text>
+	</string>
+
+	<string id="ui_mcm_magazines_gameplay_mag_unequip_trs">
+		<text>Treat as empty %</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_mag_unequip_trs_desc">
+		<text>Magazines below this % will be treated as empty.</text>
+	</string>
+	<string id="ui_mcm_magazines_rant">
+	<text>An explanation of how combat reloading (reloading with inventory closed) works:
+
+	\n\nYour load out is a set of pockets/loops on your vest. For this example you have 4 pockets and you have 4 mags in your load out, one in each pocket, and a fifth mag in the gun.
+	\nYou go to reload, your gun is in one hand, you grab the magazine in the gun with the other and remove it. You now have a gun in one hand and a magazine in the other. All four pockets have a magazine in them so you can't put the magazine in your hand into a pocket and you can't take a magazine out of a pocket because both of your hands are full. What do you do?
+	\nShove the magazine in your hand into your drop-pouch, or backpack since we don’t simulate a drop-pouch.
+	\nNow you have a free hand, you take a magazine from a loadout pocket and put it into the gun. leaving you with one empty loadout pocket. Reload complete.
+	\nIf you start the process with a free pocket in your loadout the mag from the gun gets put into that pocket. Unless it is empty, then by default it goes into your bag. This can be changed so that empty magazines are placed into loadout slots or dropped to the ground.
+
+	\n\nIf you have the inventory open then it is not a combat reload and an additional attempt to place the magazine into your load out is performed because it is assumed you can set the gun or magazine down. Also the setting to drop magazines on the ground is ignored when inventory is open.
+	\nHowever if you think that RavenAscendant is wrong and that during a combat reload your stalker has a magical third hand to hold the magazine that came out of the gun until it can be placed in the freed up loadout slot, or that they would hold it in their teeth/knees/armpit/psionic powers, then there is an option below to enable that behavior.\n\n</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_three_hands">
+			<text>Use a third hand to place an ejected magazine back into your loadout after a combat reload.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_three_hands_desc">
+			<text>Raven still thinks this is wrong.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathquality">
+		<text>NPC Mag Quality</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathquality_desc">
+		<text>Modifier to find better magazines and ammo off corpses.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathmags">
+		<text>NPC Mag Drops</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathmags_desc">
+		<text>Multiplier on amount of magazines dropped by NPCs.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathammo">
+		<text>NPC Ammo Drops</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_deathammo_desc">
+		<text>Multiplier on ammo load amount for magazines dropped by NPCs.</text>
+	</string>
+
+	<!--MAGAZINES-->
+
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+
+<string id="st_mag_bonus">
+    <text>(Oblečení:%s + Extra:%s)</text>
+</string>
+<string id="st_mag_small">
+    <text>Malé zásobníky:</text>
+</string>
+<string id="st_mag_medium">
+    <text>Střední zásobníky:</text>
+</string>
+<string id="st_mag_large">
+    <text>Velké zásobníky:</text>
+</string>
+<string id="st_mag_base">
+    <text>Základní zásobník</text>
+</string>
+<string id="st_mag_base_descr">
+    <text>Základní zásobník.</text>
+</string>
+
+<string id="st_mag_size">
+    <text>Velikost zásobníku:</text>
+</string>
+<string id="st_mag_size_small">
+    <text>malý</text>
+</string>
+<string id="st_mag_size_medium">
+    <text>střední</text>
+</string>
+<string id="st_mag_size_large">
+    <text>velký</text>
+</string>
+
+<string id="st_mag_loaded">
+    <text>Nabitý zásobník:</text>
+</string>
+<string id="st_mag_loaded_none">
+    <text>VAROVÁNÍ: Není nabitý žádný zásobník</text>
+</string>
+
+<string id="st_mag_ammo_loaded_count">
+    <text>Nabité náboje:</text>
+</string>
+<string id="st_mag_capacity">
+    <text>Kapacita zásobníku:</text>
+</string>
+<string id="st_mag_ammo_top_round">
+    <text>Náboj nahoře:</text>
+</string>
+
+
+	<string id="article_mags">
+    <text>Zásobníky Anomaly</text>
+</string>
+<string id="article_mags_text">
+    <text>
+        %c[pda_green]Mags Redux%c[ui_gray_1]\n\n
+        \nVítejte při používání módu Mags Redux. Tato příručka vám představí většinu funkcí a změn, které můžete očekávat při používání tohoto módu.
+        \nPro uživatele původních Zásobníků Anomálie (od Wuuta) se očekává málo rozdílu ve hře. Většina funkcionality zůstává stejná.\n\n
+
+        %c[pda_green]I. Jak načíst a střílet zbraněmi%c[ui_gray_1]\n
+        \n• Zbraně, které by ve skutečném životě logicky používaly zásobníky, vyžadují použití zásobníků.
+        \n   • Zbraně, které to nedělají, budou fungovat jako ve standardní hře (brokovnice, některé opakovací pušky, revolver).
+        \n• Munice musí být ručně nahrána do zásobníků. Popis zásobníku ukáže, jaký druh munice je kompatibilní. Pro nahrání munice přetáhněte položku munice na zásobník. Tím se spustí postup nahrávání, který postupně načte náboje.
+        \n   • Chcete-li tento postup zrušit, klikněte kdekoli.
+        \n• Chcete-li zásobník přidat do výbavy, klikněte pravým tlačítkem myši na zásobník. Bude tam možnost 'přidat do výbavy'. Pozadí zásobníku změní barvu a bude přidána ikona: to znamená, že zásobník byl přidán do vaší výbavy.
+        \n   • Odtud, pokud držíte vhodnou zbraň, při nabíjení vaší zbraně se bude využívat zásobník ve vaší výbavě.
+        \n   • Mód se pokusí automaticky vybrat zásobník, který a) má největší velikost a b) má nahoře náboj shodný s vaším typem munice.
+        \n• Zásobníky lze také ručně vložit a vyjmout. Klikněte pravým tlačítkem myši na zbraň, abyste našli možnost vytáhnout zásobník.
+        \n• Kolo s municí lze použít k výměně zásobníků. Zásobníky jsou kategorizovány podle horního náboje.\n\n
+
+        %c[pda_green]II. Kde najít zásobníky%c[ui_gray_1]\n
+        \n• Obchodníci, kteří prodávají zbraně, budou prodávat také zásobníky. Zásobníky mohou být také prodávány jim za nemnoho peněz.
+        \n• NPC budou mít několik zásobníků pro svou zbraň, s trochou munice.
+        \n   • NPC, konkrétně NPC s vysokým postavením, mají malou šanci na upgradované zásobníky. Tyto zásobníky se rychleji načítají, mají větší kapacitu nebo obojí.\n\n
+
+        %c[pda_green]III. Vysvětlení možností MCM%c[ui_gray_1]\n
+        \n• Kvalita kořisti: Ovlivňuje množství upuštěných zásobníků, plnící množství a šanci na lepší zásobníky.
+        \n• Faktor doby načítání/vykládání: Násobitel rychlosti načítání/vykládání nábojů v zásobnících.
+        \n• Rychlé načítání: Povoluje okamžité nahrávání/vykládání zásobníků POUZE VE SKLADIŠTI.
+        \n• Jeden náboj v komoře: Uchovává náboj v komoře při výměně zásobníků, stejně jako ve skutečném životě.
+    </text>
+</string>
+
+
+
+</string_table>

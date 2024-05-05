@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<string id="st_stat_dmg">
+<text>%</text>
+</string>
+<string id="st_stat_rpm">
+<text>rpm</text>
+</string>
+
+	<!-- Sorter -->
+<string id="ui_st_tab_all">
+<text>Všechny položky (1)</text>
+</string>
+<string id="ui_st_tab_weapons">
+<text>Zbraně a výbušniny (2)</text>
+</string>
+<string id="ui_st_tab_armor">
+<text>Vesty, helmy, batohy a příslušenství (3)</text>
+</string>
+<string id="ui_st_tab_ammo">
+<text>Náboje (4)</text>
+</string>
+<string id="ui_st_tab_artefact">
+<text>Artefakty a mutantní části (5)</text>
+</string>
+<string id="ui_st_tab_tools">
+<text>Přístroje, nástroje a opravné itemy (6)</text>
+</string>
+<string id="ui_st_tab_food">
+<text>Nápoje, jídlo, vaření a cigarety (7)</text>
+</string>
+<string id="ui_st_tab_meds">
+<text>Léky (8)</text>
+</string>
+<string id="ui_st_tab_upgrades">
+<text>Upgrady (zbraně a vesty) (9)</text>
+</string>
+<string id="ui_st_tab_misc">
+<text>Různé věci (10)</text>
+</string>
+		
+	<!-- Loot mode -->
+<string id="ui_st_put_all">
+<text>Přesunout vše</text>
+</string>
+<string id="ui_st_put_all_hint">
+<text>Přesunout všechny věci (SHIFT + P)</text>
+</string>
+<string id="ui_st_take_all">
+<text>Vzít vše</text>
+</string>
+<string id="ui_st_take_all_hint">
+<text>Přesunout všechny věci do batohu (SHIFT + T)</text>
+</string>
+	
+	<!-- Trade mode -->
+	<string id="ui_total_price">
+		<text>Cena</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>Koupit</text>
+	</string>
+	<string id="ui_st_sell">
+<text>Prodat</text>
+	</string>
+	<string id="ui_st_sell_hint">
+<text>Prodej vybraných věcí</text>
+	</string>
+	<string id="ui_st_buy_hint">
+<text>Koupit vybrané věci</text>
+	</string>
+	<string id="not_enough_money_actor">
+<text>Není dostatek hotovosti</text>
+	</string>
+	<string id="not_enough_money_partner">
+<text>Postava nemá dostatek hotovosti.</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+<text>Obchodník nemá o takové věci zájem.</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>Předmět je příliš poškozený na to, aby se s ním dalo obchodovat.</text>
+	</string>
+
+	<!-- Upgrade mode -->
+	<string id="ui_st_inv_repair">
+<text>Opravit</text>
+	</string>
+	<string id="ui_repair_button_hint">
+<text>Opravit vybranou věc</text>
+	</string>
+	
+	<!-- Quick use items -->
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+	
+	<!-- Item Properties -->
+	<string id="st_activate_artefact">
+		<text>Aktivovat artefakt</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>Připojit granátomet k</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>Připojit zaměřovač k</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>Připojit tlumič k</text>
+	</string>
+	<string id="st_base_cost">
+		<text>Cena</text>
+	</string>
+	<string id="st_community">
+		<text>Skupina:</text>
+	</string>
+	<string id="st_condition">
+		<text>Kondice</text>
+	</string>
+	<string id="st_detach_gl">
+<text>Odpojit granátomet</text>
+	</string>
+	<string id="st_detach_scope">
+<text>Sundat zaměřovač</text>
+	</string>
+	<string id="st_detach_silencer">
+<text>Odpojit tlumič</text>
+	</string>
+	<string id="st_drop">
+		<text>Zahodit</text>
+	</string>
+	<string id="st_drop_all">
+		<text>Zahodit vše</text>
+	</string>
+	<string id="st_eat">
+		<text>Sníst</text>
+	</string>
+	<string id="st_donate">
+		<text>Darovat</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>Nasadit na opasek</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>Přesunout do batohu</text>
+	</string>
+	<string id="st_move_to">
+		<text>Přesunout</text>
+	</string>
+	<string id="st_move_all">
+		<text>Přesunout vše</text>
+	</string>
+	<string id="st_unequip">
+		<text>Sundat</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>Přesunout do slotu</text>
+	</string>
+	<string id="st_play">
+		<text>Přehrát</text>
+	</string>
+	<string id="st_sell_item">
+		<text>Prodat vše</text>
+	</string>
+	<string id="st_item_use">
+		<text>Použít</text>
+	</string>
+	<string id="st_item_sort">
+<text>Seřadit</text>
+	</string>
+	<string id="st_item_unpack">
+		<text>Rozbalit</text>
+	</string>
+	<string id="st_item_play">
+		<text>Přehrát</text>
+	</string>
+	<string id="st_item_open">
+		<text>Otevřít</text>
+	</string>
+	<string id="st_item_reveal">
+		<text>Odhalit</text>
+	</string>
+	<string id="st_item_read">
+		<text>Přečíst</text>
+	</string>
+	<string id="st_item_separate">
+<text>Rozdělit</text>
+	</string>
+	<string id="st_item_disassemble">
+<text>Demontovat</text>
+	</string>
+	<string id="st_item_charge">
+		<text>Nabíjet</text>
+	</string>
+	<string id="st_item_money">
+		<text>Vyber %s RU</text>
+	</string>
+	<string id="st_item_details">
+		<text>Podrobnosti</text>
+	</string>
+	<string id="st_item_unpack_battery">
+		<text>Vyndat baterie</text>
+	</string>
+	<string id="st_item_tear_patch">
+<text>Sundat nášivku</text>
+	</string>
+	<string id="st_item_attach_patch">
+		<text>Připojit nášivku</text>
+	</string>
+	<string id="st_awr_r_detail">
+		<text>Obnovit část [!]</text>
+	</string>
+	<string id="st_awr_disassembly_weapon">
+<text>Demontovat zbraň [!]</text>
+	</string>
+	<string id="st_awr_disassembly_outfit">
+<text>Demontovat výstroj [!]</text>
+	</string>
+	<string id="st_awr_disassembly_helmet">
+<text>Demontovat helmu [!]</text>
+	</string>
+	<string id="st_awr_disassembly_cloth">
+		<text>Demontovat [!]</text>
+	</string>
+	<string id="st_drink">
+		<text>Pít</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>Vybít</text>
+	</string>
+	<string id="st_use">
+		<text>Použít</text>
+	</string>
+	<string id="st_dress_outfit">
+    <text>Obléknout vestu</text>
+	</string>
+	<string id="st_dress_helmet">
+<text>Obléknout helmu</text>
+	</string>
+	<string id="st_equip_backpack">
+<text>Obléknout batoh</text>
+	</string>
+	<string id="st_undress_outfit">
+<text>Sundat oblek</text>
+	</string>
+
+	<string id="st_undress_helmet">
+		<text>Sundat helmu</text>
+	</string>
+	<string id="st_unequip_backpack">
+		<text>Sundat batoh</text>
+	</string>
+
+	<string id="st_plant_explosive_prox">
+<text>Nastavit s odpalovačem na pohyb</text>
+	</string>
+	<string id="st_plant_explosive_timer_10">
+		<text>Nastavit s časovačem na 10 sekund</text>
+	</string>
+	<string id="st_plant_explosive_timer_30">
+		<text>Nastavit s 30sekundovým časovačem</text>
+	</string>
+
+	<!-- Units -->
+	<string id="st_perc">
+		<text>%</text>
+	</string>
+	<string id="st_kg">
+		<text>kg</text>
+	</string>
+	<string id="st_g">
+		<text>g</text>
+	</string>
+	<string id="st_kcal">
+		<text>kcal eq.</text>
+	</string>
+	<string id="st_kcal_sec">
+		<text>kcal/sec eq.</text>
+	</string>
+	<string id="st_msv">
+		<text>mSv</text>
+	</string>
+	<string id="st_msv_sec">
+		<text>mSv/sec</text>
+	</string>
+	<string id="st_microg">
+		<text>µg adrenalinu.</text>
+	</string>
+	<string id="st_microg_sec">
+		<text>µg of adren./sec</text>
+	</string>
+	<string id="st_ml_min">
+		<text>ml/min</text>
+	</string>
+	<string id="st_kw_m2">
+		<text>kW/m2</text>
+	</string>
+	<string id="st_kv">
+		<text>kV</text>
+	</string>
+	<string id="st_mt">
+		<text>mT</text>
+	</string>
+	<string id="st_ppm">
+		<text>C1 ppm eq.</text>
+	</string>
+	<string id="st_j">
+		<text>H/mm2</text>
+	</string>
+	<string id="st_ah_sec">
+		<text>Ah/Sec</text>
+	</string>
+	<string id="st_mah_sec">
+		<text>mAh/Sec</text>
+	</string>
+	<string id="st_uah_sec">
+		<text>uAh/Sec</text>
+	</string>
+	<string id="st_pah_sec">
+		<text>pAh/Sec</text>
+	</string>
+	<string id="st_hz">
+		<text>Hz</text>
+	</string>
+	<string id="st_khz">
+		<text>KHz</text>
+	</string>
+	<string id="st_mhz">
+		<text>MHz</text>
+	</string>
+	<string id="st_ghz">
+		<text>GHz</text>
+	</string>
+	<string id="ui_inv_seconds_short">
+		<text>sek</text>
+	</string>
+	<string id="ui_inv_seconds">
+		<text>sekund</text>
+	</string>
+	
+	<!-- Player states -->
+<string id="st_ui_main_sensor">
+<text>%c[0,255,255,255]ÚROVEŇ RADIACE\n
+%c[ui_gray_2]Tato statistika určuje množství radiace momentálně uložené v těle postavy.\n
+Vystavení ionizující radiaci představuje extrémní, možná i smrtelné riziko. Z tohoto důvodu je schopnost dostatečně měřit úrovně radiace důležitou dovedností. Základní jednotkou je millisievert (mSv).\n\n
+%c[0,255,255,255]Strategie proti radiaci:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné předměty: %c[ui_gray_2]Léky proti radiaci, Cystamin, Jodid draselný, Radoprotektant, AI-2 lékárnička, Vědecká lékárnička, Axyltalisal, Vědecký stimpack, Malý přežitkový set\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné vybavení: %c[ui_gray_2]Ochranné obleky, radiologické obleky a maska/dýchací přístroj.\n
+</text>
+</string>
+<string id="ui_inv_burn_protection">
+<text>%c[0,255,255,255]ODOLNOST PROTI POPÁLENINÁM\n
+%c[ui_gray_2]Tato statistika určuje odolnost postavy vůči typickému ohnivému anomálii v oblasti vyloučení Černobylu:\n
+%c[0,255,255,255]Strategie proti popáleninám:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné vybavení: %c[ui_gray_2]Ochranné obleky/vybavení/brnění.\n
+</text>
+</string>
+<string id="ui_inv_chemical_burn_protection">
+<text>%c[0,255,255,255]ODOLNOST PROTI CHEMICKÝM POPÁLENINÁM\n
+%c[ui_gray_2]Tato statistika určuje odolnost postavy vůči typickému chemickému anomálii v oblasti vyloučení Černobylu:\n
+%c[0,255,255,255]Strategie proti chemickým popáleninám:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné předměty: %c[ui_gray_2]Chlortetracyklin, Sulfadimethoxin, Antidot\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné vybavení: %c[ui_gray_2]Ochranné obleky/vybavení/brnění.\n
+</text>
+</string>
+<string id="ui_inv_fire_wound_protection">
+<text>%c[0,255,255,255]ODOLNOST PROTI STŘELNÝM PORANĚNÍM\n
+%c[ui_gray_2]Odolnost proti střelným poraněním udává protistřelné vlastnosti vaší pancéřové vesty (schopnost bezpečně absorbovat kinetickou energii malých, rychlých objektů, jako jsou střely nebo střepiny). Pro hodnocení se používá mezinárodně uznávaný systém Amerického národního institutu spravedlnosti (NIJ):\n\n
+%c[d_cyan] • %c[ui_gray_2]TABULKA GRADACE PANCÍŘŮ:\n
+%c[d_cyan] • %c[ui_gray_2]ŽÁDNÁ:%c[ui_gray_2] 9x18 mm, .45 ACP, brokovnice 12x70\n
+%c[d_cyan] • %c[ui_gray_2]TŘÍDA I:%c[ui_gray_2] 9x18 mm +P+, 9x19 mm FMJ, 9x19 mm JHP, střepiny granátu\n
+%c[d_cyan] • %c[ui_gray_2]TŘÍDA IIA a II:%c[ui_gray_2] 9x18 mm RG028, .45 HS, 5.7x28 mm SS195, .357 HP, brokovnice 12x76\n
+%c[d_cyan] • %c[ui_gray_2]TŘÍDA IIIA:%c[ui_gray_2] 9x19 mm AP, 5.45x39 mm FMJ/EP, 5.56x45 mm FMJ, 7.62x51 mm NATO kulka, 9x39 mm SP-5, šipka 12x76\n
+%c[d_cyan] • %c[ui_gray_2]TŘÍDA III:%c[ui_gray_2] 5.56x45 mm EP/AP, 7.62x39 mm FMJ/AP, 7.62x54 mm ZN1/PP, 7.92x57 mm Mauser, 9x39 mm SP-6, 12.7x55 mm STs-130\n
+%c[d_cyan] • %c[ui_gray_2]TŘÍDA IV:%c[ui_gray_2] 5.45x39 mm AP, 7.62x51 mm NATO AP, 7.62x54 mm AP/7H14, 7.92x57 mm SA, .338 Lapua Magnum, 12.7x55 mm STs-130 VPS\n
+%c[d_cyan] • %c[ui_gray_2]TŘÍDA V (exoskeleton):%c[d_red] utajeno\n
+%c[0,255,255,255]POZNÁMKA:\n
+%c[ui_gray_2]Výše uvedené úrovně ochrany se vztahují pouze na průnikové vlastnosti pancíře. Dopad střely stále může způsobit poškození pomocí tupého traumatu v důsledku čisté kinetické energie.\n
+</text>
+</string>
+<string id="ui_inv_radiation_protection">
+<text>%c[0,255,255,255]ODOLNOST PROTI RADIACI\n
+%c[ui_gray_2]Tato hodnota udává odolnost aktéra vůči radiaci:\n
+%c[0,255,255,255]Strategie zmírnění:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné předměty: %c[ui_gray_2]Protizářezové léky, cystamin, draslíkový jodid, radoprotektivum, AI-2 medkit, vědecký medkit, axyltalisal, vědecký stimulátor, malá přežití sada\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné vybavení: %c[ui_gray_2]Ochranné obleky, ochranné obleky a maska\respirátor proti záření.\n
+</text>
+</string>
+<string id="ui_inv_shock_protection">
+<text>%c[0,255,255,255]ODOLNOST PROTI ELEKTRICE\n
+%c[ui_gray_2]Tato hodnota udává odolnost aktéra vůči typickému elektrickému anomálu v Černobylské exkluzivní zóně:\n
+%c[0,255,255,255]Strategie zmírnění:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné vybavení: %c[ui_gray_2]Ochranné obleky\vybavení\pancéřová vesta.\n
+</text>
+</string>
+<string id="ui_inv_telepatic_protection">
+<text>%c[0,255,255,255]ODOLNOST TELEPATIE\n
+%c[ui_gray_2]Tato hodnota udává odolnost aktéra vůči psy polím v Černobylské exkluzivní zóně:\n
+%c[0,255,255,255]Strategie zmírnění:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné předměty: %c[ui_gray_2]Etperazin, psy-blok, prášky na spaní, konopný joint, marihuana\n
+</text>
+</string>
+<string id="ui_inv_wound_protection">
+<text>%c[0,255,255,255]ODOLNOST PROTI TRŽNÝM PORANĚNÍ\n
+%c[ui_gray_2]Odolnost proti poranění značí schopnost vaší zbroje absorbovat a rozptýlit trauma způsobené fyzickými údery a nárazy. To zahrnuje, ale není omezeno na pokusy o údery pěstí, kopnutí, bodnutí, řezy, kousnutí a telekineticky vržené trosky.\n
+%c[0,255,255,255]Strategie zmírnění:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné vybavení: %c[ui_gray_2]Ochranné obleky\vybavení\pancéřová vesta.\n
+</text>
+</string>
+<string id="ui_inv_power_restore">
+<text>%c[0,255,255,255]OBNOVA VÝDRŽE\n
+%c[ui_gray_2]Výdrž představuje dostupnou fyzickou energii uloženou v těle aktéra. Tato energie se používá pro různé účely, především běh. Výrazná ztráta výdrže může způsobit ztrátu pohybu. Je proto důležité jíst, pít a spát, abyste získali zpět energii, a také kontrolovat váhu svého batohu, protože množství neseného zboží ovlivňuje míru vyčerpání. Drogy a artefakty mohou poskytnout stimulaci obnovení výdrže.\n
+%c[0,255,255,255]Strategie zmírnění:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné předměty: %c[ui_gray_2]Epinefrinová injekce, kofeinové tablety, kokain, Herkules, glukózová injekce, velká glukózová injekce, armádní medkit\n
+</text>
+</string>
+<string id="st_ui_bleeding_sensor">
+<text>%c[0,255,255,255]Krvácení\n
+%c[ui_gray_2]Krvácení může rychle vyčerpat životnost, pokud není okamžitě ošetřeno. Krvácivé rány jsou nejčastěji výsledkem vnější fyzické síly pronikající do tělesné zbroje a praskající kůži a někdy jsou doprovázeny poškozením vnitřních orgánů. Krvácení může také být důsledkem otevřených zlomenin kostí způsobených tupým traumatem.\n
+%c[0,255,255,255]Strategie zmírnění:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné předměty: %c[ui_gray_2]Obvaz, Vinca, armádní medkit, vědecký medkit, malá přežití sada\n
+</text>
+</string>
+<string id="st_ui_health_sensor_inv">
+<text>%c[0,255,255,255]Zdraví\n
+%c[ui_gray_2]Zdraví představuje celkovou životnost aktéra. Smrt nastane, pokud dosáhne nuly.\n
+Ve hře GAMMA to odpovídá celkovému zdraví těla pro systém tělesného zdraví.
+%c[0,255,255,255]Strategie zmírnění:\n
+%c[d_cyan] • %c[0,255,255,255]Užitečné předměty: %c[ui_gray_2]Diclofenac sodný, AI-2 medkit, armádní medkit, vědecký medkit, axyltalisal, improvizovaný stimpack, vojenský stimpack, vědecký stimpack, malá přežití sada\n
+</text>
+</string>
+
+	<string id="st_itm_desc_eat_sleepiness">
+		<text>%s ospalost %s</text>
+	</string>
+		<string id="st_itm_desc_eat_radiation">
+		<text>Otrava ozářením</text>
+	</string>
+	<!-- Item description-->
+	<string id="st_cap_old">
+		<text>Starší</text>
+	</string>
+	<string id="st_cap_verybad">
+		<text>Špatný</text>
+	</string>
+	
+	<string id="st_cap_upgr_1">
+<text>(Základní)</text>
+	</string>
+	<string id="st_cap_upgr_2">
+		<text>(Pokročilé)</text>
+	</string>
+	<string id="st_cap_upgr_3">
+<text>(Expertní)</text>
+	</string>
+	
+	<string id="st_cap_meal_1">
+		<text>(Vyrobeno v zóně)</text>
+	</string>
+	<string id="st_cap_meal_2">
+		<text>(Dušené)</text>
+	</string>
+	<string id="st_cap_meal_3">
+<text>(Purifikované)</text>
+	</string>
+
+	
+	<string id="st_cap_con_25_o">
+		<text>Roztrhané</text>
+	</string>
+	<string id="st_cap_con_50_o">
+		<text>Poškozeno</text>
+	</string>
+	<string id="st_cap_con_75_o">
+		<text>Poškrábano</text>
+	</string>
+	<string id="st_cap_con_100_o">
+		<text>Vyčištěné</text>
+	</string>
+	<string id="st_cap_con_25_w">
+		<text>Deformováno</text>
+	</string>
+	<string id="st_cap_con_50_w">
+		<text>Poškozeno</text>
+	</string>
+	<string id="st_cap_con_75_w">
+		<text>Poškrábáno</text>
+	</string>
+	<string id="st_cap_con_100_w">
+		<text>Funkční</text>
+	</string>
+
+	<string id="st_ui_armor_static">
+		<text>Stav zbroje</text>
+	</string>
+	<string id="st_weight">
+		<text>Váha</text>
+	</string>
+	<string id="st_weight_full">
+		<text>Hmotnost</text>
+	</string>
+	<string id="ui_ammo_count">
+<text>Velikost zásobníku</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Přesnost</text>
+	</string>
+	<string id="ui_inv_damage">
+<text>Poškození</text>
+	</string>
+	<string id="ui_inv_handling">
+<text>Ovládání</text>
+	</string>
+	
+	<string id="ui_inv_health">
+		<text>Obnova zdraví</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Obnova výdrže</text>
+	</string>
+	
+	<string id="ui_inv_outfit_additional_weight">
+		<text>Váha</text>
+	</string>
+	<string id="ui_inv_outfit_artefact_count">
+		<text>Slotů na opasku</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Popáleniny</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Chem. popáleniny</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Balistická Res.</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Radiace Res.</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Elektrický šok</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Telepatie</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Tržné rány.</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>Výbuchy</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Náraz.</text>
+	</string>
+	<string id="ui_inv_outfit_hit_fraction_actor">
+		<text>Síla</text>
+	</string>
+	
+	<string id="ui_inv_satiety">
+		<text>Uroveň nasycení</text>
+	</string>
+	<string id="ui_inv_outfit_power_restore">
+		<text>Obnoveni výdrže</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Konv. zatížení</text>
+	</string>
+	<string id="ui_inv_af_condition">
+		<text>Kondice</text>
+	</string>
+	<string id="ui_total_weight">
+		<text>Hmotnost:</text>
+	</string>
+	<string id="st_ui_health_sensor">
+		<text>Zdraví</text>
+	</string>
+	<string id="ui_ammo_types">
+		<text>Munice</text>
+	</string>
+	<string id="ui_inv_effect_time">
+		<text>Délka trvání</text>
+	</string>
+	
+	<string id="st_itm_desc_properties">
+		<text>VLASTNOSTI</text>
+	</string>
+	<string id="st_itm_desc_details">
+		<text>DETAILY</text>
+	</string>
+	<string id="st_itm_desc_warning">
+		<text>VAROVÁNÍ</text>
+	</string>
+	
+	<string id="st_itm_desc_state_possible">
+		<text>Možný</text>
+	</string>
+	<string id="st_itm_desc_state_not_possible">
+		<text>Není možné</text>
+	</string>
+	<string id="st_itm_desc_state_avail">
+		<text>K dispozici</text>
+	</string>
+	<string id="st_itm_desc_state_avail_workshop">
+		<text>Dostupné (u Mechanika)</text>
+	</string>
+	<string id="st_itm_desc_state_not_avail">
+		<text>Není k dispozici</text>
+	</string>
+	<string id="st_itm_desc_state_not_included">
+		<text>Není zahrnuto</text>
+	</string>
+	<string id="st_itm_desc_state_low">
+		<text>Nízká</text>
+	</string>
+	<string id="st_itm_desc_state_average">
+		<text>Průměrná</text>
+	</string>
+	<string id="st_itm_desc_state_high">
+		<text>Vysoká</text>
+	</string>
+	<string id="st_itm_desc_state_slight">
+		<text>Mírně</text>
+	</string>
+	<string id="st_itm_desc_state_moderate">
+		<text>Středně</text>
+	</string>
+	<string id="st_itm_desc_state_significant">
+		<text>Významně</text>
+	</string>
+	<string id="st_itm_desc_state_increase">
+<text>Navýšení</text>
+	</string>
+	<string id="st_itm_desc_state_decrease">
+		<text>Snížení</text>
+	</string>
+	
+	<string id="st_itm_desc_arty_cont">
+<text>Obsahuje artefakt</text>
+	</string>
+	<string id="st_itm_desc_arty_cont_rad">
+		<text>Přípustná úroveň záření</text>
+	</string>
+	
+	<string id="st_itm_desc_eat_sleepiness">
+		<text>%s ospalost %s</text>
+	</string>
+	<string id="st_itm_desc_eat_thirst">
+		<text>%s hydratace %s</text>
+	</string>
+	<string id="st_itm_desc_eat_radiation">
+<text>Otrava radiací</text>
+	</string>
+	<string id="st_itm_desc_eat_health">
+		<text>Nezdravý</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_upgradable">
+<text>Upgradovatelné</text>
+	</string>
+	<string id="st_itm_desc_outfit_heardgear">
+		<text>Helma</text>
+	</string>
+	<string id="st_itm_desc_outfit_num_of_slots">
+		<text>Příslušenství pro více slotů</text>
+	</string>
+	<string id="st_itm_desc_outfit_carry_weight">
+<text>Zvýšení nosné hmotnosti</text>
+	</string>
+	<string id="st_itm_desc_outfit_run">
+		<text>Sprint je</text>
+	</string>
+	<string id="st_itm_desc_outfit_patch_torn">
+		<text>Oděv %s na této výstroji byl roztržen</text>
+	</string>
+	<string id="st_itm_desc_outfit_faction">
+		<text>Frakce</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_repair_bonus">
+		<text>Bonus pro opravu</text>
+	</string>
+	<string id="st_itm_desc_outfit_required_tool">
+<text>Vyžadovaný nástroj</text>
+	</string>
+	
+	<string id="st_itm_desc_workshop_tool">
+		<text>Použitelné v dílně mechanika pro výměnu a modernizaci dílů</text>.
+	</string>
+	<string id="st_itm_desc_repair_min_con">
+		<text>Není použitelný pod úrovní stavu</text>
+	</string>
+	<string id="st_itm_desc_repair_base_con">
+		<text>Zlepšení základního stavu</text>
+	</string>
+	<string id="st_itm_desc_repair_match">
+		<text>Může opravovat materiály pomocí jejich protějšků</text>
+	</string>
+	
+	<string id="st_itm_desc_part_usable">
+		<text>Použitelné v dílnách</text>
+	</string>
+	<string id="st_itm_desc_part_i">
+		<text>Základní součástka</text>
+	</string>
+	<string id="st_itm_desc_part_w">
+		<text>Část zbraně</text>
+	</string>
+	<string id="st_itm_desc_part_o">
+		<text>Část výstroje</text>
+	</string>
+	
+	<string id="st_itm_desc_upgr_w">
+		<text>Sada pro upgrade zbraně</text>
+	</string>
+	<string id="st_itm_desc_upgr_o">
+<text>Sada pro upgrade výstroje</text>
+	</string>
+	<string id="st_itm_desc_upgr_usable">
+		<text>Použitelné v dílnách pro instalaci vhodných upgradů</text>
+	</string>
+
+<!-- Others -->
+	<string id="ui_inv_ammo_pistol">
+		<text>Koupit základní munici do pistole (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Nakoupit munici do pušky (W)</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Ovládání krvácení</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Zrušit</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>Nemůžeš koupit zbraň</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>Omezení množství</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Výchozí (F5)</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Zpět</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Koupit podhlavňový granátomet pro pušku (D)</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Koupit granáty pro podhlavňový granátomet (E)</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>Má</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Těžké</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>Koupit poslední zakoupenou výbavu</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Předchozí (F4)</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Peníze</text>
+	</string>
+
+	<string id="ui_inv_need">
+		<text>Potřebné</text>
+	</string>
+	<string id="ui_inv_needs">
+		<text>Potřebuje</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Nedostatek peněz</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Nastavení 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Načítání 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Záložka 3 (F3)</text>
+	</string>
+	<string id="ui_inv_radiation">
+<text>Radiace</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+<text>Omezení Hodností</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>Kadence</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Vymazat (C)</text>
+	</string>
+	<string id="ui_inv_rifles">
+<text>Utočné pušky</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Koupit optický zaměřovač pro pušku (S)</text>
+	</string>
+	<string id="ui_inv_sell_items(X">
+		<text>Prodej všechny předměty v batohu (X)</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Brokovnice</text>
+	</string>
+
+	<string id="ui_inv_silencer_pistol">
+		<text>Koupit tlumič pro pistoli (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>Koupit tlumič pro pušku (F)</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Odstřelovačky</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Čas</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Již mám</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Služby S.T.A.L.K.E.R. online nejsou dostupné </text>.
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>Nelze se připojit k hlavnímu serveru.</text>
+	</string>
+	<string id="ui_st_outfit_protect">
+		<text>Ochrana:</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Výchozí</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>Zakoupená sestava uložena jako</text>
+	</string>
+	<string id="ui_inv_survive_surge">
+		<text>Umožňuje přežít emisi</text>
+	</string>
+	<string id="st_ui_containers">
+		<text>Kontejnery</text>
+	</string>
+	<string id="st_ui_artifacts">
+		<text>Artefakty</text>
+	</string>
+	<string id="st_ui_itm_repair_base">
+		<text>Poškozené předměty</text>
+	</string>
+
+	<string id="st_ui_itm_repair_support">
+		<text>Podpůrné materiály</text>
+	</string>
+	<string id="st_ui_itm_cook_fuel">
+		<text>Palivo</text>
+	</string>
+	<string id="st_ui_itm_cook_food">
+		<text>Recepty</text>
+	</string>
+	<string id="st_ui_repair">
+		<text>Oprava</text>
+	</string>
+	<string id="st_ui_craft">
+		<text>Výroba</text>
+	</string>
+	<string id="st_ui_cancel">
+		<text>Zrušit</text>
+	</string>
+	<string id="st_ui_total">
+		<text>Celkem</text>
+	</string>
+	<string id="st_ui_bonus">
+		<text>Bonus</text>
+	</string>
+	<string id="st_ui_base">
+<text>Základní</text>
+	</string>
+	<string id="st_ui_oldcon">
+		<text>Staré</text>
+	</string>
+	
+
+	<!-- Messages -->
+	<string id="st_news_dis_items">
+		<text>%c[d_red]Je vyžadován vhodný nástroj pro demontáž.</text>
+	</string>
+	<string id="st_ui_need_charger">
+<text>%s je zapotřebí k zavedení elektrického proudu</text>
+	</string>
+	<string id="st_new_anomaly_map">
+		<text>Objevena nová mapa anomálií</text>
+	</string>
+	<string id="ui_st_create_stash">
+		<text>Vytvořit skrýš</text>
+	</string>
+	<string id="ui_st_geiger_mode_1">
+		<text>Režim 1: Dokud je aktivní</text>
+	</string>
+	<string id="ui_st_geiger_mode_2">
+		<text>Režim 2: Vždy</text>
+	</string>
+	<string id="ui_st_geiger_mode_3">
+		<text>Režim 3: Při kliknutí na tlačítko</text>
+	</string>
+	<string id="ui_st_npc_pda_unkown">
+		<text>PDA není funkční</text>
+	</string>
+	<string id="ui_st_npc_pda_low_power">
+		<text>Nízký výkon</text>
+	</string>
+	<string id="ui_st_npc_pda_access_denied">
+		<text>Přístup odepřen</text>
+	</string>
+	<string id="ui_st_npc_pda_strelok">
+		<text>ZABÍJ STŘELCE</text>
+	</string>
+	<string id="ui_st_battery_more_power">
+		<text>Zařízení má větší výkon</text>
+	</string>
+	<string id="st_lamp_disconnected">
+		<text>Čelovka odpojena</text>
+	</string>
+	<string id="st_lamp_equipped">
+		<text>Čelovka vybavena</text>
+	</string>
+	<string id="st_lamp_power_left">
+		<text>Čelovka má ještě %s% výkonu</text>
+	</string>
+	<string id="st_lamp_no_power_left">
+		<text>Čelovka už nemá žádný výkon</text>
+	</string>
+
+	<string id="st_upd_disconnected">
+		<text>Nemáš univerzální napájecí zařízení (UPD)</text>
+	</string>
+	<string id="st_upd_low">
+		<text>Málo energie v baterii</text>
+	</string>
+	<string id="st_pda_no_power">
+		<text>PDA už nemá žádnou energii</text>
+	</string>
+	<string id="st_pda_no_active">
+		<text>Není aktivní PDA</text>
+	</string>
+	
+	<string id="st_ui_scopes">
+		<text>Optiky</text>
+	</string>
+	<string id="st_ui_silencer">
+<text>Tlumič</text>
+	</string>
+	<string id="st_ui_grenade_launcher">
+		<text>Granátomet</text>
+	</string>
+	<string id="st_ui_awr_parts_list">
+		<text>Náhradní díly</text>
+	</string>
+	<string id="st_ui_repair_kit_list">
+		<text>Kompatibilní opravárenské sady</text>
+	</string>
+	<string id="st_ui_workshop_kit_list">
+		<text>Kompatibilní dílenská sada</text>
+	</string>
+	<string id="st_ui_disassemly_list">
+		<text>Komponenty</text>
+	</string>
+	<string id="st_ui_upgrade_list">
+		<text>Upgrade</text>
+	</string>
+	<string id="st_ui_arty_rank">
+		<text>Hodnost artefaktu</text>
+	</string>
+	<string id="st_ui_artefact">
+		<text>Artefakt</text>
+	</string>
+	<string id="st_ui_repair_add_condition">
+		<text>Zisk základní podmínky</text>
+	</string>
+	<string id="st_ui_repair_min_condition">
+		<text>Není použitelný pod úrovní kondice</text>
+	</string>
+	<string id="st_ui_repair_bonus">
+		<text>Bonus za opravu</text>
+	</string>
+	<string id="st_ui_power_loss">
+		<text>Ztráta výkonu</text>
+	</string>
+	<string id="st_ui_number_of_uses">
+		<text>Použití</text>
+	</string>
+	<string id="st_ui_repair_parts_include">
+		<text>Použitelné materiály</text>
+	</string>
+	<string id="st_ui_power">
+		<text>Energie</text>
+	</string>
+	<string id="st_ui_amount">
+		<text>Množství</text>
+	</string>
+	<string id="st_ui_power_consumption">
+		<text>Spotřeba energie</text>
+	</string>
+	<string id="st_ui_info">
+		<text>Info</text>
+	</string>
+	<string id="st_ui_inventory_unpack">
+		<text>Rozbalit</text>
+	</string>
+	<string id="st_ui_inventory_attach">
+		<text>Připojit</text>
+	</string>
+	<string id="st_ui_inventory_view">
+		<text>Zobrazení</text>
+	</string>
+	<string id="st_ui_container_remove">
+		<text>Odstranit z kontejneru</text>
+	</string>
+	<string id="st_ui_container_place">
+		<text>Umístit do kontejneru</text>
+	</string>
+	<string id="st_imm_swiss_open">
+		<text>Otevřít plechovku</text>
+	</string>
+	<string id="st_item_place">
+		<text>Umístit</text>
+	</string>
+	<string id="st_cap_companion_inv">
+		<text>Výměna položek</text>
+	</string>
+	<string id="st_ui_cook_fuel_usable">
+		<text>Použitelné palivo</text>
+	</string>
+	
+
+	<!-- Workshop-->
+	<string id="st_tab_state">
+		<text>STAV</text>
+	</string>
+	<string id="st_tab_repair">
+		<text>Opravit</text>
+	</string>
+	<string id="st_tab_upgrade">
+<text>VYLEPŠENÍ</text>
+	</string>
+	<string id="st_tab_craft">
+		<text>VÝROBA</text>
+	</string>
+	<string id="st_cap_inventory">
+		<text>Inventář</text>
+	</string>
+	<string id="st_cap_menu">
+		<text>Menu výroby</text>
+	</string>
+	<string id="st_cap_recipes">
+		<text>Známé recepty a návody</text>
+	</string>
+	<string id="st_cap_craftables">
+		<text>Seznam výrobních předmětů</text>
+	</string>
+	<string id="st_cap_components">
+		<text>Komponenty</text>
+	</string>
+	<string id="st_cap_result">
+		<text>Výsledek</text>
+	</string>
+	<string id="st_cap_replace_parts">
+		<text>Výměnné díly</text>
+	</string>
+	<string id="st_cap_upgrades">
+		<text>Modernizace</text>
+	</string>
+	<string id="st_cap_req_toolkit">
+		<text>Vyžadovaná sada nástrojů</text>
+	</string>
+	<string id="st_ui_craft_device">
+		<text>Elektronika</text>
+	</string>
+	<string id="st_ui_craft_equipment">
+		<text>Vybavení</text>
+	</string>
+	<string id="st_ui_craft_repair">
+		<text>Sady nástrojů pro opravy</text>
+	</string>
+	<string id="st_ui_craft_upgrades">
+		<text>Upgrade dílů</text>
+	</string>
+	<string id="st_ui_craft_medical">
+<text>Lékařské</text>
+	</string>
+	<string id="st_ui_craft_ammo">
+		<text>Munice</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_intro">
+		<text>Dílna umožňuje opravovat, vylepšovat a vyrábět předměty svépomocí s pomocí správných sad nářadí.\n
+		Výše uvedené nástroje představují hlavní sady nástrojů dostupné v této dílně, které umožňují další úpravy vašich předmětů.\n
+		Pro pokračování vyber jednu z karet.
+		</text>
+	</string>
+	<string id="st_ui_workshop_owner">
+		<text>Tato dílna patří %s.</text>
+	</string>
+	<string id="st_ui_workshop_owner_nobody">
+		<text>Nikdo</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_intro">
+		<text>Pomocí náhradních dílů a správné sady nářadí můžeš vyměnit poškozené části své zbraně nebo výstroje.\n
+		Z inventáře vyber položku, kterou chceš opravit.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_1">
+		<text>Každý předmět má svou vlastní sadu dílů a materiálů.\n
+		Šedě označené díly znamenají, že ve tvém inventáři nejsou k dispozici jejich identické náhrady.\n
+		Pokud máš náhradní díl a použitelné "%s", klikni na díl, který chceš nahradit.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_1">
+		<text>V inventáři nemáš žádné náhradní díly pro toto zařízení.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_1">
+		<text>Náhradní díly lze získat především rozebráním výstroje a zbraní.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_2">
+		<text>Součástky tohoto vybavení nelze vyměnit bez "%s"</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_2">
+		<text>Většina mechaniků takové nářadí prodává. Můžeš je také získat jinými způsoby.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_3">
+		<text>Z inventáře si můžeš vybrat identické náhradní díly "%s".\n
+		K vylepšení předmětu lze použít pouze díly s vyšším stavem.\n
+		Šedé díly znamenají, že mají horší stav než díl vašeho předmětu. Nejsou vhodné pro správnou výměnu.
+		</text>
+	</string>
+
+	<string id="st_ui_workshop_info_repair_warning_3">
+		<text>Náhradní díl "%s" ve tvém inventáři má horší stav ve srovnání s tím, který používá vaše zařízení. Nelze jej použít.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_3">
+		<text>Mnoho nástrojů dokáže tyto díly opravit pomocí protějšků. Většina mechaniků takové nářadí prodává. Můžeš je také získat jinými způsoby.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_4">
+		<text>Výměnné díly jsou připraveny k instalaci, kliknutím na tlačítko "Opravit" nainstaluješ vybrané náhradní díly.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgrade_intro">
+		<text>Pokud máš k dispozici správné sady nástrojů, můžeš instalovat vylepšení pro své zbraně a výstroj.\n
+		Vyber si z inventáře předmět, který chceš vylepšit.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_1">
+		<text>Každé vylepšení vyžaduje specifickou sadu nástrojů stejného typu, kromě použitelných "%s" k dokončení procesu.\n
+		Pro správnou instalaci upgradu je třeba splnit další podmínky.\n
+		Klikni na upgrade, který chceš nainstalovat na vybranou položku.\n
+		Pokud je upgrade zakázán, najeď na něj myší a zobrazí se všechny chybějící požadavky.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_1">
+		<text>Na toto zařízení nelze nainstalovat upgrade bez "%s"</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_1">
+		<text>Většina mechaniků takové nářadí prodává. Můžeš je také získat jinými způsoby.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_2">
+		<text>Není k dispozici žádný upgrade, který by bylo možné nainstalovat.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_2">
+		<text>Najetím ukazatele na upgrade se zobrazí chybějící požadavky.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_3">
+		<text>Vylepšení je připraveno k instalaci. Pokud jsi hotov, klikni na tlačítko "Upgrade" pro instalaci vybraných upgradů.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_intro">
+		<text>K výrobě různých druhů předmětů lze použít mnoho materiálů.\n
+		Recepty a návody, které jste získali během své cesty, vám mohou poskytnout více informací k výrobě dalších předmětů.\n
+		Výběrem položky v nabídce řemesel zobrazíte předměty, které lze vyrábět.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_1">
+		<text>Vyber položku, kterou chceš vyrobit.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_2">
+		<text>Ještě nevíš, jak vyrobit "%s".</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_2">
+		<text>Průvodce a recepty obsahují dostatek informací o předmětech, budou se ti hodit, až se o těchto věcech dozvíš více.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_3">
+		<text>"%s" je vyžadováno k výrobě tohoto předmětu pomocí jeho komponentů (pouze dostupnost, podle hráče nebo mechaniky)</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_3">
+		<text>Takové nástroje se obvykle vyskytují jen zřídka, sleduj takové sady na svých cestách.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_4">
+		<text>Ve tvém inventáři chybí některé potřebné komponenty k výrobě tohoto předmětu.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_4">
+		<text>Součásti lze získat z různých předmětů a materiálů ve tvém okolí. Doporučuje se rozebrat nepotřebné předměty, abyste získali užitečné komponenty.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_5">
+		<text>Máš všechny potřebné komponenty k výrobě "%s", pokud chceš pokračovat, vyber tlačítko "Craft".
+		</text>
+	</string>
+
+	
+	<string id="st_ui_workshop_info_state_1">
+		<text>Dílna umožňuje opravovat, vylepšovat a vyrábět předměty svépomocí s pomocí příslušných sad nářadí.\n
+		Výše uvedené nástroje představují hlavní sady nástrojů dostupné v této dílně, které umožňují další úpravy vašich předmětů.\n
+		Pro pokračování vyber jednu z karet.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_1">
+		<text>Pomocí náhradních dílů a správné sady nástrojů můžeš vyměnit poškozené části své zbraně nebo výstroje.\n
+		Z inventáře vyber položku, kterou chceš opravit.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_2">
+		<text>Každý předmět má svou vlastní sadu dílů a materiálů.\n
+		Šedě označené díly znamenají, že ve tvém inventáři nejsou k dispozici jejich identické náhrady.\n
+		Pokud máš náhradní díl a použitelné "%s", klikni na díl, který chceš nahradit.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_3">
+		<text>Stejné náhradní díly si můžeš vybrat ze svého inventáře.\n
+		K vylepšení vašeho předmětu lze použít pouze díly s vyšším stavem.\n
+		Šedé díly znamenají, že mají horší stav než díl vašeho předmětu. Nejsou vhodné pro správnou výměnu.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_4">
+		<text>Výměnné díly jsou připraveny k instalaci, kliknutím na tlačítko "Opravit" nainstaluješ vybrané náhradní díly.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgr_1">
+		<text>Pokud máš k dispozici správné sady nářadí, můžeš instalovat vylepšení pro své zbraně a výstroj.
+		\nVyber si z inventáře předmět, který chceš vylepšit.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_2">
+		<text>Každé vylepšení vyžaduje specifickou sadu nástrojů stejného typu, kromě použitelných "%s" k dokončení procesu.\n
+		Pro správnou instalaci upgradu je třeba splnit další podmínky.\n
+		klikni na upgrade, který chceš nainstalovat na vybranou položku.\n
+		Pokud je upgrade zakázán, najeď na něj myší a zobrazí se všechny chybějící požadavky.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_3">
+		<text>Vylepšení je připraveno k instalaci. Pokud jsi hotov, kliknutím na tlačítko "Upgrade" nainstaluješ vybrané upgrady.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_1">
+		<text>K výrobě různých druhů předmětů lze použít mnoho materiálů.\n
+		Recepty a návody, které jste získali během své cesty, vám mohou poskytnout více informací k výrobě dalších předmětů.\n
+		Výběrem položky v nabídce řemesel zobrazíte předměty, které lze vyrábět.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_2">
+		<text>Vyber položku, kterou chceš vyrobit.</text>
+	</string>
+
+	<string id="st_ui_workshop_info_craft_3">
+		<text>K výrobě tohoto předmětu je zapotřebí sada uvedených komponent.\n
+		Pokud nemáš minimální množství některé komponenty, zobrazí se červeně. Tím zabrání postupu craftování.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_4">
+		<text>Máš všechny potřebné součásti k výrobě tohoto předmětu, pokud chceš pokračovat, vyber tlačítko "Craft".
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_5">
+		<text>Nevíš, jak tento předmět vyrobit.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_6">
+		<text>"%s" jsou na této dílně vyžadovány, abyste mohli tento předmět vyrobit.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_no_upgr_1">
+		<text>"%s" je vyžadováno, aby bylo možné nainstalovat toto vylepšení.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_2">
+		<text>"%s" je vyžadováno pro instalaci tohoto vylepšení.</text>
+	</string>
+	<!--string id="st_ui_workshop_no_upgr_3">
+		<text>Stav této položky je kritický pro instalaci této aktualizace.</text>
+	</string-->
+	<string id="st_ui_workshop_no_upgr_3">
+		<text>V této dílně chybí potřebné nástroje pro instalaci tohoto vylepšení.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_4">
+		<text>V tomto slotu je již nainstalován alternativní upgrade.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_5">
+		<text>Tento upgrade není možné nainstalovat bez instalace předchozích upgradů.</text>
+	</string>
+	
+	<string id="st_ui_upgr_required_con">
+		<text>Minimální požadovaná kondice</text>
+	</string>
+
+</string_table>

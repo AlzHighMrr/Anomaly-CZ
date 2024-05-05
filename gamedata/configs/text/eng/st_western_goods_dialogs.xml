@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="windows-1250" standalone="yes" ?>
+<!--=================================================================================================================-->
+<!--                                                                                                                 -->
+<!--	Original Author(s) : NLTP_ASHES																			     -->
+<!--	Edited : N/A																							     -->
+<!--	Date : 17/03/2023																						     -->
+<!--	License : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)		     -->
+<!--																											     -->
+<!--	Translation file for Western Goods' dialogs.															     -->
+<!--                                                                                                                 -->
+<!-- ================================================================================================================-->
+<string_table>
+
+	<!-- ============================================================================================================-->
+	<!--	Dialog Manager Strings																					 -->
+	<!-- ============================================================================================================-->
+
+	<string id="st_wg_dm_message_header">
+		<text>Zpráva:</text>
+	</string>
+
+	<string id="st_wg_dm_default_name">
+		<text>Anonymní</text>
+	</string>
+
+	<!-- ============================================================================================================-->
+	<!--	Western Goods Trader (in Book Store)																	 -->
+	<!-- ============================================================================================================-->
+
+	<!-- Exchange line of dialog-->
+	<string id="western_goods_trader_dialog_init">
+		<text>Rád bych vyměnil nějakou měnu. %c[d_orange][Exchange]</text>
+	</string>
+
+	<!-- Meet dialog -->
+	<string id="western_goods_trader_meet_0">
+    <text>Kdo jsi ty?</text>
+	</string>
+
+	<string id="western_goods_trader_meet_1">
+		<text>Taky jen tak chodíš a ptáš se náhodných lidí, kdo jsou? Dobře, jestli je to tak, tak já jsem Williams Heades, lidé mi říkají "Popel". Dohlížím na dovoz ze západních zemí pro Žoldáky. V Zóně jsem už nějakou dobu a obchod nikdy nebyl tak dobrý.</text>
+	</string>
+
+	<string id="western_goods_trader_meet_2">
+		<text>Takže ty jsi ten, kdo do Zóny dováží všechno to zboží? Viděl jsem v Zóně i jiné obchodníky s dováženým zbožím, dovážejí ho také?"</text>
+	</string>
+
+	<string id="western_goods_trader_meet_3">
+		<text>Ne, většina z nich to dostává přes mě. Dostat tolik zboží do Zóny je pořádná fuška, ale jako žoldáci máme potřebné zdroje, abychom to zvládli.</text>
+	</string>
+
+	<string id="western_goods_trader_meet_4">
+		<text>Aha. Takže obchodujete s kýmkoli? </text>
+	</string>
+
+	<string id="western_goods_trader_meet_5">
+		<text>No víte, jak to s námi je. Když zaplatíte dobré peníze, vždycky se můžeme dohodnout. Stejně většině keců ze Zóny nevěřím. Těchto válek, které frakce mezi sebou vedou, se neúčastním. Pokud nejsi úplný blbec, můžeme spolu obchodovat.</text>
+	</string>
+
+	<string id="western_goods_trader_meet_6">
+		<text>Pravda.</text>
+	</string>
+
+
+	<!-- Guide dialog -->
+	<string id="western_goods_trader_guide_ask">
+		<text>Mohl by mě jeden z vašich vrtulníků někam vysadit?</text>
+	</string>
+
+	<string id="western_goods_trader_guide_dest">
+		<text>Jistě, to je to nejmenší, co pro vás mohu udělat! Kam bys chtěl jet?</text>
+	</string>
+
+	<string id="western_goods_trader_guide_back">
+		<text>Vlastně, to je jedno.</text>
+	</string>
+
+	<string id="western_goods_trader_guide_limansk">
+		<text>Limansk, jižně od staveniště. %c[d_orange][Free]</text>
+	</string>
+
+	<string id="western_goods_trader_guide_swamps">
+		<text>Velké bažiny, u pozorovacího stanoviště. %c[d_orange][Free]</text>
+	</string>
+
+	<string id="western_goods_trader_guide_cordon">
+		<text>Kordon, jihovýchodně od železničního mostu. %c[d_orange][Free]</text>
+	</string>
+
+	<string id="western_goods_trader_guide_darkscape">
+		<text>Temná kotlina, na náhorní plošině. %c[d_orange][Free]</text>
+	</string>
+
+	<string id="western_goods_trader_guide_deadcity">
+		<text>Mrtvé město, na základně žoldáků. %c[d_orange][Free]</text>
+	</string>
+
+	<string id="western_goods_trader_guide_red_forest">
+<text>Rudý les, vedle Kesníkova srubu. %c[d_orange][Free]</text>
+	</string>
+
+	<string id="western_goods_trader_guide_jupiter">
+		<text>Jupiter, u chladicí věže. %c[d_orange][Free]</text>
+	</string>
+
+	<string id="western_goods_trader_guide_zaton">
+		<text>Zaton, u staré bárky. %c[d_orange][Free]</text>
+	</string>
+
+	<string id="western_goods_trader_guide_deserted_hospital">
+		<text>Opustlá nemocnice, u zavaleného vchodu. %c[d_orange][Free]</text>
+	</string>
+
+	<!-- Western Goods Trader Trade strings -->
+	<string id="st_wg_trader_empty_sell">
+<text>Musíš zaplatit za vybrané položky (v eurech nebo dolarech).</text>
+	</string>
+
+	<string id="st_wg_trader_empty_buy">
+		<text>Nevybral jsu nic, co bys mohl koupit.</text>
+	</string>
+
+	<string id="st_wg_trader_uneven_value">
+<text>Musíš dát v hotovosti stejnou nebo větší hodnotu tomu, co kupuješ.</text>
+	</string>
+
+	<!-- No more money barters available -->
+	<string id="st_wg_barter_money_desc_done">
+		<text>Obchodník si chce ponechat nějaké drobné pro další klienty, vrátí se později.</text>
+	</string>
+
+	<!-- Dollars to Dollars barters -->
+	<string id="st_wg_barter_dollars_10_to_50_desc">
+<text>Vyměnitpět %c[d_orange]10dolarových%c[ui_gray_2] bankovek za %c[d_orange]50dolarovou%c[ui_gray_2] bankovku.</text>
+	</string>
+
+	<string id="st_wg_barter_dollars_50_to_10_desc">
+<text>Vyměnit %c[d_orange]50dolarovou%c[ui_gray_2] bankovku za pět %c[d_orange]10dolarových%c[ui_gray_2] bankovek.</text>
+	</string>
+
+	<string id="st_wg_barter_dollars_50_to_100_desc">
+<text>Vyměnit dvě %c[d_orange]50dolarové%c[ui_gray_2] bankovky za %c[d_orange]100dolarovou%c[ui_gray_2] bankovku.</text>
+	</string>
+
+	<string id="st_wg_barter_dollars_100_to_50_desc">
+<text>Vyměnit %c[d_orange]100dolarovou%c[ui_gray_2] bankovku za dvě %c[d_orange]50dolarové%c[ui_gray_2] bankovky.</text>
+	</string>
+
+	<string id="st_wg_barter_dollars_100_to_10_desc">
+		<text>Vyměnit %c[d_orange]100dolarovou%c[ui_gray_2] bankovku za deset %c[d_orange]10dolarových%c[ui_gray_2] bankovek.</text>
+	</string>
+
+	<string id="st_wg_barter_dollars_10_to_100_desc">
+<text>Vyměnit deset %c[d_orange]10dolarových%c[ui_gray_2] bankovek za %c[d_orange]100dolarovou%c[ui_gray_2] bankovku.</text>
+	</string>
+
+	<!-- Směny eur na eura -->
+	<string id="st_wg_barter_euros_10_to_50_desc">
+<text>Vyměnit pět bankovek %c[d_orange]10 euro%c[ui_gray_2] za bankovku %c[d_orange]50 euro%c[ui_gray_2].</text>
+	</string>
+
+	<string id="st_wg_barter_euros_50_to_10_desc">
+		<text>Vyměnit bankovku %c[d_orange]50 euro%c[ui_gray_2] za pět bankovek %c[d_orange]10 euro%c[ui_gray_2].</text>
+	</string>
+
+	<string id="st_wg_barter_euros_50_to_100_desc">
+		<text>Vyměnit dvě %c[d_orange]50eurové%c[ui_gray_2] bankovky za %c[d_orange]100eurovou%c[ui_gray_2] bankovku.</text>
+	</string>
+
+	<string id="st_wg_barter_euros_100_to_50_desc">
+		<text>Vyměnit bankovku %c[d_orange]100 euro%c[ui_gray_2] za dvě bankovky %c[d_orange]50 euro%c[ui_gray_2].</text>
+	</string>
+
+	<string id="st_wg_barter_euros_100_to_10_desc">
+		<text>Vyměnit bankovku %c[d_orange]100 euro%c[ui_gray_2] za deset bankovek %c[d_orange]10 euro%c[ui_gray_2].</text>
+	</string>
+
+	<string id="st_wg_barter_euros_10_to_100_desc">
+		<text>Vyměnit deset %c[d_orange]10eurových%c[ui_gray_2] bankovek za %c[d_orange]100eurovou%c[ui_gray_2] bankovku.</text>
+	</string>
+
+
+	<!-- Dollars to Roubles barters -->
+	<string id="st_wg_barter_dollars_rouble_10_to_700_desc">
+    <text>Vyměnit %c[d_orange]10 dolarů%c[ui_gray_2] za %c[d_orange]700 rublů%c[ui_gray_2].</text>
+</string>
+
+<string id="st_wg_barter_dollars_rouble_50_to_3500_desc">
+    <text>Vyměnit %c[d_orange]50 dolarů%c[ui_gray_2] za %c[d_orange]3500 rublů%c[ui_gray_2].</text>
+</string>
+
+<string id="st_wg_barter_dollars_rouble_100_to_7000_desc">
+    <text>Vyměnit %c[d_orange]100 dolarů%c[ui_gray_2] za %c[d_orange]7000 rublů%c[ui_gray_2].</text>
+</string>
+
+<!-- Výměna eur za rubly -->
+<string id="st_wg_barter_euros_rouble_10_to_680_desc">
+    <text>Vyměnit %c[d_orange]10 eur%c[ui_gray_2] za %c[d_orange]680 rublů%c[ui_gray_2].</text>
+</string>
+
+<string id="st_wg_barter_euros_rouble_50_to_3400_desc">
+    <text>Vyměnit %c[d_orange]50 eur%c[ui_gray_2] za %c[d_orange]3400 rublů%c[ui_gray_2].</text>
+</string>
+
+<string id="st_wg_barter_euros_rouble_100_to_6800_desc">
+    <text>Vyměnit %c[d_orange]100 eur%c[ui_gray_2] za %c[d_orange]6800 rublů%c[ui_gray_2].</text>
+</string>
+
+<!-- ============================================================================================================-->
+<!--	Jupiter Informant Dialogs																			  	 -->
+<!-- ============================================================================================================-->
+
+<!-- Řetězce dialogů -->
+<string id="western_goods_jupiter_informant_meet_0">
+    <text>Ahoj. Hledám informace.</text>
+</string>
+
+<string id="western_goods_jupiter_informant_meet_1">
+    <text>Ano? Jaké přesně?</text>
+</string>
+
+<string id="western_goods_jupiter_informant_meet_2">
+    <text>Slyšel jsem, že se tu šíří zvěsti o "podivných světlech". Víte něco o tom?</text>
+</string>
+
+<string id="western_goods_jupiter_informant_meet_3">
+    <text>Ano, všichni tady to vědí. Znáte Sklad kontejnerů, jihovýchodně od téhle lokace? Nevím, co se tam děje, ale před pár nocemi tam byla pořádná ohňostroj.</text>
+</string>
+
+<string id="western_goods_jupiter_informant_meet_4">
+    <text>Víte, co by ty světla mohla být? Možná nějaká anomálie?</text>
+</string>
+
+<string id="western_goods_jupiter_informant_meet_5">
+    <text>Nejsem si jistý. A upřímně řečeno, nejsem si jistý, jestli to chci vůbec vědět.</text>
+</string>
+
+<string id="western_goods_jupiter_informant_meet_6">
+    <text>Dobře. Díky.</text>
+</string>
+
+
+	<!-- ============================================================================================================-->
+	<!--	Helicopter Crew Member Dialogs																			 -->
+	<!-- ============================================================================================================-->
+
+	<!-- Start dialog strings -->
+<string id="st_stalker_crew_member_start_0">
+    <text>Jak je možné, že už se mnou teď mluvíš?! Měli jsme se setkat v aktu 1, úkolu 3. Pošlu tě do Brazílie, opatruj se!</text>
+</string>
+
+<string id="st_stalker_crew_member_start_1">
+    <text>Ehm... Co-co...</text>
+</string>
+
+<string id="st_stalker_crew_member_start_2">
+    <text>Co-co se... děje?</text>
+</string>
+
+<string id="st_stalker_crew_member_start_3">
+    <text>Kam mě... vedeš?</text>
+</string>
+
+<string id="st_stalker_crew_member_start_4">
+    <text>Měli bychom se hnout, nelíbí se mi tu zůstávat...</text>
+</string>
+
+<string id="st_stalker_crew_member_start_5">
+    <text>Radost tě vidět znovu.</text>
+</string>
+
+<string id="st_stalker_crew_member_start_6">
+    <text>Hej, příteli, má radost tě vidět!</text>
+</string>
+
+<!-- Řetězce dialogů -->
+<string id="stalker_crew_member_rescue_0">
+    <text>Hej, jsi stále s námi? Při sebezachování a pojď se mnou, rychle!</text>
+</string>
+
+<string id="stalker_crew_member_rescue_1">
+    <text>Ehm. K-kdo jsi ty?</text>
+</string>
+
+<string id="stalker_crew_member_rescue_2">
+    <text>Skautský tým tě zpozoroval před chvílí, odvádím tě odsud pryč.</text>
+</string>
+
+<string id="stalker_crew_member_rescue_3">
+    <text>Můj mozek...</text>
+</string>
+
+<string id="stalker_crew_member_rescue_4">
+    <text>Tak pojď! Nemáme moc času, než týmy Monolitu v okolí zavolají posily. Pojď!</text>
+</string>
+
+<string id="stalker_crew_member_reward_0">
+    <text>Hej, Heades řekl, že mě chceš vidět?</text>
+</string>
+
+<string id="stalker_crew_member_reward_1">
+    <text>Ano. Chtěl jsem ti osobně poděkovat, že jsi přišel na mou pomoc. Víš, v těchto dnech je těžké najít lidi, kteří nevyužijí příležitost k tomu, aby druhým uškodili.</text>
+</string>
+
+<string id="stalker_crew_member_reward_2">
+    <text>Jsem prostě ne takový typ člověka. Jsem rád, že jsem to stihl, než by tě Monolit mohl ovládnout.</text>
+</string>
+
+<string id="stalker_crew_member_reward_3">
+    <text>Ano, pověz mi o tom! Každopádně jsem ti chtěl dát malý dárek, aby můj dík nezůstal jen u slova.\n \nTady, vezmi si to. Je to artefakt, který jsme s kamarády našli, když jsme naposledy šli na lovení. Nemůžu uvěřit, že jsou všichni mrtví... Artefakt není úplně totéž jako zachránit život, ale slyšel jsem, že je hodně cenný.</text>
+</string>
+
+<string id="stalker_crew_member_reward_4">
+    <text>Děkuji.</text>
+</string>
+
+	<!-- ============================================================================================================-->
+	<!--	Dunn Lynn Dialogs																			  		     -->
+	<!-- ============================================================================================================-->
+
+	<!-- Start dialog strings -->
+	<string id="st_wg_dunn_lynn_first_start">
+    <text>Alespoň se setkáváme.</text>
+</string>
+
+<string id="st_wg_dunn_lynn_start_x">
+    <text>Ahoj, mladý Padawane.</text>
+</string>
+
+<string id="st_wg_dunn_lynn_start_0">
+    <text>Ahoj.</text>
+</string>
+
+<string id="st_wg_dunn_lynn_start_1">
+    <text>Ahoj.</text>
+</string>
+
+<string id="st_wg_dunn_lynn_start_2">
+    <text>Co chceš, Stalkere.</text>
+</string>
+
+<string id="st_wg_dunn_lynn_start_3">
+    <text>Co je to?</text>
+</string>
+
+<string id="st_wg_dunn_lynn_start_4">
+    <text>Ano?</text>
+</string>
+
+<string id="st_wg_dunn_lynn_start_5">
+    <text>Co chceš?</text>
+</string>
+
+
+	<!-- ============================================================================================================-->
+	<!--	Golubev Nikolaj																			  		   		 -->
+	<!-- ============================================================================================================-->
+
+	<!-- Start dialog strings -->
+<string id="st_wg_yellow_ecolog_start_0">
+    <text>Můj mozek... můj mozek!</text>
+</string>
+
+<string id="st_wg_yellow_ecolog_start_1">
+    <text>...</text>
+</string>
+
+<!-- Řetězce dialogů -->
+<string id="stalker_ecolog_convoy_yellow_meet_0">
+    <text>Identifikujte se!</text>
+</string>
+
+<string id="stalker_ecolog_convoy_yellow_meet_1">
+    <text>Tiše! Je to... Je to tady...</text>
+</string>
+
+<string id="stalker_ecolog_convoy_yellow_meet_2">
+    <text>Co je tady?</text>
+</string>
+
+<string id="stalker_ecolog_convoy_yellow_second_meet_0">
+    <text>Přepravujete něco, co potřebuji.</text>
+</string>
+
+<string id="stalker_ecolog_convoy_yellow_second_meet_1">
+    <text>Ten kufr? Proč ho chceš?</text>
+</string>
+
+<string id="stalker_ecolog_convoy_yellow_second_meet_2">
+    <text>Jsem jen dodavatel. Dejte mi ho pomalu.</text>
+</string>
+
+<string id="stalker_ecolog_convoy_yellow_second_meet_3">
+    <text>Víte, více si cením svého života než této výzkumné práce...</text>
+</string>
+
+	<string id="stalker_ecolog_convoy_yellow_second_meet_4">
+		<text>...</text>
+	</string>
+
+	<!-- ============================================================================================================-->
+	<!--    Oleksandr Chernenko                                                                                      -->
+	<!-- ============================================================================================================-->
+
+	<!-- Dialogs strings -->
+<string id="western_goods_oleksandr_chernenko_meet_0">
+    <text>Kdo jsi?</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_1">
+    <text>Jsem Oleksandr. Děkuji, že jsi mě nezastřelil na první pohled. Lidé jsou v těchto dnech blázni...</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_1_army">
+    <text>Prosím, nezabíjej mě. Všichni se tady snažíme jen přežít v tomto zmatku, ano? Jsem Oleksandr.</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_2">
+    <text>Co tam vlastně dělá voják?</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_2_army">
+    <text>Co tady děláte? Kuzněcov nás neinformoval o žádném nasazení sem.</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_3">
+    <text>Už nejsem voják. Vojsku to přece**těj! Jsme jen dělostřelecká munice pro jejich oči... Můj bratr a já jsme se nikdy neměli zavazovat do tohohle bordelu.</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_3_army">
+    <text>Už nejsem voják. Dezertoval jsem. Ano, vím, co si myslíš, ale poslechni mě. Armáda nás nezajímá. Dříve nebo později tě také pošlou na sebevražednou misi, stejně jako mě a mého bratra...</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_4">
+    <text>Tak co tady tedy děláš?</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_5">
+    <text>Jsem tady, abych zastupoval Dushmanovy zájmy na Bleším trhu. Snažím se držet nízký profil, proto zůstávám v tomto sklepě. Lidé tady Mercs zrovna nemusí. Ačkoliv jsem zatím neměl příliš potíží.</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_6">
+    <text>Interesantní. Co nabízíš?</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_7">
+    <text>Základně prodávám balíčky věcí, kterých máme příliš. Nabídnu ti slevu, ale nabídky nevydrží věčně. Chyť ji, dokud můžeš! Haha, jen žertuji. Ale vážně, nabídky jsou omezené, pomáhá to lidem se rozhodnout, tak mi pak nebudou chodit s dotazy celý den.</text>
+</string>
+
+<string id="western_goods_oleksandr_chernenko_meet_8">
+    <text>Rozumím.</text>
+</string>
+
+
+	<!-- ============================================================================================================-->
+	<!--    Danylo Chernenko                                                                                         -->
+	<!-- ============================================================================================================-->
+
+	<!-- Start dialog strings -->
+	<string id="st_wg_danylo_chernenko_first_start">
+    <text>Kdo jsi?!</text>
+</string>
+
+<string id="st_wg_danylo_chernenko_start_0">
+    <text>Ahoj.</text>
+</string>
+
+<string id="st_wg_danylo_chernenko_start_1">
+    <text>Ahoj.</text>
+</string>
+
+<string id="st_wg_danylo_chernenko_start_2">
+    <text>Co chceš, Stalkere.</text>
+</string>
+
+<string id="st_wg_danylo_chernenko_start_3">
+    <text>Co je to?</text>
+</string>
+
+<string id="st_wg_danylo_chernenko_start_4">
+    <text>Ano?</text>
+</string>
+
+<string id="st_wg_danylo_chernenko_start_5">
+    <text>Co chceš?</text>
+</string>
+
+
+	<!-- ============================================================================================================-->
+	<!--    SSU Prisoner                                                                                             -->
+	<!-- ============================================================================================================-->
+
+	<!-- Start dialog strings -->
+	<string id="western_goods_ssu_prisoner_start">
+		<text>...</text>
+	</string>
+
+	<!-- Dialogs strings -->
+<string id="st_wg_act_3_task_2_interrogation_start">
+    <text>Dobře, pojďme si promluvit.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_start_answer">
+    <text>Chceš si povídat? Jistě. Tvůj malý kamarád na tom maká už několik dní. Marníš svůj čas. Nepovím ti nic.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_0_nice">
+    <text>Vše, co chci, je informace. Budeš v pořádku, pokud spolupracuješ, máš mou slovo.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_0_normal">
+    <text>Jen mi řekni, co potřebuji vědět, ano?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_0_mean">
+    <text>Poslouchej, řekni mi, co chci vědět, a budeš živý. Nechám tě hádat, co se stane, když neřekneš.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_0_nice_answer">
+    <text>No tak, co vlastně chceš vědět?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_0_normal_answer">
+    <text>A co bys tak *potřeboval* vědět?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_0_mean_answer">
+    <text>Jdi do háje.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_1_nice_nice">
+    <text>Pro začátek. Kdo jde po Danylu?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_1_nice_normal">
+    <text>To, co potřebuji vědět, je, kdo tě poslal za Danylem.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_1_nice_mean">
+    <text>Za kým pracuješ? Máš 10 sekund na odpověď. 10, 9, 8, 7, 6...</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_1_normal_nice">
+    <text>Pro začátek. Kdo jde po Danylu?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_1_normal_normal">
+    <text>To, co potřebuji vědět, je, kdo tě poslal za Danylem.</text>
+</string>
+
+
+	<string id="st_wg_act_3_task_2_interrogation_1_mean_mean">
+    <text>Za koho pracuješ? Máš 10 sekund na odpověď. 10, 9, 8, 7, 6...</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_1_nice_answer">
+    <text>Podívej, nevím, odkud přišel rozkaz. Ale pokud je zapojena SSU, tvůj kamarád musí mít nepřátele na opravdu vysokých místech.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_1_normal_answer">
+    <text>Kdo mě poslal... Co si myslíš, že jsem, žoldák? Já jenom plním rozkazy, to je vše.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_1_mean_answer">
+    <text>Sakra, člověče, pro koho myslíš, že pracuju?! Jsi tak slepý, že nemůžeš přečíst moji uniformu?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_nice_nice">
+    <text>SSU? Proč by je tolik zajímalo Danylo, že by poslali po něm družinu?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_nice_normal">
+    <text>Takže jsi voják? Proč je po něm Armáda?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_nice_mean">
+    <text>A jaká to uniforma je, Armáda? Ne, ještě lépe. SSU. Proč chce SSU něco od Danyla?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_normal_nice">
+    <text>SSU? Proč by je tolik zajímalo Danylo, že by poslali po něm družinu?</text>
+</string>
+
+
+<string id="st_wg_act_3_task_2_interrogation_2_normal_normal">
+    <text>Takže jsi voják? Proč je po něm Armáda?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_normal_mean">
+    <text>A jaká to uniforma je, Armáda? Ne, ještě lépe. SSU. Proč chce SSU něco od Danyla?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_mean_nice">
+    <text>SSU? Proč by je tolik zajímalo Danylo, že by poslali po něm družinu?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_mean_normal">
+    <text>Takže jsi voják? Proč je po něm Armáda?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_mean_mean">
+    <text>A jaká to uniforma je, Armáda? Ne, ještě lépe. SSU. Proč chce SSU něco od Danyla?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_nice_answer">
+    <text>Podívej, nevím, proč naše družiny dostaly rozkazy. Slibuji, že to nevím. Polovina rozkazu, který jsme dostali, byla už předtím vymazána, než jsme ho dostali. Je zázrak, že jsme tvého kamaráda vůbec našli.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_normal_answer">
+    <text>Co si myslíš? Nevím, proč byly tyhle rozkazy poslány. Vím jen to, že naše družiny dostaly rozkaz najít ho.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_2_mean_answer">
+    <text>Měj se na pozoru. Sakra, ani bych ti to nemohl říct, kdybych chtěl. Rozkazy pro naše družiny byly stejně celé pokryté černým inkoustem.</text>
+</string>
+
+
+<string id="st_wg_act_3_task_2_interrogation_3_nice_nice">
+    <text>Družiny? Je tam víc lidí, kteří ho hledají? Poslyš, řekni mi, kde je můžu najít, a budeš volný. Deal?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_3_nice_normal">
+    <text>Družiny? Nejsi ten jediný, kdo ho hledá? Kde je můžu najít?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_3_nice_mean">
+    <text>Družiny? To je teď zajímavé. Dost bylo hraní, řekni mi, kde můžu najít tu druhou družinu, nebo ti nasadím kulku do tvé hezké tváře.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_3_normal_nice">
+    <text>Družiny? Je tam víc lidí, kteří ho hledají? Poslyš, řekni mi, kde je můžu najít, a budeš volný. Deal?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_3_normal_normal">
+    <text>Družiny? Nejsi ten jediný, kdo ho hledá? Kde je můžu najít?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_3_normal_mean">
+    <text>Družiny? To je teď zajímavé. Dost bylo hraní, řekni mi, kde můžu najít tu druhou družinu, nebo ti nasadím kulku do tvé hezké tváře.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_3_mean_nice">
+    <text>Družiny? Je tam víc lidí, kteří ho hledají? Poslyš, řekni mi, kde je můžu najít, a budeš volný. Deal?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_3_mean_normal">
+    <text>Družiny? Nejsi ten jediný, kdo ho hledá? Kde je můžu najít?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_3_mean_mean">
+    <text>Družiny? To je teď zajímavé. Dost bylo hraní, řekni mi, kde můžu najít tu druhou družinu, nebo ti nasadím kulku do tvé hezké tváře.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_end_nice">
+    <text>Dobře... Podívej, najdeš je v Zatonu u starého pramene. Mělo by jich být... Tři nebo čtyři, pokud se jim Zóna změřkují.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_end_normal">
+    <text>Dobře... Řeknu ti. Jen... Nezabij mě, prosím. Najdeš je na severovýchodě Zatonu.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_interrogation_end_mean">
+    <text>Dobře. Ježíši... Najdeš je na východě Zatonu, to je vše, co vím.</text>
+</string>
+
+
+	<!-- ============================================================================================================-->
+	<!--    SSU Supervisor                                                                                           -->
+	<!-- ============================================================================================================-->
+
+	<!-- Dialogs strings -->
+	<string id="western_goods_ssu_supervisor_bribe_0">
+    <text>Znáš jméno 'Danylo'?</text>
+</string>
+
+<string id="western_goods_ssu_supervisor_bribe_1">
+    <text>Proč se ptáš?</text>
+</string>
+
+<string id="western_goods_ssu_supervisor_bribe_2">
+    <text>Takže ti to jméno něco říká. Co kdybych ti posunul %s RUB a ty prostě na něj zapomněl?</text>
+</string>
+
+<string id="western_goods_ssu_supervisor_bribe_3">
+    <text>Proč bych to měl udělat?</text>
+</string>
+
+<string id="western_goods_ssu_supervisor_bribe_4">
+    <text>Řekněme, že se snaží zbavit své minulosti. Ty na něj zapomeneš a on na tebe.</text>
+</string>
+
+<string id="western_goods_ssu_supervisor_bribe_5">
+    <text>Ano? Dobře, ale radši ať na všechno zapomene, jinak pošlu za ním celou ukrajinskou armádu.</text>
+</string>
+
+
+	<!-- ============================================================================================================-->
+	<!--	Flea Market Dialogs                                                                                      -->
+	<!-- ============================================================================================================-->
+
+	<string id="st_wg_flea_ask_offer">
+    <text>Máte nějaké nabídky?</text>
+</string>
+
+<string id="st_wg_flea_offer">
+    <text>Mám tento set předmětů se slevou %s%.</text>
+</string>
+
+<string id="st_wg_flea_offer_end_0">
+    <text>Co říkáte?</text>
+</string>
+
+<string id="st_wg_flea_offer_end_1">
+    <text>Berete?</text>
+</string>
+
+<string id="st_wg_flea_offer_end_2">
+    <text>Zajímá vás to?</text>
+</string>
+
+<string id="st_wg_flea_offer_end_3">
+    <text>Dohoda?</text>
+</string>
+
+<string id="st_wg_flea_offer_end_4">
+    <text>Děláme obchod?</text>
+</string>
+
+<string id="st_wg_flea_no_offer">
+    <text>Zatím nemám nic jiného.</text>
+</string>
+
+<string id="st_wg_flea_expired">
+    <text>Omlouvám se, ty nabídky už vypršely.</text>
+</string>
+
+<string id="st_wg_flea_offer_caption">
+    <text>Speciální nabídka - zbývá %sh %sm%c[default]</text>
+</string>
+
+<string id="st_wg_flea_offer_text">
+    <text>%c[default]Předměty:%c[250,255,232,208] %s\n %c[default]Počet předmětů:%c[250,255,232,208] %s\n %c[default]Sleva:%c[250,255,232,208] %s-%s%\n %c[default]Cena:%c[250,255,232,208] %c[d_orange]%s RUB</text>
+</string>
+
+<string id="st_wg_flea_offer_buy">
+    <text>%c[d_orange]%s RUB%c[default]?</text>
+</string>
+
+<string id="st_wg_flea_offer_buy_end_0">
+    <text>Vezmu si to.</text>
+</string>
+
+<string id="st_wg_flea_offer_buy_end_1">
+    <text>Dohoda.</text>
+</string>
+
+<string id="st_wg_flea_offer_buy_end_2">
+    <text>Dobře, kupuji.</text>
+</string>
+
+<string id="st_wg_flea_offer_buy_end_3">
+    <text>Tady máte.</text>
+</string>
+
+<string id="st_wg_flea_offer_buy_end_4">
+    <text>Prodáno.</text>
+</string>
+
+<string id="st_wg_flea_next_offer">
+    <text>Máte ještě něco dalšího?</text>
+</string>
+
+<string id="st_wg_flea_poor_next_offer_0">
+    <text>Nemám dost peněz, máte něco jiného?</text>
+</string>
+
+<string id="st_wg_flea_poor_next_offer_1">
+    <text>Omlouvám se, nemám tu částku. Máte něco jiného?</text>
+</string>
+
+
+<string id="st_wg_flea_poor_next_offer_2">
+    <text>To si nemohu dovolit, máte něco jiného?</text>
+</string>
+
+	<string id="st_wg_flea_cancel">
+<text>Nevadí.</text>
+	</string>
+
+	<!-- ============================================================================================================-->
+	<!--	Trade EUR/USD Dialogs                                                                                    -->
+	<!-- ============================================================================================================-->
+
+<string id="st_wg_trade_eur_usd_ask">
+    <text>Chci si něco koupit. %c[d_orange][Obchod]</text>
+</string>
+
+<string id="st_wg_trade_eur_usd_ask_reply_1">
+    <text>Jasně, určitě.</text>
+</string>
+
+<string id="st_wg_trade_eur_usd_ask_reply_2">
+    <text>Podívejte se.</text>
+</string>
+
+<string id="st_wg_trade_eur_usd_ask_reply_3">
+    <text>Tady mám nabídku.</text>
+</string>
+
+
+	<!-- ============================================================================================================-->
+	<!--	Task Dialogs																			  		     	 -->
+	<!-- ============================================================================================================-->
+
+	<!-- Act 1, Task 1 -->
+	<string id="st_wg_act_1_task_1_ask_work">
+    <text>Mohu ti s něčím pomoci?</text>
+</string>
+
+<string id="st_wg_act_1_task_1_accept_work">
+    <text>To můžu udělat.</text>
+</string>
+
+<string id="st_wg_act_1_task_1_refuse_work">
+    <text>Vlastně si to chci rozmyslet.</text>
+</string>
+
+<string id="st_wg_act_2_task_1_answer_0">
+    <text>Nebloudi tam moc dlouho, brzy by tam měli být.</text>
+</string>
+
+<string id="st_wg_act_2_task_1_answer_1">
+    <text>Dobře, půjdu teď.</text>
+</string>
+
+<string id="st_wg_act_2_task_1_answer_2">
+    <text>A ještě než zapomenu, vezměte si tohle. Pomůže ti najít LZ.</text>
+</string>
+
+<string id="st_wg_act_2_task_1_answer_3">
+    <text>Díky.</text>
+</string>
+
+<string id="st_wg_act_1_task_1_finish_work">
+    <text>Jsem zpátky a mám zásoby.</text>
+</string>
+
+
+	<!-- Act 1, Task 2 -->
+	<string id="st_wg_act_1_task_2_ask_work_0">
+    <text>Jak se věci mají?</text>
+</string>
+
+<string id="st_wg_act_1_task_2_ask_work_1">
+    <text>Mohlo by to být lepší...</text>
+</string>
+
+<string id="st_wg_act_1_task_2_ask_work_2">
+    <text>Jak to?</text>
+</string>
+
+<string id="st_wg_act_1_task_2_accept_work">
+    <text>Považujte to za hotové.</text>
+</string>
+
+<string id="st_wg_act_1_task_2_refuse_work">
+    <text>Omlouvám se, momentálně jsem zaneprázdněn jinými věcmi.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_answer">
+    <text>Děkuji, dejte mi vědět, pokud objevíte něco zajímavého.</text>
+</string>
+
+<string id="st_wg_act_1_task_2_finish_work_0">
+    <text>Šel jsem na Jupiter, abych prověřil zvěsti.</text>
+</string>
+
+<string id="st_wg_act_1_task_2_finish_work_1">
+    <text>Dobře, našel jsi něco?</text>
+</string>
+
+<string id="st_wg_act_1_task_2_finish_work_2">
+    <text>U kontejnerového skladu byla skupina Banditů. Měli tam tuto pušku a našel jsem také tuto poznámku.</text>
+</string>
+
+
+	<!-- Act 1, Task 3 -->
+	<string id="st_wg_act_1_task_3_ask_work">
+    <text>Je nějaká práce, kterou byste chtěl udělat?</text>
+</string>
+
+<string id="st_wg_act_1_task_3_accept_work">
+    <text>Zase Monoliti... Mám to na starosti.</text>
+</string>
+
+<string id="st_wg_act_1_task_3_refuse_work">
+    <text>Zatím ti s tím nemohu pomoci, omlouvám se.</text>
+</string>
+
+<string id="st_wg_act_2_task_3_answer">
+    <text>Děkuji a prosím, dejte mi vědět, jak to postupuje.</text>
+</string>
+
+<string id="st_wg_act_1_task_3_finish_work">
+    <text>Jsem zpátky, váš druhý pilot už tu měl být vysazen, ne?</text>
+</string>
+
+
+	<!-- Act 2, Task 1 -->
+	<string id="st_wg_act_2_task_1_ask_work">
+    <text>Máte nějaké speciální úkoly, které by bylo možné převzít?</text>
+</string>
+
+<string id="st_wg_act_2_task_1_accept_work">
+    <text>Dohoda.</text>
+</string>
+
+<string id="st_wg_act_2_task_1_refuse_work">
+    <text>Budu o tom přemýšlet.</text>
+</string>
+
+<string id="st_wg_act_2_task_1_answer">
+    <text>Dobře, dejte mi vědět, až budete mít artefakt.</text>
+</string>
+
+<string id="st_wg_act_2_task_1_finish_work">
+    <text>Nalezl jsem artefakt, který váš zákazník požaduje.</text>
+</string>
+
+	<!-- Act 2, Task 2 -->
+<string id="st_wg_act_2_task_2_opt_in">
+    <text>Jistě.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_opt_out">
+    <text>Víš, nech to být.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_opted_in">
+    <text>Dobře, brzy s vámi budou v kontaktu.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_opted_out">
+    <text>Proč jste tedy artefakt neprodal za peníze? Myslel jsem, že se chcete prokázat...</text>
+</string>
+
+<string id="st_wg_act_2_task_2_differed_opt_in">
+    <text>Změnil jsem názor, můžete říct vašemu klientovi, že hledám více práce?</text>
+</string>
+
+<string id="st_wg_act_2_task_2_differed_opted_in">
+    <text>Copak, máte bipolární poruchu? Tentokrát budu k vám hodný a předám vaši zprávu. Příště si dejte smysl dohromady.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_finish_work_0">
+    <text>Takže vy jste ten "anonymní" kontakt, se kterým jsem hovořil?</text>
+</string>
+
+<string id="st_wg_act_2_task_2_finish_work_1">
+    <text>Ano. Snažíme se držet nízký profil. Nechceme odhalit naši přítomnost.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_finish_work_2">
+    <text>Rozumím. Takže mám to, co jste požadovali.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_finish_work_3">
+    <text>Dobře. Ukazuje se, že spolupráce s místními stalker je... užitečná. Chápu, že nepracujete zadarmo, tak tady, vezměte si to.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_finish_work_4">
+    <text>Díky.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_finish_work_5">
+    <text>Jak rozumím, máte zde docela dobré renomé?\n \nPoslouchejte tohle. Zde zřizujeme operaci. Zatím vám nemohu dát podrobnosti, ale za pár dní vás budu kontaktovat, až budeme mít pokrok s přípravami.\n \nPokud hledáte víc práce, přijďte za námi. Řeknu vám, kde nás najdete, nezůstaneme zde dlouho.</text>
+</string>
+
+<string id="st_wg_act_2_task_2_finish_work_6">
+    <text>Dobře.</text>
+</string>
+
+
+	<!-- Act 3, Task 1 -->
+	<string id="st_wg_act_3_task_1_ask_work_0">
+    <text>Řekl jste, že jste byl v armádě s vaším bratrem? Kde je teď?</text>
+</string>
+
+<string id="st_wg_act_3_task_1_ask_work_1">
+    <text>Ve skutečnosti nevím. Před pár dny šel setkat se s novým dodavatelem a nevrátil se. Obávám se, že se mu může něco stát.</text>
+</string>
+
+<string id="st_wg_act_3_task_1_accept_work">
+    <text>Je něco, co bych mohl udělat, abych pomohl?</text>
+</string>
+
+<string id="st_wg_act_3_task_1_refuse_work">
+    <text>Rozumím. Mrzí mě to slyšet.</text>
+</string>
+
+<string id="st_wg_act_3_task_1_work_details">
+    <text>No, mohl bych nějakou pomoc využít. Zůstal jsem tu uvězněný, protože spravuji Flea Market. Dushman by to nepochopil, kdybych odešel, i kvůli bratrovi.\n \nVěc je v tom, že nevím, kde byla schůzka s dodavatelem. Můj bratr je dobrý v tom, co dělá, obvykle se neptám, co přesně. Poslouchejte, pokud se opravdu něco špatného stalo a pokud to přežil, musel najít místo, kde se schová. Když jsme byli v armádě, měli jsme úkryt v Agropromské podzemí. Pochybuji, že by se tam skrýval, ale mohlo by nás to někam posunout. Tady, vezměte si tohle, pomůže vám to najít úkryt.</text>
+</string>
+
+<string id="st_wg_act_3_task_1_usb_unlock_ask">
+    <text>Potřebuji zpřístupnit data na USB flash disku. Mohl byste mi s tím pomoci?</text>
+</string>
+
+<string id="st_wg_act_3_task_1_usb_unlock_quote">
+    <text>Jistě, ale budu potřebovat %c[d_orange]5000 RUB%c[default] za to.</text>
+</string>
+
+<string id="st_wg_act_3_task_1_usb_unlock_accept">
+    <text>Dobře, tady máte.</text>
+</string>
+
+<string id="st_wg_act_3_task_1_usb_unlock_refuse">
+    <text>Dejte mi na to chvíli, abych přemýšlel...</text>
+</string>
+
+<string id="st_wg_act_3_task_1_usb_unlock_unlocked">
+    <text>Dobře... Je tam spousta zakódovaných věcí... Je tam mapa, mohl by to být to, co potřebujete? Nahraji to do tvého PDA.</text>
+</string>
+
+<string id="st_wg_act_3_task_1_end_work_0">
+    <text>Mohl bych vám položit stejnou otázku. Jste Danylo Chernenko, bratr Oleksandra?</text>
+</string>
+
+<string id="st_wg_act_3_task_1_end_work_1">
+    <text>J-Jak to víte?</text>
+</string>
+
+<string id="st_wg_act_3_task_1_end_work_2">
+    <text>Váš bratr mě požádal, abych zjistil, co se vám stalo. Řekl, že jste byl pár dní nezvěstný.</text>
+</string>
+
+<string id="st_wg_act_3_task_1_end_work_3">
+    <text>Díkybohu... Myslel jsem, že jste tady, abyste mě zabil. Poslouchejte, snažím se momentálně držet se od svého bratra dál. Jsou tu lidé, kteří mě pronásledují, a nechci ho vtáhnout do této šlamastyky.</text>
+</string>
+
+
+	<!-- Act 3, Task 2 -->
+<string id="st_wg_act_3_task_2_start_work">
+    <text>Kdo je váš vězeň?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_start_work_details">
+    <text>Ten chlap? Nevím. On a jeho tým mě přepadli, když jsem šel setkat se s novým dodavatelem pro bratrovo podnikání. Ti parchanti se ani nepokusili mluvit, hned na mě začali střílet. On je jediný, kdo přežil tenhle masakr... A samozřejmě já. Už několik dní se ho snažím dostat k mluvení, ale neřekne mi, kdo ho poslal a proč.\n \nPoslouchejte, budu se muset brzy pohnout, je jen otázka času, než zjistí, že se tu skrývám. Zkusíte ho dostat k mluvení, ano?</text>
+</string>
+
+<string id="st_wg_act_3_task_2_start_work_accept">
+    <text>Na tom jsem.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_start_work_refuse">
+    <text>Potřebuji čas na přípravu.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_end_work_0">
+    <text>Zabil( jsem skupinu SSU v Zatonu, tady je dokument, který měl jeden z nich.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_end_work_1">
+    <text>Dejte mi to vidět. Zajímavé, tohle je oznámení o nasazení. Rozkaz byl vydán od... Ten parchant. Už jsem to tušil(a)!</text>
+</string>
+
+
+	<!-- Act 3, Task 3 -->
+	<string id="st_wg_act_3_task_3_start_work">
+    <text>Mohu pomoct?</text>
+</string>
+
+<string id="st_wg_act_3_task_3_start_work_details">
+    <text>Když jsem byl v armádě, jeden z našich nadřízených byl zkorumpovaný až do morku kostí. Jednoho dne se mi podařilo sehnat důkazy o podvodné dohodě, kterou uzavřel s bandity. Prodával oblečení, které jsme právě dostali od velitelství. Ukázal jsem to svému bratrovi a ten a fakt, že byl ve vyšším hodnostním stupni, nás docela ochránil před jeho hloupostmi.\n \nMyslím, že když jsme dezertovali, dal mu to dokonalou příležitost nechat samotnou armádu nám pomoci ututlat náš hlas. Posledně jsem o něm slyšel, že se nachází někde v Velkých bažinách, na strojním dvoře. Tohle nikdy neskončí, pokud je stále v okolí, takže... Zbavte se ho, ano?</text>
+</string>
+
+<string id="st_wg_act_3_task_3_start_work_accept">
+    <text>Dám vám vědět, až to bude hotovo.</text>
+</string>
+
+<string id="st_wg_act_3_task_3_start_work_refuse">
+    <text>Zatím vám s tím nemohu pomoci.</text>
+</string>
+
+<string id="st_wg_act_3_task_3_end_work_0">
+    <text>Váš bývalý nadřízený už vám nezpůsobí potíže.</text>
+</string>
+
+<string id="st_wg_act_3_task_3_end_work_1">
+    <text>Měl jsem pravdu... Věděl jsem, že ten chlap je zkažený, ale nedoufal jsem, že bude skutečně používat armádu k zastření svých zájmů.</text>
+</string>
+
+
+	<!-- Act 3, Task 4 -->
+	<string id="st_wg_act_3_task_4_start_work">
+    <text>Každopádně, řekl jsi, že potřebuješ pomoc s něčím?</text>
+</string>
+
+<string id="st_wg_act_3_task_4_start_work_details">
+    <text>Aha, ano... ohledně toho... Víš, chtěl bych se vrátit k mému bratrovi, do Odpadu... Ale cesta tam rozhodně není přívětivá, zvlášť pro žoldáka. Nemohl bys mi prostě pomoci tam dostat?</text>
+</string>
+
+<string id="st_wg_act_3_task_4_start_work_accept_0">
+    <text>Jistě, pojďme.</text>
+</string>
+
+<string id="st_wg_act_3_task_4_start_work_refuse">
+    <text>Vlastně potřebuji čas na přípravu, než vyrazíme.</text>
+</string>
+
+<string id="st_wg_act_3_task_4_start_work_accept_1">
+    <text>Díky, nechám tě vést cestu.</text>
+</string>
+
+<string id="st_wg_act_3_task_4_end_work_0">
+    <text>Vrátil jsem se, a nepřišel jsem sám.</text>
+</string>
+
+<string id="st_wg_act_3_task_4_end_work_1">
+    <text>Moc ti děkuji, Stalkere. Začal jsem se obávat. Je dobře vědět, že jsi spolehlivý. Hele, vezmi si tohle, za tvé potíže a za to, že jsi mého bratra přivedl zpět celého.</text>
+</string>
+
+	<!-- ============================================================================================================-->
+	<!--	Task Messages																			  		     	 -->
+	<!-- ============================================================================================================-->
+
+	<!-- Act 1, Task 1 Messages -->
+	<string id="st_wg_trader_act_1_task_1_stage_0_message_1">
+    <text>Dorazil jsi k vrtulníku?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_0_message_2">
+    <text>Ano, ale nikdo tu není. Vrtulník je přistaven uprostřed ničeho.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_0_message_3">
+    <text>Kde je posádka?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_0_message_4">
+    <text>Nevím. Máš nějaký způsob, jak je vystopovat nebo najít zásoby?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_0_message_5">
+    <text>Některé zásoby mají GPS sledovač, zkusím to zkontrolovat.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_0_message_6">
+    <text>Mám aktivní signál u pily, není daleko od tebe. Dej se tam rychle, zdvojnásob úsilí!</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_1_message_1">
+    <text>Našel jsem posádku... Jsou všichni mrtví. Vypadá to, že se pokusili schovat v domě... A byli přemocněni zombíky.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_1_message_2">
+    <text>Jsou všichni mrtví? Prokletí. Vidíš nějaké zásoby?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_1_message_3">
+    <text>Myslím, že vidím přepravní kufr.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_1_stage_1_message_4">
+    <text>Jen jeden? Mělo by jich být mnohem víc! To je teď jedno. Vezmi, co můžeš, a rychle se odsuň odsud, než tě také dostanou zombíci!</text>
+</string>
+
+
+	<!-- Act 1, Task 2 Messages -->
+	<string id="st_wg_trader_act_1_task_2_stage_0_message_1">
+    <text>Nalezl jsem někoho na stanici Yanov. Řekl, že viděl podivné světla přicházející z Kontejnerového skladu.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_0_message_2">
+    <text>Hm. Vrtulník přeletěl tímto místem, když jsme ztratili spojení s posádkou.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_0_message_3">
+    <text>Přesunu se tam, zjistím, co se děje.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_0_message_4">
+    <text>Vrtulník je opět funkční. Pošlu ho na tvoji pozici, aby ti poskytl podporu. Nemáme zbytky paliva, tak ho využij co nejlépe.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_1_message_1">
+    <text>Směřujeme k tvé pozici. Heades říkal, že bys mohl potřebovat nějakou palbu na krytí. Stačí označit cíle (zmáčkni: %c[d_orange]%s%c[ui_white]), a my se postaráme o zbytek.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_1_message_2">
+    <text>Nám dochází palivo. Vrátíme se na stanici zpracování odpadu. Hodně štěstí tam venku.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_1_message_3">
+    <text>Copak děláš, kradl nám věci? Hlupáku.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_1_message_4">
+    <text>Kradeš nám věci? Řeknu klukům, kdo jsi opravdu.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_2_message_1">
+    <text>Upozorňuji na několik skupin banditů, které se blíží k tvé pozici.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_stage_2_message_2">
+    <text>Nám dochází palivo. Vrátíme se na stanici zpracování odpadu. Hodně štěstí tam venku.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_heli_attack_1">
+    <text>Cíl zjištěn.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_heli_attack_2">
+    <text>Potvrzuji.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_heli_attack_3">
+    <text>Kopíruji.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_heli_attack_4">
+    <text>Zahajuji palbu.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_2_heli_attack_5">
+    <text>Všichni stranou.</text>
+</string>
+
+
+	<!-- Act 1, Task 3 Messages -->
+	<string id="st_wg_trader_act_1_task_3_stage_0_message_1">
+    <text>Headesi, našel jsem zajatého žoldáka. Je znejistěný, ale živý.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_0_message_2">
+    <text>Dobře. Můžeš ho doprovodit zpátky do Knihkupectví?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_0_message_3">
+    <text>Je opravdu zmatený, pochybuji, že by dokázal i vystřelit zbraň. Knihkupectví není zrovna blízko naší pozice...</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_0_message_4">
+    <text>Můžeš se dostat k mostu v Červeném lese? Zařídím, aby ho vrtulník vyzvedl.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_0_message_5">
+    <text>To by fungovalo. Nechej vrtulník připravený, řeknu ti, kdy je poslat na naši pozici.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_1">
+    <text>J-jak... jak jsi mě... znovu našel?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_2">
+    <text>Heades mi řekl, že tě našla skupina průzkumníků, kteří hledali pohyby nepřítele a bezpečné vzdušné trasy pro jeho vrtulníky.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_3">
+    <text>Cítíš se lépe?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_4">
+    <text>Ano, jsem... jsem v pořádku. Moje paměť je trochu matná...</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_5">
+    <text>Pamětáš si aspoň, kdo jsi? Doufám, že na tobě ti Monolithští nestihli začít pracovat.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_6">
+    <text>Ano, neboj. Pamatuju si. Jsem kopilotem jednoho z Headesových vrtulníků.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_7">
+    <text>Počkej, řekl jsi, že jsi kopilotem? Jak je možné, že Heades si nevšiml, že ti chybíš?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_8">
+    <text>To nevím... Všechno, co si pamatuji, je, že jsme letěli s nákladem do Stanice zpracování vody v Zatonu a museli jsme nouzově přistát...</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_9">
+    <text>Ty jsi kopilotem vrtulníku, který jsem našel opuštěný v Zatonu?! Jen jsi zapomněl to zmínit?</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_1_message_10">
+    <text>Omlouvám se, stále jsem trochu zmatený. Každopádně, jsem pravděpodobně stále naživu, protože ti Monolithští chtěli, abych létal na jednom z jejich vlastních vrtulníků.</text>
+</string>
+
+
+	<string id="st_wg_trader_act_1_task_3_stage_3_message_1">
+    <text>Oblast je dostatečně bezpečná. Můžeš poslat vrtulník.</text>
+</string>
+
+<string id="st_wg_trader_act_1_task_3_stage_3_message_2">
+    <text>Rozumím, jdeme na cestu. Drž se tam.</text>
+</string>
+
+
+	<!-- Act 2, Task 2 Messages -->
+<string id="st_wg_trader_act_2_task_2_message_school_pursuers_far">
+    <text>Buď opatrný, přibližuješ se ke škole. Pokud tě někdo uvidí tam vejít, budeme muset misi zrušit.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_message_school_pursuers_close">
+    <text>Někdo tě viděl vejít do školy. Mise zrušena.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_message_left_position">
+    <text>Opustil jsi svou pozici? Nemůžeme riskovat, mise zrušena.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_2_message_1">
+    <text>Dostal jsi se na okraj města? Dobře. Postupuj ke škole, instrukce následují.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_5_message_1">
+    <text>Dostal jsem se do školy, co dál?</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_5_message_2">
+    <text>Najdi vstupní halu, tam budou schody vedoucí do sklepa. Schovej se tam, dokud nepřijede konvoj.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_6_message_1">
+    <text>Konvoj brzy dorazí. Až to udělá, dostaneš se do třetího patra školy.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_6_message_2">
+    <text>Co od tebe chceme, až je uvidíš?</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_6_message_3">
+    <text>Zbav se jejich doprovodu, ale ne dříve, než dostaneš signál. Řekneme ti, kdy máš začít střílet.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_6_message_4">
+    <text>Rozuměno.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_9_message">
+    <text>Upozornění, skupina banditů se blíží. Zatím nezasahuj, nevíme, jestli má konvoj dokumenty.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_10_message_1">
+    <text>... slyšíš? Snažíme se zesílit signál. Konvoj utekl. Máme GPS signál aktivní u staré servisní stanice.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_10_message_2">
+    <text>Pokud toto dostaneš, jdu tam.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_10_message_3">
+    <text>10-4. Máme potvrzení, že konvoj nese dokumenty. Máš zelenou pro zásah.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_11_message_1">
+    <text>Mám dokumenty.</text>
+</string>
+
+<string id="st_wg_trader_act_2_task_2_stage_11_message_2">
+    <text>Dobře. Setkáme se v Temném kraji. Budeme na tebe čekat v táboře pod útesem.</text>
+</string>
+
+
+	<!-- Act 3, Task 2 Messages -->
+	<string id="st_wg_act_3_task_2_stage_2_message_1">
+    <text>%s, musím se přesunout. Moje současná poloha už není bezpečná. Sejdeme se v Červeném lese, u starého dolu.</text>
+</string>
+
+<string id="st_wg_act_3_task_2_stage_2_message_2">
+    <text>Dobře, setkám se tam s tebou.</text>
+</string>
+
+
+	<!-- Act 3, Task 3 Messages -->
+	<string id="st_wg_act_3_task_3_stage_0_message_1">
+    <text>Nadřízený už ti nebude dělat problémy. Zóna si ho vzala.</text>
+</string>
+
+<string id="st_wg_act_3_task_3_stage_0_message_2">
+    <text>Děkuju bohu. Tohle je konečně za námi. Poslyš, můžeš mi pomoct s jednou poslední věcí? Budu na tebe čekat ve Vojenských skladech.</text>
+</string>
+
+<string id="st_wg_act_3_task_3_stage_0_message_3">
+    <text>Nadřízený by ti neměl dělat problémy už víc. Nacpal jsem mu nějaké peníze do kapsy.</text>
+</string>
+
+<string id="st_wg_act_3_task_3_stage_0_message_4">
+    <text>To není to, co jsem chtěl, ale snad to bude stačit. Poslyš, můžeš mi pomoct s jednou poslední věcí? Budu na tebe čekat ve Vojenských skladech.</text>
+</string>
+
+
+</string_table>

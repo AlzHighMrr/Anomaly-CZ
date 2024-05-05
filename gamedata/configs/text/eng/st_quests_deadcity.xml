@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<!-- 100% -->
+
+	<!-- Dushman (Merc Trader) Default Storyline Task -->
+
+<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_name">
+<text>Získat další úkol</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_text">
+<text>Dushman mi ukázal na někoho, kdo by mohl mít pro mě práci. Pojďme se podívat, kdo to je.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_about">
+<text>Existuje kontakt, který je ochoten dobře zaplatit za naše služby. Jdi ho navštívit.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_default_task_finish">
+<text>Hodně štěstí, Stalkere.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_name">
+<text>Útok komanda</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_text">
+<text>Musím se tajně infiltrovat do tábora nepřítele.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_about">
+<text>Mám pro tebe práci. Určitá frakce se usadila v oblasti, kterou by náš klient raději nechtěl a je potřeba je odsunout. Musíš jít sám. Jsou připraveni na velký útok, ale nebudou čekat na samotného infiltrátora. Pronikni do jejich tábora a eliminuj co nejvíce z nich.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_task_1_finish">
+<text>Dobrá práce. Náš klient je spokojený. Dokonce ti přidal bonus.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_name">
+<text>Útok na banditův tábor</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_text">
+<text>Byl jsem najat, abych vedl útok na banditův tábor v této oblasti.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_about">
+<text>Bandité se přestěhovali do této oblasti. Obvykle máme dohodu, ale je to příliš blízko na pohodlí. Vezmi si několik mužů a vyčisti je.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_task_2_finish">
+<text>Vynikající práce. Tady, tohle jsi si vydělal.</text>
+</string>
+
+	<!-- Hog (Merc Mechanic) Default Storyline Task -->
+
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_name">
+<text>Získat další úkol</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_text">
+<text>Měl bych jít dostat svůj další úkol.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_about">
+<text>Mám pro tebe zákazníka. Jeho umístění jsem označil na tvé mapě.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_default_task_finish">
+<text>Hodně štěstí, stalkeru.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_name">
+<text>Úder blesku</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_text">
+<text>Spoj se s některými žoldáky, kteří plánují útok na nepřátelský tábor v oblasti.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_about">
+<text>Hej, někteří kluci zjistili, že v oblasti je nepřátelský tábor, a jdou ho přepadnout. Pokud pospícháš, pravděpodobně je doženeš.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_finish">
+<text>Skvělá práce. Tady je tvůj podíl.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_name">
+<text>Vytáhnutí zajatého žoldáka</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_text">
+<text>Žoldák byl zajat vojáky. Je čas ho dostat ven.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_about">
+<text>Ti parchanti z armády zajali jednoho z našich lidí! Vlez tam a dost ho ven.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_finish">
+<text>Dobrá práce. Nikoho necháme pozadu.</text>
+</string>
+
+	<!-- Hog (Merc Mechanic) Mutant Part Storyline Task -->
+
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_name">
+<text>%s pro Hoga</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_text">
+<text>Zabij mutanta, který napadl Hoga, a přines mu jeho %s.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_about">
+<text>Jsi často v terénu. Pokud narazíš na určitého mutanta, chci, abys ho zabil.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+<text>Právě minulý týden mě napadl jeden mutant. Ten parchant mě téměř dorazil, ale pak zmizel dřív, než jsem mu mohl ustřelit zadek. Porádně mě dostal, tuhle jizvu budu mít do konce života. Jestli tu zatracenou věc uvidíš, zabij ji, vykuchej ji, přines mi její zatracené %. Dobře se ti za to odměním.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+<text>Zabil jsi ho! Skvěle! Vem si to, ty malý zmrde! Díky, chlape, udělal jsi to dobře.</text>
+</string>
+
+<!-- Dushman (Merc Trader) Payoff Change Factions Task -->
+<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_name">
+<text>Stát se žoldákem</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_text">
+<text>Dushman chce 12 000 RU jako smluvní zálohu za to, že mě oficiálně zapíše jako žoldáka.</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_about">
+<text>To bude 12 000 RU - protože během pobytu v Zóně nemůžeme provádět běžné prověrky, považuj to za zastavený majetek pro případ, že by ses později rozhodl od smlouvy s námi odstoupit. Profesionální přístup a připravenost jsou to, o co nám tady jde. Přineste si vlastní zbraně, žádné plivání na podlahu. Zní to dobře?</text>
+</string>
+<string id="drx_sl_cit_killers_merc_trader_stalker_cf_task_1_finish">
+<text>Rád vidím, že jsi to nakonec zvládl. Považuj svou smlouvu s námi za podepsanou a potvrzenou, Žoldáku.</text>
+</string>
+
+	<!-- Dushman (Merc Trader) Contract Killing Dynamic Task -->
+
+<string id="cit_killers_merc_trader_stalker_task_1_name">
+	<text>Najemný vrah</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_1_text">
+	<text>Byl jsem najat, abych našel a eliminoval cíl. Po dokončení bych se měl vrátit pro platbu.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_1_about">
+	<text>Naš zadavatel má seznam výhodných odměn. Potřebujeme dobrovolníky, kteří tyto úkoly provedou diskrétně, což nám umožní splnit naše povinnosti vůči zadavateli. Zajímá tě to?</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_1_finish">
+	<text>Je to hotovo? Skvěle. Tady je váš podíl.</text>
+</string>
+
+
+<string id="cit_killers_merc_trader_stalker_task_2_name">
+	<text>Útok na teritorium</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_2_text">
+	<text>Byl jsem najat, abych vyčistil oblast od přítomných nepřátelských sil.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_2_about">
+	<text>Potřebuji, abyste byl první muž při útoku. Vyčistěte cílovou oblast od všech nepřátelských sil.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_2_finish">
+	<text>Výborná práce. Tady je vaše výplata.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_3_name">
+	<text>Zachytit nepřátelské dokumenty</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_3_text">
+	<text>Zachyťte nepřátelské dokumenty a vraťte je Dushmanovi.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_3_about">
+	<text>Náš zaměstnavatel nám oznámil dokument, který potřebuje, abychom ho zachytili od nepřítele. Přines ho sem a já ti předám platbu.</text>
+</string>
+<string id="cit_killers_merc_trader_stalker_task_3_finish">
+	<text>Dobrá práce.</text>
+</string>
+
+	<!-- Hog (Merc Mechanic) Find Level 1 Toolkit Task -->
+<string id="cit_killers_merc_mechanic_stalker_task_1_name">
+    <text>Najdi %s pro Hoga</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_1_text">
+    <text>%s jsou potřebné Hogovi k instalaci základních vylepšení vybavení. Pokud nějaké najdu, měl bych je přinést zpět k němu.</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_1_about">
+    <text>Mám pro tebe nabídku. Pokud mi přineseš nějaké nové nástroje, dostaneš za to odměnu. Jdeš do toho?</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
+    <text>Hledám všude kolem sebe sadu %s. Měla by obsahovat olej a nástroje, které potřebuji k práci na zbraních. Zaplatím ti za jednu z těchto sad, pokud mi přineseš kompletní sadu.</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+    <text>Skvěle! To je přesně to, co jsem hledal. Díky!</text>
+</string>
+
+<string id="cit_killers_merc_mechanic_stalker_task_2_name">
+    <text>Najdi %s pro Hoga</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_2_text">
+    <text>%s jsou potřebné Hoggovi k instalaci pokročilých vylepšení vybavení. Pokud nějaké najdu, měl bych je přinést zpět k němu.</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_2_about">
+    <text>Mám další nabídku. Sada nástrojů, kterou jsi mi přinesl, se osvědčuje, ale nemá všechno, co potřebuji. Myslíš, že bys pro mě mohl najít lepší sadu?</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
+    <text>Potřebuji %s. Nevím, kde bys jednu mohl sehnat, ale pokud najdeš jednu, potřebuji ji.</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+    <text>Má všechno, co potřebuji. Díky.</text>
+</string>
+
+
+
+<string id="cit_killers_merc_mechanic_stalker_task_3_name">
+    <text>Najdi %s pro Hoga</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_3_text">
+    <text>Hog potřebuje %s k instalaci pokročilých vylepšení vybavení. Pokud nějaké najdu, měl bych je přinést zpět k němu.</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_3_about">
+    <text>Mám tu další nabídku. Ten nástrojový set, který jsi mi přinesl, je sice dobrý, ale nemá všechno, co potřebuji. Myslíš, že bys pro mě mohl najít lepší sadu?</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+    <text>Potřebuji %s. Nevím přesně, kde bys takový mohl sehnat, ale kdybys našel, potřeboval bych ho.</text>
+</string>
+<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+    <text>Má všechno, co potřebuji. Díky.</text>
+</string>
+
+
+
+<!-- Aslan -->
+<string id="cit_killers_merc_barman_mlr_task_1_name">
+    <text>Eliminuj cíl</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_1_text">
+    <text>Aslan mi zaplatí za eliminaci jednoho cíle.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_1_about">
+    <text>Ano, vždycky máme práci. Dám ti souřadnice, ty zabiješ cíl.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_1_finish">
+    <text>Dobrá práce, tady je hotovost.</text>
+</string>
+
+
+<string id="cit_killers_merc_barman_mlr_task_2_name">
+    <text>Aslanův Assasín</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_2_text">
+    <text>Aslan požádal, abych mu přinesl %s a za odměnu mi zaplatí.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_2_about">
+    <text>Máš chuť na lov několika lidí? Řeknu ti, kolik kusů musíš svléknout, přineseš mi je a dostaneš odměnu.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_2_fetch_about">
+    <text>Někteří z našich konkurentů se začínají dostávat do vysokého sedla. Příliš se odváží, vtírají se kam nemají. Dejme jim varování. Přines mi dost %s a budeš bohatě odměněn.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_2_fetch_finish">
+		<text>Skvělá práce. Zde je tvá platba.</text>
+	</string>
+
+	
+<string id="cit_killers_merc_barman_mlr_task_3_name">
+	<text>Pytlák</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_3_text">
+	<text>Existuje poptávka po %s.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_3_about">
+	<text>Ano, vždy pro tebe mám nějakou práci. Bohatý zákazník má zájem o vzácnou mutantní část. Přines ji ke mně a ocení tvé úsilí.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_3_fetch_about">
+	<text>Ano, vždy pro tebe mám nějakou práci. Bohatý zákazník má zájem o vzácnou mutantní část. Přines mi %s a ocení tvé úsilí.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_3_fetch_finish">
+	<text>Dobrá práce, zde je tvá odměna.</text>
+</string>
+
+<string id="cit_killers_merc_barman_mlr_task_4_name">
+	<text>Rodič Strachu</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_4_text">
+	<text>Aslan chce, abych odstranil nebezpečného mutanta, který straší v Rudém lese.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_4_about">
+	<text>Poslouchej. Kolují zvěsti, že v Rudém lese se nachází zvlášť nepříjemný exemplář chiméry. Ani celé týmy stopařů nejsou v bezpečí. Přeživší říkají, že se ztrácí v noci, s kůží jako dehet. Přeživší z našich průzkumných týmů řekli totéž.\n\nTakhle to v obchodě dál nemůže pokračovat. Chci ho mrtvého, jasný? Nezáleží mi na tom, kdo to udělá nebo jak. První osoba, která toho parchanta zmizí, dostane ode mě bonus.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_4_finish">
+	<text>Vyborná práce. Dokázal jsi něco, za co bych musel najmout celé týmy. Kdybys někdy opustil Zonu, dej mi vědět. Znám několik zaměstnavatelů, kteří by potřebovali někoho jako ty.</text>
+</string>
+
+
+<string id="cit_killers_merc_barman_mlr_task_5_name">
+	<text>Zabezpečení základny</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_5_text">
+	<text>Aslan mě žádá, abych vyčistil veškeré mutanti v okolí základny.</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_5_about">
+	<text>Je čas dát základně pořádnou jarní úklid. Mutanti se příliš usadili v místních troskách. Začínají našim dodavatelům přinášet nepokojné noci. Potřebuji někoho, kdo oblast vyčistí - kdo tyto zlomyslné bytosti odtáhne pryč od tohoto místa. Je to špinavá práce, ale někdo ji musí udělat. A ten někdo bude také slušně odměněn. Máme dohodu?</text>
+</string>
+<string id="cit_killers_merc_barman_mlr_task_5_finish">
+	<text>Zde je platba, pokračuj ve skvělé práci.</text>
+</string>
+<!-- Chirurg (Mercenary Medic) -->
+<string id="cit_killers_merc_medic_stalker_task_1_name">
+	<text>Najdi %s pro Chirurga</text>
+</string>
+<string id="cit_killers_merc_medic_stalker_task_1_text">
+	<text>Chirurg potřebuje %s pro práci na zdravotnických potřebách. Pokud ho najdu, určitě za to dobře zaplatí.</text>
+</string>
+<string id="cit_killers_merc_medic_stalker_task_1_about">
+	<text>Udržovat to, co zbylo ze skladu zdravotnických potřeb, při takovém počtu zranění, která musím denně ošetřovat, je znepokojující. Obvazy a lékárničky mi brzy nebo později dojdou. Potřebuju, abys mi našel jednu z těch starých lékárniček. Určitě se budou hodit.</text>
+</string>
+<string id="cit_killers_merc_medic_stalker_task_1_fetch_about">
+	<text>Jo, je tu něco, co potřebuju udělat. Mobilní laboratoř Yantaru sice není příliš daleko, ale nechci, aby se naše zdejší výprava stala příliš závislou na jejich zdravotnických potřebách. Přines mi %s a já můžu začít vyrábět dostatek léků pro všechny zdejší chlapy. Neboj se, už jsem si na to vyhradil nějaké rubly, takže ti můžu náležitě zaplatit, až se vrátíš se zbožím.</text>
+</string>
+<string id="cit_killers_merc_medic_stalker_task_1_fetch_finish">
+	<text>Ukaž mi... dobře, tohle by mělo stačit. Moc ti děkuji za tvoje služby. Tady je tvoje odměna.</text>
+</string>
+
+</string_table>

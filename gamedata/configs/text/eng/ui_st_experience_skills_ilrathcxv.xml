@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<string id="st_perk_fast_hands">
+    <text>Rychlé Ruce</text>
+</string>
+<string id="st_perk_fast_hands_desc">
+    <text>Naučili jste se lépe manipulovat se svými zbraněmi.</text>
+</string>
+<string id="st_perk_fast_hands_desc_1">
+    <text>Naučili jste se lépe manipulovat se svými předměty.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvyšuje rychlost schovávání a vytahování předmětů o %c[d_green]15%
+    </text>
+</string>
+<string id="st_perk_fast_hands_desc_2">
+    <text>Naučili jste se lépe manipulovat se svými předměty.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvyšuje rychlost schovávání a vytahování předmětů o %c[d_green]30%
+    </text>
+</string>
+<string id="st_perk_fast_hands_desc_3">
+    <text>Naučili jste se lépe manipulovat se svými předměty.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvyšuje rychlost schovávání a vytahování předmětů o %c[d_green]45%
+    </text>
+</string>
+<string id="st_perk_fast_hands_desc_4">
+    <text>Naučili jste se lépe manipulovat se svými předměty.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvyšuje rychlost schovávání a vytahování předmětů o %c[d_green]60%
+    </text>
+</string>
+<string id="st_perk_fast_hands_desc_5">
+    <text>Naučili jste se lépe manipulovat se svými předměty.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvyšuje rychlost schovávání a vytahování předmětů o %c[d_green]75%
+    </text>
+</string>
+
+<string id="st_perk_ghost_ammo">
+    <text>Duchová Munice</text>
+</string>
+<string id="st_perk_ghost_ammo_desc">
+    <text>Zóna ocení tvojí střeleckou přesnost a odmění tě za to.</text>
+</string>
+<string id="st_perk_ghost_ammo_desc_1">
+    <text>Zóna ocení tvojí střeleckou přesnost a odmění tě za to.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]1% %c[ui_gray_2]šanci na vrácení náboje při zásahu cíle\n
+    %c[d_red] - %c[ui_gray_2] Šance na vrácení se zvyšuje na %c[d_red]3% %c[ui_gray_2]při zásahu do hlavy
+    </text>
+</string>
+<string id="st_perk_ghost_ammo_desc_2">
+    <text>Zóna ocení tvojí střeleckou přesnost a odmění tě za to.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]2% %c[ui_gray_2]šanci na vrácení náboje při zásahu cíle\n
+    %c[d_red] - %c[ui_gray_2] Šance na vrácení se zvyšuje na %c[d_red]9% %c[ui_gray_2]při zásahu do hlavy
+    </text>
+</string>
+<string id="st_perk_ghost_ammo_desc_3">
+    <text>Zóna ocení tvojí střeleckou přesnost a odmění tě za to.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]3% %c[ui_gray_2]šanci na vrácení náboje při zásahu cíle\n
+    %c[d_red] - %c[ui_gray_2] Šance na vrácení se zvyšuje na %c[d_red]17% %c[ui_gray_2]při zásahu do hlavy
+    </text>
+</string>
+<string id="st_perk_ghost_ammo_desc_4">
+    <text>Zóna ocení tvojí střeleckou přesnost a odmění tě za to.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]4% %c[ui_gray_2]šanci na vrácení náboje při zásahu cíle\n
+    %c[d_red] - %c[ui_gray_2] Šance na vrácení se zvyšuje na %c[d_red]27% %c[ui_gray_2]při zásahu do hlavy
+    </text>
+</string>
+<string id="st_perk_ghost_ammo_desc_5">
+    <text>Zóna ocení tvojí střeleckou přesnost a odmění tě za to.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]5% %c[ui_gray_2]šanci na vrácení náboje při zásahu cíle\n
+    %c[d_red] - %c[ui_gray_2] Šance na vrácení se zvyšuje na %c[d_red]39% %c[ui_gray_2]při zásahu do hlavy
+    </text>
+</string>
+
+	
+	
+ <string id="st_perk_gunslinger">
+    <text>Pistolník</text>
+</string>
+<string id="st_perk_gunslinger_desc">
+    <text>Ovládl jsi své dovednosti v používání malých zbraní.</text>
+</string>
+<string id="st_perk_gunslinger_desc_1">
+    <text>Ovládl jsi své dovednosti v používání malých zbraní. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]11% %c[ui_gray_2] s %c[yellow]pistolemi a samopaly
+    </text>
+</string>
+<string id="st_perk_gunslinger_desc_2">
+    <text>Ovládl jsi své dovednosti v používání malých zbraní. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]16% %c[ui_gray_2] s %c[yellow]pistolemi a samopaly
+    </text>
+</string>
+<string id="st_perk_gunslinger_desc_3">
+    <text>Ovládl jsi své dovednosti v používání malých zbraní. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]25% %c[ui_gray_2] s %c[yellow]pistolemi a samopaly
+    </text>
+</string>
+<string id="st_perk_gunslinger_desc_4">
+    <text>Ovládl jsi své dovednosti v používání malých zbraní. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]37% %c[ui_gray_2] s %c[yellow]pistolemi a samopaly
+    </text>
+</string>
+<string id="st_perk_gunslinger_desc_5">
+    <text>Ovládl jsi své dovednosti v používání malých zbraní. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]55% %c[ui_gray_2] s %c[yellow]pistolemi a samopaly
+    </text>
+</string>
+
+<string id="st_perk_rifleman">
+    <text>Puškař</text>
+</string>
+<string id="st_perk_rifleman_desc">
+    <text>Stal ses expertem na pušky..</text>
+</string>
+<string id="st_perk_rifleman_desc_1">
+    <text>Stal ses expertem na pušky.. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]11% %c[ui_gray_2] s %c[yellow]útočnými puškami a většinou lehkých kulometů
+    </text>
+</string>
+<string id="st_perk_rifleman_desc_2">
+    <text>Stal ses expertem na pušky.. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]16% %c[ui_gray_2] s %c[yellow]útočnými puškami a většinou lehkých kulometů
+    </text>
+</string>
+<string id="st_perk_rifleman_desc_3">
+    <text>Stal ses expertem na pušky.. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]25% %c[ui_gray_2] s %c[yellow]útočnými puškami a většinou lehkých kulometů
+    </text>
+</string>
+<string id="st_perk_rifleman_desc_4">
+    <text>Stal ses expertem na pušky.. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]37% %c[ui_gray_2] s %c[yellow]útočnými puškami a většinou lehkých kulometů
+    </text>
+</string>
+<string id="st_perk_rifleman_desc_5">
+    <text>Stal ses expertem na pušky.. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]55% %c[ui_gray_2] s %c[yellow]útočnými puškami a většinou lehkých kulometů
+    </text>
+</string>
+
+	
+	
+	<string id="st_perk_heavy_gunner">
+    <text>Těžce ozbrojen</text>
+</string>
+<string id="st_perk_heavy_gunner_desc">
+    <text>Nyní způsobuješ zvýšené poškození s brokovnicema, odstřelovačkama a výbušnými zbraněmi (neplatí pro granáty).</text>
+</string>
+<string id="st_perk_heavy_gunner_desc_1">
+    <text>V Zóně jsi začal používat specializovanější zbraně. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]11% %c[ui_gray_2] se %c[yellow]shotgany, odstřelovačkami a výbušnými zbraněmi\n
+    %c[d_red] - %c[ui_gray_2] Neovlivňuje poškození granátů
+    </text>
+</string>
+<string id="st_perk_heavy_gunner_desc_2">
+    <text>V Zóně jsi začal používat specializovanější zbraně. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]16% %c[ui_gray_2] se %c[yellow]shotgany, odstřelovačkami a výbušnými zbraněmi\n
+    %c[d_red] - %c[ui_gray_2] Neovlivňuje poškození hozených granátů
+    </text>
+</string>
+<string id="st_perk_heavy_gunner_desc_3">
+    <text>V Zóně jsi začal používat specializovanější zbraně. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]25% %c[ui_gray_2] se %c[yellow]shotgany, odstřelovačkami a výbušnými zbraněmi\n
+    %c[d_red] - %c[ui_gray_2] Neovlivňuje poškození hozených granátů
+    </text>
+</string>
+<string id="st_perk_heavy_gunner_desc_4">
+    <text>V Zóně jsi začal používat specializovanější zbraně. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]37% %c[ui_gray_2] se %c[yellow]shotgany, odstřelovačkami a výbušnými zbraněmi\n
+    %c[d_red] - %c[ui_gray_2] Neovlivňuje poškození hozených granátů
+    </text>
+</string>
+<string id="st_perk_heavy_gunner_desc_5">
+    <text>V Zóně jsi začal používat specializovanější zbraně. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]55% %c[ui_gray_2] se %c[yellow]shotgany, odstřelovačkami a výbušnými zbraněmi\n
+    %c[d_red] - %c[ui_gray_2] Neovlivňuje poškození hozených granátů
+    </text>
+</string>
+
+<string id="st_perk_berserker">
+    <text>Berseker</text>
+</string>
+<string id="st_perk_berserker_desc">
+    <text>Nyní způsobuješ zvýšené poškození v blízkém boji a snižuješ utrpěné poškození, když máš v ruce zbraň na blízký boj.</text>
+</string>
+<string id="st_perk_berserker_desc_1">
+    <text>Zatímco ostatní zdokonalovali svou střelbu, ty jsi studoval meč ve všech jeho tvarech a formách. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Snížení utrpěného poškození o %c[d_green]5% %c[ui_gray_2]když máš v ruce zbraň na blízký boj
+    </text>
+</string>
+<string id="st_perk_berserker_desc_2">
+    <text>Zatímco ostatní zdokonalovali svou střelbu, ty jsi studoval meč ve všech jeho tvarech a formách. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Snížení utrpěného poškození o %c[d_green]10% %c[ui_gray_2]když máš v ruce zbraň na blízký boj
+    </text>
+</string>
+<string id="st_perk_berserker_desc_3">
+    <text>Zatímco ostatní zdokonalovali svou střelbu, ty jsi studoval meč ve všech jeho tvarech a formách. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Snížení utrpěného poškození o %c[d_green]15% %c[ui_gray_2]když máš v ruce zbraň na blízký boj
+    </text>
+</string>
+<string id="st_perk_berserker_desc_4">
+    <text>Zatímco ostatní zdokonalovali svou střelbu, ty jsi studoval meč ve všech jeho tvarech a formách. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Snížení utrpěného poškození o %c[d_green]20% %c[ui_gray_2]když máš v ruce zbraň na blízký boj
+    </text>
+</string>
+<string id="st_perk_berserker_desc_5">
+    <text>Zatímco ostatní zdokonalovali svou střelbu, ty jsi studoval meč ve všech jeho tvarech a formách. \n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Snížení utrpěného poškození o %c[d_green]25% %c[ui_gray_2]když máš v ruce zbraň na blízký boj
+    </text>
+</string>
+
+	
+	
+<string id="st_perk_jamming_shot">
+    <text>Zasekávač zbraní</text>
+</string>
+<string id="st_perk_jamming_shot_desc">
+    <text>Nyní můžeš zablokovat zbraň nepřítele tím, že jim střelíš do paže.</text>
+</string>
+<string id="st_perk_jamming_shot_desc_1">
+    <text>Jsi nepříjemností pro každého Stalkera, který se ti postaví do cesty.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Můžeš %c[d_green]zablokovat zbraň nepřítele %c[ui_gray_2]tím, že jim střelíš do paže
+    </text>
+</string>
+
+<string id="st_perk_bloody_mess">
+    <text>Krvavá Potíž</text>
+</string>
+<string id="st_perk_bloody_mess_desc">
+    <text>Když zabiješ nepřítele, máš 1% šanci, že explodují a poškodí kohokoli v explozi (včetně TEBE).</text>
+</string>
+<string id="st_perk_bloody_mess_desc_1">
+    <text>Přidal jsi zbytky Dračího Oka do hlavně své zbraně. Vystřelené střely mohou mít explozivní reakci při kontaktu s tkání.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zabití nepřítele má %c[d_green]1% %c[ui_gray_2]šanci, že explodují\n
+    %c[d_blue] - %c[ui_gray_2] Exploze poškodí všechny v dosahu %c[d_red]včetně TEBE\n
+    %c[d_red] - %c[ui_gray_2] Neaktivuje se z úderů v blízkém boji, aby sis nezpůsobil(a) poškození
+    </text>
+</string>
+<string id="st_perk_bloody_mess_desc_2">
+    <text>Přidal jsi zbytky Dračího Oka do hlavně své zbraně. Vystřelené střely mohou mít explozivní reakci při kontaktu s tkání.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zabití nepřítele má %c[d_green]2% %c[ui_gray_2]šanci, že explodují\n
+    %c[d_blue] - %c[ui_gray_2] Exploze poškodí všechny v dosahu %c[d_red]včetně TEBE\n
+    %c[d_red] - %c[ui_gray_2] Neaktivuje se z úderů v blízkém boji, aby sis nezpůsobil(a) poškození
+    </text>
+</string>
+<string id="st_perk_bloody_mess_desc_3">
+    <text>Přidal jsi zbytky Dračího Oka do hlavně své zbraně. Vystřelené střely mohou mít explozivní reakci při kontaktu s tkání.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zabití nepřítele má %c[d_green]3% %c[ui_gray_2]šanci, že explodují\n
+    %c[d_blue] - %c[ui_gray_2] Exploze poškodí všechny v dosahu %c[d_red]včetně TEBE\n
+    %c[d_red] - %c[ui_gray_2] Neaktivuje se z úderů v blízkém boji, aby sis nezpůsobil(a) poškození
+    </text>
+</string>
+<string id="st_perk_bloody_mess_desc_4">
+    <text>Přidal jsi zbytky Dračího Oka do hlavně své zbraně. Vystřelené střely mohou mít explozivní reakci při kontaktu s tkání.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zabití nepřítele má %c[d_green]4% %c[ui_gray_2]šanci, že explodují\n
+    %c[d_blue] - %c[ui_gray_2] Exploze poškodí všechny v dosahu %c[d_red]včetně TEBE\n
+    %c[d_red] - %c[ui_gray_2] Neaktivuje se z úderů v blízkém boji, aby sis nezpůsobil(a) poškození
+    </text>
+</string>
+<string id="st_perk_bloody_mess_desc_5">
+    <text>Přidal jsi zbytky Dračího Oka do hlavně své zbraně. Vystřelené střely mohou mít explozivní reakci při kontaktu s tkání.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zabití nepřítele má %c[d_green]5% %c[ui_gray_2]šanci, že explodují\n
+    %c[d_blue] - %c[ui_gray_2] Exploze poškodí všechny v dosahu %c[d_red]včetně TEBE\n
+    %c[d_red] - %c[ui_gray_2] Neaktivuje se z úderů v blízkém boji, aby sis nezpůsobil(a) poškození
+    </text>
+</string>
+
+	
+	
+  <string id="st_perk_disarming_shot">
+    <text>Odzbrojující výstřel</text>
+</string>
+<string id="st_perk_disarming_shot_desc">
+    <text>Výstřel do zbraně nepřítele má 15% šanci, že mu ji upustí na zem.</text>
+</string>
+<string id="st_perk_disarming_shot_desc_1">
+    <text>Naučil(a) jsi se chytrý trik, jak nepřátele zneškodnit: vystřelit do jejich zbraně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Výstřel do zbraně nepřítele má %c[d_green]15% %c[ui_gray_2]šanci, že mu ji upustí na zem
+    </text>
+</string>
+
+<string id="st_perk_scavenger">
+    <text>Mrchožrout</text>
+</string>
+<string id="st_perk_scavenger_desc">
+    <text>Když prohledáváš tělo nepřítele, máš malou šanci najít suroviny a výrobní materiály.</text>
+</string>
+<string id="st_perk_scavenger_desc_1">
+    <text>Vyvinul(a) jsi bystré oko pro hledání surovin a materiálů při prohledávání mrtvého stalkera.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Prohledávání mrtvých těl má %c[d_green]7% %c[ui_gray_2]šanci najít %c[d_red]suroviny a výrobní materiály
+    </text>
+</string>
+<string id="st_perk_scavenger_desc_2">
+    <text>Vyvinul(a) jsi bystré oko pro hledání surovin a materiálů při prohledávání mrtvého stalkera.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Prohledávání mrtvých těl má %c[d_green]14% %c[ui_gray_2]šanci najít %c[d_orange]trochu lepší suroviny a výrobní materiály
+    </text>
+</string>
+<string id="st_perk_scavenger_desc_3">
+    <text>Vyvinul(a) jsi bystré oko pro hledání surovin a materiálů při prohledávání mrtvého stalkera.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Prohledávání mrtvých těl má %c[d_green]21% %c[ui_gray_2]šanci najít %c[yellow]lepší suroviny a výrobní materiály
+    </text>
+</string>
+<string id="st_perk_scavenger_desc_4">
+    <text>Vyvinul(a) jsi bystré oko pro hledání surovin a materiálů při prohledávání mrtvého stalkera.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Prohledávání mrtvých těl má %c[d_green]28% %c[ui_gray_2]šanci najít %c[d_green]mnohem lepší suroviny a výrobní materiály
+    </text>
+</string>
+<string id="st_perk_scavenger_desc_5">
+    <text>Vyvinul(a) jsi bystré oko pro hledání surovin a materiálů při prohledávání mrtvého stalkera.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Prohledávání mrtvých těl má %c[d_green]35% %c[ui_gray_2]šanci najít %c[d_green]lepší a kvalitní suroviny a výrobní materiály
+    </text>
+</string>
+
+<string id="st_perk_careful_handler">
+    <text>Opatrný Manipulátor</text>
+</string>
+<string id="st_perk_careful_handler_desc">
+    <text>Při prohledávání těla nepřítele budou mít jeho zbraně a zbroj minimální kondici 15%.</text>
+</string>
+
+	<string id="st_perk_careful_handler_desc_1">
+        <!--<text>As they always say: one man's trash is another man's treasure.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Looted/picked-up armors and weapons will have a minimum condition of %c[d_green]15%
+		</text>!-->
+		<text>Jak se vždycky říká: odpadky pro jednoho jsou pokladem pro druhého.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Stav uloupených brnění a zbraní se zlepší o %c[d_green]6%.
+		</text>
+    </string>
+	<string id="st_perk_careful_handler_desc_2">
+        <!--<text>As they always say: one man's trash is another man's treasure.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Looted/picked-up armors and weapons will have a minimum condition of %c[d_green]20%
+		</text>!-->
+		<text>Jak se vždycky říká: odpadky pro jednoho jsou pokladem pro druhého.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Stav uloupených brnění a zbraní se zlepší o %c[d_green]6%.
+		</text>
+    </string>
+	<string id="st_perk_careful_handler_desc_3">
+        <!--<text>As they always say: one man's trash is another man's treasure.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Looted/picked-up armors and weapons will have a minimum condition of %c[d_green]25%
+		</text>!-->
+		<text>Jak se vždycky říká: odpadky pro jednoho jsou pokladem pro druhého.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Stav uloupených brnění a zbraní se zlepší o %c[d_green]9%.
+		</text>
+    </string>
+	<string id="st_perk_careful_handler_desc_4">
+        <!--<text>As they always say: one man's trash is another man's treasure.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Looted/picked-up armors and weapons will have a minimum condition of %c[d_green]30%
+		</text>!-->
+		<text>Jak se vždycky říká: odpadky pro jednoho jsou pokladem pro druhého.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Stav uloupených brnění a zbraní se zlepší o %c[d_green]12%.
+		</text>
+    </string>
+	<string id="st_perk_careful_handler_desc_5">
+        <!--<text>As they always say: one man's trash is another man's treasure.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Looted/picked-up armors and weapons will have a minimum condition of %c[d_green]35%
+		</text>!-->
+		<text>Jak se vždycky říká: odpadky pro jednoho jsou pokladem pro druhého.\n \n
+		%c[ui_gray_3]ÚČINKY:\n
+		%c[d_blue] - %c[ui_gray_2] Stav uloupených brnění a zbraní se zlepší o %c[d_green]15%.
+		</text>
+    </string>
+    
+	
+	<string id="st_perk_master_craftsman">
+    <text>Mistr Řemeslník</text>
+</string>
+<string id="st_perk_master_craftsman_desc">
+    <text>Při výrobě nebo vaření máš 10% šanci vytvořit 2 výrobky za cenu 1.</text>
+</string>
+<string id="st_perk_master_craftsman_desc_1">
+    <text>Tvoje nástroje se staly rozšířením tebe samotného/tebe samotné.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při výrobě výrobku je %c[d_green]20% šance %c[ui_gray_2]na vytvoření duplikátu tohoto výrobku\n
+    %c[d_blue] - %c[ui_gray_2] Při vaření je %c[d_green]20% šance %c[ui_gray_2]na vytvoření duplikátu toho, co jsi uvařil(a)
+    </text>
+</string>
+
+<string id="st_perk_cybermedic">
+    <text>Cyber-Lékař</text>
+</string>
+<string id="st_perk_cybermedic_desc">
+    <text>Obleč se do implantátu, který pomáhá postupně zastavit krvácení zranění.</text>
+</string>
+<string id="st_perk_cybermedic_desc_1">
+    <text>Obleč se do implantátu, který pomáhá postupně zastavit krvácení zranění.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zranění krvácení se bude hojit v průběhu času pomalu s %c[d_orange]nízkou rychlostí\n
+    %c[d_blue] - %c[ui_gray_2] Každých 30 sekund se vyléčí v stejné míře jako při použití %c[d_green]obvazu
+    </text>
+</string>
+<string id="st_perk_cybermedic_desc_2">
+    <text>Obleč se do implantátu, který pomáhá postupně zastavit krvácení zranění.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zranění krvácení se bude hojit v průběhu času rychleji s %c[yellow]střední rychlostí\n
+    %c[d_blue] - %c[ui_gray_2] Každých 20 sekund se vyléčí v stejné míře jako při použití %c[d_green]obvazu
+    </text>
+</string>
+<string id="st_perk_cybermedic_desc_3">
+    <text>Obleč se do implantátu, který pomáhá postupně zastavit krvácení zranění.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zranění krvácení se bude hojit v průběhu času rychleji s %c[d_green]vysokou rychlostí\n
+    %c[d_blue] - %c[ui_gray_2] Každých 10 sekund se vyléčí v stejné míře jako při použití %c[d_green]obvazu
+    </text>
+</string>
+
+<string id="st_perk_comfort_food">
+    <text>Pohodlné Jídlo</text>
+</string>
+<string id="st_perk_comfort_food_desc">
+    <text>Když jíš nebo piješ, obdržíš zdravotní bonus rovnající se části obnovení žízně nebo hladu (toho, co má vyšší obnovu).</text>
+</string>
+<string id="st_perk_comfort_food_desc_1">
+    <text>Tvoje tělo se naučilo přežít na "chléb" Zóny.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při jídle nebo pití obdržíš zdraví rovnající se části obnovy žízně nebo hladu\n
+    %c[d_blue] - %c[ui_gray_2] Obnovu zdraví určí to, která z těchto dvou má vyšší hodnotu
+    </text>
+</string>
+
+	
+
+ <string id="st_perk_ammo_finder">
+    <text>Naleziště Munice</text>
+</string>
+<string id="st_perk_ammo_finder_desc">
+    <text>Zvyšuje množství munice nalezené při loupení těla.</text>
+</string>
+<string id="st_perk_ammo_finder_desc_1">
+    <text>Tvoje hrozivá aura způsobila, že Stalkři ve Zóně nosí více munice, pokud se ocitnou na konci tvé zbraně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Mrtví Stalkři mohou upustit %c[d_green]o 20% více %c[ui_gray_2]munice
+    </text>
+</string>
+<string id="st_perk_ammo_finder_desc_2">
+    <text>Tvoje hrozivá aura způsobila, že Stalkři ve Zóně nosí více munice, pokud se ocitnou na konci tvé zbraně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Mrtví Stalkři mohou upustit %c[d_green]o 40% více %c[ui_gray_2]munice
+    </text>
+</string>
+<string id="st_perk_ammo_finder_desc_3">
+    <text>Tvoje hrozivá aura způsobila, že Stalkři ve Zóně nosí více munice, pokud se ocitnou na konci tvé zbraně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Mrtví Stalkři mohou upustit %c[d_green]o 60% více %c[ui_gray_2]munice
+    </text>
+</string>
+<string id="st_perk_ammo_finder_desc_4">
+    <text>Tvoje hrozivá aura způsobila, že Stalkři ve Zóně nosí více munice, pokud se ocitnou na konci tvé zbraně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Mrtví Stalkři mohou upustit %c[d_green]o 80% více %c[ui_gray_2]munice
+    </text>
+</string>
+<string id="st_perk_ammo_finder_desc_5">
+    <text>Tvoje hrozivá aura způsobila, že Stalkři ve Zóně nosí více munice, pokud se ocitnou na konci tvé zbraně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Mrtví Stalkři mohou upustit %c[d_green]o 100% více %c[ui_gray_2]munice
+    </text>
+</string>
+
+<string id="st_perk_medicine_man">
+    <text>Léčitel</text>
+</string>
+<string id="st_perk_medicine_man_desc">
+    <text>Při loupení nepřítele máš šanci najít lékařský předmět. Kvalita předmětu se zvyšuje s úrovní tohoto dovednosti.</text>
+</string>
+<string id="st_perk_medicine_man_desc_1">
+    <text>Zvěsti o tvé síle přiměly Stalkře nosit s sebou na poli více zásob.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]7% %c[ui_gray_2]šanci najít %c[d_red]lékařský předmět
+    </text>
+</string>
+<string id="st_perk_medicine_man_desc_2">
+    <text>Zvěsti o tvé síle přiměly Stalkře nosit s sebou na poli více zásob.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]14% %c[ui_gray_2]šanci najít %c[d_orange]nepatrně lepší kvalitu lékařského předmětu
+    </text>
+</string>
+<string id="st_perk_medicine_man_desc_3">
+    <text>Zvěsti o tvé síle přiměly Stalkře nosit s sebou na poli více zásob.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]21% %c[ui_gray_2]šanci najít %c[yellow]lepší kvalitu lékařského předmětu
+    </text>
+</string>
+<string id="st_perk_medicine_man_desc_4">
+    <text>Zvěsti o tvé síle přiměly Stalkře nosit s sebou na poli více zásob.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]28% %c[ui_gray_2]šanci najít %c[d_green]výrazně lepší kvalitu lékařského předmětu
+    </text>
+</string>
+<string id="st_perk_medicine_man_desc_5">
+    <text>Zvěsti o tvé síle přiměly Stalkře nosit s sebou na poli více zásob.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]35% %c[ui_gray_2]šanci najít %c[d_green]lepší a vysokou kvalitu lékařského předmětu
+    </text>
+</string>
+
+	
+	
+<string id="st_perk_artefinder">
+    <text>Nálezce Artefaktů</text>
+</string>
+<string id="st_perk_artefinder_desc">
+    <text>Při loupení nepřítele máš malou šanci najít artefakt, který je přirozený pro tvoji aktuální polohu. Navíc každý nalezený artefakt bude mít nyní vyšší efektivitu než obvykle.</text>
+</string>
+<string id="st_perk_artefinder_desc_1">
+    <text>Artefakty jsou nyní nejžádanějšími předměty na trhu! A na tvé štěstí, to znamená, že se otevřela nová cesta lovu artefaktů...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]1% %c[ui_gray_2]šanci najít artefakt, který je přirozený pro tvoji aktuální polohu\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení šance na spawn artefaktů o %c[d_green]3%\n
+    %c[d_blue] - %c[ui_gray_2] Každý nalezený artefakt nyní bude mít vyšší efektivitu než obvykle (%c[yellow]až 11 - 24% procent%c[ui_gray_2])
+    </text>
+</string>
+<string id="st_perk_artefinder_desc_2">
+    <text>Artefakty jsou nyní nejžádanějšími předměty na trhu! A na tvé štěstí, to znamená, že se otevřela nová cesta lovu artefaktů...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]2% %c[ui_gray_2]šanci najít artefakt, který je přirozený pro tvoji aktuální polohu\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení šance na spawn artefaktů o %c[d_green]6%\n
+    %c[d_blue] - %c[ui_gray_2] Každý nalezený artefakt nyní bude mít vyšší efektivitu než obvykle (%c[yellow]až 13 - 26% procent%c[ui_gray_2])
+    </text>
+</string>
+<string id="st_perk_artefinder_desc_3">
+    <text>Artefakty jsou nyní nejžádanějšími předměty na trhu! A na tvé štěstí, to znamená, že se otevřela nová cesta lovu artefaktů...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]3% %c[ui_gray_2]šanci najít artefakt, který je přirozený pro tvoji aktuální polohu\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení šance na spawn artefaktů o %c[d_green]9%\n
+    %c[d_blue] - %c[ui_gray_2] Každý nalezený artefakt nyní bude mít vyšší efektivitu než obvykle (%c[yellow]až 17 - 30% procent%c[ui_gray_2])
+    </text>
+</string>
+<string id="st_perk_artefinder_desc_4">
+    <text>Artefakty jsou nyní nejžádanějšími předměty na trhu! A na tvé štěstí, to znamená, že se otevřela nová cesta lovu artefaktů...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]4% %c[ui_gray_2]šanci najít artefakt, který je přirozený pro tvoji aktuální polohu\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení šance na spawn artefaktů o %c[d_green]12%\n
+    %c[d_blue] - %c[ui_gray_2] Každý nalezený artefakt nyní bude mít vyšší efektivitu než obvykle (%c[yellow]až 22 - 35% procent%c[ui_gray_2])
+    </text>
+</string>
+<string id="st_perk_artefinder_desc_5">
+    <text>Artefakty jsou nyní nejžádanějšími předměty na trhu! A na tvé štěstí, to znamená, že se otevřela nová cesta lovu artefaktů...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]5% %c[ui_gray_2]šanci najít artefakt, který je přirozený pro tvoji aktuální polohu\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení šance na spawn artefaktů o %c[d_green]15%\n
+    %c[d_blue] - %c[ui_gray_2] Každý nalezený artefakt nyní bude mít vyšší efektivitu než obvykle (%c[yellow]až 28 - 41% procent%c[ui_gray_2])
+    </text>
+</string>
+
+<string id="st_perk_midas_touch">
+    <text>Midasův Dotek</text>
+</string>
+<string id="st_perk_midas_touch_desc">
+    <text>Při loupení mrtvých nepřátel obdržíš bonusové peníze.</text>
+</string>
+<string id="st_perk_midas_touch_desc_1">
+    <text>Nebezpečí Zóny ti udělilo zvláštní mutaci. Každý peníz, který najdeš, se zdá, že se v tvých rukách množí!\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při loupení mrtvých nepřátel obdržíš %c[d_green]5% bonusové peníze
+    </text>
+</string>
+<string id="st_perk_midas_touch_desc_2">
+    <text>Nebezpečí Zóny ti udělilo zvláštní mutaci. Každý peníz, který najdeš, se zdá, že se v tvých rukách množí!\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při loupení mrtvých nepřátel obdržíš %c[d_green]10% bonusové peníze
+    </text>
+</string>
+<string id="st_perk_midas_touch_desc_3">
+    <text>Nebezpečí Zóny ti udělilo zvláštní mutaci. Každý peníz, který najdeš, se zdá, že se v tvých rukách množí!\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při loupení mrtvých nepřátel obdržíš %c[d_green]15% bonusové peníze
+    </text>
+</string>
+<string id="st_perk_midas_touch_desc_4">
+    <text>Nebezpečí Zóny ti udělilo zvláštní mutaci. Každý peníz, který najdeš, se zdá, že se v tvých rukách množí!\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při loupení mrtvých nepřátel obdržíš %c[d_green]20% bonusové peníze
+    </text>
+</string>
+<string id="st_perk_midas_touch_desc_5">
+    <text>Nebezpečí Zóny ti udělilo zvláštní mutaci. Každý peníz, který najdeš, se zdá, že se v tvých rukách množí!\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při loupení mrtvých nepřátel obdržíš %c[d_green]25% bonusové peníze
+    </text>
+</string>
+
+	
+	<string id="st_perk_master_zone">
+    <text>Mistr Zóny</text>
+</string>
+<string id="st_perk_master_zone_desc">
+    <text>Naučil jsi se triky Zóny a jak se napojit na Noosféru. S touto mocí začnou artefakty připojené k tvému pásu pomalu samy sebe opravovat.</text>
+</string>
+<string id="st_perk_master_zone_desc_1">
+    <text>Stal ses jedním s Zónou. Noosféra je nyní stále přítomnou silou pro tvou anomální výbavu.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Jakékoli artefakty nebo příslušenství na tvém pásu se %c[d_green]pomalu opravují %c[ui_gray_2]časem
+    </text>
+</string>
+
+<string id="st_perk_plate_finder">
+    <text>Nálezce pancířů</text>
+</string>
+<string id="st_perk_plate_finder_desc">
+    <text>Při loupení nepřítele máš malou šanci najít poškozený pancíř na nich.</text>
+</string>
+<string id="st_perk_plate_finder_desc_1">
+    <text>Stalkerové začali používat kevlarové pancíře mnohem častěji.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]2% %c[ui_gray_2]šanci najít náhodně poškozený pancíř
+    </text>
+</string>
+<string id="st_perk_plate_finder_desc_2">
+    <text>Stalkerové začali používat kevlarové pancíře mnohem častěji.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]5% %c[ui_gray_2]šanci najít náhodně poškozený pancíř
+    </text>
+</string>
+<string id="st_perk_plate_finder_desc_3">
+    <text>Stalkerové začali používat kevlarové pancíře mnohem častěji.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]10% %c[ui_gray_2]šanci najít náhodně poškozený pancíř
+    </text>
+</string>
+<string id="st_perk_plate_finder_desc_4">
+    <text>Stalkerové začali používat kevlarové pancíře mnohem častěji.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]15% %c[ui_gray_2]šanci najít náhodně poškozený pancíř
+    </text>
+</string>
+<string id="st_perk_plate_finder_desc_5">
+    <text>Stalkerové začali používat kevlarové pancíře mnohem častěji.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Loupení mrtvých těl má %c[d_green]20% %c[ui_gray_2]šanci najít náhodně poškozený pancíř
+    </text>
+</string>
+
+	
+<string id="st_perk_spiked">
+    <text>Trnitý</text>
+</string>
+<string id="st_perk_spiked_desc">
+    <text>Když utrpíš poškození, tvůj nepřítel utrpí také část tohoto poškození.</text>
+</string>
+<string id="st_perk_spiked_desc_1">
+    <text>Se všemi akcemi přichází opačná reakce. Tato reakce však není rovna.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Každé příchozí poškození se %c[d_green]5% %c[ui_gray_2]odezve zpět na tvého útočníka\n
+    %c[d_red] - %c[ui_gray_2] Nepříchozí poškození nesnižuje
+    </text>
+</string>
+<string id="st_perk_spiked_desc_2">
+    <text>Se všemi akcemi přichází opačná reakce. Tato reakce však není rovna.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Každé příchozí poškození se %c[d_green]10% %c[ui_gray_2]odezve zpět na tvého útočníka\n
+    %c[d_red] - %c[ui_gray_2] Nepříchozí poškození nesnižuje
+    </text>
+</string>
+<string id="st_perk_spiked_desc_3">
+    <text>Se všemi akcemi přichází opačná reakce. Tato reakce však není rovna.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Každé příchozí poškození se %c[d_green]15% %c[ui_gray_2]odezve zpět na tvého útočníka\n
+    %c[d_red] - %c[ui_gray_2] Nepříchozí poškození nesnižuje
+    </text>
+</string>
+<string id="st_perk_spiked_desc_4">
+    <text>Se všemi akcemi přichází opačná reakce. Tato reakce však není rovna.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Každé příchozí poškození se %c[d_green]20% %c[ui_gray_2]odezve zpět na tvého útočníka\n
+    %c[d_red] - %c[ui_gray_2] Nepříchozí poškození nesnižuje
+    </text>
+</string>
+<string id="st_perk_spiked_desc_5">
+    <text>Se všemi akcemi přichází opačná reakce. Tato reakce však není rovna.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Každé příchozí poškození se %c[d_green]25% %c[ui_gray_2]odezve zpět na tvého útočníka\n
+    %c[d_red] - %c[ui_gray_2] Nepříchozí poškození nesnižuje
+    </text>
+</string>
+
+<string id="st_perk_anomaly_defense">
+    <text>Ochrana proti anomáliím</text>
+</string>
+<string id="st_perk_anomaly_defense_desc">
+    <text>Anomálie ti budou způsobovat snížené poškození.</text>
+</string>
+<string id="st_perk_anomaly_defense_desc_1">
+    <text>Anomálie začínají být méně hrozbou. Spíše se stávají obtěžujícími.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Anomálie způsobují %c[d_green]5% %c[ui_gray_2]méně poškození
+    </text>
+</string>
+<string id="st_perk_anomaly_defense_desc_2">
+    <text>Anomálie začínají být méně hrozbou. Spíše se stávají obtěžujícími.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Anomálie způsobují %c[d_green]10% %c[ui_gray_2]méně poškození
+    </text>
+</string>
+<string id="st_perk_anomaly_defense_desc_3">
+    <text>Anomálie začínají být méně hrozbou. Spíše se stávají obtěžujícími.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Anomálie způsobují %c[d_green]15% %c[ui_gray_2]méně poškození
+    </text>
+</string>
+<string id="st_perk_anomaly_defense_desc_4">
+    <text>Anomálie začínají být méně hrozbou. Spíše se stávají obtěžujícími.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Anomálie způsobují %c[d_green]20% %c[ui_gray_2]méně poškození
+    </text>
+</string>
+<string id="st_perk_anomaly_defense_desc_5">
+    <text>Anomálie začínají být méně hrozbou. Spíše se stávají obtěžujícími.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Anomálie způsobují %c[d_green]25% %c[ui_gray_2]méně poškození
+    </text>
+</string>
+
+
+
+	<string id="st_perk_iron_resolve">
+    <text>Železná odhodlanost</text>
+</string>
+<string id="st_perk_iron_resolve_desc">
+    <text>Nyní se rychleji vzpamatováváš z jakýchkoli efektů závratě nebo opilosti.</text>
+</string>
+<string id="st_perk_iron_resolve_desc_1">
+    <text>Díky tvé nezlomné vůli tě méně ovlivňují jakékoliv ochromující účinky.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Rychlejší zotavení z jakýchkoli %c[d_orange]efektů závratě nebo opilosti %c[ui_gray_2]v průběhu času
+    </text>
+</string>
+<string id="st_perk_iron_resolve_desc_2">
+    <text>Díky tvé nezlomné vůli tě méně ovlivňují jakékoliv ochromující účinky.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Rychlejší zotavení z jakýchkoli %c[yellow]efektů závratě nebo opilosti %c[ui_gray_2]v průběhu času
+    </text>
+</string>
+<string id="st_perk_iron_resolve_desc_3">
+    <text>Díky tvé nezlomné vůli tě méně ovlivňují jakékoliv ochromující účinky.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Rychlejší zotavení z jakýchkoli %c[d_green]efektů závratě nebo opilosti %c[ui_gray_2]v průběhu času
+    </text>
+</string>
+
+<string id="st_perk_silver_tongued">
+    <text>Stříbrojazyčný</text>
+</string>
+<string id="st_perk_silver_tongued_desc">
+    <text>Při vyjednávání dostaneš lepší ceny při nákupu nebo prodeji.</text>
+</string>
+<string id="st_perk_silver_tongued_desc_1">
+    <text>Tvoje charisma a půvab jsou v Zóně beze zbytku.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Dostaneš %c[d_green]5% %c[ui_gray_2]lepší ceny při nákupu nebo prodeji
+    </text>
+</string>
+<string id="st_perk_silver_tongued_desc_2">
+    <text>Tvoje charisma a půvab jsou v Zóně beze zbytku.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Dostaneš %c[d_green]10% %c[ui_gray_2]lepší ceny při nákupu nebo prodeji
+    </text>
+</string>
+<string id="st_perk_silver_tongued_desc_3">
+    <text>Tvoje charisma a půvab jsou v Zóně beze zbytku.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Dostaneš %c[d_green]15% %c[ui_gray_2]lepší ceny při nákupu nebo prodeji
+    </text>
+</string>
+<string id="st_perk_silver_tongued_desc_4">
+    <text>Tvoje charisma a půvab jsou v Zóně beze zbytku.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Dostaneš %c[d_green]20% %c[ui_gray_2]lepší ceny při nákupu nebo prodeji
+    </text>
+</string>
+<string id="st_perk_silver_tongued_desc_5">
+    <text>Tvoje charisma a půvab jsou v Zóně beze zbytku.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Dostaneš %c[d_green]25% %c[ui_gray_2]lepší ceny při nákupu nebo prodeji
+    </text>
+</string>
+
+	
+	<!-- Now named Thick Skin: damage resistance from mutant attacks !-->
+	<string id="st_perk_mutant_slayer">
+    <text>Tlustá kůže</text>
+</string>
+<string id="st_perk_mutant_slayer_desc">
+    <text>Nyní od mutantů dostáváte menší poškození.</text>
+</string>
+<string id="st_perk_mutant_slayer_desc_1">
+    <text>Opakované útoky mutantů zanechaly na vaší kůži tlusté zrohovatělé místa.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní od %c[yellow]mutantů %c[ui_gray_2]dostáváte o %c[d_green]5 %c[ui_gray_2]méně poškození
+    </text>
+</string>
+<string id="st_perk_mutant_slayer_desc_2">
+    <text>Opakované útoky mutantů zanechaly na vaší kůži tlusté zrohovatělé místa.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní od %c[yellow]mutantů %c[ui_gray_2]dostáváte o %c[d_green]10 %c[ui_gray_2]méně poškození
+    </text>
+</string>
+<string id="st_perk_mutant_slayer_desc_3">
+    <text>Opakované útoky mutantů zanechaly na vaší kůži tlusté zrohovatělé místa.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní od %c[yellow]mutantů %c[ui_gray_2]dostáváte o %c[d_green]15 %c[ui_gray_2]méně poškození\n
+    %c[d_blue] - %c[ui_gray_2] Účinnost se v noci zvyšuje na %c[d_green]22.5%
+    </text>
+</string>
+<string id="st_perk_mutant_slayer_desc_4">
+    <text>Opakované útoky mutantů zanechaly na vaší kůži tlusté zrohovatělé místa.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní od %c[yellow]mutantů %c[ui_gray_2]dostáváte o %c[d_green]20 %c[ui_gray_2]méně poškození\n
+    %c[d_blue] - %c[ui_gray_2] Účinnost se v noci zvyšuje na %c[d_green]30%
+    </text>
+</string>
+<string id="st_perk_mutant_slayer_desc_5">
+    <text>Opakované útoky mutantů zanechaly na vaší kůži tlusté zrohovatělé místa.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní od %c[yellow]mutantů %c[ui_gray_2]dostáváte o %c[d_green]25 %c[ui_gray_2]méně poškození\n
+    %c[d_blue] - %c[ui_gray_2] Účinnost se v noci zvyšuje na %c[d_green]37.5%
+    </text>
+</string>
+
+<string id="st_perk_vampirism">
+    <text>Krvavé odcizení</text>
+</string>
+<string id="st_perk_vampirism_desc">
+    <text>Krvavý odcizení - Při zabíjení nepřítele získáte malé množství zdraví a vytrvalosti.</text>
+</string>
+<string id="st_perk_vampirism_desc_1">
+    <text>Vystavení se upírům vám dalo překvapivě užitečnou mutaci.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při zabití nepřítele získáte %c[d_green]2.5 %c[ui_gray_2]zdraví a vytrvalosti
+    </text>
+</string>
+<string id="st_perk_vampirism_desc_2">
+    <text>Vystavení se upírům vám dalo překvapivě užitečnou mutaci.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při zabití nepřítele získáte %c[d_green]5 %c[ui_gray_2]zdraví a vytrvalosti
+    </text>
+</string>
+<string id="st_perk_vampirism_desc_3">
+    <text>Vystavení se upírům vám dalo překvapivě užitečnou mutaci.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Při zabití nepřítele získáte %c[d_green]7.5 %c[ui_gray_2]zdraví a vytrvalosti
+    </text>
+</string>
+
+	
+	
+	<string id="st_perk_warmonger">
+    <text>Válečný štváč</text>
+</string>
+<string id="st_perk_warmonger_desc">
+    <text>Při zabití nepřítele získáte třetinu velikosti zásobníku vaší zbraně jako munici do vašeho batohu (min. velikost zásobníku 3).</text>
+</string>
+<string id="st_perk_warmonger_desc_1">
+    <text>Zóna se rozhodla vám pomoci v bojích proti tvojím nepřátelům.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Získáte %c[d_green]třetinu velikosti zásobníku vaší zbraně %c[ui_gray_2]jako munici do vašeho batohu\n
+    %c[d_red] - %c[ui_gray_2] Vyžaduje minimální velikost zásobníku 3
+    </text>
+</string>
+
+<string id="st_perk_deadeye">
+    <text>Mrtvý zrak</text>
+</string>
+<string id="st_perk_deadeye_desc">
+    <text>Náhodně budete provádět kritický zásah, který způsobuje větší poškození.</text>
+</string>
+<string id="st_perk_deadeye_desc_1">
+    <text>Naučili jste se slabá místa různých zbrojí v Zóně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_orange] - %c[ui_gray_2] Máš %c[d_orange]0,1% základní šanci %c[ui_gray_2]na provedení kritického zásahu\n
+    %c[d_blue] - %c[ui_gray_2] Kritické zásahy zvyšují vaše poškození o %c[d_green]25%\n
+    %c[d_red] - %c[ui_gray_2] Body v dovednosti "Lucky Strike" přepíší šanci na kritický zásah této dovednosti
+    </text>
+</string>
+<string id="st_perk_deadeye_desc_2">
+    <text>Naučili jste se slabá místa různých zbrojí v Zóně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_orange] - %c[ui_gray_2] Máš %c[d_orange]0,1% základní šanci %c[ui_gray_2]na provedení kritického zásahu\n
+    %c[d_blue] - %c[ui_gray_2] Kritické zásahy zvyšují vaše poškození o %c[d_green]50%\n
+    %c[d_red] - %c[ui_gray_2] Body v dovednosti "Lucky Strike" přepíší šanci na kritický zásah této dovednosti
+    </text>
+</string>
+<string id="st_perk_deadeye_desc_3">
+    <text>Naučili jste se slabá místa různých zbrojí v Zóně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_orange] - %c[ui_gray_2] Máš %c[d_orange]0,1% základní šanci %c[ui_gray_2]na provedení kritického zásahu\n
+    %c[d_blue] - %c[ui_gray_2] Kritické zásahy zvyšují vaše poškození o %c[d_green]75%\n
+    %c[d_red] - %c[ui_gray_2] Body v dovednosti "Lucky Strike" přepíší šanci na kritický zásah této dovednosti
+    </text>
+</string>
+<string id="st_perk_deadeye_desc_4">
+    <text>Naučili jste se slabá místa různých zbrojí v Zóně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_orange] - %c[ui_gray_2] Máš %c[d_orange]0,1% základní šanci %c[ui_gray_2]na provedení kritického zásahu\n
+    %c[d_blue] - %c[ui_gray_2] Kritické zásahy zvyšují vaše poškození o %c[d_green]100%\n
+    %c[d_red] - %c[ui_gray_2] Body v dovednosti "Lucky Strike" přepíší šanci na kritický zásah této dovednosti
+    </text>
+</string>
+<string id="st_perk_deadeye_desc_5">
+    <text>Naučili jste se slabá místa různých zbrojí v Zóně.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_orange] - %c[ui_gray_2] Máš %c[d_orange]0,1% základní šanci %c[ui_gray_2]na provedení kritického zásahu\n
+    %c[d_blue] - %c[ui_gray_2] Kritické zásahy zvyšují vaše poškození o %c[d_green]125%\n
+    %c[d_red] - %c[ui_gray_2] Body v dovednosti "Lucky Strike" přepíší šanci na kritický zásah této dovednosti
+    </text>
+</string>
+
+	
+	<string id="st_perk_lucky_strike">
+    <text>Lucky Strike</text>
+</string>
+<string id="st_perk_lucky_strike_desc">
+    <text>Máš vyšší šanci na zásah kritickým zásahem.</text>
+</string>
+<string id="st_perk_lucky_strike_desc_1">
+    <text>Někdy je vše, co potřebujete, šťastný zásah.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]1% základní šanci %c[ui_gray_2]udělit kritický zásah\n
+    %c[d_blue] - %c[ui_gray_2] Šance na kritický zásah se zvyšuje na %c[d_green]1,5% při zásahu do hlavy\n
+    %c[d_orange] - %c[ui_gray_2] Kritické zásahy násobí váš poškození %c[d_orange]10krát\n
+    %c[d_red] - %c[ui_gray_2] Body do schopnosti Deadeye přepíší násobitel poškození kritického zásahu této dovednosti
+    </text>
+</string>
+<string id="st_perk_lucky_strike_desc_2">
+    <text>Někdy je vše, co potřebujete, šťastný zásah.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]4% základní šanci %c[ui_gray_2]udělit kritický zásah\n
+    %c[d_blue] - %c[ui_gray_2] Šance na kritický zásah se zvyšuje na %c[d_green]6% při zásahu do hlavy\n
+    %c[d_orange] - %c[ui_gray_2] Kritické zásahy násobí váš poškození %c[d_orange]10krát\n
+    %c[d_red] - %c[ui_gray_2] Body do schopnosti Deadeye přepíší násobitel poškození kritického zásahu této dovednosti
+    </text>
+</string>
+<string id="st_perk_lucky_strike_desc_3">
+    <text>Někdy je vše, co potřebujete, šťastný zásah.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]9% základní šanci %c[ui_gray_2]udělit kritický zásah\n
+    %c[d_blue] - %c[ui_gray_2] Šance na kritický zásah se zvyšuje na %c[d_green]13,5% při zásahu do hlavy\n
+    %c[d_orange] - %c[ui_gray_2] Kritické zásahy násobí váš poškození %c[d_orange]10krát\n
+    %c[d_red] - %c[ui_gray_2] Body do schopnosti Deadeye přepíší násobitel poškození kritického zásahu této dovednosti
+    </text>
+</string>
+<string id="st_perk_lucky_strike_desc_4">
+    <text>Někdy je vše, co potřebujete, šťastný zásah.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]16% základní šanci %c[ui_gray_2]udělit kritický zásah\n
+    %c[d_blue] - %c[ui_gray_2] Šance na kritický zásah se zvyšuje na %c[d_green]24% při zásahu do hlavy\n
+    %c[d_orange] - %c[ui_gray_2] Kritické zásahy násobí váš poškození %c[d_orange]10krát\n
+    %c[d_red] - %c[ui_gray_2] Body do schopnosti Deadeye přepíší násobitel poškození kritického zásahu této dovednosti
+    </text>
+</string>
+<string id="st_perk_lucky_strike_desc_5">
+    <text>Někdy je vše, co potřebujete, šťastný zásah.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Máš %c[d_green]25% základní šanci %c[ui_gray_2]udělit kritický zásah\n
+    %c[d_blue] - %c[ui_gray_2] Šance na kritický zásah se zvyšuje na %c[d_green]37,5% při zásahu do hlavy\n
+    %c[d_orange] - %c[ui_gray_2] Kritické zásahy násobí váš poškození %c[d_orange]10krát\n
+    %c[d_red] - %c[ui_gray_2] Body do schopnosti Deadeye přepíší násobitel poškození kritického zásahu této dovednosti
+    </text>
+</string>
+
+<string id="st_perk_strong_back">
+    <text>Silné Záda</text>
+</string>
+<string id="st_perk_strong_back_desc">
+    <text>Zvyšte svou nosnost s každým stupněm.</text>
+</string>
+<string id="st_perk_strong_back_desc_1">
+    <text>Tvé cesty Zónou posílily tvé tělo.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení nosnosti o celkem %c[d_green]5 kg
+    </text>
+</string>
+<string id="st_perk_strong_back_desc_2">
+    <text>Tvé cesty Zónou posílily tvé tělo.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení nosnosti o celkem %c[d_green]10 kg
+    </text>
+</string>
+<string id="st_perk_strong_back_desc_3">
+    <text>Tvé cesty Zónou posílily tvé tělo.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení nosnosti o celkem %c[d_green]15 kg\n
+    %c[d_blue] - %c[ui_gray_2] Můžete rychle cestovat i při %c[d_green]přetížení\n
+    %c[d_red] - %c[ui_gray_2] Ostatní pravidla rychlého cestování stále platí
+    </text>
+</string>
+<string id="st_perk_strong_back_desc_4">
+    <text>Tvé cesty Zónou posílily tvé tělo.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení nosnosti o celkem %c[d_green]20 kg\n
+    %c[d_blue] - %c[ui_gray_2] Můžete rychle cestovat i při %c[d_green]přetížení\n
+    %c[d_red] - %c[ui_gray_2] Ostatní pravidla rychlého cestování stále platí
+    </text>
+</string>
+<string id="st_perk_strong_back_desc_5">
+    <text>Tvé cesty Zónou posílily tvé tělo.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení nosnosti o celkem %c[d_green]25 kg\n
+    %c[d_blue] - %c[ui_gray_2] Můžete rychle cestovat i při %c[d_green]přetížení\n
+    %c[d_red] - %c[ui_gray_2] Ostatní pravidla rychlého cestování stále platí
+    </text>
+</string>
+
+<string id="st_perk_slow_metabolism">
+    <text>Pomalý Metabolismus</text>
+</string>
+<string id="st_perk_slow_metabolism_desc">
+    <text>Snížení ztráty nasycení a absorpce radiace z konzumovaných předmětů.</text>
+</string>
+<string id="st_perk_slow_metabolism_desc_1">
+    <text>Tvůj žalůdek se stal odolnější vůči škodlivým účinkům požívaných léků a ozařovaných potravin.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Ztráta %c[d_green]18% méně nasycení %c[ui_gray_2]při konzumaci jakéhokoli předmětu, který ho snižuje\n
+    %c[d_blue] - %c[ui_gray_2] Přijetí %c[d_green]18% méně radiace %c[ui_gray_2] z konzumovaných předmětů
+    </text>
+</string>
+<string id="st_perk_slow_metabolism_desc_2">
+    <text>Tvůj žalůdek se stal odolnější vůči škodlivým účinkům požívaných léků a ozařovaných potravin.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Ztráta %c[d_green]36% méně nasycení %c[ui_gray_2]při konzumaci jakéhokoli předmětu, který ho snižuje\n
+    %c[d_blue] - %c[ui_gray_2] Přijetí %c[d_green]36% méně radiace %c[ui_gray_2] z konzumovaných předmětů
+    </text>
+</string>
+<string id="st_perk_slow_metabolism_desc_3">
+    <text>Tvůj žalůdek se stal odolnější vůči škodlivým účinkům požívaných léků a ozařovaných potravin.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Ztráta %c[d_green]54% méně nasycení %c[ui_gray_2]při konzumaci jakéhokoli předmětu, který ho snižuje\n
+    %c[d_blue] - %c[ui_gray_2] Přijetí %c[d_green]54% méně radiace %c[ui_gray_2] z konzumovaných předmětů
+    </text>
+</string>
+<string id="st_perk_slow_metabolism_desc_4">
+    <text>Tvůj žalůdek se stal odolnější vůči škodlivým účinkům požívaných léků a ozařovaných potravin.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Ztráta %c[d_green]72% méně nasycení %c[ui_gray_2]při konzumaci jakéhokoli předmětu, který ho snižuje\n
+    %c[d_blue] - %c[ui_gray_2] Přijetí %c[d_green]72% méně radiace %c[ui_gray_2] z konzumovaných předmětů
+    </text>
+</string>
+<string id="st_perk_slow_metabolism_desc_5">
+    <text>Váš tělo se přizpůsobilo užívání léků a drog.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Ztráta %c[d_green]90% méně nasycení %c[ui_gray_2]při konzumaci jakéhokoli předmětu, který ho snižuje\n
+    %c[d_blue] - %c[ui_gray_2] Přijetí %c[d_green]90% méně radiace %c[ui_gray_2] z konzumovaných předmětů\n
+    %c[d_blue] - %c[ui_gray_2] Spotřebitelné předměty, které obnovují nasycení, dávají %c[d_green]polovinu jejich nasycení %c[ui_gray_2]jako dodatečný impuls po dobu %c[yellow]1 minuty
+    </text>
+</string>
+
+	<string id="st_perk_zone_gunsmith">
+    <text>Lepidlo</text>
+</string>
+<string id="st_perk_zone_gunsmith_desc">
+    <text>Nyní můžeš použít Kovový šrot k opravě libovolného předmětu (vyjma artefaktů).</text>
+</string>
+<string id="st_perk_zone_gunsmith_desc_1">
+    <text>Experimentování s opravami tě naučilo používat základní šrot jako materiál k opravám.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Můžete použít %c[yellow]Kovové šrotky %c[ui_gray_2]jako bonusový předmět během každé opravy\n
+    %c[d_blue] - %c[ui_gray_2] Šrotky budou mít %c[d_green]+3% %c[ui_gray_2]opravný bonus\n
+    %c[d_red] - %c[ui_gray_2] Kovové šrotky NELZE použít pro posílení artefaktů
+    </text>
+</string>
+<string id="st_perk_zone_gunsmith_desc_2">
+    <text>Experimentování s opravami tě naučilo používat základní šrot jako materiál k opravám.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Můžete použít %c[yellow]Kovové šrotky %c[ui_gray_2]jako bonusový předmět během každé opravy\n
+    %c[d_blue] - %c[ui_gray_2] Šrotky budou mít %c[d_green]+4% %c[ui_gray_2]opravný bonus\n
+    %c[d_red] - %c[ui_gray_2] Kovové šrotky NELZE použít pro posílení artefaktů
+    </text>
+</string>
+<string id="st_perk_zone_gunsmith_desc_3">
+    <text>Experimentování s opravami tě naučilo používat základní šrot jako materiál k opravám.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Můžete použít %c[yellow]Kovové šrotky %c[ui_gray_2]jako bonusový předmět během každé opravy\n
+    %c[d_blue] - %c[ui_gray_2] Šrotky budou mít %c[d_green]+5% %c[ui_gray_2]opravný bonus\n
+    %c[d_blue] - %c[ui_gray_2] Bonusové opravné předměty mají %c[d_green]10% %c[ui_gray_2]šanci na nekonzumování\n
+    %c[d_red] - %c[ui_gray_2] Kovové šrotky NELZE použít pro posílení artefaktů
+    </text>
+</string>
+<string id="st_perk_zone_gunsmith_desc_4">
+    <text>Experimentování s opravami tě naučilo používat základní šrot jako materiál k opravám.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Můžete použít %c[yellow]Kovové šrotky %c[ui_gray_2]jako bonusový předmět během každé opravy\n
+    %c[d_blue] - %c[ui_gray_2] Šrotky budou mít %c[d_green]+6% %c[ui_gray_2]opravný bonus\n
+    %c[d_blue] - %c[ui_gray_2] Bonusové opravné předměty mají %c[d_green]30% %c[ui_gray_2]šanci na nekonzumování\n
+    %c[d_red] - %c[ui_gray_2] Kovové šrotky NELZE použít pro posílení artefaktů
+    </text>
+</string>
+<string id="st_perk_zone_gunsmith_desc_5">
+    <text>Experimentování s opravami tě naučilo používat základní šrot jako materiál k opravám.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Můžete použít %c[yellow]Kovové šrotky %c[ui_gray_2]jako bonusový předmět během každé opravy\n
+    %c[d_blue] - %c[ui_gray_2] Šrotky budou mít %c[d_green]+7% %c[ui_gray_2]opravný bonus\n
+    %c[d_blue] - %c[ui_gray_2] Bonusové opravné předměty mají %c[d_green]60% %c[ui_gray_2]šanci na nekonzumování\n
+    %c[d_red] - %c[ui_gray_2] Kovové šrotky NELZE použít pro posílení artefaktů
+    </text>
+</string>
+
+<string id="st_perk_the_exalted">
+    <text>Uctívač</text>
+</string>
+<string id="st_perk_the_exalted_desc">
+    <text>Vaše vliv mezi přátelskými frakcemi přináší nové výhody. Jakákoli frakce, ke které nepatříte a Máš s ní minimálně 1000 Dobrých vůlí, vám nyní nabídne možnost vyměnit jiné brnění za podobné brnění patřící k této frakci. Kromě toho vám mohou být dostupné jakékoli frakčně vázané dialogové možnosti a úkoly této frakce.</text>
+</string>
+<string id="st_perk_the_exalted_desc_1">
+    <text>Vaše vliv mezi přátelskými frakcemi přináší nové výhody.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní můžete vyměnit brnění u %c[d_green]jakékoli přátelské frakce\n
+    %c[d_blue] - %c[ui_gray_2] Většina frakčně vázaných úkolů a dialogových možností (jako je výměna brnění v GAMMA) od ostatních %c[d_green]přátelských frakcí %c[ui_gray_2]vám je nyní dostupná\n
+    %c[d_red] - %c[ui_gray_2] Přátelská frakce = mít alespoň %c[d_green]1000 Dobré vůle %c[ui_gray_2]s frakcí\n
+    %c[d_red] - %c[ui_gray_2] Většina speciálních frakčně vázaných dialogů, jako jsou příběhové úkoly, které nejsou přirozeně dostupné vaší frakci, je odemčena s %c[d_cyan]1500 Dobrou vůlí
+    </text>
+</string>
+
+<string id="st_perk_zone_slayer">
+    <text>Vrah Zóny</text>
+</string>
+<string id="st_perk_zone_slayer_desc">
+    <text>Vaše afinita k dvojhlavňovým brokovnicím vám probudila skrytou moc...</text>
+</string>
+<string id="st_perk_zone_slayer_desc_1">
+    <text>Vaše afinita k dvojhlavňovým brokovnicím vám probudila skrytou moc...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zvyšuje rychlost nabíjení o %c[d_green]15% %c[ui_gray_2] s %c[yellow]dvojhlavňovými brokovnicemi\n
+    %c[d_green] - %c[ui_gray_2] Sečítá se s dalšími bonusy k rychlosti nabíjení brokovnic\n	
+    %c[d_blue] - %c[ui_gray_2] Mrtví stalkerové mají %c[d_green]30% šanci%c[ui_gray_2] na získání 2 náhodných střel pro kteroukoli z tvojích %c[yellow]aktuálně vybavených dvojhlavňových brokovnic
+    </text>
+</string>
+
+<string id="st_perk_battle_runner">
+    <text>Bojový Běžec</text>
+</string>
+<string id="st_perk_battle_runner_desc">
+    <text>Vychutnáváte si radost z zabíjení...</text>
+</string>
+<string id="st_perk_battle_runner_desc_1">
+    <text>Vychutnáváte si radost z zabíjení...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Poskytuje %c[d_green]10% bonus k rychlosti pohybu %c[ui_gray_2]po dobu 10 sekund po zabití stalkera nebo mutanta\n
+    %c[d_blue] - %c[ui_gray_2] Zabití během aktivity Bojového Běžce %c[d_green]resetuje časovač
+    </text>
+</string>
+<string id="st_perk_battle_runner_desc_2">
+    <text>Vychutnáváte si radost z zabíjení...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Poskytuje %c[d_green]20% bonus k rychlosti pohybu %c[ui_gray_2]po dobu 10 sekund po zabití stalkera nebo mutanta\n
+    %c[d_blue] - %c[ui_gray_2] Zabití během aktivity Bojového Běžce %c[d_green]resetuje časovač
+    </text>
+</string>
+<string id="st_perk_battle_runner_desc_3">
+    <text>Vychutnáváte si radost z zabíjení...\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Poskytuje %c[d_green]30% bonus k rychlosti pohybu %c[ui_gray_2]po dobu 10 sekund po zabití stalkera nebo mutanta\n
+    %c[d_blue] - %c[ui_gray_2] Zabití během aktivity Bojového Běžce %c[d_green]resetuje časovač
+    </text>
+</string>
+
+	
+<string id="st_perk_fourth_times">
+    <text>Na značce</text>
+</string>
+<string id="st_perk_fourth_times_desc">
+    <text>Zóna tě nyní odmění za vaše výjimečné střelecké schopnosti.</text>
+</string>
+<string id="st_perk_fourth_times_desc_1">
+    <text>Zóna tě nyní odmění za vaše výjimečné střelecké schopnosti.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zasáhnutí 8 úspěšných střel během krátké doby %c[d_green]vrátí 1 náboj zpět do vaší zbraně nebo batohu\n
+    %c[d_blue] - %c[ui_gray_2] Zasáhnutí hlavy nebo kritický zásah pomocí %c[yellow]Šťastný úder %c[ui_gray_2]nebo %c[yellow]Střílím do oka %c[ui_gray_2]bude se počítat jako %c[d_green]2 zásahy\n
+    %c[d_blue] - %c[ui_gray_2] Zásahy brokovnicí jsou děleny počtem střeliv\n
+    %c[d_red] - %c[ui_gray_2] Výměna zbraní nebo nedosažení zásahu během 6 sekund resetuje počítadlo zásahů
+    </text>
+</string>
+<string id="st_perk_fourth_times_desc_2">
+    <text>Zóna tě nyní odmění za vaše výjimečné střelecké schopnosti.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zasáhnutí 8 úspěšných střel během krátké doby %c[d_green]vrátí 2 náboje zpět do vaší zbraně nebo batohu\n
+    %c[d_blue] - %c[ui_gray_2] Zasáhnutí hlavy nebo kritický zásah pomocí %c[yellow]Šťastný úder %c[ui_gray_2]nebo %c[yellow]Střílím do oka %c[ui_gray_2]bude se počítat jako %c[d_green]2 zásahy\n
+    %c[d_blue] - %c[ui_gray_2] Zásahy brokovnicí jsou děleny počtem střeliv\n
+    %c[d_red] - %c[ui_gray_2] Výměna zbraní nebo nedosažení zásahu během 6,5 sekundy resetuje počítadlo zásahů
+    </text>
+</string>
+<string id="st_perk_fourth_times_desc_3">
+    <text>Zóna tě nyní odmění za vaše výjimečné střelecké schopnosti.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zasáhnutí 8 úspěšných střel během krátké doby %c[d_green]vrátí 3 náboje zpět do vaší zbraně nebo batohu\n
+    %c[d_blue] - %c[ui_gray_2] Zasáhnutí hlavy nebo kritický zásah pomocí %c[yellow]Šťastný úder %c[ui_gray_2]nebo %c[yellow]Střílím do oka %c[ui_gray_2]bude se počítat jako %c[d_green]2 zásahy\n
+    %c[d_blue] - %c[ui_gray_2] Zásahy brokovnicí jsou děleny počtem střeliv\n
+    %c[d_red] - %c[ui_gray_2] Výměna zbraní nebo nedosažení zásahu během 7 sekund resetuje počítadlo zásahů
+    </text>
+</string>
+
+<string id="st_perk_glass_cannon">
+    <text>Skleněná děla</text>
+</string>
+<string id="st_perk_glass_cannon_desc">
+    <text>Bez bolesti, není zisk.</text>
+</string>
+<string id="st_perk_glass_cannon_desc_1">
+    <text>Bez bolesti, není zisk.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Pokud Máš %c[d_red]méně než 65% celkového zdraví%c[ui_gray_2], získáte exponenciální posílení útoku čím nižší je vaše zdraví\n
+    %c[d_blue] - %c[ui_gray_2] Poskytuje až %c[d_green]32% bonusový útok %c[ui_gray_2] při 1% HP 
+    </text>
+</string>
+<string id="st_perk_glass_cannon_desc_2">
+    <text>Bez bolesti, není zisk.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Pokud Máš %c[d_red]méně než 65% celkového zdraví%c[ui_gray_2], získáte exponenciální posílení útoku čím nižší je vaše zdraví\n
+    %c[d_blue] - %c[ui_gray_2] Poskytuje až %c[d_green]60% bonusový útok %c[ui_gray_2] při 1% HP 
+    </text>
+</string>
+<string id="st_perk_glass_cannon_desc_3">
+    <text>Bez bolesti, není zisk.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Pokud Máš %c[d_red]méně než 65% celkového zdraví%c[ui_gray_2], získáte exponenciální posílení útoku čím nižší je vaše zdraví\n
+    %c[d_blue] - %c[ui_gray_2] Poskytuje až %c[d_green]94% bonusový útok %c[ui_gray_2] při 1% HP 
+    </text>
+</string>
+
+	
+	<string id="st_perk_well_rested">
+    <text>Dobře vyspalý</text>
+</string>
+<string id="st_perk_well_rested_desc">
+    <text>Naučíte se ocenit noční spánek.</text>
+</string>
+<string id="st_perk_well_rested_desc_1">
+    <text>Naučíte se ocenit noční spánek.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Po plném spánku budete "Dobře vyspalý", získáte %c[d_green]2,5% bonus ke rychlosti pohybu %c[ui_gray_2] a %c[d_green]10% bonus k nosnosti\n
+    %c[d_blue] - %c[ui_gray_2] Efekt zanikne, když ukazatel spánku klesne pod %c[d_orange]80%
+    </text>
+</string>
+<string id="st_perk_well_rested_desc_2">
+    <text>Naučíte se ocenit noční spánek.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Po plném spánku budete "Dobře vyspalý", získáte %c[d_green]5% bonus ke rychlosti pohybu %c[ui_gray_2] a %c[d_green]20% bonus k nosnosti\n
+    %c[d_blue] - %c[ui_gray_2] Efekt zanikne, když ukazatel spánku klesne pod %c[yellow]75%
+    </text>
+</string>
+<string id="st_perk_well_rested_desc_3">
+    <text>Naučíte se ocenit noční spánek.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Po plném spánku budete "Dobře vyspalý", získáte %c[d_green]10% bonus ke rychlosti pohybu %c[ui_gray_2] a %c[d_green]40% bonus k nosnosti\n
+    %c[d_blue] - %c[ui_gray_2] Efekt zanikne, když ukazatel spánku klesne pod %c[d_green]70%
+    </text>
+</string>
+
+<string id="st_perk_fun_allowed">
+    <text>Porušitel pravidel</text>
+</string>
+<string id="st_perk_fun_allowed_desc">
+    <text>Naučili jste se klíčovou dovednost, kterou ostatní zdá se neovládají: vybavit si více než jedno přídavné zařízení.</text>
+</string>
+<string id="st_perk_fun_allowed_desc_1">
+    <text>Naučili jste se klíčovou dovednost, kterou ostatní zdá se neovládají: vybavit si více než jedno přídavné zařízení.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Zruší omezení na umísťování artefaktů a přídavných zařízení na vašem pásu\n
+    %c[d_blue] - %c[ui_gray_2] Jinými slovy, nyní můžete umístit identické artefakty nebo přídavná zařízení na váš pás
+    </text>
+</string>
+
+<string id="st_perk_wick_mode">
+    <text>Režim John Wick</text>
+</string>
+<string id="st_perk_wick_mode_desc">
+    <text>Nejenže se stáváte obludou. Stáváte se tím, který je poslán zabít obludu.</text>
+</string>
+<string id="st_perk_wick_mode_desc_1">
+    <text>Nejenže se stáváte obludou. Stáváte se tím, který je poslán %c[d_red]zabít obludu.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Pokud Máš v rukou pistoli, Máš %c[d_green]15% šanci na "výklon" příchozího %c[yellow]střelného zranění\n
+    %c[d_blue] - %c[ui_gray_2] Zvýšení rychlosti nabíjení o %c[d_green]15% %c[ui_gray_2]u %c[yellow]všech pistolí\n
+    %c[d_green] - %c[ui_gray_2] Bonus na nabíjení se sčítá s jinými bonusy na nabíjení u pistolí
+    </text>
+</string>
+
+	
+	<string id="st_perk_lightweight_dodge">
+    <text>Lehká výzbroj</text>
+</string>
+<string id="st_perk_lightweight_dodge_desc">
+    <text>Lehká výzbroj nyní umožňuje mnohem rychlejší reflexy.</text>
+</string>
+<string id="st_perk_lightweight_dodge_desc_1">
+    <text>Lehká výzbroj nyní umožňuje mnohem rychlejší reflexy.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Pokud nosíte oděv %c[yellow]s váhou do 12 kg%c[ui_gray_2], Máš šanci %c[d_green]"vyhnout se" přicházejícímu %c[yellow]střelnému zranění\n
+    %c[d_blue] - %c[ui_gray_2] Za každý 1 kg pod 12 kg získáte asi %c[d_orange]+0,5% šanci na úhyb\n
+    %c[yellow] - %c[ui_gray_2] Nošení žádného oděvu vede k asi %c[d_orange]+6% šanci na úhyb\n
+    %c[d_green] - %c[ui_gray_2] Šance na úhyb se sčítá s ostatními bonusy na úhyb\n
+    %c[d_red] POZNÁMKA: Hmotnost výzbroje se určuje na základě buď základní hmotnosti nebo hmotnosti po vylepšeních (ta, která je nižší)
+    </text>
+</string>
+<string id="st_perk_lightweight_dodge_desc_2">
+    <text>Lehká výzbroj nyní umožňuje mnohem rychlejší reflexy.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Pokud nosíte oděv %c[yellow]s váhou do 12 kg%c[ui_gray_2], Máš šanci %c[d_green]"vyhnout se" přicházejícímu %c[yellow]střelnému zranění\n
+    %c[d_blue] - %c[ui_gray_2] Za každý 1 kg pod 12 kg získáte asi %c[yellow]+1% šanci na úhyb\n
+    %c[yellow] - %c[ui_gray_2] Nošení žádného oděvu vede k asi %c[yellow]+12% šanci na úhyb\n
+    %c[d_green] - %c[ui_gray_2] Šance na úhyb se sčítá s ostatními bonusy na úhyb\n
+    %c[d_red] POZNÁMKA: Hmotnost výzbroje se určuje na základě buď základní hmotnosti nebo hmotnosti po vylepšeních (ta, která je nižší)
+    </text>
+</string>
+<string id="st_perk_lightweight_dodge_desc_3">
+    <text>Lehká výzbroj nyní umožňuje mnohem rychlejší reflexy.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Pokud nosíte oděv %c[yellow]s váhou do 12 kg%c[ui_gray_2], Máš šanci %c[d_green]"vyhnout se" přicházejícímu %c[yellow]střelnému zranění\n
+    %c[d_blue] - %c[ui_gray_2] Za každý 1 kg pod 12 kg získáte asi %c[d_green]+1,5% šanci na úhyb\n
+    %c[yellow] - %c[ui_gray_2] Nošení žádného oděvu vede k asi %c[d_green]+18% šanci na úhyb\n
+    %c[d_green] - %c[ui_gray_2] Šance na úhyb se sčítá s ostatními bonusy na úhyb\n
+    %c[d_red] POZNÁMKA: Hmotnost výzbroje se určuje na základě buď základní hmotnosti nebo hmotnosti po vylepšeních (ta, která je nižší)
+    </text>
+</string>
+<string id="st_perk_lightweight_dodge_desc_4">
+    <text>Lehká výzbroj nyní umožňuje mnohem rychlejší reflexy.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Pokud nosíte oděv %c[yellow]s váhou do 12 kg%c[ui_gray_2], Máš šanci %c[d_green]"vyhnout se" přicházejícímu %c[yellow]střelnému zranění\n
+    %c[d_blue] - %c[ui_gray_2] Za každý 1 kg pod 12 kg získáte asi %c[d_cyan]+2% šanci na úhyb\n
+    %c[yellow] - %c[ui_gray_2] Nošení žádného oděvu vede k asi %c[d_cyan]+24% šanci na úhyb\n
+    %c[d_green] - %c[ui_gray_2] Šance na úhyb se sčítá s ostatními bonusy na úhyb\n
+    %c[d_red] POZNÁMKA: Hmotnost výzbroje se určuje na základě buď základní hmotnosti nebo hmotnosti po vylepšeních (ta, která je nižší)
+    </text>
+</string>
+
+	
+	<string id="st_perk_local_looting">
+    <text>Lokální sběr</text>
+</string>
+<string id="st_perk_local_looting_desc">
+    <text>Je dobrým zvykem "nakupovat" ve svém místním okolí.</text>
+</string>
+<string id="st_perk_local_looting_desc_1">
+    <text>Je dobrým zvykem "nakupovat" ve svém místním okolí.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Místa s uloženým zbožím mají %c[d_green]32,5% šanci%c[ui_gray_2] být %c[yellow]blíže vaší aktuální poloze
+    </text>
+</string>
+<string id="st_perk_local_looting_desc_2">
+    <text>Je dobrým zvykem "nakupovat" ve svém místním okolí.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Místa s uloženým zbožím mají %c[d_green]40% šanci%c[ui_gray_2] být %c[yellow]blíže vaší aktuální poloze
+    </text>
+</string>
+<string id="st_perk_local_looting_desc_3">
+    <text>Je dobrým zvykem "nakupovat" ve svém místním okolí.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Místa s uloženým zbožím mají %c[d_green]47,5% šanci%c[ui_gray_2] být %c[yellow]blíže vaší aktuální poloze
+    </text>
+</string>
+<string id="st_perk_local_looting_desc_4">
+    <text>Je dobrým zvykem "nakupovat" ve svém místním okolí.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Místa s uloženým zbožím mají %c[d_green]55% šanci%c[ui_gray_2] být %c[yellow]blíže vaší aktuální poloze
+    </text>
+</string>
+<string id="st_perk_local_looting_desc_5">
+    <text>Je dobrým zvykem "nakupovat" ve svém místním okolí.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Místa s uloženým zbožím mají %c[d_green]62,5% šanci%c[ui_gray_2] být %c[yellow]blíže vaší aktuální poloze
+    </text>
+</string>
+
+<string id="st_perk_jump_man">
+    <text>Skokan</text>
+</string>
+<string id="st_perk_jump_man_desc">
+    <text>Vaše putování Zónou posílilo vaše nohy, což umožňuje lepší pohyb.</text>
+</string>
+<string id="st_perk_jump_man_desc_1">
+    <text>Vaše putování Zónou posílilo vaše nohy, což umožňuje lepší pohyb.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní můžete skákat o %c[d_green]3% výš
+    </text>
+</string>
+<string id="st_perk_jump_man_desc_2">
+    <text>Vaše putování Zónou posílilo vaše nohy, což umožňuje lepší pohyb.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní můžete skákat o %c[d_green]6% výš
+    </text>
+</string>
+<string id="st_perk_jump_man_desc_3">
+    <text>Vaše putování Zónou posílilo vaše nohy, což umožňuje lepší pohyb.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní můžete skákat o %c[d_green]9% výš
+    </text>
+</string>
+<string id="st_perk_jump_man_desc_4">
+    <text>Vaše putování Zónou posílilo vaše nohy, což umožňuje lepší pohyb.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní můžete skákat o %c[d_green]12% výš
+    </text>
+</string>
+<string id="st_perk_jump_man_desc_5">
+    <text>Vaše putování Zónou posílilo vaše nohy, což umožňuje lepší pohyb.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Nyní můžete skákat o %c[d_green]15% výš
+    </text>
+</string>
+
+<string id="st_perk_sturdy_legs">
+    <text>Odolné nohy</text>
+</string>
+<string id="st_perk_sturdy_legs_desc">
+    <text>Po dostatečně vysokých pádech se vaše tělo stalo odolnějším vůči nárazu.</text>
+</string>
+<string id="st_perk_sturdy_legs_desc_1">
+    <text>Po dostatečně vysokých pádech se vaše tělo stalo odolnějším vůči nárazu.\n \n
+    %c[ui_gray_3]ÚČINKY:\n
+    %c[d_blue] - %c[ui_gray_2] Újma z pádu je nyní snížena o %c[d_green]75%
+    </text>
+</string>
+
+	
+</string_table>

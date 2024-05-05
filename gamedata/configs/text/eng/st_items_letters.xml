@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Notes + Recipes
+-->
+
+<string_table>
+<string id="st_recipe_basic_1">
+<text>Průvodce Přežití (vytisk č. 1)</text>
+</string>
+<string id="st_recipe_basic_2">
+<text>Průvodce Přežití (vytisk č. 2)</text>
+</string>
+<string id="st_recipe_basic_3">
+<text>Průvodce Přežití (vytisk č. 3)</text>
+</string>
+<string id="st_recipe_basic_4">
+<text>Průvodce Přežití (vytisk č. 4)</text>
+</string>
+<string id="st_recipe_basic_descr">
+<text>Tento Průvodce podrobně popisuje základní dovednosti přežití a poskytuje přehled běžných přežitích sad. Pozdější kapitoly popisují vytváření základního vybavení z běžných materiálů.\n \n
+%c[ui_gray_3]VLASTNOSTI:\n
+%c[d_green] • %c[ui_gray_2] informativní\n
+%c[d_blue] • %c[ui_gray_2] recept na výrobu\n
+%c[d_blue] • %c[ui_gray_2] cenný\n</text>
+</string>
+
+<string id="st_recipe_advanced_1">
+<text>Manuál pro mechaniky (1. vydání)</text>
+</string>
+<string id="st_recipe_advanced_2">
+<text>Manuál pro mechaniky (2. vydání)</text>
+</string>
+<string id="st_recipe_advanced_3">
+<text>Manuál pro mechaniky (3. vydání)</text>
+</string>
+<string id="st_recipe_advanced_4">
+<text>Manuál pro mechaniky (4. vydání)</text>
+</string>
+<string id="st_recipe_advanced_descr">
+<text>Manuál pro mechanické inženýrství. Někteří lidé čtou takové knihy, aby rozšířili své odborné znalosti a dozvěděli se více o zařízeních a továrnách v Zóně. Obsahuje podrobnosti o základních mechanických a elektrických zařízeních.\n \n
+%c[ui_gray_3]VLASTNOSTI:\n
+%c[d_green] • %c[ui_gray_2] informativní\n
+%c[d_blue] • %c[ui_gray_2] recept na výrobu\n
+%c[d_blue] • %c[ui_gray_2] cenný\n</text>
+</string>
+	
+	<string id="st_recipe_expert_1">
+	<text>Elektrikářská příručka (1. vydání)</text>
+</string>
+<string id="st_recipe_expert_2">
+	<text>Elektrikářská příručka (2. vydání)</text>
+</string>
+<string id="st_recipe_expert_3">
+	<text>Elektrikářská příručka (3. vydání)</text>
+</string>
+<string id="st_recipe_expert_4">
+	<text>Elektrikářská příručka (4. vydání)</text>
+</string>
+<string id="st_recipe_expert_descr">
+	<text>Příručka průmyslového inženýrství. Poměrně informativní. Popisuje činnost moderní elektroniky: operační zesilovače, polovodičové diody, tranzistory s bipolárním přechodem a tranzistory s polem. Druhá část této příručky se zabývá odstraňováním poruch elektrických zařízení.\n \n
+	%c[ui_gray_3]VLASTNOSTI:\n
+	%c[d_green] - %c[ui_gray_2] informativní\n
+	%c[d_blue] - %c[ui_gray_2] řemeslný recept\n
+	%c[d_blue] - %c[ui_gray_2] cenný\n</text>
+</string>
+<string id="st_recipe_drug_1">
+	<text>Recepty na léky č. 1</text>
+</string>
+<string id="st_recipe_drug_2">
+	<text>Recepty na léky č. 2</text>
+</string>
+<string id="st_recipe_drug_3">
+	<text>Recepty na léky č. 3</text>
+</string>
+<string id="st_recipe_drug_4">
+	<text>Recepty na léky č. 4</text>
+</string>
+<string id="st_recipe_drug_descr">
+	<text>Pár stránek vytržených z knihy. Psáno ručně modrým inkoustem, který se vlivem okolních faktorů rozmazal, takže text je velmi špatně čitelný. Psané poznámky popisují výrobu různých druhů drog a léků pomocí běžných lékařských potřeb.\n \n
+	%c[ui_gray_3]VLASTNOSTI:\n
+	%c[d_green] - %c[ui_gray_2] informativní\n
+	%c[d_blue] - %c[ui_gray_2] řemeslný recept\n
+	%c[d_blue] - %c[ui_gray_2] cenný\n</text>
+</string>
+<string id="st_recipe_ammo_1">
+	<text>Průvodce municí (1. vydání)</text>
+</string>
+<string id="st_recipe_ammo_2">
+	<text>Průvodce municí (2. vydání)</text>
+</string>
+<string id="st_recipe_ammo_3">
+	<text>Průvodce municí (3. vydání)</text>
+</string>
+<string id="st_recipe_ammo_4">
+	<text>Průvodce municí (4. vydání)</text>
+</string>
+<string id="st_recipe_ammo_descr">
+	<text>Každý stalker by se měl naučit vybrat si zbraň, ale také vědět, jak do ní vybrat náboje. Tato příručka přináší informace o různých typech nábojů a také podrobný pohled na základní komponenty náboje.\n \n
+	%c[ui_gray_3]VLASTNOSTI:\n
+	%c[d_green] - %c[ui_gray_2] informace\n
+	%c[d_blue] - %c[ui_gray_2] řemeslný recept\n
+	%c[d_blue] - %c[ui_gray_2] cenný\n</text>
+</string>
+
+
+
+<string id="st_recipe_cooking_1">
+	<text>Poznámky šéfkuchaře</text>
+</string>
+<string id="st_recipe_cooking_descr">
+	<text>Několik ručně psaných stránek, obsahuje podrobné recepty týkající se marinování zmutovaného masa v alkoholu při určitých teplotách. Podle poznámek se tím snižují škodlivé účinky ozářeného masa. Zdá se, že autor je zkušený zoner.\n \n
+	%c[ui_gray_3]VLASTNOSTI:\n
+	%c[d_green] - %c[ui_gray_2] informativní\n
+	%c[d_blue] - %c[ui_gray_2] recept na vaření\n
+	%c[d_blue] - %c[ui_gray_2] hodnotný\n</text>
+</string>
+	<string id="st_memoirs_1_of_2_name">
+	<text>Deník stalkera (část 1 z 2)</text>
+</string>
+<string id="st_memoirs_1_of_2_desc">
+	<text>Starý, vybledlý zápisník zasunutý do pouzdra na karty, aby byl chráněn před opotřebením. Neodolal však dobře běhu času a jen malá část textu je čitelná.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_memoirs_2_of_2_name">
+	<text>Deník stalkera (část 2 z 2)</text>
+</string>
+<string id="st_memoirs_2_of_2_desc">
+	<text>Starý, vybledlý zápisník zasunutý do pouzdra na karty, aby byl chráněn před opotřebením. Neodolal však dobře běhu času a jen malá část textu je čitelná.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_freedom_manual_1_of_2_name">
+	<text>Techniky vyslechů: základy (1. část z 2)</text>
+</string>
+<string id="st_freedom_manual_1_of_2_desc">
+	<text>Instruktážní leták s velkým emblémem Svobody v pravém horním rohu a jednoduchou kresbou ruční zbraně mířící na klečící lidskou postavu. Je nápisek "Techniky vyslechů: Základy" a je napsán typickým, uvolněným slangem frakce.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_freedom_manual_2_of_2_name">
+	<text>Techniky vyslechů: základy (2. část z 2)</text>
+</string>
+<string id="st_freedom_manual_2_of_2_desc">
+	<text>Instruktážní leták s velkým emblémem Svobody v pravém horním rohu a jednoduchou kresbou ruční zbraně mířící na klečící lidskou postavu. Je nápisek "Techniky vyslechů: Základy" a je napsán typickým, uvolněným slangem frakce.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_stalker_letter_1_of_2_name">
+	<text>Memoár (část 1 z 2)</text>
+</string>
+<string id="st_stalker_letter_1_of_2_desc">
+	<text>Pár stránek vytržených z paměti. Psáno rukou modrým inkoustem, který se vlivem okolních faktorů rozmazal, takže text je velmi špatně čitelný. Autor neznámý.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_stalker_letter_2_of_2_name">
+	<text>Memoár (část 2 z 2)</text>
+</string>
+<string id="st_stalker_letter_2_of_2_desc">
+	<text>Pár stránek vytržených z paměti. Psáno rukou modrým inkoustem, který se vlivem okolních faktorů rozmazal, takže text je velmi špatně čitelný. Autor neznámý.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_ecologist_report_1_of_3_name">
+	<text>Tereňní zpráva o nálezech mrtvých stalkerů 39B rev. 2 (část 1 ze 3)</text>
+</string>
+<string id="st_ecologist_report_1_of_3_desc">
+	<text>Strojově psaný dokument opatřený razítkem výzkumného týmu Ekolog. Označen jako přísně důvěrný a podepsán: Arkadij Cvetkovskij.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] vědecká položka\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_ecologist_report_2_of_3_name">
+	<text>Zpráva z terénu o nálezech mrtvých stalkerů 39B rev. 2 (část 2 ze 3)</text>
+</string>
+<string id="st_ecologist_report_2_of_3_desc">
+	<text>Strojově psaný dokument opatřený razítkem výzkumného týmu Ekolog. Označen jako přísně důvěrný a podepsán: Arkadij Cvetkovskij.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] vědecká položka\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_ecologist_report_3_of_3_name">
+	<text>Tereňní zpráva o nálezech mrtvých stalkerů 39B rev. 2 (část 3 ze 3)</text>
+</string>
+<string id="st_ecologist_report_3_of_3_desc">
+	<text>Strojově psaný dokument opatřený razítkem výzkumného týmu Ekolog. Označen jako přísně důvěrný a podepsán: Arkadij Cvetkovskij.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] vědecká položka\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_monolith_prayer_1_of_3_name">
+	<text>Monolitská modlitba (1. část ze 3)</text>
+</string>
+<string id="st_monolith_prayer_1_of_3_desc">
+	<text>Dokument bez názvu, který se skládá z několika odstavců pod sebou. Časté odkazy na Monolit naznačují náboženskou povahu psaného textu. Papír je velmi dobře zachován, což naznačuje, že s ním bylo zacházeno s velkou péčí a úctou, aby se jeho stav nezhoršil.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_monolith_prayer_2_of_3_name">
+	<text>Monolitská modlitba (2. část ze 3)</text>
+</string>
+<string id="st_monolith_prayer_2_of_3_desc">
+	<text>Dokument bez názvu sestavující z několika odstavců pod sebou. Časté odkazy na Monolit naznačují náboženskou povahu psaného textu. Papír je velmi dobře zachován, což naznačuje, že s ním bylo zacházeno s velkou péčí a úctou, aby se jeho stav nezhoršil.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_monolith_prayer_3_of_3_name">
+	<text>Monolitská modlitba (3. část ze 3)</text>
+</string>
+<string id="st_monolith_prayer_3_of_3_desc">
+	<text>Dokument bez názvu, který se skládá z několika odstavců pod sebou. Časté odkazy na Monolit naznačují náboženskou povahu psaného textu. Papír je velmi dobře zachován, což naznačuje, že s ním bylo zacházeno s velkou péčí a úctou, aby se jeho stav nezhoršil.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_monolithian_thoughts_name">
+	<text>Deník Monolita</text>
+</string>
+<string id="st_monolithian_thoughts_desc">
+	<text>Rukou psaný list papíru. Na začátku je zápisek napsaný nesmírně chaoticky a neuspořádaně, jako by osoba, která ho psala, trpěla těžkou duševní poruchou. Zajímavé je, že čím dál na listu, tím je text jasnější, písmena mnohem zřetelnější a poslední slova jsou napsána s téměř dokonalou, strojovou přesností.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+
+
+<string id="st_letter_to_outside_name">
+	<text>Dopis Natalii</text>
+</string>
+<string id="st_letter_to_outside_desc">
+	<text>Dopis, který zřejmě napsal jeden ze stalkerů někomu mimo Zonu, nejspíš své manželce nebo milence. Skutečnost, že ho držíš v ruce, naznačuje, že se k zamyšlenému příjemci nikdy nedostal.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_letter_military_stalker_name">
+	<text>Poznámka vojenského stalkera</text>
+</string>
+<string id="st_letter_military_stalker_desc">
+	<text>Zápisek nalezený ve skrýši. Vypadá to, že někdo zabíjel čas během dlouhé a nudné noci a pak se rozhodl výsledek své práce raději nechat za sebou, než aby ho hodil do ohně.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_letter_mercenary_name">
+	<text>Žoldákova poznámka</text>
+</string>
+<string id="st_letter_mercenary_desc">
+	<text>Poznámka napsaná jedním ze žoldnéřů. Vypadá to, že se rozhodl zapsat si nějaké myšlenky týkající se svých aktivit v Zóně. Jeho účel je nejasný.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_letter_military_log_name">
+	<text>Komunikační protokol / operace MSRC / 05.04.2014 18:36:21</text>
+</string>
+<string id="st_letter_military_log_desc">
+	<text>Tiskový přepis radiového přenosu mezi vojenskými jednotkami umístěnými v Zóně. Skutečnost, že jej měl v držení jeden z členů jednotky SKAT, naznačuje, že se musel podílet na tajné operaci, která se nejspíš týkala získávání sledovacích údajů.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] vojenská položka\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+<string id="st_letter_stalker_letter_3_name">
+	<text>Dopis pro Nikolaje</text>
+</string>
+<string id="st_letter_stalker_letter_3_desc">
+	<text>Ručně psaný dopis adresovaný Nikolajovi. Pravděpodobně součást delšího písemného rozhovoru mezi dvěma stalkery. Ačkoliv korespondence v Zóně probíhá především prostřednictvím PDA zpráv, někteří dávají přednost tradičnímu způsobu komunikace, zejména v případě většiny soukromých záležitostí a mezi přáteli. Tyto dopisy jsou pak předávány kurýrům, kteří jsou stejně jako průvodci považováni některými z nejtěžších a nejnebezpečnějších úkolů. Často trvá několik dní, než dopis dorazí k příjemci, ale přesto je pravděpodobnost zachycení zprávy mnohem nižší než v případě komunikace pomocí PDA. Povolání kurýra je mezi kolegy stalkery vysoce ceněno a v komunitě stalkery znamená významné vlivné postavení.\n \n
+	%c[ui_gray_2]VLASTNOSTI:\n
+	%c[d_cyan] - %c[ui_gray_2] osobní věci\n
+	</text>
+</string>
+
+</string_table>

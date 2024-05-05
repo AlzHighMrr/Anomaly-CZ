@@ -1,0 +1,2601 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+<string id="st_dark_valley_treasure_1_name">
+	<text>Bedna v suterénu</text>
+</string>
+<string id="st_dark_valley_treasure_1_descr">
+	<text>Svoje věci jsem odhodil v suterénu poblíž dveří se značkou nebezpečí. Teď nemám čas, ale určitě se tam později vrátím.</text>
+</string>
+<string id="st_dark_valley_treasure_2_name">
+	<text>Úkryt v rozvaděčské místnosti</text>
+</string>
+<string id="st_dark_valley_treasure_2_descr">
+	<text>Vyrobil jsem si pěkný malý úkryt v rozvaděčské místnosti na druhém patře opuštěné továrny. Počkám, až budu mít ještě několik artefaktů, a pak je všechny prodám za peníze.</text>
+</string>
+<string id="st_dark_valley_treasure_3_name">
+	<text>Úkryt na slepé uličce kolektoru</text>
+</string>
+<string id="st_dark_valley_treasure_3_descr">
+	<text>Náhodou jsem zabloudil na slepou uličku kolektoru pod základnou. Vypadalo to jako dobré úkrytové místo, takže jsem tam schoval pár dobrůtek do příčky potrubí.</text>
+</string>
+<string id="st_dark_valley_treasure_4_name">
+	<text>Úkryt v potrubí</text>
+</string>
+<string id="st_dark_valley_treasure_4_descr">
+	<text>Vytvořil jsem si úkryt uvnitř potrubí v prvním patře opuštěné továrny, poblíž schodů.</text>
+</string>
+<string id="st_dark_valley_treasure_5_name">
+	<text>Potrubí pod nádrží</text>
+</string>
+<string id="st_dark_valley_treasure_5_descr">
+	<text>Když mě pronásledovala smečka psů, kterou jsem míjel farmu, tak jsem své věci odhodil do potrubí pod nádrží a utekl. Vezmu si to, až budu moct.</text>
+</string>
+<string id="st_dark_valley_treasure_6_name">
+	<text>Úkryt v továrně</text>
+</string>
+<string id="st_dark_valley_treasure_6_descr">
+	<text>Úplně skvělý úkryt v opuštěné továrně. Je přímo naproti vchodu, v příčce s ventilem. Snadno ho lze splést s jinými, které vypadají úplně stejně.</text>
+</string>
+<string id="st_dark_valley_treasure_7_name">
+	<text>Batoh v kabině</text>
+</string>
+<string id="st_dark_valley_treasure_7_descr">
+	<text>Měl bych si jít pro svůj batoh, který je na předním sedadle převráceného nákladního auta. Musel jsem ho tam odhodit, abych se nechal pronásledovat.</text>
+</string>
+<string id="st_dark_valley_treasure_8_name">
+	<text>Úkryt pod jedlovým stromem</text>
+</string>
+<string id="st_dark_valley_treasure_8_descr">
+	<text>Lepší, abych nezapomněl na ten konkrétní jedlový strom, kde jsem schoval svůj lup. Vstup do kolektoru je blízko, ale strom sám o sobě nevyniká.</text>
+</string>
+<string id="st_dark_valley_treasure_9_name">
+<text>Ranec na stromě</text>
+</string>
+<string id="st_dark_valley_treasure_9_descr">
+<text>Všichni ukryjí své poklady pod zemí, ale já svůj schovám na stromě. Vsadím se, že tam nikdo nebude hledat!</text>
+</string>
+<string id="st_dark_valley_treasure_10_name">
+<text>Tajný úkryt pod střechou</text>
+</string>
+<string id="st_dark_valley_treasure_10_descr">
+<text>Nebojím se o svůj úkryt. I kdyby ho někdo hledal, musel by přes ty trámy skákat jako veverka, aby se k němu dostal.</text>
+</string>
+<string id="st_dark_valley_treasure_11_name">
+<text>Úkryt na věži</text>
+</string>
+<string id="st_dark_valley_treasure_11_descr">
+<text>Svýmu partnerovi jsem řekl, že jsem ztratil svůj batoh po cestě a ten hlupák ho snědl. Ve skutečnosti jsem ho schoval na vrcholu vodárenské věže. Stále tam na mě čeká.</text>
+</string>
+<string id="st_dark_valley_treasure_12_name">
+<text>Ranec ve výtahu</text>
+</string>
+<string id="st_dark_valley_treasure_12_descr">
+<text>S tím veškerým střílením jsem neměl moc času na to, abych své věci pořádně schoval. Vyhodil jsem je do "hadice" pod dřevěnými prkny. Vezmu si je, až přijde ta správná chvíle.</text>
+</string>
+<string id="st_dark_valley_treasure_13_name">
+<text>Kufřík zámečníka</text>
+</string>
+<string id="st_dark_valley_treasure_13_descr">
+<text>Narazil jsem na to, co kdysi bývalo kufříkem zámečníka, a na chvíli jsem tam schoval svůj "poklad". Přesunu ho na bezpečnější úkryt, jakmile to bude možné.</text>
+</string>
+<string id="st_dark_valley_treasure_14_name">
+<text>Sejf ve fabrice</text>
+</string>
+<string id="st_dark_valley_treasure_14_descr">
+<text>Pokud toto čteš, znamená to, že ležím pod šesti prkny. Takže tady je, co bys měl vědět o úkrytu v sejfu - doufám, že ho nikdy neotevřeš, ty kreténe!</text>
+</string>
+<string id="st_dark_valley_treasure_15_descr">
+<text>Nebyl jsem si jistý, že se z toho průšvihu dostanu živý, takže jsem si své věci schoval v tomhle rezavém sejfu na opuštěné farmě. Teď je čas je získat zpět.</text>
+</string>
+<string id="st_dark_valley_treasure_16_name">
+<text>Pokácený strom na ostrově</text>
+</string>
+<string id="st_dark_valley_treasure_16_descr">
+<text>Můj kámoš měl u sebe pár skvělých věcí, když ho přepadli v těch bažinách. Nestihl to, ale stihl mi říct, že nějakou část lupu schoval v pokáceném hnilém stromě nedaleko antény. Měl bych si to jít vzít.</text>
+</string>
+
+<string id="st_dark_valley_treasure_17_name">
+    <text>Shnilý kmen stromu</text>
+</string>
+<string id="st_dark_valley_treasure_17_descr">
+    <text>Nedůvěřuji svému parterovi. Myslím, že mě chce přepadnout, takže jsem svůj lup skrýval před ním. Udělal jsem si úkryt poblíž mostu na ostrově, v kmínu stromu. Doufám, že ho to nenajde.</text>
+</string>
+<string id="st_dark_valley_treasure_18_name">
+    <text>Shnilý pařez stromu</text>
+</string>
+<string id="st_dark_valley_treasure_18_descr">
+    <text>Před pár dny jsem utíkal před divočáky a vyhodil jsem své věci do díry v pařezu nedaleko staré farmy.</text>
+</string>
+<string id="st_dark_valley_treasure_19_name">
+    <text>Pařez u kopce</text>
+</string>
+<string id="st_dark_valley_treasure_19_descr">
+    <text>Svůj úkryt jsem udělal u paty kopce, pod starým pařezem. Je to dobré skrýš - jen doufám, že mi štěstí vydrží, abych mohl přidávat další věci.</text>
+</string>
+<string id="st_dark_valley_treasure_20_name">
+    <text>Pařez u dřevěného molu</text>
+</string>
+<string id="st_dark_valley_treasure_20_descr">
+    <text>Viděl jsem, jak Kolya několikrát přistoupil k tomu pařezu na ostrově. Vsadím se, že tam ten lakomec má skrýš. Nechám ho, ať nasbírá ještě víc lupu, než se tam podívám.</text>
+</string>
+<string id="st_dark_valley_treasure_21_name">
+    <text>Staré auto Zaporozhets</text>
+</string>
+<string id="st_dark_valley_treasure_21_descr">
+    <text>Chudáci si lámu hlavu, snaží se vymyslet, kam jim mizí všechno jejich vybavení! Ha-ha-ha! No, já to schovávám v tom starém Zaporozhetsu poblíž bažin. Vsadím se, že tam to nikdo nehledá.</text>
+</string>
+<string id="st_yantar_treasure_1_name">
+    <text>Elektrická skříňka ve fabrice</text>
+</string>
+<string id="st_yantar_treasure_1_descr">
+    <text>Podíval jsem se do Andreyho PDA a viděl jsem, že když začala "mozkostruha" klesat, udělal si úkryt v rezavé elektrické skříňce ve fabrice.</text>
+</string>
+<string id="st_yantar_treasure_2_name">
+    <text>Rozvaděč v transformátorovně</text>
+</string>
+<string id="st_yantar_treasure_2_descr">
+    <text>Když začala celá fabrika vypínat, vyhodil jsem všechny své věci do rozvaděče v transformátorovně.</text>
+</string>
+<string id="st_yantar_treasure_3_name">
+    <text>Kufr ve fabrice</text>
+</string>
+
+<string id="st_yantar_treasure_3_descr">
+<text>Byl jsem v hangáru, když jsem našel to, co bývalo nástrojovou sadou. Hýbalo se to, ale neměl jsem čas se podívat dovnitř - prostě jsem to tam nechal až do příště.</text>
+</string>
+<string id="st_yantar_treasure_4_name">
+<text>Malý kufr v nákladním autě</text>
+</string>
+<string id="st_yantar_treasure_4_descr">
+<text>Pěkné místo pro schovku - přímo mezi kabinou a nákladním prostorem auta. Místní zombíci a radiace poskytují dobrou přirozenou ochranu.</text>
+</string>
+<string id="st_yantar_treasure_5_name">
+<text>Úkryt vedle plotu</text>
+</string>
+<string id="st_yantar_treasure_5_descr">
+<text>Schoval jsem malou věcičku na křižovatce potrubí poblíž stavebního vozu, vedle plotu.</text>
+</string>
+<string id="st_yantar_treasure_6_name">
+<text>Několik maličkostí uvnitř trubky</text>
+</string>
+<string id="st_yantar_treasure_6_descr">
+<text>Vzal jsem nejcennější věci sebou a zbytek jsem schoval uvnitř trubky v místnosti s dírou ve zdi.</text>
+</string>
+<string id="st_yantar_treasure_7_name">
+<text>Batoh poblíž vchodu</text>
+</string>
+<string id="st_yantar_treasure_7_descr">
+<text>Musel jsem tam nechat plný batoh plný lupů v troskách přímo vedle vchodu. Zajímalo by mě, jestli to už někdo našel...</text>
+</string>
+
+<string id="st_yantar_treasure_8_name">
+	<text>Skrýš v ventilátorovém kanálu</text>
+</string>
+<string id="st_yantar_treasure_8_descr">
+	<text>Ahoj, Tony, pamatuj si souřadnice a orientační bod - batoh je uvnitř ventilátorového kanálu vedle prolomené zdi objektu. S pozdravem, Sova.</text>
+</string>
+<string id="st_yantar_treasure_9_name">
+	<text>Batoh pod sedadlem</text>
+</string>
+<string id="st_yantar_treasure_9_descr">
+	<text>Neměl jsem čas přemýšlet, takže jsem svůj lup zacpal pod sedadlo řidiče v rezavém vozidle UAZ.</text>
+</string>
+<string id="st_yantar_treasure_10_name">
+	<text>Skrýš v převodovce jeřábu</text>
+</string>
+<string id="st_yantar_treasure_10_descr">
+	<text>Jenom Bůh ví, co mě napadlo dát mou skrýš tak vysoko. Teď se tam ani já nedostanu!</text>
+</string>
+<string id="st_yantar_treasure_11_name">
+	<text>Skrýš v trezoru</text>
+</string>
+<string id="st_yantar_treasure_11_descr">
+	<text>Nejlepší skrýš v Zóně je moje. Je to trezor na továrním areálu.</text>
+</string>
+<string id="st_yantar_treasure_12_name">
+	<text>Prázdný kmen</text>
+</string>
+<string id="st_yantar_treasure_12_descr">
+	<text>Svůj stuff jsem schoval do prázdného kmene vedle "trní".</text>
+</string>
+<string id="st_yantar_treasure_13_name">
+	<text>Kmen u kopce</text>
+</string>
+<string id="st_yantar_treasure_13_descr">
+	<text>S těmi zombie, které přicházely z továrny, jsem neměl jinou možnost, než se rozloučit se svým lupem. Schoval jsem ho do kmene u paty kopce.</text>
+</string>
+<string id="st_yantar_treasure_14_name">
+	<text>Kmen u věže</text>
+</string>
+<string id="st_yantar_treasure_14_descr">
+	<text>Založil jsem další skrýš do díry v kmene na tom kopci s vysokonapěťovou věží. Všichni si myslí, že tam chodím kvůli výhledu, hlupáci!</text>
+</string>
+
+<string id="st_gar_treasure_17_name">
+	<text>Zvoncovitý konec potrubí</text>
+</string>
+<string id="st_gar_treasure_17_descr">
+	<text>Vytvořil jsem úkryt ve zvoncovitém konci potrubí, v tom hromadě radioaktivního odpadu.</text>
+</string>
+<string id="st_gar_treasure_18_name">
+	<text>Potrubí poblíž motoru</text>
+</string>
+<string id="st_gar_treasure_18_descr">
+	<text>Vedle mrtvého motoru na vrakovišti je potrubí se mnou kořistí.</text>
+</string>
+<string id="st_agr_treasure_1_name">
+	<text>Pod křížem</text>
+</string>
+<string id="st_agr_treasure_1_descr">
+	<text>Agroprom, keře, kříž. Hrob pod křížem.</text>
+</string>
+<string id="st_agr_treasure_2_name">
+	<text>Elektrická skříň ve dílně</text>
+</string>
+<string id="st_agr_treasure_2_descr">
+	<text>Ten parchant Dehydrator nás olupuje o všechny naše věci. Proklatý starý chraploun. Skrývám své věci před jeho ošklivou zadnicí uvnitř elektrické skříně ve druhém patře.</text>
+</string>
+<string id="st_agr_treasure_3_name">
+	<text>Traktor</text>
+</string>
+<string id="st_agr_treasure_4_name">
+	<text>Auto v garáži</text>
+</string>
+<string id="st_agr_treasure_4_descr">
+	<text>Ukládám své šrotové věci do kufru velitele 4x4. Pokud se nikam nehne, budou moje věci v bezpečí.</text>
+</string>
+<string id="st_agr_treasure_5_name">
+	<text>Kufřík pod vlakovým vozem</text>
+</string>
+<string id="st_agr_treasure_5_descr">
+	<text>Kufřík s nástroji pod vlakovým vozem v Agropromu.</text>
+</string>
+<string id="st_agr_treasure_6_name">
+	<text>Autobus na zastávce</text>
+</string>
+<string id="st_agr_treasure_6_descr">
+	<text>Kufřík v autobuse na autobusové zastávce poblíž neutrální základny.</text>
+</string>
+<string id="st_agr_treasure_3_descr">
+	<text>Když Timmy opravil traktor, hodně jsme se nalili a vyrazili na divokou jízdu v noci. Pak jsme narazili na upíra. Museli jsme se rychle ztratit a zanechali jsme za sebou náš úkryt.</text>
+</string>
+
+<string id="st_agr_treasure_7_name">
+	<text>Trubka v sutinách</text>
+</string>
+<string id="st_agr_treasure_7_descr">
+	<text>Skrýš: zablokovaný vstup do podzemí, uvnitř L-tvarové trubky.</text>
+</string>
+<string id="st_agr_treasure_8_name">
+	<text>Nikčin batoh</text>
+</string>
+<string id="st_agr_treasure_9_name">
+	<text>Základna Stalkera</text>
+</string>
+<string id="st_agr_treasure_9_descr">
+	<text>Svoje tašku jsem hodil na ten rozek u stromu, jinak by všichni věděli, že jsem to byl já, kdo udělal Vitalyho. Nejkratší cesta tam vede přes trubky u neutrální základny.</text>
+</string>
+<string id="st_agr_treasure_8_descr">
+	<text>Jednoho jsem zahlédl na stromě poblíž základny Duty, ale neměl jsem čas jít po něm lézt.</text>
+</string>
+<string id="st_agr_treasure_10_name">
+	<text>Trubka v bažinách</text>
+</string>
+<string id="st_agr_treasure_11_name">
+	<text>Ztracený batoh</text>
+</string>
+<string id="st_agr_treasure_11_descr">
+	<text>Po výletě jsme se odpočívali mezi skalami a nějak jsem svůj batoh zapomněl. Vrátil se pro něj, až se mi uvolní čas.</text>
+</string>
+<string id="st_agr_treasure_12_name">
+	<text>Batoh Rigmana</text>
+</string>
+<string id="st_agr_treasure_12_descr">
+	<text>Musel jsem se vyškrábat až nahoru na tu věž, dokud naši kluci nedohnali ty zatracené psy. Musel jsem svůj batoh odhodit do keřů.</text>
+</string>
+
+<string id="st_agr_treasure_10_descr">
+<text>Můj úkryt je v trubce v bažinách. Kořist je v batohu.</text>
+</string>
+<string id="st_agr_treasure_13_name">
+<text>Bezpečný v křoví</text>
+</string>
+<string id="st_agr_treasure_13_descr">
+<text>Zkusili jsme táhnout ten trezor plný harampádí přes rokli. Bylo to tak bahno z deště, že jsme pořád uklouzávali a padali, a nakonec jsme ho prostě cestou upustili.</text>
+</string>
+<string id="st_agr_treasure_14_name">
+<text>Osamělý kmen</text>
+</string>
+<string id="st_agr_treasure_15_name">
+<text>Velikonoční vajíčka</text>
+</string>
+<string id="st_agr_treasure_15_descr">
+<text>Při Velikonocích nám Tony nařídil udělat úkryty pro klan. Já jsem jedno z těchto "velikonočních vajíček" schoval v kmene.</text>
+</string>
+<string id="st_agr_treasure_14_descr">
+<text>Nikdo se nebude koukat po mém úkrytu v kmenech, které jsou tak daleko od civilizace.</text>
+</string>
+<string id="st_agru_treasure_1_name">
+<text>Trubka v kontrolní místnosti</text>
+</string>
+<string id="st_agru_treasure_1_descr">
+<text>Když se začali objevovat monstra v okolí, schoval jsem nějaké své věci do trubky a dával si nohy.</text>
+</string>
+<string id="st_agru_treasure_2_name">
+<text>Batoh v anomálii</text>
+</string>
+<string id="st_agru_treasure_2_descr">
+<text>Přecházel jsem přes most a omylem nechal svůj batoh sklouznout do kontaminované oblasti. Snažil jsem se ho získat zpět, ale nešlo to.</text>
+</string>
+<string id="st_agru_treasure_4_name">
+<text>Batoh poblíž mrtvého těla</text>
+</string>
+<string id="st_agru_treasure_4_descr">
+<text>Dravci, kteří vypadali jako krysy nebo meruňkoví křečci, roztrhali mého kamaráda na kusy. Já jsem se sotva zachránil - děkuji Bohu, že byly nedaleko schody.</text>
+</string>
+<string id="st_agru_treasure_5_name">
+<text>Batoh pod schody</text>
+</string>
+<string id="st_agru_treasure_5_descr">
+<text>Pod vodou jsem viděl velký černý batoh pod schody. Šel bych tam a vzal si ho, kdyby tam nebyla ta děsivá anomálie.</text>
+</string>
+<string id="st_esc_treasure_1_name">
+<text>Pod křížem na kopci</text>
+</string>
+<string id="st_esc_treasure_1_descr">
+<text>Schoval jsem svoji kořist pod falešným hrobem stopaře na kopci.</text>
+</string>
+
+<string id="st_esc_treasure_2_name">
+<text>Skrýš nad mostem</text>
+</string>
+<string id="st_esc_treasure_2_descr">
+<text>Svojí kořist jsem schoval do truhly na křižovatce mostních nosníků. Chlapče, při výstupu jsem se potil jako o život...</text>
+</string>
+<string id="st_esc_treasure_3_name">
+<text>Trubka pod polámaným stromem</text>
+</string>
+<string id="st_esc_treasure_3_descr">
+<text>Založili jsme tábor nedaleko vesnice pro nováčky. Svůj majetek jsem schoval do trubky pod polámaným stromem. Později si to vyzvednu.</text>
+</string>
+<string id="st_esc_treasure_15_name">
+<text>Trubka v tunelu</text>
+</string>
+<string id="st_esc_treasure_15_descr">
+<text>Zkoušeli jsme zasáhnout anomálie vším možným odpadem a omylem jsme hodili dovnitř trubku s naším lupem. Je tam pořád, a už se na něm usazuje prach.</text>
+</string>
+<string id="st_esc_treasure_4_name">
+<text>Batoh ve stoupačce</text>
+</string>
+<string id="st_esc_treasure_4_descr">
+<text>Když jsem byl začátečník, schoval jsem si malou zásobu nahoru ve stoupačce. Už ani nevím, co tam je.</text>
+</string>
+<string id="st_esc_treasure_5_name">
+<text>Skrýš v stromě</text>
+</string>
+<string id="st_esc_treasure_5_descr">
+<text>Sledoval jsem stanici vozidel ze stromu a rozhodl jsem se tam nechat svůj batoh. Nejjednodušší cesta tam vede po větvi ze strany kopce.</text>
+</string>
+<string id="st_esc_treasure_6_name">
+<text>Pod lokomotivou</text>
+</string>
+<string id="st_esc_treasure_6_descr">
+<text>Můj velitel nám nařídil co nejdříve pomoci skupině Nikolejeva. Tehdy jsem svůj batoh hodil pod lokomotivu, vedle náspy.</text>
+</string>
+<string id="st_esc_treasure_7_name">
+<text>Batoh za keřem</text>
+</string>
+<string id="st_esc_treasure_7_descr">
+<text>Jednou v noci jsme narazili na bandity a rozpoutali se přestřelka. Brzy jsme museli z toho zmizet, takže jsem svůj batoh hodil mezi balvany za keřem.</text>
+</string>
+<string id="st_esc_treasure_8_name">
+<text>Zádová brašna pod dřevem</text>
+</string>
+<string id="st_esc_treasure_8_descr">
+<text>Nasadil jsem nějaké dřevo, aby zakrylo moje úkryty, které jsou vedle dvoupodlažní budovy naproti farmě.</text>
+</string>
+<string id="st_esc_treasure_16_name">
+<text>Sejf v trubce</text>
+</string>
+<string id="st_esc_treasure_17_name">
+<text>Sejf v základně</text>
+</string>
+<string id="st_esc_treasure_17_descr">
+<text>Zil si své věci nechává v sejfu v neutrální základně u Cordonu.</text>
+</string>
+<string id="st_esc_treasure_16_descr">
+<text>Kolyan a já jsme udělali úkryt v sejfu na tom vrakovišti poblíž vesnice pro nováčky.</text>
+</string>
+<string id="st_esc_treasure_9_name">
+<text>Schovka v kládě</text>
+</string>
+<string id="st_esc_treasure_9_descr">
+<text>Byl jsem napaden psy, takže jsem neměl mnoho možností - uložil jsem lup v prasklé kládě uprostřed pole a utíkal do tábora.</text>
+</string>
+<string id="st_esc_treasure_10_name">
+<text>Úkryt v kládě</text>
+</string>
+<string id="st_esc_treasure_10_descr">
+<text>Dostal jsem se k souřadnicím úkrytu mrtvého stopaře - je to v kládě za farmou.</text>
+</string>
+<string id="st_esc_treasure_11_name">
+<text>Kořenový pařez ve smrkovém lese</text>
+</string>
+<string id="st_esc_treasure_11_descr">
+<text>Můj kamarád a já jsme schovali náš skromný lup v starém pařezu mezi některými jedlemi.</text>
+</string>
+<string id="st_esc_treasure_12_name">
+<text>Kořenový pařez poblíž vesnice</text>
+</string>
+<string id="st_esc_treasure_12_descr">
+<text>Nešel jsem daleko, abych udělal svůj úkryt. Vybral jsem si první pořádný pařez vedle vesnice pro nováčky s dírou v něm. Tam skrývám to, co se mi podaří najít.</text>
+</string>
+<string id="st_esc_treasure_13_name">
+	<text>Kmen stromu v lese</text>
+</string>
+<string id="st_esc_treasure_13_descr">
+	<text>Sidorovich nám požádal, abychom udělali skrýš vedle stanoviště, které vede ven, prý pro nějakého nováčka. Všechno jsem schoval pod kmen stromu poblíž kopce.</text>
+</string>
+<string id="st_esc_treasure_14_name">
+	<text>Kmen stromu na Cordonu</text>
+</string>
+<string id="st_esc_treasure_14_descr">
+	<text>Na cestě do Garbage jsem všechno schoval uvnitř kmene stromu v lese, aby si mě bandité neodnášeli nic.</text>
+</string>
+<string id="st_gar_treasure_1_name">
+	<text>Elektrická skříňka v odpadu</text>
+</string>
+<string id="st_gar_treasure_1_descr">
+	<text>Uschoval jsem si něco málo, co později prodám na bleším trhu. Je to ve skříňce vedle chatky spadlého jeřábu.</text>
+</string>
+<string id="st_gar_treasure_2_name">
+	<text>Panelová deska pod přístřeškem</text>
+</string>
+<string id="st_gar_treasure_2_descr">
+	<text>Těším se, až prodám tuhle věc, kterou mám uschovanou uvnitř panelové desky pod přístřeškem, nedaleko odsud.</text>
+</string>
+<string id="st_gar_treasure_16_name">
+	<text>Elektrická skříňka na smetišti</text>
+</string>
+<string id="st_gar_treasure_16_descr">
+	<text>Beute je pod krytem elektrické skříňky v hromadě odpadků.</text>
+</string>
+<string id="st_gar_treasure_3_name">
+	<text>Trubka v Garbage</text>
+</string>
+<string id="st_gar_treasure_3_descr">
+	<text>Schoval jsem si svoje lahůdky do useknuté trubky, aby si je nikdo nemohl odnést ode mě.</text>
+</string>
+<string id="st_gar_treasure_4_name">
+	<text>Trubka u paty jeřábu</text>
+</string>
+<string id="st_gar_treasure_4_descr">
+<text>Na dně zříceného jeřábu je trubka - tam jsem schovával nějaké své drobnosti, víte, na horší časy.</text>
+</string>
+<string id="st_gar_treasure_5_name">
+<text>Zavazadlo pod jedlí</text>
+</string>
+<string id="st_gar_treasure_19_name">
+<text>Zavazadlo v kabince jeřábu</text>
+</string>
+<string id="st_gar_treasure_19_descr">
+<text>Svoje zavazadlo jsem schoval v kabině jeřábu, když ještě stál. Teď se tam nedostanu.</text>
+</string>
+<string id="st_gar_treasure_5_descr">
+<text>Dokud se mi nedaří, zůstane mé zavazadlo a veškerý obsah skrytý pod tímto stromem jedle.</text>
+</string>
+<string id="st_gar_treasure_20_name">
+<text>Skrýš před mými nepřáteli</text>
+</string>
+<string id="st_gar_treasure_20_descr">
+<text>Zavazadlo jsem hodil do hromady radioaktivního odpadu, aby se k němu nepřátelé dostali.</text>
+</string>
+<string id="st_gar_treasure_6_name">
+<text>Úkryt na vrakovišti</text>
+</string>
+<string id="st_gar_treasure_6_descr">
+<text>Svůj věci jsem zasunul pod betonovou desku poblíž kontaminovaného vrakoviště vozidel. Raději si je rychle vezmu zpátky, než je někdo přede mnou najde.</text>
+</string>
+<string id="st_gar_treasure_7_name">
+<text>Střecha lokomotivy</text>
+</string>
+<string id="st_gar_treasure_7_descr">
+<text>Svoji malou tašku jsem nechal na vrcholu lokomotivy. Je snadné se k ní dostat z náspy, ale ne tak snadné ji najít.</text>
+</string>
+<string id="st_gar_treasure_8_name">
+<text>Sejf v kaluži</text>
+</string>
+<string id="st_gar_treasure_8_descr">
+<text>Je malá pravděpodobnost, že by se někomu chtělo prohrabávat poloponořeným sejfem v kaluži. Je to dobré místo pro dočasné úkryt.</text>
+</string>
+<string id="st_gar_treasure_9_name">
+<text>Sejf pod oporou</text>
+</string>
+<string id="st_gar_treasure_9_descr">
+<text>Svůj lup jsem zasunul do sejfu poblíž značky s nebezpečím radioaktivity. Zloděj na sebe musí mít smrtelnou chuť, aby se do něj pokusil dostat!</text>
+</string>
+<string id="st_gar_treasure_10_name">
+<text>Díra uvnitř polena</text>
+</string>
+<string id="st_gar_treasure_10_descr">
+<text>Uvnitř polena nedaleko koncentračního tábora jsem použil díru jako svůj trezor.</text>
+</string>
+<string id="st_gar_treasure_11_name">
+<text>Poleno za dubem</text>
+</string>
+<string id="st_gar_treasure_11_descr">
+<text>Kolyan mi dal tip - řekl, že Weedy schovává svůj lup do díry v poleně za mrtvým dubem.</text>
+</string>
+<string id="st_gar_treasure_12_name">
+<text>Poleno v keřích</text>
+</string>
+
+<string id="st_gar_treasure_12_descr">
+	<text>Strčil jsem svou kořist do klády a odvlekl ji do křoví. Tam by měla zůstat v bezpečí a mimo dosah zraku.</text>
+</string>
+<string id="st_gar_treasure_13_name">
+	<text>Skrýš lamsterů</text>
+</string>
+<string id="st_gar_treasure_13_descr">
+	<text>Jeden z kopáčů si myslel, že uteče se svou kořistí, ale Shepherd a jeho parta měli jiné plány. Odpálili chlápka, ale lup nenašli. Pouze já jsem viděl pařez, který kopáči použili jako skrýš.</text>
+</string>
+<string id="st_gar_treasure_14_name">
+	<text>Samotná skrýš</text>
+</string>
+<string id="st_gar_treasure_14_descr">
+	<text>Vybral jsem si osamělý dutý pařez jako skrýš - pro případ, že by se některý z našich kluků rozhodl mě okrást.</text>
+</string>
+<string id="st_gar_treasure_15_name">
+	<text>Úkryt poblíž základny</text>
+</string>
+<string id="st_gar_treasure_15_descr">
+	<text>Nevím, jak ostatní, ale já skrývám své věci přímo před nosem Yogy - vedle plotu, pod starým pařezem.</text>
+</string>
+<string id="st_hos_treasure_1_name">
+	<text>Elektrická skříň v nemocnici</text>
+</string>
+<string id="st_hos_treasure_1_descr">
+	<text>Naše skupina vytvořila skrýš v elektrické skříni v prvním patře nemocnice.</text>
+</string>
+<string id="st_hos_treasure_2_name">
+	<text>Batoh pod schody</text>
+</string>
+<string id="st_hos_treasure_2_descr">
+	<text>Když jsme útočili na druhé patro, museli jsme se zbavit všeho, co jsme nepotřebovali.</text>
+</string>
+<string id="st_hos_treasure_3_name">
+	<text>Bariéry v hale</text>
+</string>
+<string id="st_hos_treasure_3_descr">
+	<text>Byl jsem zapletený v pořádné přestřelce, uvízl jsem v hale na druhém patře nemocnice. Musel jsem svou kořist schovat v starém trezoru ve zátarasu.</text>
+</string>
+<string id="st_lim_treasure_3_name">
+	<text>Trubka ve stokovém systému</text>
+</string>
+<string id="st_lim_treasure_3_descr">
+	<text>Viděl jsem něčí skrýš ve stokové trubce. Seberu ji, až se vrátíme do té oblasti.</text>
+</string>
+<string id="st_lim_treasure_6_name">
+	<text>Kufřík v záhybu</text>
+</string>
+<string id="st_lim_treasure_5_name">
+	<text>Kufřík na půdě</text>
+</string>
+<string id="st_lim_treasure_5_descr">
+	<text>Strávili jsme dva dny odpuzováním útoků. Nakonec jsme se museli stáhnout na střechu, ale právě tehdy dorazila posila. Vypozoroval jsem kufr na půdě, ale zapomněl jsem si ho vzít s sebou.</text>
+</string>
+
+<string id="st_lim_treasure_6_descr">
+	<text>Když jsme procházeli zahradou, všiml jsem si malé nářadové skříňky za plotem.</text>
+</string>
+<string id="st_lim_treasure_7_name">
+	<text>Trubka pod autem UAZ</text>
+</string>
+<string id="st_lim_treasure_8_name">
+	<text>Za garážemi</text>
+</string>
+<string id="st_lim_treasure_8_descr">
+	<text>Viděl jsem skrýš za garážemi, ale neměl jsem čas se na ni podívat. Je uvnitř velké trubky za stromem.</text>
+</string>
+<string id="st_lim_treasure_1_name">
+	<text>Trubka v kontejneru</text>
+</string>
+<string id="st_lim_treasure_1_descr">
+	<text>Byli jsme zahnáni do nějaké zahrady. Byl tam popelnice a myslím, že jsem v ní něco viděl, uvnitř trubky. Jakmile skončíme tady, půjdu se tam vrátit a prozkoumám to.</text>
+</string>
+<string id="st_lim_treasure_7_descr">
+	<text>Sáček s nějakou blbostí trčel zpod auta UAZ. Neměl jsem čas to zkontrolovat, ale možná to udělám později - pokud budu ještě naživu.</text>
+</string>
+<string id="st_lim_treasure_9_name">
+	<text>Batoh pod přihrádkou</text>
+</string>
+<string id="st_lim_treasure_9_descr">
+	<text>Strčil jsem batoh chudáka Plechovky pod palubní desku starého auta Moskvich.</text>
+</string>
+<string id="st_lim_treasure_2_name">
+	<text>Batoh u plotu</text>
+</string>
+<string id="st_lim_treasure_14_name">
+	<text>Věci zraněného muže</text>
+</string>
+<string id="st_lim_treasure_14_descr">
+	<text>Při lezení přes zeď ho Saněk dostal jedním raněným, musel odhodit batoh, aby si zachránil zadek.</text>
+</string>
+<string id="st_lim_treasure_2_descr">
+	<text>Byl jsem pronásledován, takže jsem svůj batoh odhodil poblíž plotu na těchto souřadnicích.</text>
+</string>
+<string id="st_lim_treasure_10_name">
+	<text>Batoh mrtvého muže</text>
+</string>
+<string id="st_lim_treasure_10_descr">
+	<text>Nováček hned vedle mě dostal granátem - tam hned a tam vydechl. Dan si vzal jeho batoh a hodil ho pod most. Mrtvý člověk ho nepotřebuje, ale my bychom mohli.</text>
+</string>
+<string id="st_lim_treasure_11_name">
+	<text>Sejf v garáži</text>
+</string>
+<string id="st_lim_treasure_11_descr">
+	<text>Prohledávali jsme garáže kvůli uprchlíkovi a našli jsme sejf. Měli bychom ho někdy zkusit vykrást.</text>
+</string>
+<string id="st_lim_treasure_12_name">
+	<text>Zapuštěný kmen</text>
+</string>
+<string id="st_lim_treasure_12_descr">
+	<text>Předtím než jsme zlikvidovali toho parchanta, viděl jsem ho naokočovat okolo toho kmene za altánem.</text>
+</string>
+<string id="st_lim_treasure_13_name">
+	<text>Svazek v pařezu</text>
+</string>
+<string id="st_lim_treasure_13_descr">
+	<text>Když jsme se připravovali na útok, spatřil jsem nějaký svazek v díře v tomhle pařezu.</text>
+</string>
+<string id="st_mar_treasure_1_name">
+	<text>Skrýš poblíž bunkru</text>
+</string>
+<string id="st_mar_treasure_1_descr">
+	<text>Gang Squinta se ke mě blížil, takže jsem ukryl hromadu lupu vedle nějakého vchodu do bunkru, v bažině nedaleko opuštěné stanice vozidel.</text>
+</string>
+<string id="st_mar_treasure_2_name">
+	<text>Malá schránka pod věží</text>
+</string>
+<string id="st_mar_treasure_2_descr">
+	<text>Sbírám všechny své věci v úkrytu, který jsem vyrobil pod jednou z vysokonapěťových věží.</text>
+</string>
+<string id="st_mar_treasure_3_name">
+	<text>Box v kabině auta ZIL</text>
+</string>
+<string id="st_mar_treasure_3_descr">
+	<text>Lame Alex přinesl odněkud zámečnickou schránku. Naplnili jsme ji nějakými dobrotami a vstrčili ji do kabiny rezavého ZILu.</text>
+</string>
+<string id="st_mar_treasure_4_name">
+	<text>Trubka na stanici</text>
+</string>
+<string id="st_mar_treasure_4_descr">
+	<text>Schovával jsem něco do koncovky trubky vedle ventilu, v staré čerpací stanici uprostřed bažiny.</text>
+</string>
+<string id="st_mar_treasure_6_name">
+	<text>Trubka v bažině</text>
+</string>
+<string id="st_mar_treasure_6_descr">
+	<text>Už mě nebavilo tahat své věci sem a tam přes tyto bažiny, takže jsem je odložil na poloostrově, do trubky s ventilem. Přišel jsem na to, že si snížím zátěž a schránka bude v těch rákosech v bezpečí.</text>
+</string>
+<string id="st_mar_treasure_5_name">
+	<text>Batoh v bažinách</text>
+</string>
+<string id="st_mar_treasure_5_descr">
+	<text>Jen tak tak jsem unikl jedné z těch bažinných příšer. Když jsem běžel, tak jsem svůj batoh upustil, ale nechce se mi se tam vracet pro něj.</text>
+</string>
+<string id="st_mar_treasure_8_name">
+	<text>Ponořený trezor</text>
+</string>
+<string id="st_mar_treasure_8_descr">
+	<text>V nedaleké vodě je ponořený trezor poblíž zříceného mostu. Vložil jsem do té schránky všechny své věci a všechnu svoji důvěru.</text>
+</string>
+<string id="st_mar_treasure_7_name">
+	<text>Batoh v rákosí</text>
+</string>
+<string id="st_mar_treasure_7_descr">
+	<text>Odhodil jsem svůj batoh v rákosí, když jsem se snažil odehnat nějaké divoké prase. Nemám žádný referenční bod, jen souřadnice místa.</text>
+</string>
+<string id="st_mar_treasure_10_name">
+	<text>Zapomenuté artefakty</text>
+</string>
+<string id="st_mar_treasure_10_descr">
+	<text>Podvedl jsem nějakého vola a vzal jsem mu batoh plný lupu. Pak jsem se rozhodl ho na chvíli schovat v rákosí, abych nebyl chycený.</text>
+</string>
+<string id="st_mar_treasure_9_name">
+	<text>Kmen stromu poblíž suchého stromu</text>
+</string>
+<string id="st_mar_treasure_9_descr">
+	<text>Rozhodl jsem se ukryt svůj lup do kmene stromu vedle suchého stromu. Vezmu si ho sebou, až se rozloučím s bažinami.</text>
+</string>
+<string id="st_mar_treasure_12_name">
+	<text>Kmen poblíž věže</text>
+</string>
+<string id="st_mar_treasure_12_descr">
+	<text>Puklý kmen nedaleko vysokonapěťové věže.</text>
+</string>
+
+<string id="st_mar_treasure_11_name">
+	<text>Hrob s plynovou maskou</text>
+</string>
+<string id="st_mar_treasure_11_descr">
+	<text>Důvěřuji mrtvým více než živým. Moje skrýš je na hřbitově, v nejlevějším hrobě s plynovou maskou.</text>
+</string>
+<string id="st_mar_treasure_14_name">
+	<text>Dřevěný kříž</text>
+</string>
+<string id="st_mar_treasure_14_descr">
+	<text>Schoval jsem si něco na černé dny. Je to v hrobě s jediným dřevěným křížem na hřbitově u kostela.</text>
+</string>
+<string id="st_mar_treasure_13_name">
+	<text>Dřevařský kůl u kostela</text>
+</string>
+<string id="st_mar_treasure_13_descr">
+	<text>Můj milý Bože, prosím, dej si na mý věci pozor. Schoval jsem je do puklého kmene ve dřevařském kůlu.</text>
+</string>
+<string id="st_mar_treasure_16_name">
+	<text>Skrýš v rákosí</text>
+</string>
+<string id="st_mar_treasure_16_descr">
+	<text>Svůj batoh jsem nechal v rákosí nedaleko kostela. Teď ho nemůžu najít, i když mám přesné souřadnice v mém PDA.</text>
+</string>
+<string id="st_mar_treasure_15_name">
+	<text>Trezor v blátě</text>
+</string>
+<string id="st_mar_treasure_15_descr">
+	<text>Vložil jsem všechny své věci do trezoru na břehu bažiny nedaleko kostela. Tak si to užijte, lupiči!</text>
+</string>
+<string id="st_mar_treasure_18_name">
+	<text>Kobercová taška pod sporákem</text>
+</string>
+<string id="st_mar_treasure_18_descr">
+	<text>Co mají společného horký sporák a pohledná dáma? Když na nich dlouho pracuješ, riskuješ pálení! Ha-ha. Takový sporák jsem použil na schování své kobercové tašky plné lupu.</text>
+</string>
+<string id="st_mar_treasure_17_name">
+	<text>Věci v autě Zaporozhets</text>
+</string>
+<string id="st_mar_treasure_17_descr">
+	<text>Půl noci jsme strávili na tom polopotopeném autě Zaporozhets, než přišli naše kluci na pomoc. Nevěděl jsem, kdo nás najde první, takže jsem tam někde své věci odhodil. Měl bych tam dorazit a vykopat je, než zapadne slunce.</text>
+</string>
+<string id="st_mar_treasure_20_name">
+	<text>Kmen stromu poblíž železnice</text>
+</string>
+<string id="st_mar_treasure_20_descr">
+	<text>Procházeli jsme kolem železnice, když jsme slyšeli nějaké výstřely. Schoval jsem své věci do kmene za nějakými balvany, jen pro jistotu.</text>
+</string>
+<string id="st_mar_treasure_19_name">
+	<text>Roura z cisterny</text>
+</string>
+<string id="st_mar_treasure_19_descr">
+	<text>Já a moji kluci si naše věci ukládáme do konce roury, té s ventilem, která vede od cisterny do bažin.</text>
+</string>
+<string id="st_mar_treasure_22_name">
+	<text>Batoh poblíž matrace</text>
+</string>
+<string id="st_mar_treasure_22_descr">
+	<text>Blboun Lekha spal na matraci na potopené lodi a nakonec tam zapomněl svůj batoh.</text>
+</string>
+<string id="st_mar_treasure_21_name">
+	<text>Krabice v kuchyni</text>
+</string>
+<string id="st_mar_treasure_21_descr">
+	<text>Odložil jsem si nějaké zboží na pozdější výměnu, je ve modré krabici ve venkovní kuchyni.</text>
+</string>
+<string id="st_mar_treasure_24_name">
+	<text>Skrýš v kmínu</text>
+</string>
+<string id="st_mar_treasure_24_descr">
+	<text>Předtím než jsem se vydal do jiné části bažin, musel jsem se zbavit svého batohu. Schoval jsem něco svého lupu do puklého kmínu.</text>
+</string>
+<string id="st_mar_treasure_23_name">
+	<text>Skrýš v rozvodné skříni</text>
+</string>
+<string id="st_mar_treasure_23_descr">
+	<text>Rozvodná skříň venku u transformátorovny na statku. Nebezpečí! Držte se zpátky!</text>
+</string>
+<string id="st_mar_treasure_25_name">
+	<text>Elektrická řídící jednotka na stanici vozidel</text>
+</string>
+<string id="st_mar_treasure_25_descr">
+	<text>Když jsem se přidal k Greyově bandě, uložil jsem si nějaké věci v elektrické řídící jednotce na stanici. Kdo ví, možná se to někdy hodí.</text>
+</string>
+<string id="st_mar_treasure_26_name">
+	<text>Batoh na stezce</text>
+</string>
+<string id="st_mar_treasure_26_descr">
+	<text>Narazil jsem na příšeru na stezce a jediné, co jsem měl u sebe, byl nůž. Batoh jsem hodil a vrhl se na ni. Pár chlapíků mě našlo později, asi míli odtud. Měl bych se tam někdy vrátit.</text>
+</string>
+<string id="st_mar_treasure_27_name">
+	<text>Kmen stromu u mladého stromu</text>
+</string>
+<string id="st_mar_treasure_27_descr">
+	<text>Nechť blázni jsou sevřeni Hookem. Já budu postupně sbírat svůj lup a skrývat ho pod kmenem stromu u mladého stromu.</text>
+</string>
+<string id="st_mar_treasure_28_name">
+	<text>Trezor za mrtvým stromem</text>
+</string>
+<string id="st_mar_treasure_28_descr">
+	<text>Svůj lup si šetřím na výměnu za léky pro mého syna, ukrývám ho v trezoru za mrtvým stromem. Jakmile jich budu mít dost, vyrazím ven.</text>
+</string>
+<string id="st_mar_treasure_29_name">
+	<text>Skrýš v křoví</text>
+</string>
+<string id="st_mar_treasure_29_descr">
+	<text>Vyšel jsem ze Bažin příliš vyčerpaný, abych šel dál, takže jsem své věci upustil přímo na cestu, do křoví.</text>
+</string>
+<string id="st_mar_treasure_30_name">
+	<text>Skrýš pod nákladovou plošinou</text>
+</string>
+<string id="st_mar_treasure_30_descr">
+	<text>V nástrojové skříňce pod nákladovou plošinou naproti mostu.</text>
+</string>
+<string id="st_mar_treasure_31_name">
+<text>Uprostřed bažiny</text>
+</string>
+<string id="st_mar_treasure_31_descr">
+<text>V uprostřed bažiny jsem nechal krabici se vším možným, položenou na kousku betonu s vyčnívajícími kovovými tyčemi. Vezmu si ji s sebou, až odejdu ven.</text>
+</string>
+<string id="st_mar_treasure_32_name">
+<text>Malá krabice ve sporáku</text>
+</string>
+<string id="st_mar_treasure_32_descr">
+<text>Můj úkryt je v truhle, ta truhla je ve sporáku, ten sporák je v vypáleném domě, a ten dům je v bažině.</text>
+</string>
+<string id="st_mar_treasure_33_name">
+<text>Sejf v rákosí</text>
+</string>
+<string id="st_mar_treasure_33_descr">
+<text>Neumím si představit, co takový sejf tady dělá v bažině, ale nemohl jsem na něj zapomenout. Prozatím si tam budu držet své věci.</text>
+</string>
+<string id="st_mar_treasure_34_name">
+<text>Kmen stromu u bažiny</text>
+</string>
+<string id="st_mar_treasure_34_descr">
+<text>Náš náčelník řekl, abychom si nepřebírali moc věcí s sebou. Svoje jsem schoval pod pařez vedle vodárenské věže, v křoví pod stromem.</text>
+</string>
+<string id="st_mar_treasure_35_name">
+<text>Pilkař v bažině</text>
+</string>
+<string id="st_mar_treasure_35_descr">
+<text>Přecházel jsem bažinou a všiml jsem si tohoto shnilého pilkaře poblíž dřevěného mole. Připadalo mi, že by to mohlo být dobré úkrytové místo pro moje "poklady".</text>
+</string>
+<string id="st_mar_treasure_36_name">
+<text>Batoh na ostrově</text>
+</string>
+<string id="st_mar_treasure_36_descr">
+<text>Tvor z bažiny mě pronásledoval po celém místě. Po několika mílích této maratónské hry jsem byl tak unavený, že jsem musel svůj batoh odhodit na jednom z ostrovů.</text>
+</string>
+<string id="st_mar_treasure_37_name">
+<text>Kryt poblíž stanice</text>
+</string>
+<string id="st_mar_treasure_37_descr">
+<text>Zakopal jsem své pochoutky pod jedním z krytů poblíž stanice, abych je nepřišel o všechno kvůli nějakému lupiči.</text>
+</string>
+<string id="st_mar_treasure_38_name">
+<text>Skrýš v potrubí</text>
+</string>
+<string id="st_mar_treasure_38_descr">
+<text>Ten černý batoh v tom velkém potrubí je všechno, co zbylo po Mitkovi.</text>
+</string>
+<string id="st_mar_treasure_39_name">
+<text>Krabice s nástroji v chatě</text>
+</string>
+<string id="st_mar_treasure_39_descr">
+<text>Našel jsem krabici s nástroji v bažině, vložil do ní všechny své věci a schoval ji v kabině jeřábu. Počkám, až se situace zlepší, než ji využiju.</text>
+</string>
+<string id="st_mar_treasure_40_name">
+	<text>Batoh pod vlakovým vozem</text>
+</string>
+<string id="st_mar_treasure_40_descr">
+	<text>Snažil jsem se uniknout, takže jsem se zbavil části zátěže tím, že jsem svůj batoh odhodil pod vlakovým vozem na kolejovém loži.</text>
+</string>
+<string id="st_mar_treasure_41_name">
+	<text>Na římsě věže</text>
+</string>
+<string id="st_mar_treasure_41_descr">
+	<text>Svůj batoh jsem nechal na římse kostelní věže. Musel jsem vypadat jako divoká koza poskakující po té střeše.</text>
+</string>
+<string id="st_mar_treasure_42_name">
+	<text>Pod mostem</text>
+</string>
+<string id="st_mar_treasure_42_descr">
+	<text>Schovávali jsme se pod mostem, zatímco nás pronásledující kluci přeběhli přes něj. Svůj batoh s nějakou koristí jsem tam dolů nechal vedle nosníku.</text>
+</string>
+<string id="st_mar_treasure_43_name">
+	<text>Mezi balvany</text>
+</string>
+<string id="st_mar_treasure_43_descr">
+	<text>Odhodil jsem svou tašku do škáry mezi třemi balvany, abych nevypadal jako terč pro nějaké chamtivé chlapy.</text>
+</string>
+<string id="st_mar_treasure_44_name">
+	<text>Pilkař pod balvany</text>
+</string>
+<string id="st_mar_treasure_44_descr">
+	<text>Hledal jsem bezpečné místo pro své poklady a našel jsem pěkného pilkaře s dírou pod několika balvany v rákosí.</text>
+</string>
+<string id="st_mil_treasure_11_name">
+<text>Skrýš pod hrobem</text>
+</string>
+<string id="st_mil_treasure_11_descr">
+<text>Zahrabal jsem své věci pod křížem u hrobu. Nechť odpočívají v pokoji, dokud se pro ně nevrátím.</text>
+</string>
+<string id="st_mil_treasure_12_name">
+<text>Kříž u stromu</text>
+</string>
+<string id="st_mil_treasure_12_descr">
+<text>Vytvořil jsem skrýš v hrobě vedle stromu.</text>
+</string>
+<string id="st_mil_treasure_1_name">
+<text>Kufr v kamnech</text>
+</string>
+<string id="st_mil_treasure_1_descr">
+<text>Zatloukl jsem malý kufr do kamen v zchátralé chatrči. Budu tam ukládat své pochoutky, jak je budu sbírat.</text>
+</string>
+<string id="st_mil_treasure_13_name">
+<text>Roura u vstupu do základny</text>
+</string>
+<string id="st_mil_treasure_13_descr">
+<text>Svůj majetek jsem schoval přímo pod nos podporučíka. Je to uvnitř trubky za strážní budkou u vstupu do základny.</text>
+</string>
+<string id="st_mil_treasure_2_name">
+<text>Batoh u komína</text>
+</string>
+<string id="st_mil_treasure_14_name">
+<text>Skrýš v autě Moskvich</text>
+</string>
+<string id="st_mil_treasure_14_descr">
+<text>Až se Max vrátí, vrátím mu jeho batoh. Zatím nechť zůstane v tom starém Moskvichu.</text>
+</string>
+<string id="st_mil_treasure_2_descr">
+<text>Svoji brašnu jsem nechal vedle komína na půdě zchátralého domu. Vrátil bych se, kdyby tam nebyl ten pijavice ve vesnici.</text>
+</string>
+<string id="st_mil_treasure_3_name">
+<text>Batoh pod přívěsem</text>
+</string>
+<string id="st_mil_treasure_4_name">
+<text>Skrýš pod mostem</text>
+</string>
+
+<string id="st_mil_treasure_4_descr">
+	<text>Batoh je ve vlakovém vagónu pod mostem v armádní základně.</text>
+</string>
+<string id="st_mil_treasure_5_name">
+	<text>Trhlina v tunelu</text>
+</string>
+<string id="st_mil_treasure_5_descr">
+	<text>Upustil jsem svůj batoh do trhliny nad tunelem, když začalo "horko", ale zachytil se na kovové tyči. Bylo škoda ho tam nechat - měl bych se opravdu vrátit a vzít si ho.</text>
+</string>
+<string id="st_mil_treasure_6_name">
+	<text>Skrýš ve WC</text>
+</string>
+<string id="st_mil_treasure_6_descr">
+	<text>Pochybuji, že někdo bude hledat skrýš ve vesnickém záchodě. Ale můj tam je, takže se o to nebojím.</text>
+</string>
+<string id="st_mil_treasure_7_name">
+	<text>Schovávka u plotu</text>
+</string>
+<string id="st_mil_treasure_7_descr">
+	<text>Za hangárem jsem odložil batoh chudého Kolyana. Měl jsem dost svých věcí na nesení.</text>
+</string>
+<string id="st_mil_treasure_8_name">
+	<text>Batoh pod stromem</text>
+</string>
+<string id="st_mil_treasure_8_descr">
+	<text>Okamžitě jak jsem uviděl to monstrum vedle vodárenské věže, upustil jsem svůj batoh pod spadlý strom jako horký brambor. V takových chvílích vám být lehkým může zachránit život.</text>
+</string>
+<string id="st_mil_treasure_15_name">
+	<text>Batoh v sklepě</text>
+</string>
+<string id="st_mil_treasure_15_descr">
+	<text>Po emisi jsem byl tak závratný, že jsem svůj batoh odhodil do sklepa. Vrátil se pro něj, až se zase postavím na nohy.</text>
+</string>
+<string id="st_mil_treasure_16_name">
+	<text>Zapomenutý batoh</text>
+</string>
+<string id="st_mil_treasure_16_descr">
+	<text>Exploze roztříštila zeď na kusy a jeden z nich mě uvěznil. Musel jsem svůj batoh odhodit, abych se dostal ven a zasáhl nějaké zadek, a to byla taková zábava, že jsem na batoh úplně zapomněl. Pravděpodobně je tam stále...</text>
+</string>
+<string id="st_mil_treasure_17_name">
+	<text>Schovávka v kuchyni</text>
+</string>
+<string id="st_mil_treasure_17_descr">
+	<text>Zelený batoh v kuchyňské kamny v jednom z domů opuštěné vesnice. Zaznamenány souřadnice.</text>
+</string>
+<string id="st_mil_treasure_18_name">
+	<text>Skrýš pod balvanem</text>
+</string>
+<string id="st_mil_treasure_18_descr">
+	<text>Minulý den jsem se tady nesl jako o život a zapomněl jsem batoh plný horkého zboží v křoví mezi dvěma balvany.</text>
+</string>
+<string id="st_mil_treasure_3_descr">
+	<text>Viděl jsem, jak jeden chlap hodil svůj batoh pod přívěs před tím, než přišla emise. Měl bych se tam jít podívat.</text>
+</string>
+<string id="st_mil_treasure_9_name">
+	<text>Trhlinový pařez</text>
+</string>
+<string id="st_mil_treasure_19_name">
+	<text>Skrýš v sani vesničana</text>
+</string>
+<string id="st_mil_treasure_19_descr">
+	<text>Skrýš v obrovském pařezu vedle saní vesničana.</text>
+</string>
+<string id="st_mil_treasure_20_name">
+	<text>Pařez pod balvany</text>
+</string>
+<string id="st_mil_treasure_20_descr">
+	<text>Na samém okraji několika balvanů je pařez a uvnitř něj, mimo zvědavé oči, je moje skrýš.</text>
+</string>
+<string id="st_mil_treasure_9_descr">
+	<text>Svoje věci jsem schoval v pařezu pod borovicí vedle seschlé věže.</text>
+</string>
+<string id="st_mil_treasure_10_name">
+	<text>Pařez za betonovými pláty</text>
+</string>
+<string id="st_mil_treasure_21_name">
+	<text>Kořen vedle plotu</text>
+</string>
+<string id="st_mil_treasure_21_descr">
+	<text>Vityok řekl, že můj podíl z lupu je v díře kořene stromu, který je mezi plotem vojenské základny a malým bažinatým místem.</text>
+</string>
+<string id="st_mil_treasure_10_descr">
+	<text>Kořen mezi dvěma balvany, za hromadou betonových desek.</text>
+</string>
+<string id="st_red_treasure_2_name">
+	<text>Modrý bedna</text>
+</string>
+<string id="st_red_treasure_2_descr">
+	<text>Můj lup je v modré bedně ve druhém patře budovy poblíž podvodu.</text>
+</string>
+<string id="st_red_treasure_1_name">
+	<text>Roura v kočáru</text>
+</string>
+<string id="st_red_treasure_1_descr">
+	<text>Svůj věci jsem schoval do roury a hodil ji do rezavého kočáru na starém lomu.</text>
+</string>
+<string id="st_red_treasure_8_name">
+	<text>Černý batoh</text>
+</string>
+<string id="st_red_treasure_9_name">
+	<text>Batoh na větvi stromu</text>
+</string>
+<string id="st_red_treasure_9_descr">
+	<text>Před nějakým příšerou jsem se schoval na stromě. Neviděl jsem tu bestii, ale slyšel jsem ji. Batoh jsem nechal na větvi, skočil dolů a utekl o život.</text>
+</string>
+<string id="st_red_treasure_8_descr">
+	<text>Sakra, ztratil jsem svůj černý batoh, když jsem utíkal z lesa. Vím přesně, kde je, ale tam se už nevrátím, pokud celé to místo nepřenapálí do záhuby.</text>
+</string>
+<string id="st_red_treasure_10_name">
+	<text>Strom vedle plotu</text>
+</string>
+<string id="st_red_treasure_10_descr">
+	<text>Pokrevním sajrajtem mě pronásledoval až k ohradě rezervace a na strom. Kdybych tam nechal svůj batoh v tom stromě, nikdy bych neudělal skok na ohradu.</text>
+</string>
+<string id="st_red_treasure_19_name">
+	<text>Batoh v jeskyni</text>
+</string>
+<string id="st_red_treasure_19_descr">
+	<text>Vlezl jsem do jeskyně v noci, abych si odpočinul. Byl jsem hrubě probuzen sajrajtem, který tahal za můj batoh. Utíkal jsem odtud jako šampion na závodech, ale sajrajt stále má můj batoh.</text>
+</string>
+<string id="st_red_treasure_11_name">
+	<text>Balvan u rokle</text>
+</string>
+<string id="st_red_treasure_11_descr">
+	<text>Několik psů mě obklíčilo vedle rokle, takže jsem hodil svůj batoh mezi balvany a snažil se dostat ven.</text>
+</string>
+<string id="st_red_treasure_3_name">
+	<text>Batoh v keřích</text>
+</string>
+<string id="st_red_treasure_12_name">
+	<text>Batoh v lese</text>
+</string>
+<string id="st_red_treasure_12_descr">
+	<text>To bylo jako být uvnitř hororového filmu. Nevím, jak jsem se dostal ven... Ztratil jsem svůj batoh, ale pamatuji si, že existuje jen jedno místo, kde jsem ho mohl upustit.</text>
+</string>
+<string id="st_red_treasure_13_name">
+	<text>Batoh pod balvany</text>
+</string>
+<string id="st_red_treasure_13_descr">
+	<text>Kolyův batoh byl příliš těžký na nošení, tak jsem ho umístil pod několik balvanů u východu na Limanský most.</text>
+</string>
+<string id="st_red_treasure_14_name">
+	<text>Prokletý lup</text>
+</string>
+<string id="st_red_treasure_14_descr">
+	<text>Ten batoh má docela příběh! Všichni kluci, kteří se ho dotkli, jsou mrtví. Vyhodil jsem ho pryč, abych už nikdy neviděl tu prokletou věc.</text>
+</string>
+<string id="st_red_treasure_15_name">
+	<text>Podivné místo</text>
+</string>
+<string id="st_red_treasure_15_descr">
+	<text>Usnul jsem vedle balvanu, na batohu. K ránu jsem se probudil úplně jinde. Snažil jsem se najít ten balvan, ale něco mě stále posílalo v kruzích.</text>
+</string>
+<string id="st_red_treasure_16_name">
+	<text>Batoh pod sesuvem kamení</text>
+</string>
+<string id="st_red_treasure_16_descr">
+	<text>Několik balvanů se utrhlo z rokle a spadlo přímo na mě u východu z Rudého lesa. Pak se ke mně něco temného začalo vytahovat zezadu. Sotva jsem se dostal ven, ale neměl jsem jinou možnost než po cestě upustit své věci.</text>
+</string>
+<string id="st_red_treasure_3_descr">
+	<text>Procházeli jsme keříky a nějak se mi podařilo ztratit můj batoh.</text>
+</string>
+<string id="st_red_treasure_17_name">
+	<text>Ztracený batoh</text>
+</string>
+<string id="st_red_treasure_17_descr">
+	<text>Ten idiot Abe ztratil můj batoh někde mezi skalami, poblíž tohoto místa. Teď je příliš vystrašený, aby se vrátil a vzal ho zpět. Opravdový přítel, vskutku!</text>
+</string>
+<string id="st_red_treasure_18_name">
+	<text>Schovka v důlní galerii</text>
+</string>
+<string id="st_red_treasure_18_descr">
+	<text>Ukryl jsem svoje artefakty na samém konci opuštěné důlní galerie.</text>
+</string>
+<string id="st_red_treasure_24_name">
+	<text>Kořen v divočině</text>
+</string>
+<string id="st_red_treasure_24_descr">
+	<text>Ztratil jsem se v Rudém lese a upustil jsem tu všechno své harampádí, přímo sem, do díry v kořenu.</text>
+</string>
+<string id="st_red_treasure_4_name">
+	<text>Věci ve dřevěné dutině</text>
+</string>
+<string id="st_red_treasure_4_descr">
+	<text>Na cestě do Limansku jsme s Whipem schovali naše věci do dutiny padlého stromu poblíž východu z rezervace.</text>
+</string>
+<string id="st_red_treasure_5_name">
+	<text>Dutina v dřevěném pařezu</text>
+</string>
+<string id="st_red_treasure_6_name">
+	<text>Pařez před lesem</text>
+</string>
+<string id="st_red_treasure_6_descr">
+	<text>Neznáme, co nás čeká v tomto lese... takže jsme si schovat své nadbytečné věci do shnilého pařezu.</text>
+</string>
+<string id="st_red_treasure_7_name">
+	<text>Pařez poblíž rokle</text>
+</string>
+<string id="st_red_treasure_7_descr">
+	<text>Schovali jsme věci poblíž té pekelné anomálie. Naším cílem je samotná anomálie. Je to tak úžasné, že určitě obsahuje nějaké opravdově cenné artefakty.</text>
+</string>
+<string id="st_red_treasure_20_name">
+	<text>Velký pařez</text>
+</string>
+<string id="st_red_treasure_20_descr">
+	<text>Seva mi pověděl o velkém dutém pařezu v Rudém lese. Zkusím ho najít a podívat se, co je uvnitř.</text>
+</string>
+<string id="st_red_treasure_21_name">
+	<text>Úkryt v pařezu</text>
+</string>
+<string id="st_red_treasure_21_descr">
+	<text>Gene a já jsme schovali pár věcí v pařezu v Rudém lese.</text>
+</string>
+<string id="st_red_treasure_22_name">
+	<text>Pařez poblíž rokle</text>
+</string>
+<string id="st_red_treasure_22_descr">
+	<text>Trefil jsem tenhle pařez, když jsem spadl do rokle, takže jsem do něj prozatím schovával svoje kořist.</text>
+</string>
+<string id="st_red_treasure_5_descr">
+	<text>Slyšel jsem výkřiky a řev, takže jsem svoje věci schoval do nejbližší dutiny v dřevěném pařezu a zmizel.</text>
+</string>
+<string id="st_red_treasure_23_name">
+	<text>Automobil Zaporozhets u vstupu do dolu</text>
+</string>
+<string id="st_red_treasure_23_descr">
+	<text>Schoval jsem svoji kořist pod sedadlo toho automobilu Zaporozhets vedle vstupu do dolu. Vyzvednu si to znovu, než půjdu za Sidorovičem.</text>
+</string>
+<string id="st_dark_valley_treasure_15_name">
+	<text>Sejf na farmě</text>
+</string>
+<string id="st_yantar_treasure_15_name">
+	<text>Poleno za garážemi</text>
+</string>
+<string id="st_yantar_treasure_15_descr">
+	<text>Schoval jsem svou trošku kořisti do polena poblíž garáží vedle továrny v Yantaru. Nejlepší místo, které jsem tehdy našel.</text>
+</string>
+<string id="st_dark_valley_treasure_22_name">
+	<text>Úkryt pod mladým jedlem</text>
+</string>
+<string id="st_dark_valley_treasure_22_descr">
+	<text>Nedaleko od močálu jsem odhodil svůj batoh u trubky, pod mladým jehličnanem.</text>
+</string>
+<string id="st_esc_treasure_weapon_prisoner_descr">
+	<text>V betonové trubce je skrytý malý trezor. Mám tam nějaké věci, které jsem si uschoval na horší časy.</text>
+</string>
+<string id="st_esc_treasure_weapon_prisoner_name">
+	<text>Skrýš majora Chaletského</text>
+</string>
+<string id="st_gar_treasure_quest_bandit_base_name">
+	<text>Starý úkryt</text>
+</string>
+<string id="st_gar_treasure_quest_bandit_base_descr">
+	<text>Pracovníci našli úkryt, kde se dříve skrývali lupiči.</text>
+</string>
+<string id="st_gar_treasure_quest_old_pda_name">
+	<text>Nástrojová skříňka</text>
+</string>
+<string id="st_gar_treasure_quest_old_pda_descr">
+	<text>Starý PDA je pod falešným dnem nástrojové skříňky.</text>
+</string>
+<string id="st_gar_treasure_quest_reward_in_anomaly_name">
+	<text>Úkryt v anomálii</text>
+</string>
+<string id="st_gar_treasure_quest_reward_in_anomaly_descr">
+	<text>Pokud Yoga nelhal, tak se v úkrytu uprostřed anomálií nachází speciální střelec.</text>
+</string>
+<string id="st_gar_treasure_quest_smuggler_weapons_name">
+	<text>Kufr auta</text>
+</string>
+<string id="st_gar_treasure_quest_smuggler_weapons_descr">
+	<text>Podle Stringova v kufru starého auta se nachází nějaká dodávka pašeráckého zboží.</text>
+</string>
+<string id="st_mar_q_n_10_name">
+	<text>Schovka na bažinách</text>
+</string>
+<string id="st_mar_q_n_10_descr">
+	<text>V recyklačním závodě v bažinách je velmi cenná schránka. Cokoli je uvnitř, teď je to tvé.</text>
+</string>
+<string id="st_mar_q_n_11_name">
+	<text>Trezor se odměnou</text>
+</string>
+<string id="st_mar_q_n_11_descr">
+	<text>Kámo, tyhle klíče otevírají trezor, ve kterém je něco hodnotného. Nebo tak mi řekli...</text>
+</string>
+<string id="st_mar_q_n_12_name">
+	<text>Odměna</text>
+</string>
+<string id="st_mar_q_n_12_descr">
+	<text>Naše tajné skrýše za tvé peníze. Prodáváme je tebe samého.</text>
+</string>
+<string id="st_mar_q_n_13_name">
+	<text>Malý kufr</text>
+</string>
+<string id="st_mar_q_n_13_descr">
+	<text>V tomto případě jsou tu souřadnice kufru s nějakou kořistí. Najdeš ho za odpadkovým košem poblíž zdi.</text>
+</string>
+<string id="st_mar_q_n_14_name">
+	<text>Trezor pod mostem</text>
+</string>
+<string id="st_mar_q_n_14_descr">
+	<text>Nezatěžuju tě svými historkami. Schránku najdeš v trezoru pod mostem.</text>
+</string>
+<string id="st_mar_q_n_6_name">
+	<text>Batoh jako platba</text>
+</string>
+<string id="st_mar_q_n_6_descr">
+	<text>Obsah tohoto batohu, jehož souřadnice ti nahrávám do tvého PDA, stojí mnohem víc, než peníze, které do mých kapes vkládáš.</text>
+</string>
+<string id="st_mar_q_n_7_name">
+	<text>Trezor s kódem</text>
+</string>
+<string id="st_mar_q_n_7_descr">
+	<text>Tvá platba je dobře vyvážená kořistí skrytou v tomto trezoru v bažinách.</text>
+</string>
+<string id="st_mar_q_n_8_name">
+	<text>Kořist jako platba</text>
+</string>
+<string id="st_mar_q_n_8_descr">
+	<text>Kořist, kterou najdeš v černém batohu pod balvany, je nyní tvá. Považujme tuto transakci za uzavřenou.</text>
+</string>
+<string id="st_mar_q_n_9_name">
+	<text>Malá bedna u věže</text>
+</string>
+<string id="st_mar_q_n_9_descr">
+	<text>Důvěryhodný zdroj mi jednou řekl o nějaké kořisti v úkrytu, který nikomu nepatří, skrytém pod věží.</text>
+</string>
+<string id="st_mar_q_t_a_15_name">
+	<text>Drahý vojenský batoh</text>
+</string>
+<string id="st_mar_q_t_a_15_descr">
+	<text>Dostaneš mnohem víc než to, co jsi zaplatil. Tvá odměna je uvnitř batohu vedle mrtvoly vojáka.</text>
+</string>
+<string id="st_mar_q_t_a_3_name">
+	<text>Extra potíže</text>
+</string>
+<string id="st_mar_q_t_a_3_descr">
+	<text>Jdi ještě o kus dál, najdi batoh mrtvého vojáka - a dostaneš své náklady zpět s úrokem.</text>
+</string>
+<string id="st_mar_q_t_l_16_name">
+	<text>Těžká odměna</text>
+</string>
+<string id="st_mar_q_t_l_16_descr">
+	<text>Odměním tě informací o cenném, ale "těžkém" kusu kořisti. Buď však na pozoru - jeho předchozí majitel nedbal na mou radu...</text>
+</string>
+<string id="st_mar_q_t_l_1_name">
+	<text>Batoh na mrtvole</text>
+</string>
+<string id="st_mar_q_t_l_1_descr">
+	<text>Tady máš tip na úkryt: je v batohu na zádech mrtvého těla.</text>
+</string>
+<string id="st_mar_q_t_l_2_name">
+	<text>Paraván</text>
+</string>
+<string id="st_mar_q_t_l_2_descr">
+	<text>Stiffa najdeš na těchto souřadnicích - jeho batoh obsahuje to, co ti náleží.</text>
+</string>
+<string id="st_mar_q_t_l_4_name">
+	<text>Tělo bojovníka</text>
+</string>
+<string id="st_mar_q_t_l_4_descr">
+	<text>Tady je informace: mladý bojovník "odpočívá" v křoví a střeží svůj batoh pro tebe.</text>
+</string>
+<string id="st_mar_q_t_l_5_name">
+	<text>Batoh pod potrubím</text>
+</string>
+<string id="st_mar_q_t_l_5_descr">
+	<text>Vezmi tyhle souřadnice - ukazují na batoh vedle těla stopaře pod potrubím.</text>
+</string>
+<string id="st_esc_q10_n_name">
+	<text>Kmen stromu poblíž ostnatého drátu</text>
+</string>
+<string id="st_esc_q10_n_descr">
+	<text>OK, kámo, pro svou odměnu jdi a prohledej kmen stromu nedaleko ostnatého drátu.</text>
+</string>
+<string id="st_esc_q1_n_name">
+	<text>Zelená bedna</text>
+</string>
+<string id="st_esc_q1_n_descr">
+	<text>Uložil jsem ti tenhle kus kořisti speciálně. Je v armádní bedně na okraji Cordonu. Srdce mi s ním letí!</text>
+</string>
+<string id="st_esc_q2_n_name">
+	<text>Malý samostatný batoh</text>
+</string>
+<string id="st_esc_q2_n_descr">
+	<text>A tak tvou štědrost odměním velkorysostí! He-he-he. Tady je jeden z mých úkrytů - disponuj s ním a jeho obsahem jak chceš.</text>
+</string>
+<string id="st_esc_q3_t_l_name">
+	<text>Cesta do močálů</text>
+</string>
+<string id="st_esc_q3_t_l_descr">
+	<text>Vezmu tvoje peníze, ty vezmeš můj úkryt. Najdeš ho podél cesty do močálů vedle mrtvoly.</text>
+</string>
+<string id="st_esc_q4_t_a_name">
+	<text>Odměna pro hrdinu</text>
+</string>
+<string id="st_esc_q4_t_a_descr">
+	<text>Tvoje zakoupení na tebe čeká uvnitř batohu vedle mrtvého nešťastného stopaře. Hledej ho poblíž staré elektrické lokomotivy.</text>
+</string>
+<string id="st_esc_q5_n_name">
+	<text>Kompenzace</text>
+</string>
+<string id="st_esc_q5_n_descr">
+	<text>Úkryt najdeš na těchto souřadnicích, uvnitř batohu, který je pod stromem.</text>
+</string>
+<string id="st_esc_q6_n_name">
+	<text>Povolený přístup</text>
+</string>
+<string id="st_esc_q6_n_descr">
+	<text>Moje část dohody je uvnitř elektrického panelu výtahu. Nic se neděje, můžeš tam sáhnout, není tam elektřina. Ačkoli si nejsem jistý, jestli se to dá říct o anomálii...</text>
+</string>
+<string id="st_esc_q7_n_name">
+	<text>Kufřík pod vlakovým vozem</text>
+</string>
+<string id="st_esc_q7_n_descr">
+	<text>Tvá "příchytka" je obsahem kufříku pod vlakovým vozem.</text>
+</string>
+<string id="st_esc_q8_n_name">
+	<text>Falešný hrob</text>
+</string>
+<string id="st_esc_q8_n_descr">
+	<text>Vyhrabávat hroby je špatné. Ale můj úkryt je ukrytý v falešném hrobu, takže nebudeš rušit žádné mrtvé lidi.</text>
+</string>
+<string id="st_esc_q9_t_a_name">
+	<text>Kufřík za smetištěm</text>
+</string>
+<string id="st_esc_q9_t_a_descr">
+	<text>Zaplatím ti obsahem kufříku, který leží vedle anomálie za smetištěm v Cordonu. Je tam ještě další chlapec, který se snaží dosáhnout na něj, ale nezabývej se jím - už není ve hře.</text>
+</string>
+<string id="st_gar_q10_n_name">
+	<text>Kmen stromu na okraji Garbage</text>
+</string>
+<string id="st_gar_q10_n_descr">
+	<text>No, dám ti tip. Tvá kompenzace na tebe čeká uvnitř kmene stromu na okraji Garbage.</text>
+</string>
+<string id="st_gar_q1_n_name">
+	<text>Černý batoh ve vraku</text>
+</string>
+<string id="st_gar_q1_n_descr">
+	<text>To, co ti dlužím, se nachází uvnitř černého batohu ve vraku stavebního jeřábu.</text>
+</string>
+<string id="st_gar_q2_n_name">
+	<text>Odříznutá trubka</text>
+</string>
+<string id="st_gar_q2_n_descr">
+	<text>Já mám své peníze, ale abys dostal ty své, musíš se sakra pospíšit k tomuto úkrytu uvnitř odříznuté trubky.</text>
+</string>
+<string id="st_gar_q3_n_name">
+	<text>Elektrická skříň ve vraku</text>
+</string>
+<string id="st_gar_q3_n_descr">
+	<text>Před nějakým časem jsem si tenhle úkryt udělal pro sebe, ale teď si ho budu muset přenechat tobě. No co.</text>
+</string>
+<string id="st_gar_q4_n_name">
+	<text>Malá krabice uprostřed kontaminovaného odpadu</text>
+</string>
+<string id="st_gar_q4_n_descr">
+	<text>Dávám ti souřadnice malé krabice s kořistí uvnitř. Jen si nedělej opékané oříšky - radiace tam je přes střechu.</text>
+</string>
+<string id="st_gar_q5_n_name">
+	<text>Kontejner u čepele buldozeru</text>
+</string>
+<string id="st_gar_q5_n_descr">
+	<text>To, co jsi právě koupil, najdeš u základny čepele buldozeru.</text>
+</string>
+<string id="st_gar_q6_t_l_name">
+	<text>Batoh mrtvého člověka</text>
+</string>
+<string id="st_gar_q6_t_l_descr">
+	<text>Nebojíš se duchů, že ne? Pak hledej úkryt v batohu vedle mrtvého těla.</text>
+</string>
+<string id="st_gar_q7_t_l_name">
+	<text>Mrtvola u bagru</text>
+</string>
+<string id="st_gar_q7_t_l_descr">
+	<text>Tiše lze, bez života ležící chlapec u převráceného bagru ti nabídne obsah svého batohu.</text>
+</string>
+<string id="st_gar_q8_t_a_name">
+	<text>Mrtvola v Garbage</text>
+</string>
+<string id="st_gar_q8_t_a_descr">
+	<text>Předpokládám, že si trochu zapotíš, abys dostal to, co ti dlužím. Kořist je uvnitř batohu tohoto oběti anomálie.</text>
+</string>
+<string id="st_gar_q9_n_name">
+	<text>Cestou do Agropromu</text>
+</string>
+<string id="st_gar_q9_n_descr">
+	<text>Hledej malou krabici uvnitř auta UAZ cestou do Agropromu. Myslím, že oceníš její obsah.</text>
+</string>
+<string id="st_val_q10_n_name">
+	<text>Sejf ve skladišti</text>
+</string>
+<string id="st_val_q10_n_descr">
+	<text>Držím slovo - slíbený úkryt na tebe čeká ve sejfu v staré továrně.</text>
+</string>
+<string id="st_val_q11_t_l_name">
+	<text>Mrtvola u skal</text>
+</string>
+<string id="st_val_q11_t_l_descr">
+	<text>Právě jsi koupil obsah batohu, který je na mrtvolě ležící u skal.</text>
+</string>
+<string id="st_val_q1_n_name">
+	<text>Pod cisternou</text>
+</string>
+<string id="st_val_q1_n_descr">
+	<text>Moje kořist - omlouvám se, nyní tvoje kořist - je uvnitř batohu pod cisternou.</text>
+</string>
+<string id="st_val_q2_n_name">
+	<text>Křoví u jedle</text>
+</string>
+<string id="st_val_q2_n_descr">
+	<text>Po šťastné cestě jsem svou kořist schoval v křoví. Teď ji můžeš využít.</text>
+</string>
+<string id="st_val_q3_t_a_name">
+	<text>Mrtvola vojáka</text>
+</string>
+<string id="st_val_q3_t_a_descr">
+	<text>Zapiš si tohle: velmi cenná kořist - batoh - nešťastný voják - přímo vedle anomálie.</text>
+</string>
+<string id="st_val_q4_n_name">
+	<text>Kořist v křoví</text>
+</string>
+<string id="st_val_q4_n_descr">
+	<text>Vždy splácím své dluhy. A právě teď mi můj dluh nařizuje sdělit ti souřadnice mé kořisti.</text>
+</string>
+<string id="st_val_q5_n_name">
+<text>Bezpečné na základně Svobody</text>
+</string>
+<string id="st_val_q5_n_descr">
+<text>V třípatrové budově na základně Svobody se nachází bezpečné, které obsahuje cennou věc pro lovcu kořisti.</text>
+</string>
+<string id="st_val_q6_n_name">
+<text>Bedna na vrcholu věže</text>
+</string>
+<string id="st_val_q6_n_descr">
+<text>Oceňuji váš zájem a uspokojím ho obsahem modré bedny na vrcholu věže za základnou Svobody.</text>
+</string>
+<string id="st_val_q7_n_name">
+<text>Hrob Stalkera</text>
+</string>
+<string id="st_val_q7_n_descr">
+<text>Právě jste koupili to, co je pod křížem hrobu Stalkera vedle starého stromu.</text>
+</string>
+<string id="st_val_q8_n_name">
+<text>Bedna pod sedadlem</text>
+</string>
+<string id="st_val_q8_n_descr">
+<text>Pod řidičovým sedadlem červeného LAZu najdete bednu. Klidně se na ni podívejte. Nebo taky ne - je to na vás.</text>
+</string>
+<string id="st_val_q9_n_name">
+<text>Kmen stromu u plotu</text>
+</string>
+<string id="st_val_q9_n_descr">
+<text>Pro situace jako je tahle mám nějaký šrot bezpečně ukrytý ve stromovém kmeni u plotu.</text>
+</string>
+<string id="st_agr_q10_t_l_name">
+<text>Zabavené zboží u anomálie</text>
+</string>
+<string id="st_agr_q10_t_l_descr">
+<text>Tento voják narazil do anomálie a jeho batoh s lupem, který si sebral od Stalkerů, tam stále leží vedle něj. Pokud máte štěstí, můžete si to přivlastnit.</text>
+</string>
+<string id="st_agr_q1_n_name">
+	<text>U plotu u ostnatého drátu</text>
+</string>
+<string id="st_agr_q1_n_descr">
+	<text>Dobře, zaplatím vám tímto tajným úkrytem - batohem Stalkera, který je u plotu. Hvězdicová věž slouží jako vaše orientační místo.</text>
+</string>
+<string id="st_agr_q2_n_name">
+	<text>Pod vyvráceným stromem</text>
+</string>
+<string id="st_agr_q2_n_descr">
+	<text>V Zóně nemáme skladové prostory, omlouvám se! Takže si pospěšte a rychle se dostanete k tomuto úkrytu pod vyvráceným stromem, než to stihne někdo jiný.</text>
+</string>
+<string id="st_agr_q3_t_a_name">
+	<text>Mrtvola v radiaci</text>
+</string>
+<string id="st_agr_q3_t_a_descr">
+	<text>Chcete skvělé úkryty a já je mám. Budou vaše, pokud se odvážíte jít do místa s radioaktivitou. Vaše odměna leží u boku mrtvoly.</text>
+</string>
+<string id="st_agr_q4_n_name">
+	<text>Válcovité úkryty na hrobě</text>
+</string>
+<string id="st_agr_q4_n_descr">
+	<text>Cti stojí víc než peníze, tak se podívejte do těchto válcovitých úkrytů na neznámém hrobě a vezměte si úkryt.</text>
+</string>
+<string id="st_agr_q5_n_name">
+	<text>Roh plotu</text>
+</string>
+<string id="st_agr_q5_n_descr">
+	<text>Po poslední emisi mi Valka Skobka, ať mu Bůh žehná, ukryl něco uvnitř téhle staré pařeziny na rohu plotu.</text>
+</string>
+<string id="st_agr_q6_n_name">
+	<text>Rozvodná skříň</text>
+</string>
+<string id="st_agr_q6_n_descr">
+	<text>Můj úkryt - omlouvám se, váš úkryt - je uvnitř rozvodné skříně ve základně Duty.</text>
+</string>
+<string id="st_agr_q7_n_name">
+	<text>Kmen stromu u stromu</text>
+</string>
+<string id="st_agr_q7_n_descr">
+	<text>Před pár dny mi nějací milí lidé řekli o úkrytu, který patří mým nepřátelům. Vyprázdněte ho, ano?</text>
+</string>
+<string id="st_agr_q8_t_a_name">
+	<text>Mrtvola ve furgonu</text>
+</string>
+<string id="st_agr_q8_t_a_descr">
+	<text>Ti vojáci jelili svůj autobus tak rychle, že narazili do anomálie v této oblasti. Všichni zemřeli, a vy jste právě koupili jejich lup.</text>
+</string>
+<string id="st_agr_q9_n_name">
+	<text>Bezpečné pod zemním svahem</text>
+</string>
+<string id="st_agr_q9_n_descr">
+	<text>Polovinu bezpečného se svým lupem jsem zakopal na dně rokle. Předstírejme, že bylo určeno jen vám.</text>
+</string>
+<string id="st_agru_q1_n_name">
+	<text>Příčka pod schody</text>
+</string>
+<string id="st_agru_q1_n_descr">
+	<text>Znám jeden úkryt na tomhle zlověstném místě. Ale na druhou stranu si můžete být jistí, že nikdo do něj ještě nezasáhl. Najdete ho v suterénu pod schody.</text>
+</string>
+<string id="st_agru_q2_n_name">
+	<text>Kufřík pod zemí</text>
+</string>
+<string id="st_agru_q2_n_descr">
+	<text>Na dně spirálového schodiště najdete ztracený kufřík s věcmi uvnitř. Jen si dejte pozor, abyste nerozrušili mnoho podzemních obyvatel.</text>
+</string>
+<string id="st_agru_q3_t_a_name">
+	<text>Pod zemí</text>
+</string>
+<string id="st_agru_q3_t_a_descr">
+	<text>Tady můžete vyzvednout batoh vojáka. Narazil na anomálii v Agropromském podzemí. Jen se ujistěte, že neuděláte totéž!</text>
+</string>
+
+<string id="st_agru_q4_n_name">
+	<text>Trouba ve sběrači</text>
+</string>
+<string id="st_agru_q4_n_descr">
+	<text>Nějaký PDA stalkera mi řekl o jeho lupy ukryté v Agropromském podzemí. Zkopírujte prosím tyto souřadnice.</text>
+</string>
+<string id="st_yan_q8_t_l_name">
+	<text>Mrtvola v jezeře</text>
+</string>
+<string id="st_yan_q8_t_l_descr">
+	<text>Hledejte batoh tohoto vojáka, který si klidně plave v jezeře.</text>
+</string>
+<string id="st_yan_q1_n_name">
+	<text>Skrýš na střeše kotelního domu</text>
+</string>
+<string id="st_yan_q1_n_descr">
+	<text>Na střeše kotelního domu je malá úkrytová místa v modrém bedně. Oblast je přeplněná zombiemi, takže buďte opatrní.</text>
+</string>
+<string id="st_yan_q2_n_name">
+	<text>Skrýš ve vlakovém voze</text>
+</string>
+<string id="st_yan_q2_n_descr">
+	<text>Skvělé - teď si zapište souřadnice bedny ve vlakovém voze ve fabrice. Jděte tam a vědět, co dělat.</text>
+</string>
+<string id="st_yan_q3_t_l_name">
+	<text>Batoh u odpadního potrubí</text>
+</string>
+<string id="st_yan_q3_t_l_descr">
+	<text>Najděte tenhle batoh u odpadního potrubí a budeme si kvit. Je tam mrtvý neutrální, takže to místo snadno poznáte.</text>
+</string>
+<string id="st_yan_q4_n_name">
+	<text>Kufřík na vědecké základně</text>
+</string>
+<string id="st_yan_q4_n_descr">
+	<text>Výborně! Vezměte si všechno, co najdete uvnitř bedny v kufru UAZu na vědecké základně.</text>
+</string>
+<string id="st_yan_q5_n_name">
+	<text>Budka s rozvodnou skříní</text>
+</string>
+<string id="st_yan_q5_n_descr">
+	<text>Odškodním vás souřadnicemi úkrytu v budce poblíž fabriky.</text>
+</string>
+<string id="st_yan_q6_n_name">
+	<text>Ústí nádrže</text>
+</string>
+<string id="st_yan_q6_n_descr">
+	<text>Něco je ukryté v ústí nádrže ve fabrice. Nikdy jsem nezkontroloval, co přesně.</text>
+</string>
+<string id="st_yan_q7_n_name">
+	<text>Kabina nákladního auta MAZ</text>
+</string>
+<string id="st_yan_q7_n_descr">
+	<text>Věci najdete v kabině tohoto nákladního auta MAZ, zabalené v kufru.</text>
+</string>
+<string id="st_yan_q9_n_name">
+	<text>Kmen stromu naproti tábořišti vědců</text>
+</string>
+<string id="st_yan_q9_n_descr">
+	<text>Hledejte úkryt pod kmenem stromu naproti tábořišti vědců.</text>
+</string>
+<string id="st_red_q10_n_name">
+	<text>Trubka v dole</text>
+</string>
+<string id="st_red_q10_n_descr">
+	<text>Vím naprosto jistě, že v této skrýši v Red Forest je něco cenného.</text>
+</string>
+<string id="st_red_q1_t_l_name">
+	<text>Mrtvý stalker</text>
+</string>
+<string id="st_red_q1_t_l_descr">
+	<text>Viděl jsem v PDA mrtvého stalkera, že jeho batoh obsahuje něco zajímavého. Tady jsou ty souřadnice.</text>
+</string>
+<string id="st_red_q2_t_a_name">
+	<text>Nebezpečná skrýš</text>
+</string>
+<string id="st_red_q2_t_a_descr">
+	<text>Už jsem nějakého blbce poslal k této skrýši, ale vím, že se k ní nedostal - setkal se s koncem v blízké anomálii.</text>
+</string>
+<string id="st_red_q3_n_name">
+	<text>Červený ventil</text>
+</string>
+<string id="st_red_q3_n_descr">
+	<text>Ta skrýš je skrytá za červeným ventilem v potrubí dolu. Jeho obsah mě vůbec nezajímá.</text>
+</string>
+<string id="st_red_q4_n_name">
+	<text>Autobus</text>
+</string>
+<string id="st_red_q4_n_descr">
+	<text>Můj kamarád si svou skrýš udělal pod zadní sedačkou tohoto autobusu. Už mezi námi není, takže ho nebude trápit, když prozkoumáte jeho malé úkrytové místo.</text>
+</string>
+<string id="st_red_q5_n_name">
+	<text>Trouba v sutinách</text>
+</string>
+<string id="st_red_q5_n_descr">
+	<text>O tomto úkrytu jsem se dozvěděl od vězně - je to v kuse potrubí v sutinách za obrněným transportérem.</text>
+</string>
+<string id="st_red_q6_n_name">
+	<text>Krabice s batohem</text>
+</string>
+<string id="st_red_q6_n_descr">
+	<text>Tvůj poklad je naprosto báječný! Dobrá, zapište si - odměna je v batohu, batoh je v krabici, krabice je na mostě, most je na druhé straně Red Forest.</text>
+</string>
+<string id="st_red_q7_t_a_name">
+	<text>Batoh chudáka</text>
+</string>
+<string id="st_red_q7_t_a_descr">
+	<text>Tento chudák mi přinášel batoh přes Rudý les, ale nedokázal to. Pokud ho najdete, je váš.</text>
+</string>
+<string id="st_red_q8_n_name">
+	<text>Trezor poblíž trolejbusu</text>
+</string>
+<string id="st_red_q8_n_descr">
+	<text>Moje informace je pravdivá a bez keců. Nějaký tulák schoval něco cenného v trezoru poblíž převráceného trolejbusu.</text>
+</string>
+<string id="st_red_q9_n_name">
+	<text>Běžný starý kmen stromu</text>
+</string>
+<string id="st_red_q9_n_descr">
+	<text>Je tu úkryt ve zuboženém kmene stromu. Nic zvláštního, jen nenápadné místo, které nenajdete bez mých souřadnic. Proto vám je dávám.</text>
+</string>
+<string id="st_mil_q10_n_name">
+	<text>Skrýš v lese</text>
+</string>
+<string id="st_mil_q10_n_descr">
+	<text>V lese je ukrytý batoh pod kameny a já předávám jeho souřadnice dobrému člověku.</text>
+</string>
+<string id="st_mil_q1_t_l_name">
+	<text>Batoh pod mrtvolou</text>
+</string>
+<string id="st_mil_q1_t_l_descr">
+	<text>Možná to není skutečná skrýš, ale v tom batohu na vodárenské věži by měl být nějaký cenný lup.</text>
+</string>
+<string id="st_mil_q2_n_name">
+	<text>Úkryt pod vyvráceným stromem</text>
+</string>
+<string id="st_mil_q2_n_descr">
+	<text>Věřte mi - pod vyvráceným stromem je úkryt.</text>
+</string>
+<string id="st_mil_q3_n_name">
+	<text>Babiččin trezor</text>
+</string>
+<string id="st_mil_q3_n_descr">
+	<text>Nevím, jak se trezor dostal na tu kamnu, ale moje zdroje říkají, že není prázdný.</text>
+</string>
+<string id="st_mil_q4_n_name">
+	<text>Skrýš u hrobu</text>
+</string>
+<string id="st_mil_q4_n_descr">
+	<text>Existuje zpráva, že se můžete zbohatnout, když se podíváte pod kříž na těchto souřadnicích.</text>
+</string>
+<string id="st_mil_q5_n_name">
+	<text>Krabice na vojenské základně</text>
+</string>
+<string id="st_mil_q5_n_descr">
+	<text>Pokud se vám podaří proniknout na vojenskou základnu, najdete odměnu za své obtíže v krabici na půdě.</text>
+</string>
+<string id="st_mil_q6_n_a_name">
+	<text>Trezor ve skříni</text>
+</string>
+<string id="st_mil_q6_n_a_descr">
+	<text>Mé zdroje mi říkají, že ve vojenských kasárnách je něco uloženo v trezoru.</text>
+</string>
+<string id="st_mil_q7_n_a_name">
+	<text>Malý trezor</text>
+</string>
+<string id="st_mil_q7_n_a_descr">
+	<text>Kapitán Yeltyshev nosil tento trezor stále sebou, dokud nebyl převelen na jiné místo. Proč ho nezkoumáte a neuvidíte, co je uvnitř?</text>
+</string>
+<string id="st_mil_q8_n_a_name">
+	<text>Kupa odpadků</text>
+</string>
+<string id="st_mil_q8_n_a_descr">
+	<text>Java své věci úmyslně schoval do kupy odpadků, jenže později na to zapomněl. Já si to ale poznamenal a teď to předávám vám.</text>
+</string>
+<string id="st_mil_q9_n_a_name">
+	<text>Krabice se tajemstvím</text>
+</string>
+<string id="st_mil_q9_n_a_descr">
+	<text>Za kabinou armádního MAZu je malá krabice s tajemstvím. To je tajemství, které vám prodávám.</text>
+</string>
+
+
+<string id="st_trc_inventory_box_descr">
+	<text>Všechno je v truhle ve vlakovém voze nedaleko základny. Tak jsme to naplánovali, teď už zbývá jen čekat.</text>
+</string>
+<string id="st_trc_inventory_box_name">
+	<text>Dojednaná tajná skrýš</text>
+</string>
+<string id="st_trc_inventory_box_0000_descr">
+	<text>Dávejte tu truhlu do autobusu - zdá se, že je nepozorovatelná.</text>
+</string>
+<string id="st_trc_inventory_box_0000_name">
+	<text>Tajná skrýš v autobuse</text>
+</string>
+<string id="st_trc_inventory_box_0001_descr">
+	<text>Nechal jsem si nějakou munici v elektrické rozvaděči.</text>
+</string>
+<string id="st_trc_inventory_box_0001_name">
+	<text>Skrýš v elektrickém rozvaděči</text>
+</string>
+<string id="st_trc_inventory_box_0002_descr">
+	<text>Schoval jsem si batoh pod jedli.</text>
+</string>
+<string id="st_trc_inventory_box_0002_name">
+	<text>Skrýš pod stromem</text>
+</string>
+<string id="st_trc_inventory_box_0003_descr">
+	<text>V hromadě odpadků je částečně zahrabaný trezor. Všechno je v trezoru. Lepší si dobře zapamatovat, co v něm bylo.</text>
+</string>
+<string id="st_trc_inventory_box_0003_name">
+	<text>Trezor v jižní hromadě</text>
+</string>
+<string id="st_trc_inventory_box_0004_descr">
+	<text>V stínech je tajná skrýš - dobré místo k ukrytí.</text>
+</string>
+<string id="st_trc_inventory_box_0004_name">
+	<text>Shnilec</text>
+</string>
+<string id="st_trc_inventory_box_0005_descr">
+	<text>U eskalátoru se někoho zmocnila anomálie - batoh je vidět, ale těžko se k němu dostane.</text>
+</string>
+<string id="st_trc_inventory_box_0005_name">
+	<text>Pod vrtačkou</text>
+</string>
+<string id="st_trc_inventory_box_0006_descr">
+	<text>Nechal jsem si batoh v ruinách zamořených radiací. Bál jsem se tam ukázat.</text>
+</string>
+<string id="st_trc_inventory_box_0006_name">
+	<text>Nebezpečná tajemství</text>
+</string>
+<string id="st_trc_inventory_box_0007_descr">
+	<text>Ukryl jsem to v autě, Ten Dlouhý říkal, že je to dobré místo.</text>
+</string>
+<string id="st_trc_inventory_box_0007_name">
+	<text>Tajná skrýš v autě</text>
+</string>
+<string id="st_trc_inventory_box_0008_descr">
+	<text>Schoval jsem si batoh pod autem, nikdo tam nebude hledat.</text>
+</string>
+<string id="st_trc_inventory_box_0008_name">
+	<text>Skrytý batoh</text>
+</string>
+<string id="st_trc_inventory_box_0009_descr">
+	<text>Dávejte tu truhlu do auta u močálu.</text>
+</string>
+<string id="st_trc_inventory_box_0009_name">
+	<text>Auto se tajnou skrýší</text>
+</string>
+<string id="st_trc_inventory_box_0011_descr">
+	<text>Schoval jsem svoje šmejdy v autě na kopci.</text>
+</string>
+<string id="st_trc_inventory_box_0011_name">
+	<text>Tajná skrýš na kopci</text>
+</string>
+<string id="st_trc_inventory_box_0012_descr">
+	<text>Musím se sbalit. Sakharov a Kruglov jsou úplní psychopati - chtějí, abych šel s nějakým stalkerem do středu radiace. To si na ně vypíšu, až seženu všechny zásoby ve šachovnici, vypadám odtud.</text>
+</string>
+<string id="st_trc_inventory_box_0012_name">
+	<text>Tajný úkryt vědce</text>
+</string>
+<string id="st_trc_inventory_box_0013_descr">
+	<text>Musel jsem zanechat batoh</text>
+</string>
+<string id="st_trc_inventory_box_0013_name">
+	<text>Zanechaný batoh</text>
+</string>
+<string id="st_trc_inventory_box_0014_descr">
+	<text>Zelenáč nakonec ukradl truhlu z banditů. Vložil ji do Nivy, která se převrátila vzhůru nohama. Říká, že podle vzhledu je to vládní truhla. Budeme muset naše lidi vyzbrojit a odvézt ji.</text>
+</string>
+<string id="st_trc_inventory_box_0014_name">
+	<text>Vládní truhla</text>
+</string>
+<string id="st_trc_inventory_box_0015_descr">
+	<text>Zanechali jsme všechno, co jsme našli v truhle, vyzvedneme to při návratu</text>
+</string>
+<string id="st_trc_inventory_box_0015_name">
+	<text>Tajný úkryt v truhle</text>
+</string>
+<string id="st_trc_inventory_box_0016_descr">
+	<text>Něčí batoh leží v údolí, kolem jsou anomálie. Jak se k němu dostanete?</text>
+</string>
+<string id="st_trc_inventory_box_0016_name">
+	<text>Nikoho batoh</text>
+</string>
+<string id="st_trc_inventory_box_0017_descr">
+	<text>Vrhla jsem svoje šrot do truhly - vezmu to později.</text>
+</string>
+<string id="st_trc_inventory_box_0017_name">
+	<text>Tělo kamionu</text>
+</string>
+<string id="st_trc_inventory_box_0018_descr">
+	<text>Schoval jsem zboží do kmene, nemyslím, že to najdou.</text>
+</string>
+<string id="st_trc_inventory_box_0018_name">
+	<text>Poklad v kmene</text>
+</string>
+<string id="st_trc_inventory_box_0019_name">
+	<text>Opuštěná skříň</text>
+</string>
+<string id="st_trc_inventory_box_0019_descr">
+	<text>Tu skříň jsem si vždycky cenil. Prostorná. Když mutanty začaly vylézat ze svých děr, museli jsme ustoupit a já ji zanechal.</text>
+</string>
+<string id="st_trc_inventory_box_0010_name">
+	<text>Bílý Zaporozhets</text>
+</string>
+<string id="st_trc_inventory_box_0010_descr">
+	<text>Někdy skončí Yogaova vláda nad Garbage. Pak si vezmu své věci z bílého auta a zmizím.</text>
+</string>
+<string id="st_trc_inventory_box_0020_descr">
+	<text>V kmene je tajný úkryt v pařezu - dobré místo na to</text>
+</string>
+<string id="st_trc_inventory_box_0020_name">
+	<text>Tajný úkryt v pařezu</text>
+</string>
+<string id="st_trc_inventory_box_0021_descr">
+	<text>Vezměte věci z hnilého kmene</text>
+</string>
+<string id="st_trc_inventory_box_0021_name">
+	<text>Hnilý kmen</text>
+</string>
+<string id="st_trc_inventory_box_0022_descr">
+	<text>Ve voze u banditského tábora je nějaká truhla. Musíme se do auta vloupat a prozkoumat to - mám pocit, že tam něco je.</text>
+</string>
+<string id="st_trc_inventory_box_0022_name">
+	<text>Truhla v autě</text>
+</string>
+<string id="st_trc_inventory_box_0023_descr">
+	<text>Dobrá truhla na skladování nepotřebných věcí</text>
+</string>
+<string id="st_trc_inventory_box_0023_name">
+	<text>Truhla se zbožím</text>
+</string>
+<string id="st_trc_inventory_box_0024_descr">
+	<text>Schoval jsem šrot do kanceláře KAMAZu</text>
+</string>
+
+<string id="st_trc_inventory_box_0024_name">
+	<text>Tajný úkryt v KAMAZu</text>
+</string>
+<string id="st_trc_inventory_box_0025_descr">
+	<text>Schoval jsem batoh nováčka a nikdy ho nenašel</text>
+</string>
+<string id="st_trc_inventory_box_0025_name">
+	<text>Skrytý batoh</text>
+</string>
+<string id="st_trc_inventory_box_0026_descr">
+	<text>Všude jsou loupeže. Kradou dokonce i od svých vlastních... ale mé truhly nikdy nenajdou</text>
+</string>
+<string id="st_trc_inventory_box_0026_name">
+	<text>Truhla</text>
+</string>
+<string id="st_trc_inventory_box_0027_descr">
+	<text>Schoval jsem své věci do železné kapsle</text>
+</string>
+<string id="st_trc_inventory_box_0027_name">
+	<text>Tajný úkryt stalkera</text>
+</string>
+<string id="st_trc_inventory_box_0028_descr">
+	<text>Hodil jsem věci do potrubí, vyzvednu je později. Musel jsem, jinak bych je samozřejmě vzal s sebou. Jen doufám, že se nezamokří.</text>
+</string>
+<string id="st_trc_inventory_box_0028_name">
+	<text>Věci v potrubí</text>
+</string>
+<string id="st_trc_inventory_box_0029_descr">
+	<text>V pařezu je tajný úkryt - dobré místo</text>
+</string>
+<string id="st_trc_inventory_box_0029_name">
+	<text>Tajemný pařez</text>
+</string>
+<string id="st_trc_inventory_box_0030_descr">
+	<text>Vrhla jsem batoh pod strom. Jinak bych neunikl banditům.</text>
+</string>
+<string id="st_trc_inventory_box_0030_name">
+	<text>Batoh stalkera</text>
+</string>
+<string id="st_trc_inventory_box_0031_descr">
+	<text>Truhla zůstala v dodávce - musí být vyzvednuta</text>
+</string>
+<string id="st_trc_inventory_box_0031_name">
+	<text>Zapomenutá truhla</text>
+</string>
+<string id="st_trc_inventory_box_0032_descr">
+	<text>Všechno, co jsem ukradl z Borova, jsem schoval v trezoru pod borovicí. Teď musím vyčkat, než se uklidní.</text>
+</string>
+<string id="st_trc_inventory_box_0032_name">
+	<text>Skrytý trezor</text>
+</string>
+
+<string id="st_agr_smart_terrain_6_4_box_descr">
+	<text>Zatím je náš tajný úkryt v tunelu. Je to dobré místo - málokdo o něm ví a anomálie zabrání ostatním ve vstupu.</text>
+</string>
+<string id="st_agr_smart_terrain_6_4_box_name">
+	<text>Seriyův tajný úkryt</text>
+</string>
+<string id="st_agr_duty_bar_secret_4_descr">
+	<text>Schoval jsem to v pařezu u tunelu. Tam je dobrá díra.</text>
+</string>
+<string id="st_agr_duty_bar_secret_4_name">
+	<text>Pařez s dírou</text>
+</string>
+<string id="st_agr_smart_terrain_5_2_box_descr">
+	<text>Pohřbil jsem nějaké vychytávky pod křížem u keře.</text>
+</string>
+<string id="st_agr_smart_terrain_5_2_box_name">
+	<text>Značka je pod křížem</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_n_1_box_descr">
+	<text>Brali na mě. Musel jsem upustit batoh pod vagón za sedadlem. Aspoň jsem unikl. Půjdu si ho pak pro něj.</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_n_1_box_name">
+	<text>Opilčův batoh</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_box_descr">
+	<text>V truhle pod schody je tajný úkryt.</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_box_name">
+	<text>Truhla ve vchodovém prostoru</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_n_2_box_descr">
+	<text>Schoval jsem to v truhle, nikdo to stejně neprohlédne.</text>
+</string>
+<string id="st_agr_smart_terrain_4_4_n_2_box_name">
+	<text>Truhla z továrny</text>
+</string>
+<string id="st_agr_smart_terrain_2_2_box_descr">
+	<text>Našel jsem trezor pod padlým stromem. Na chvíli tam schovám všechno.</text>
+</string>
+<string id="st_agr_smart_terrain_2_2_box_name">
+	<text>Trezor pod stromem</text>
+</string>
+<string id="st_agr_smart_terrain_2_3_box_descr">
+	<text>Zboží je v starém potrubí, to budeme muset říct klukům. Já se tam neplazím.</text>
+</string>
+<string id="st_agr_smart_terrain_2_3_box_name">
+	<text>Radioaktivní potrubí</text>
+</string>
+<string id="st_agr_smart_terrain_3_5_box_descr">
+	<text>Pod keřem je z poloviny zahrabaný trezor - tam schovávám všechno.</text>
+</string>
+<string id="st_agr_smart_terrain_3_5_box_name">
+	<text>Trezor pod keřem</text>
+</string>
+<string id="st_agr_smart_terrain_6_6_box_descr">
+	<text>Objevili truhlu pod podpěrným trámem. Někdo to táhl celou cestu ze výzkumného ústavu. Počkáme na větrného plachtáka a pak si to vyzvedneme.</text>
+</string>
+<string id="st_agr_smart_terrain_6_6_box_name">
+	<text>Archivní truhla</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_box_descr">
+	<text>Dobrá truhla na sbírání navíc nepotřebných věcí</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_box_name">
+	<text>Truhla z ústavu</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_n_1_box_descr">
+	<text>Schoval jsem to do trezoru, ale pak přišli vojáci a teď nemůžu zboží dostat.</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_n_1_box_name">
+	<text>Agrosafe</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_n_2_box_descr">
+	<text>Dobrá truhla na sbírání navíc nepotřebných věcí. V ní byl kdysi inventář ústavu.</text>
+</string>
+<string id="st_agr_smart_terrain_1_6_n_2_box_name">
+	<text>Zavhozova truhla</text>
+</string>
+<string id="st_agr_duty_bar_secret_2_descr">
+	<text>Dobrá truhla na drobnosti. V podobné truhle jsem doma schoval své kovářské nástroje.</text>
+</string>
+<string id="st_agr_duty_bar_secret_2_name">
+	<text>Kovářský inventář</text>
+</string>
+<string id="st_l05_bar_inventory_box_0002_descr">
+	<text>Schoval jsem batoh u základny Džambulky. Vyzvednu si ho později.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0002_name">
+	<text>Skrytý batoh</text>
+</string>
+<string id="st_l05_bar_inventory_box_0003_descr">
+	<text>Velká smečka psů mě pronásledovala. Kdybych nenechal batoh, nedostal bych se ke vratům.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0003_name">
+	<text>Opuštěný batoh</text>
+</string>
+<string id="st_l05_bar_inventory_box_0004_descr">
+	<text>Všechno, co jsem zanechal, pohřbili pod křížem.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0004_name">
+	<text>Tajný úkryt pod křížem</text>
+</string>
+<string id="st_l05_bar_inventory_box_0005_descr">
+	<text>Sem jsem odložil batoh - bude to snazší.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0005_name">
+	<text>Batoh</text>
+</string>
+<string id="st_l05_bar_inventory_box_0006_descr">
+	<text>Zásoby z kontrolního stanoviště Džambulků jsou uloženy v bunkru, ale nikdo nehlídá truhlu.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0006_name">
+	<text>Zásoby v bunkru</text>
+</string>
+<string id="st_l05_bar_inventory_box_0007_descr">
+	<text>Viděl jsem, jak jeden ze Džambulků něco schoval do potrubí u vrat.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0007_name">
+	<text>Tajný úkryt</text>
+</string>
+<string id="st_l05_bar_inventory_box_0008_descr">
+	<text>Všechno tohle patřilo jemu, mohlo by tu tak zůstat na chvíli.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0008_name">
+	<text>Tajný úkryt pod křížem</text>
+</string>
+<string id="st_l05_bar_inventory_box_0009_descr">
+	<text>Jdu do baru, batoh jsem nechal ve hangáru.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0009_name">
+	<text>Batoh</text>
+</string>
+<string id="st_l05_bar_inventory_box_0010_descr">
+	<text>Prý je na území Džambulků něco cenného ukrytého ve vypínači.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0010_name">
+	<text>Skříňka s tajným úkrytem</text>
+</string>
+<string id="st_l05_bar_inventory_box_0011_descr">
+	<text>Schoval jsem truhlu na vrcholu věže před Džambulky - nikdo si jí nevšimne.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0011_name">
+	<text>Tajný úkryt na věži</text>
+</string>
+<string id="st_l05_bar_inventory_box_0012_descr">
+	<text>Schoval jsem to do potrubí pod schody.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0012_name">
+	<text>Tajný úkryt</text>
+</string>
+<string id="st_l05_bar_inventory_box_0013_descr">
+	<text>Schoval jsem zboží nedaleko baru za anomáliemi - nikdo se tam nedostane. A kdyby se tam dostali, nevěděli by, jak to otevřít. Ale je to velmi jednoduché - stačí lehce zvednout dveře a všechno se otevře.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0013_name">
+	<text>Arniův tajný úkryt</text>
+</string>
+<string id="st_l05_bar_inventory_box_0014_descr">
+	<text>Zakopal jsem zboží nedaleko baru.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0014_name">
+	<text>Tajný úkryt</text>
+</string>
+<string id="st_l05_bar_inventory_box_0015_descr">
+	<text>U baru, v truhle.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0015_name">
+	<text>Truhla</text>
+</string>
+<string id="st_l05_bar_inventory_box_0016_descr">
+	<text>Schoval jsem truhlu na vedlejší ulici u baru.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0016_name">
+	<text>Malá truhla</text>
+</string>
+<string id="st_l05_bar_inventory_box_0017_descr">
+	<text>Zakopal jsem to pod křížem za borovicemi.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0017_name">
+	<text>Tajný úkryt</text>
+</string>
+<string id="st_l05_bar_inventory_box_0018_descr">
+	<text>Schoval jsem zboží pod křížem u hory.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0018_name">
+	<text>Tajný úkryt pod křížem</text>
+</string>
+<string id="st_l05_bar_inventory_box_0019_descr">
+	<text>Schoval jsem truhlu s protiradiací do potrubí u Arény.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0019_name">
+	<text>Malá truhla</text>
+</string>
+<string id="st_l05_bar_inventory_box_0020_descr">
+	<text>Zakopal jsem svoje věci do potrubí pod věží.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0020_name">
+	<text>Tajný úkryt</text>
+</string>
+<string id="st_l05_bar_inventory_box_0021_descr">
+	<text>Pod křížem je tajný úkryt.</text>
+</string>
+<string id="st_l05_bar_inventory_box_0021_name">
+	<text>Tajný úkryt</text>
+</string>
+<string id="st_esc_smart_terrain_6_8_box_descr">
+	<text>Když jsme bojovali s uniformovanými psy, zakopal jsem nějaké zboží pod mostem. Nechme to tam zatím.</text>
+</string>
+<string id="st_esc_smart_terrain_6_8_box_name">
+	<text>Pod křížem</text>
+</string>
+<string id="st_esc_treasure_novice_stalker_descr">
+	<text>Zjistil jsem od Lihoiho, že tajný úkryt je ve stodole. Mluvil moc, tak jsme ho definitivně umlčeli.</text>
+</string>
+<string id="st_esc_treasure_novice_stalker_name">
+	<text>Půda ve vesnici</text>
+</string>
+<string id="st_esc_recover_item_4_corpse_descr">
+	<text>Viděli jsme, že velitel má ve své kanceláři podvodnou truhlu a je tam spousta cenných věcí.</text>
+</string>
+<string id="st_esc_recover_item_4_corpse_name">
+	<text>Cennosti velitele</text>
+</string>
+<string id="st_esc_smart_terrain_7_11_box_descr">
+	<text>Goodies jsou skryté ve sklepě banditů. Nebyli tam předtím, takže počkejme na správný čas, abychom je všechny vzali.</text>
+</string>
+<string id="st_esc_smart_terrain_7_11_box_name">
+	<text>Poddanský sklep</text>
+</string>
+<string id="st_gar_smart_terrain_3_5_box_descr">
+	<text>Viděl jsem, jak jeden bandita schoval své zboží do truhly v hangáru. Jak ho mohu potichu ukrást?</text>
+</string>
+<string id="st_gar_smart_terrain_3_5_box_name">
+	<text>Sklad banditů</text>
+</string>
+<string id="st_gar_smart_terrain_3_7_box_descr">
+	<text>Vůdce radiokomunikace nám předal zprávu: stáhnout se. Našel jsem truhlu, hodil tam, co jsem měl u sebe, a prázdný se stáhl.</text>
+</string>
+<string id="st_gar_smart_terrain_3_7_box_name">
+	<text>Zásoby v truhle</text>
+</string>
+<string id="st_gar_smart_terrain_5_2_box_descr">
+	<text>Zatímco Dutyové stříleli, schoval jsem habar do vagónu. Nějak se tam dostanu, abych si ho vyzvedl. A poděkovat Dutymu.</text>
+</string>
+<string id="st_gar_smart_terrain_5_2_box_name">
+	<text>Truhla na silně ozbrojeném vojenském kontrolním stanovišti</text>
+</string>
+<string id="st_gar_smart_terrain_6_3_box_descr">
+	<text>Jen tak tak jsem se dostal pod trámy, ale aspoň je batoh dobře skrytý - nikdo sem nezkusí lézt.</text>
+</string>
+<string id="st_gar_smart_terrain_6_3_box_name">
+	<text>Extra peníze jsou pod betonovými bloky</text>
+</string>
+<string id="st_mil_smart_terrain_4_2_box_descr">
+	<text>Svůj batoh jsem strčil do pece, později se to bude hodit.</text>
+</string>
+<string id="st_mil_smart_terrain_4_2_box_name">
+	<text>Tajný úkryt v peci</text>
+</string>
+<string id="st_l07_military_inventory_box_0020_descr">
+	<text>Schoval jsem zboží do auta v opuštěné vesnici.</text>
+</string>
+<string id="st_l07_military_inventory_box_0020_name">
+	<text>Auto-tajný úkryt</text>
+</string>
+
+<string id="st_mil_smart_terrain_2_4_box_descr">
+	<text>Schoval jsem batoh s vybavením na útulném místě.</text>
+</string>
+<string id="st_mil_smart_terrain_2_4_box_name">
+	<text>Batoh s vybavením</text>
+</string>
+<string id="st_mil_additional_quest_1_box_descr">
+	<text>Helikoptéra spadla přímo u opuštěné vojenské základny a truhla je tam, pod helikoptérou. Jedna potíž - všude jsou anomálie a radiace.</text>
+</string>
+<string id="st_mil_additional_quest_1_box_name">
+	<text>Truhla z helikoptéry</text>
+</string>
+<string id="st_mil_smart_terrain_4_8_box_descr">
+	<text>Nechal jsem batoh v kabině jeřábu. Vyzvednu si ho později.</text>
+</string>
+<string id="st_mil_smart_terrain_4_8_box_name">
+	<text>Tajný úkryt vysokohorského pracovníka</text>
+</string>
+<string id="st_mil_smart_terrain_7_8_box_descr">
+	<text>Dobrá truhla na skladování nepotřebných věcí.</text>
+</string>
+<string id="st_mil_smart_terrain_7_8_box_name">
+	<text>Dobré zásobovací schránky</text>
+</string>
+<string id="st_mil_smart_terrain_7_7_box_descr">
+	<text>Hodil jsem zboží do truhly - vyzvednu si ho později.</text>
+</string>
+<string id="st_mil_smart_terrain_7_7_box_name">
+	<text>Dočasný tajný úkryt</text>
+</string>
+<string id="st_mil_smart_terrain_5_6_box_descr">
+	<text>Schoval jsem dobrotky do auta přímo pod nosem Freedom, neměl jsem čas hledat lepší místo.</text>
+</string>
+<string id="st_mil_smart_terrain_5_6_box_name">
+	<text>Tajný úkryt v autě</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_0000_descr">
+	<text>Říkají, že tady nějaký slavný stalker skonal a jeho zboží tam nikdo ještě nevzal.</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_0000_name">
+	<text>Věci mrtvého stalkera</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_descr">
+	<text>Říkají, že v garáži je truhla s hodně dobrotami.</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_name">
+	<text>Poklad v garáži</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_0001_descr">
+	<text>Říkají, že v mateřské školce je truhla s hodně dobrotami.</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_0001_name">
+	<text>Starý tajný úkryt</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_0002_descr">
+	<text>Fištrón si tady přišel na smyk, a jeho dobrotky leží stále venku, k němu se nikdo nedostane.</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_0002_name">
+	<text>Dobrotky mrtvého stalkera</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_0006_descr">
+	<text>O posledním, co o něm věděli, je, že byl jediným přeživším po Skarčeru. Nechal zásoby v nějakém starém supermarketu a odstoupil. Nic se neudálo podle plánu, a to byl nejlepší vůdce Freedom v naší historii.</text>
+</string>
+<string id="st_l11_pripyat_inventory_box_0006_name">
+	<text>Zásoby vůdce Freedomu</text>
+</string>
+<string id="st_l10_radar_inventory_box_0001_descr">
+	<text>Kříž je na cestě k Skarčeru, nešel jsem dál, schoval jsem tam všechno pod ním.</text>
+</string>
+<string id="st_l10_radar_inventory_box_0001_name">
+	<text>Poklad Murka</text>
+</string>
+<string id="st_l10_radar_inventory_box_0002_descr">
+	<text>Tady nějaký stalker vyklusal, a jeho dobrotky leží stále venku, nikdo se k nim nemůže dostat.</text>
+</string>
+<string id="st_l10_radar_inventory_box_0002_name">
+	<text>Dobrotky mrtvého stalkera</text>
+</string>
+<string id="st_l10_radar_inventory_box_0003_descr">
+	<text>Říkají, že v lese je z poloviny zahrabaný trezor a uvnitř je spousta dobrot.</text>
+</string>
+<string id="st_l10_radar_inventory_box_0003_name">
+	<text>Dobrotky v trezoru</text>
+</string>
+<string id="st_l10_radar_inventory_box_0000_descr">
+	<text>Říkali jim, aby neletěli přes Skarčer, a podívej, co se stalo. Přistáli uprostřed lesa a je nepravděpodobné, že by někdo přežil. Měli jsme si vyzvednout věci, které s sebou měli.</text>
+</string>
+<string id="st_l10_radar_inventory_box_0000_name">
+	<text>Balíček pro Dutye</text>
+</string>
+<string id="st_l10_radar_inventory_box_descr">
+	<text>Říkají, že zásoby frakce, která se pokoušela dostat do centra Zóny, jsou stále pod radiací Skarčeru. Nikdo z nich se nevrátil a zásoby tam čekají, až si je někdo vezme.</text>
+</string>
+<string id="st_l10_radar_inventory_box_name">
+	<text>Zásoby neohrožené skupiny</text>
+</string>
+<string id="st_l10_radar_inventory_box_0005_descr">
+	<text>Říkají, že tady skonal vůdce nějaké bývalé frakce a měl s sebou hodnotné dobrotky.</text>
+</string>
+<string id="st_l10_radar_inventory_box_0005_name">
+	<text>Dobrotky vůdce bývalé frakce</text>
+</string>
+
+<string id="st_l06_rostok_inventory_box_descr">
+	<text>Skryl jsem batoh za železnou deskou.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_name">
+	<text>Skrytý batoh</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0001_descr">
+	<text>Uložil jsem věci pod kříž.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0001_name">
+	<text>Tajný úkryt pod křížem</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0002_descr">
+	<text>Skryl jsem něco v truhle pod malým domkem. Nesmím to zapomenout.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0002_name">
+	<text>Truhla pod malým domkem</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0003_descr">
+	<text>Chtěl jsem schovat batoh pod schody, ale pak se objevili ti parchanti. Jak si to zpátky vezmu?</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0003_name">
+	<text>Batoh stalkera</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0004_descr">
+	<text>V rohu za stromem je z poloviny zahrabaný trezor. Tam budou teď všechny moje věci.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0004_name">
+	<text>Tajný úkryt za stromem</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0005_descr">
+	<text>Všechno schovali do truhly v garáži, kterou si při přepadení přivlastnili.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0005_name">
+	<text>Tajný úkryt v garáži</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0006_descr">
+	<text>Skryl jsem něco v truhle za stánkem.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0006_name">
+	<text>Skrytá truhla</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0007_descr">
+	<text>Uvěznil jsem batoh v díře. Zeshora to není vidět.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0007_name">
+	<text>Batoh v tajném úkrytu</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0008_descr">
+	<text>Skryl jsem malou truhlu na bezpečném místě.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0008_name">
+	<text>Truhla na bezpečném místě</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0024_descr">
+	<text>Můj batoh je zavěšen pod střechou. Je tam pro deštivý den.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0024_name">
+	<text>Tajný úkryt stalkera</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0009_descr">
+	<text>Prý je v tom domečku trezor a v něm něco.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0009_name">
+	<text>Trezor v domě</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0010_descr">
+	<text>Skryl jsem to v trubce v domě. Opatrně, tam je všechno popletené.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0010_name">
+	<text>Tajný úkryt v trubce</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0011_descr">
+	<text>Vezmi si to, o čem jsme mluvili, z truhly. Obvykle se tam nikdo nepodívá.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0011_name">
+	<text>Skrytá truhla</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0012_descr">
+	<text>Skryl jsem to pod křížem na vedlejší ulici.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0012_name">
+	<text>Tajný úkryt pod křížem</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0013_descr">
+	<text>Schovali zásoby pod beton na staveništi.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0013_name">
+	<text>Tajný úkryt pod betonem</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0014_descr">
+	<text>V případě, že budeme muset rychle utéct, dáme habar do truhly na staveništi.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0014_name">
+	<text>Tajný úkryt Šťastného</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0015_descr">
+	<text>Skryl jsem to v jedné z vedlejších ulic na staveništi.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0015_name">
+	<text>Nychka</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0016_descr">
+	<text>Všechno jsem nacpal do trubky - vyzvednu to později.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0016_name">
+	<text>Tajný úkryt v trubce</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0017_descr">
+	<text>Schoval jsem léky do truhly nedaleko staveniště.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0017_name">
+	<text>Truhla s léky</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0018_descr">
+	<text>Truhlu jsem přetáhl do kabiny jeřábu.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0018_name">
+	<text>Truhla v jeřábu</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0019_descr">
+	<text>Schoval jsem zboží do kanálu na rohu.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0019_name">
+	<text>Tajný úkryt v kanálu</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0020_descr">
+	<text>Po artefaktu jsem se dostal do anomálie. Ledva jsem se mohl pohybovat a batoh jsem upustil do rohu.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0020_name">
+	<text>Upuštěný batoh</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0021_descr">
+	<text>Truhlu jsem schoval přímo pod střechou u věže, aby si to nikdo nevšiml.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0021_name">
+	<text>Malá truhla pod střechou</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0022_descr">
+	<text>Schovali jsme to, co jsme našli, do trubky nedaleko staveniště.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0022_name">
+	<text>Tajný úkryt v trubce</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0025_descr">
+	<text>Upustil jsem batoh u jeřábu.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0025_name">
+	<text>Batoh</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0023_descr">
+	<text>Všechno jsem schoval do kmene. Nemyslím, že to najdou.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0023_name">
+	<text>Tajný úkryt</text>
+</string>
+<string id="st_val_smatr_terrain_4_0_box_descr">
+	<text>Hodil jsem věci do trubky. Vyzvednu si je později.</text>
+</string>
+<string id="st_val_smatr_terrain_4_0_box_name">
+	<text>Tajný úkryt v trubce</text>
+</string>
+<string id="st_l04_darkvalley_inventory_box_0013_descr">
+	<text>Dal jsem truhlu do tajného úkrytu - je to spolehlivé místo.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0012_descr">
+	<text>Skryl jsem to pod křížem na vedlejší ulici.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0012_name">
+	<text>Tajný úkryt pod křížem</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0013_descr">
+	<text>Schovali zásoby pod beton na staveništi.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0013_name">
+	<text>Tajný úkryt pod betonem</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0014_descr">
+	<text>V případě, že budeme muset rychle utéct, dáme habar do truhly na staveništi.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0014_name">
+	<text>Tajný úkryt Šťastného</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0015_descr">
+	<text>Skryl jsem to v jedné z vedlejších ulic na staveništi.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0015_name">
+	<text>Nychka</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0016_descr">
+	<text>Všechno jsem nacpal do trubky - vyzvednu to později.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0016_name">
+	<text>Tajný úkryt v trubce</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0017_descr">
+	<text>Schoval jsem léky do truhly nedaleko staveniště.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0017_name">
+	<text>Truhla s léky</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0018_descr">
+	<text>Truhlu jsem přetáhl do kabiny jeřábu.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0018_name">
+	<text>Truhla v jeřábu</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0019_descr">
+	<text>Schoval jsem zboží do kanálu na rohu.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0019_name">
+	<text>Tajný úkryt v kanálu</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0020_descr">
+	<text>Po artefaktu jsem se dostal do anomálie. Ledva jsem se mohl pohybovat a batoh jsem upustil do rohu.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0020_name">
+	<text>Upuštěný batoh</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0021_descr">
+	<text>Truhlu jsem schoval přímo pod střechou u věže, aby si to nikdo nevšiml.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0021_name">
+	<text>Malá truhla pod střechou</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0022_descr">
+	<text>Schovali jsme to, co jsme našli, do trubky nedaleko staveniště.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0022_name">
+	<text>Tajný úkryt v trubce</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0025_descr">
+	<text>Upustil jsem batoh u jeřábu.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0025_name">
+	<text>Batoh</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0023_descr">
+	<text>Všechno jsem schoval do kmene. Nemyslím, že to najdou.</text>
+</string>
+<string id="st_l06_rostok_inventory_box_0023_name">
+	<text>Tajný úkryt</text>
+</string>
+<string id="st_val_smatr_terrain_4_0_box_descr">
+	<text>Hodil jsem věci do trubky. Vyzvednu si je později.</text>
+</string>
+<string id="st_val_smatr_terrain_4_0_box_name">
+	<text>Tajný úkryt v trubce</text>
+</string>
+<string id="st_l04_darkvalley_inventory_box_0013_descr">
+	<text>Dal jsem truhlu do tajného úkrytu - je to spolehlivé místo.</text>
+</string>
+</string_table>

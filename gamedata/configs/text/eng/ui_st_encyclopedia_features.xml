@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	
+	<string id="encyclopedia_features">
+		<text>Featury</text>
+	</string>
+	
+	<string id="encyclopedia_features_azazel_mode">
+	<text>Režim Azazel</text>
+</string>
+<string id="encyclopedia_features_azazel_mode_text">
+	<text>
+		%c[pda_white]Azazelův režim%c[ui_gray_1] umožňuje po smrti pokračovat ve hře za jinou postavu.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nV Azazelově režimu smrt neznamená konec - po smrti vaší postavy se stanete vlastníkem těla náhodného stalkera, kterého předtím ovládala umělá inteligence.\n
+		\nPokud máš v okamžiku smrti společníky, dostanou přednost a ty budeš místo nich pokračovat ve hře za jednoho z nich.\n
+		\nTento režim lze zapnout pouze na obrazovce pro vytvoření postavy.
+	</text>
+</string>
+
+<string id="encyclopedia_features_ironman_mode">
+	<text>Režim Ironman</text>
+</string>
+<string id="encyclopedia_features_ironman_mode_text">
+	<text>
+		%c[pda_white]Režim Ironman%c[ui_gray_1] přidává do hraní nepřímou vrstvu obtížnosti, kdy jsou po smrti postavy smazány všechny uložené hry dané postavy.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nPři novém nastavení hry si můžete přizpůsobit běh Ironmana, například maximální počet úmrtí, než se uložené hry smažou.
+		\nFunkce udělování životů má opačný účinek: každý cyklus vrátí jeden počet úmrtí, takže hráč může mít šanci přežít více úmrtí v průběhu času.
+		\nPokud bude zároveň povolen Azazelův režim, budete moci pokračovat ve hře za toho, na koho jste se přepnuli, ale uložení provedená za vaší zemřelou postavu budou smazána jako obvykle.\n
+		\nPři hraní se zapnutým tímto režimem budou všechny vami vytvořené save jednoznačně označeny jako vlastní Ironmanův průchod hrou, a proto není možné, aby byly omylem smazány nesouvisející save.\n
+		\nTento režim lze povolit pouze na obrazovce pro tvorbu postavy.
+	</text>
+</string>
+
+<string id="encyclopedia_features_story_mode">
+	<text>Režim příběhu</text>
+</string>
+<string id="encyclopedia_features_story_mode_text">
+	<text>
+		%c[pda_white]Příběhový režim%c[ui_gray_1] uvádí hráče do příběhových linek "Ztraceni v Zóně", kromě úkolů frakcí, které lze plnit samostatně.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nPromluvte si s vůdcem své frakce o nedávných událostech v Zóně a on by vám měl poskytnout informace a vodítka.\n
+		\nTento režim lze zapnout pouze na obrazovce pro tvorbu postavy.\n
+		\n%c[pda_blue]Dostupnost%c[ui_gray_1]
+		\n- Jasná obloha\n- Povinnost\n- Ekolog\n- Svoboda\n- Samotář\n- Žoldák\n
+		\n%c[pda_blue]Poznámky%c[ui_gray_1]
+		\nÚkoly pro frakce lze plnit pro všechny frakce, pokud je aktivní režim Příběh.
+		\nHráči bonusových frakcí mohou tyto úkoly splnit tak, že promluví s vůdcem spřátelené frakce, pokud ji najdou.
+	</text>
+</string>
+	
+<string id="encyclopedia_features_warfare">
+	<text>Warfare</text>
+</string>
+<string id="encyclopedia_features_warfare_text">
+	<text>
+		%c[pda_white]Warfare%c[ui_gray_1] simuluje dynamickou válku, kdy každá z frakcí bojuje o nadvládu v Zóně.
+		\n \n%c[pda_green]Informace%c[ui_gray_1]
+		\nWarfare umožňuje hráči převzít kontrolu nad svou frakcí. To se provádí za běhu a hráč si může vybrat mezi dynamickým systémem rozšiřování nebo manuálním systémem rozšiřování. Systém dynamického rozšiřování se po přepnutí zpět přizpůsobí všem základnám, které jste získali v režimu ručního rozšiřování.
+		\nDíky offline simulátoru boje mohou oddíly libovolně přebírat jiné oddíly, takže Zóna bude mnohem dynamičtější a ve vzdálených koutech mapy bude zuřit rozsáhlá válka.
+		\nDynamický systém rozšiřování se přizpůsobuje změnám na simulační desce a zajišťuje, že žádné hraní nebude zcela stejné.
+		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
+		\nMod původně vytvořil "werejew" pro hru Call of Chernobyl.
+	</text>
+</string>
+
+<string id="encyclopedia_features_survival_mode">
+	<text>Režim přežití</text>
+</string>
+<string id="encyclopedia_features_survival_mode_text">
+	<text>
+		%c[pda_white]Režim přežití%c[ui_gray_1] změní Zónu v loviště - kde jste kořistí vy.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nPři zapnutí tohoto režimu jsou všechny spawny nahrazeny zombifikovanými stalkery a mutanty, kteří se budou pomalu potácet směrem k vaší poloze ve snaze vás zabít.\n
+		\nVýznamnější roli hrají samotní zombíci, poslední vývoj zombifikovaných živlů, kteří ztratili schopnost ovládat mechanická zařízení, jako jsou střelné zbraně.\n
+		\nNašli jste jen několik obchodníků a oddílů stalkerů, což znamená, že budete muset přežít z toho, co se vám podaří ve světě sehnat.\n
+		\nTento režim lze zapnout pouze na obrazovce pro tvorbu postavy.
+	</text>
+</string>
+
+<string id="encyclopedia_features_campfire_mode">
+	<text>Režim tábororáku</text>
+</string>
+<string id="encyclopedia_features_campfire_mode_text">
+	<text>
+		%c[pda_white]Režim ukládání táboráků%c[ui_gray_1] vám zabrání ukládat váš postup, pokud nestojíte v blízkosti táborového ohně.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nChcete-li uložit svůj postup v režimu táboráků, přistupte k blízkému ohništi a poté hru uložte jako obvykle.
+		\n \nTábornický režim je v podzemních úrovních vzhledem k jejich povaze automaticky vypnut.
+	</text>
+</string>
+	
+	<string id="encyclopedia_features_agony_mode">
+	<text>Režim Agonie</text>
+</string>
+<string id="encyclopedia_features_agony_mode_text">
+	<text>
+		%c[pda_white]Režim Agonie%c[ui_gray_1] přidává další vrstvu obtížnosti tím, že vám brání v ukládání vašeho postupu na základě určitých kritérií.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nV režimu Agony nemůžete ukládat svůj postup, pokud jste:
+		\n%c[200,200,200,50]• %c[0,150,150,150]Zranění
+		\n%c[200,200,200,50]• %c[0,150,150,150]Krvácení
+		\n%c[200,200,200,50]• %c[0,150,150,150]Radiace
+		\n%c[200,200,200,50]- %c[0,150,150,150]V boji s nepřáteli
+		\n%c[200,200,200,50]- %c[0,150,150,150]Za okolností emise nebo psi-bouře.
+	</text>
+</string>
+
+<string id="encyclopedia_features_timer_mode">
+	<text>Režim časovače</text>
+</string>
+<string id="encyclopedia_features_timer_mode_text">
+	<text>
+		%c[pda_white]V režimu časovače%c[ui_gray_1] můžete ukládat svůj postup každý určitý čas. 
+		\nJakmile uložíte, nemůžete provést další, dokud časovač neskončí.
+	</text>
+</string>
+
+<string id="encyclopedia_features_companions">
+	<text>Společníci</text>
+</string>
+<string id="encyclopedia_features_companions_text">
+	<text>
+		%c[pda_white]Společníci%c[ui_gray_1] jsou pronásledovatelé, které lze najmout na svoji stranu, podobně jako následovníci a familiáři v jiných hrách.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nJelikož je Zóna tak nebezpečná, jak je, většinu stalkerů najdete při průzkumu v malých skupinkách, obvykle o velikosti asi 3 až 4 jedinců.\n
+		\nTato funkce ti umožňuje totéž, protože když si promluvíš s vůdcem jedné z těchto skupin, můžeš je přesvědčit, aby prozkoumali Zónu společně s tebou.\n
+		\nJedinými požadavky je, že vůdce skupiny s tebou musí mít přátelské vztahy, jeho hodnost nesmí být o více než jeden stupeň vyšší než tvá a že tě již nesleduje příliš mnoho stalkerů.\n
+		\nVe velmi zvláštních případech mohou být některé postavy použity jako společníci, kteří pomáhají plnit určité úkoly, mají vlastní jedinečné požadavky a nezapocítávají se do limitu družiny.\n
+		\nInformace o svých společnících si můžeš prohlédnout na kartě Vztahy v PDA, kde jim také můžeš vydat příkazy jako skupině nebo jednotlivě a měnit jejich chování. K dispozici je možnost zobrazit informace o společnících na HUD.\n
+		\nTo lze provést také prostřednictvím vazeb na klávesy, které lze nastavit v nabídce Možnosti ovládání.
+	</text>
+</string>
+	
+	<string id="encyclopedia_features_guide">
+	<text>Průvodce</text>
+</string>
+<string id="encyclopedia_features_guide_text">
+	<text>
+		Průvodce%c[pda_white]Průvodce%c[ui_gray_1] je zdroj informací, který vám pomůže seznámit se s hrou a jejím obsahem.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nTato funkce byla přidána na četná přání hráčů, aby pomohla vysvětlit funkce a herní mechanismy a také přidala názornější znázornění vašeho postupu.\n
+		\nČlánky jsou řazeny podle kategorií, přičemž veškerý výukový a důležitý obsah se odemkne hned při vytváření vlastní postavy.\n
+		\nPři odemknutí článku se ve zprávě zobrazí jeho název a kategorie, což vám umožní obsah poměrně snadno najít.\n
+		\n%c[pda_yellow]Odmítnutí odpovědnosti%c[ui_gray_1]
+		\nPoprvé od vydání hry S.T.A.L.K.E.R.: Stín Černobylu se vážně pokoušíme znovu zavést kompletní herní uživatelskou příručku ke všemu dostupnému obsahu.\n
+		\nPřestože je tato funkce z větší části funkční, je stále v raném stádiu rozpracovanosti, a proto bylo napsáno pouze malé procento článků.\n
+		\nVzhledem k rozsáhlosti takového úkolu je třeba ještě mnoho věcí doplnit, chybí mnoho kategorií a není ještě plně integrovaný interaktivní odemykací systém.\n
+		\nZaváděním nových článků s dalšími aktualizacemi a opravami bude příručka nakonec dokončena, ale bude to ještě nějakou dobu trvat.
+	</text>
+</string>
+
+<string id="encyclopedia_features_hud">
+	<text>HUD</text>
+</string>
+<string id="encyclopedia_features_hud_text">
+	<text>
+		HUD%c[pda_white]HUD%c[ui_gray_1] zobrazuje různé ukazatele týkající se stavu vašeho zdraví a vybavení.\n
+		\n%c[pda_zelena]Informace%c[ui_gray_1]
+		\n%c[pda_white]Indikátory stavu%c[ui_gray_1] zobrazují aktuální stav vašeho zdraví a vybavení. Šedý indikátor se zobrazí, pokud je stav mírně špatný, zatímco žlutý indikuje důvod k obavám. Oranžová a červená barva označují kritické stavy.
+		Ukazatele \n%c[pda_white]Nebezpečí%c[ui_gray_1] se zobrazí, když vstoupíte do nebezpečné zóny, která má přímý vliv na vaše zdraví nebo vybavení. Čím kritičtější barva, tím větší úbytek zdraví zažijete.
+		Indikátory \n%c[pda_white]Posílení%c[ui_gray_1] se zobrazují, dokud na vás působí pozitivní účinky spotřebního materiálu. Obvykle budou tyto účinky představovat nějakou formu léčení, ochrany nebo regenerace. Všechny ukazatele zmizí, jakmile související účinek vyprchá.
+	</text>
+</string>
+
+<string id="encyclopedia_features_map_spots">
+	<text>Mapa spotů</text>
+</string>
+<string id="encyclopedia_features_map_spots_text">
+	<text>
+		%c[pda_white]Map spoty%c[ui_gray_1] jsou ikony, které se zobrazují na mapě a upozorňují na body zvláštního zájmu.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nK mnoha místům a entitám jsou přiřazeny mapové body, které usnadňují čtení mapy na první pohled, aniz byste si museli pamatovat spoustu informací.\n
+		\n%c[pda_blue]Toggles%c[ui_gray_1]
+		\nAnomální oblasti, důležité osoby a objekty (obchodníci, technici, lůžka atd.), skrýše a úkolové body lze v PDA přepínat stisknutím příhodně pojmenovaných tlačítek v horní části karty mapy.\n
+		\nNezávisle na těchto nastavení jsou na minimapě vždy viditelné ty, které jsou přiřazeny k stalkerům a jiným pohyblivým objektům - protože není zaručeno, že zůstanou nehýbně a na jednom místě.
+	</text>
+</string>
+	
+	<string id="encyclopedia_features_rank">
+	<text>Hodnost</text>
+</string>
+<string id="encyclopedia_features_rank_text">
+	<text>
+		%c[pda_white]Hodnost%c[ui_gray_1] je systém hodnocení založený na tom, co jste dosáhli v Zóně.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nAkce, které provedete během hraní, se zaznamenávají a každá z nich uděluje různý počet bodů v závislosti na dané akci.\n
+		\nPři sbírání dalších a dalších bodů se vaše hodnost postupně mění, jak procházíte jednotlivými milníky, přičemž každý z nich vyžaduje dalších 1 000 bodů navíc k požadavkům předchozího milníku.\n
+		\nVětšina těchto akcí se zaznamenává na kartě statistik v PDA, která obsahuje také herní žebříček, v němž je zaznamenáno aktuálních 100 stalkerů s nejvyšším počtem bodů.\n
+		\nČím vyšší je vaše pozice, tím větší váhu máte mezi běžnými stalkery. To sice znamená, že můžete najímat zkušenější společníky, ale také to znamená, že ti, kteří jsou proti vám, začnou posílat další, aby zajistili, že o vás bude... postaráno. Dejte si pozor.
+		\n%c[pda_blue]Hodnosti%c[ui_gray_1]
+		\n- Nováček: Zkušený: 4 000\n- Profesionál: 7 000\n- Veterán: 10 000\n- Expert: 15 000\n- Mistr: 21 000\n- Legenda: 28 000
+	</text>
+</string>
+
+<string id="encyclopedia_features_reputation">
+	<text>Reputace</text>
+</string>
+<string id="encyclopedia_features_reputation_text">
+	<text>
+		%c[pda_white]Reputace%c[ui_gray_1] je reprezentace toho, jak jste komunikoval s ostatními.\n
+		\n%c[pda_zelena]Informace%c[ui_gray_1]
+		\nReputace je podobná hodnosti, ale liší se tím, že není tak lineární - může se zvyšovat i snižovat - a že je založena spíše na interakcích s ostatními stalkery než s okolím.\n
+		\nNejjednodušší způsoby, jak si zvýšit reputaci, jsou plnění úkolů, poskytování první pomoci a zabíjení nepřátel vaší frakce, zatímco naopak nejjednodušší způsoby, jak ji ztratit, jsou zrušení nebo nesplnění úkolů a zabíjení neutrálních nebo přátelských stalkerů.\n
+		\nMělo by být poznamenáno, že ačkoli je využívána některými funkcemi, reputace je z velké části zaměřena na imerzi a neměla by být zaměňována s dobrou vůlí.\n
+		\nČím nižší je vaše reputace, tím více vás budou ostatní členové vaší frakce a jejich přátelé nenávidět. V extrémních případech mohou dokonce začít plánovat vaši smrt.
+		\n%c[pda_blue]Reputace%c[ui_gray_1]
+		\n- Hrozná: -2 000\n- Děsivá: -1 500\n- Příšerná: -1 000\n- Špatná: -500\n- Neutrální: 0\n- Dobrá: 500\n- Skvělá: 1 000\n- Brilantní: 1 500\n- Výborná: 2 000
+	</text>
+</string>
+
+<string id="encyclopedia_features_stashes">
+	<text>Skrýše</text>
+</string>
+<string id="encyclopedia_features_stashes_text">
+	<text>
+		%c[pda_white]Skrýše%c[ui_gray_1] jsou předměty, které stalker ukládá na často dobře ukrytých místech.\n
+		\n%c[pda_green]Informace%c[ui_gray_1]
+		\nVětšina stalkerů v Zóně ukládá náhradní munici, potraviny a léky do nádob, batohů a jiných skrytých předmětů s úmyslem získat je později.\n
+		\nČasto informace o tom, kde se nacházejí, umírají spolu se stalkerem, který je ukryl, což má za následek, že v krajině je mnoho úkrytů plných nepoužívaných předmětů, které čekají, až je někdo kdykoli objeví.\n
+		\nZprostředkovatelé informací a obchodníci často dávají souřadnice k úkrytům jako odměnu pro ty, kdo pro ně odvedli dobrou práci, zatímco ti, kdo jsou v nouzi, se mohou pokusit použít své osobní Skrýše k výměnnému obchodu, aby přežili.\n
+		\nVlastní Skrýše si můžete vytvořit kliknutím pravým
+
+tlačítkem myši a výběrem příslušné možnosti na libovolném batohu v inventáři.\n
+		\nSchránky, které si vytvoříte, nebudou nikdy vybrány ostatními stalkery, takže vaše předměty budou vždy v bezpečí.\n
+		\n%c[pda_blue]Identifikace%c[ui_gray_1]
+		\nTyp a/nebo stav úkrytu lze snadno určit pohledem na jeho ikonu na mapě nebo najetím kurzoru myši na něj.\n
+		\n- Zelená: Nedotčená\n- Fialová: Červená: Zlatá: nouzová\n- žlutá: Zlatá: ve vlastnictví hráče
+	</text>
+</string>
+	
+	<string id="encyclopedia_features_workshop">
+    <text>Dílna</text>
+</string>
+<string id="encyclopedia_features_workshop_text">
+    <text>
+        %c[pda_white]Mechanická dílna%c[ui_gray_1] umožňuje hráči opravovat/vylepšovat a vyrábět vybavení vlastními silami.
+        \n \n%c[pda_green]Informace%c[ui_gray_1]
+        \nKaždý mechanik v Zóně používá svou dílnu/slžbu pro řádné opravy a vylepšení. Někteří zkušení stopaři si takové práce raději dělají sami. Proto si mnozí dílnu od jejího majitele dočasně pronajímají, aby si mohli vylepšit vlastní vybavení. A vy nejste výjimkou.
+        \nDíky nezabydlené dílně a vhodnému nářadí můžete provádět následující činnosti:
+        \n%c[pda_white]- Opravy (výměna dílů): %c[ui_gray_1]Každá zbraň nebo výstroj se skládá ze specifických dílů a součástí. Když se poškodí, můžete pomocí protějšku nahradit staré, poškozené a zlepšit tak stav svého vybavení.
+        \n%c[pda_white]- Vylepšování: %c[ui_gray_1]Správnými nástroji můžete instalovat vylepšení svého vybavení a zlepšit jeho stav.
+        \n%c[pda_white]- Řemeslo: %c[ui_gray_1]Se správnými součástkami/dílky a dostatečnými znalostmi je možné vyrábět různé předměty.
+        \n \nPři použití dílny se zobrazí seznam hlavních nástrojů a jejich dostupnost (vaše vlastnictví nebo mechaniků). Tyto nástroje jsou potřebné pro crafting a vylepšování.
+        \nV dolní části se zobrazí informační lista, která hráči pomáhá s nezbytnými kroky při práci v dílně.
+    </text>
+</string>
+
+	<string id="encyclopedia_features_workshop_repair">
+    <text>Dílna (opravy / díly)</text>
+</string>
+<string id="encyclopedia_features_workshop_repair_text">
+    <text>
+        %c[pda_white]Mechanická dílna%c[ui_gray_1] může být použita k opravě poškozené zbraně nebo výstroje nahrazením poškozených dílů protějškem v lepším stavu.
+        \n \n%c[pda_green]Informace%c[ui_gray_1]
+        \nKaždá zbraň nebo výstroj se skládá ze sady součástek/dílů. Celkový stav vybavení se sčítá podle stavu jeho jednotlivých částí.
+        \nDíly mají obecně 4 stavy stavu:
+        \n- Stav součásti zbraně od nejhoršího po nejlepší: %c[d_red]Deformovaný%c[ui_gray_1], %c[d_orange]Poškozený%c[ui_gray_1], %c[0,250,250,0]Poškrábaný%c[ui_gray_1], %c[d_green]Funkční%c[ui_gray_1].
+        \n- Stav části výstroje od nejhoršího po nejlepší: %c[d_red]Potrhaný%c[ui_gray_1], %c[d_orange]Poškozený%c[ui_gray_1], %c[0,250,250,0]Poškrábaný%c[ui_gray_1], %c[d_green]Čistý%c[ui_gray_1].
+        \n\nChcete-li opravit zařízení, musíte mít k dispozici následující položky:
+        \n %c[pda_white]- Vhodnou sadu nástrojů pro opravu%c[ui_gray_1] (záleží na zbrani/výstroji, kterou se snažíte opravit): tyto sady prodávají přímo mechanici.
+        \n %c[pda_white]- Identické protějšky s lepším stavem%c[ui_gray_1], než mají vaše vybavení. Ty lze získat rozebráním zbraní a výstroje.
+        \n \n%c[pda_blue]Postupy oprav%c[ui_gray_1]
+        \n1- Nejprve si ověřte požadavky na opravu svého vybavení. Až budete mít nářadí a alespoň jeden lepší protějšek, budou tlačítka dílů aktivní.
+        \n2- Klikněte na jednu ze zvýrazněných součástí. Seznam pro vyzvednutí dílů se aktualizuje o protějšky, které máte v inventáři.
+        \n3- Uvnitř seznamu pro vyzvednutí dílů klikněte na jeden z protějšků s lepším stavem. Hlavní díl bude nahrazen a aktualizován novým spolu se stavem, což se zpětně projeví na celkovém stavu vašeho vybavení.
+        \n4- Postup opakujte, dokud máte více dílů k výměně a dostatek sad nářadí.
+        \n5- Když jste konečně hotovi, stiskněte tlačítko "Opravit".
+        \n \n%c[pda_yellow]Notes:%c[ui_gray_1]
+        \n- Šedé součástky znamenají, že v inventáři nemáte náhradní protějšky v lepším stavu, a proto s nimi nemůžete pracovat.
+        \n- Pokud máte protějšky, které můžete použít při výměně dílů vybavení, ale jejich stav není dostatečný, můžete před použitím dílny použít k opravě těchto dílů nejprve specifické sady nástrojů, jako např.: %c[pda_white]Multitool, Pilník, Beranidlo, Základní šicí nit, Sada polní zbroje s kevlarovou nití%c[ui_gray_1].
+        \n- Každá výměna dílu vyžaduje jedno použití vhodné opravářské sady.
+    </text>
+</string>
+
+
+<string id="encyclopedia_features_workshop_upgrade">
+    <text>Dílna (Vylepšení)</text>
+</string>
+<string id="encyclopedia_features_workshop_upgrade_text">
+    <text>
+        %c[pda_white]Mechanickou dílnu%c[ui_gray_1] můžeš použít k vylepšení své zbraně nebo výstroje tím, že budeš mít k dispozici vhodné nástroje pro danou práci, namísto utrácení peněz za mechaniky, kteří práci provedou.
+        \n \n%c[pda_green]Informace%c[ui_gray_1]
+        \nZpůsob vylepšování vybavení je podobný systému vylepšování jakéhokoli mechanika, ale s požadavkem na další nástroje.
+        \n\nK vylepšení předmětu potřebuješ mít k dispozici následující předměty:
+        \n %c[pda_white]- Vhodné opravářské sady%c[ui_gray_1] (záleží na zbrani/výstroji, kterou se snažíš opravit): takové sady prodávají přímo mechanici.
+        \n %c[pda_white]- Sady nástrojů pro vylepšení%c[ui_gray_1] (záleží na vylepšení, které chceš nainstalovat, a jeho úrovni): tyto nástroje lze nalézt u jiných stalkerů, kteří je shromáždili pro své vlastní potřeby.
+        \n %c[pda_white]- Hlavní nástroje%c[ui_gray_1] (závisí na úrovni upgradu): takové sady nástrojů se dají sehnat jen zřídka, protože mechanici je vždy potřebují k instalaci upgradu. Toto platí i pro tento případ. Možná se někde najdou, pokud budeš ochotný hledat.
+        \n \n%c[pda_blue]Postupy oprav%c[ui_gray_1]
+        \n1- Nejprve si ověř požadavky na upgrade zařízení. Až budeš mít správnou opravářskou sadu, můžeš pokračovat.
+        \n2- Klikni na položku, kterou chceš vylepšit, zobrazí se strom vylepšení spolu s již nainstalovanými vylepšeními.
+        \n3- Každé vylepšení vyžaduje specifickou sadu nástrojů pro vylepšení, jak je uvedeno u samotného vylepšení. Pro upgrade je také potřeba mít k dispozici hlavní sadu nástrojů (záleží na tom).
+        \n4- Pokud je upgrade k dispozici k instalaci, klikni na něj. Stejný postup zopakuj, pokud si to přeješ.
+        \n5- Když jsi konečně hotov, stiskni tlačítko "Upgrade", čímž nainstaluješ všechny vybrané upgrady.
+        \n \n%c[pda_yellow]Notes:%c[ui_gray_1]
+        \n- Pro práci je nutné mít k dispozici hlavní nástroje, které nebudou v procesu spotřebovány.
+        \n- Seznam použitelných hlavních nástrojů: %c[pda_white]Základní nástroje, Pokročilé nástroje, Expertní nástroje.%c[ui_gray_1]
+        \n- Najetím na upgrade zobrazíš všechny podrobnosti týkající se jeho vlastností. Zobrazí se také dodatečné požadavky, pokud upgrade není k dispozici.
+        \n- Každý upgrade vyžaduje jedno použití vhodné opravářské sady.
+    </text>
+</string>
+
+
+	
+<string id="encyclopedia_features_workshop_craft">
+    <text>Dílna (řemeslo)</text>
+</string>
+<string id="encyclopedia_features_workshop_craft_text">
+    <text>
+        %c[ui_gray_1]Se správnými součástkami/dílky a dostatečnými znalostmi lze %c[pda_white]Mechanickou dílnu%c[ui_gray_1] použít k výrobě různých předmětů.
+        \n \n%c[pda_green]Informace%c[ui_gray_1]
+        \nNěkdy je v Zóně z nejrůznějších důvodů těžké sehnat nějaké vybavení. K výrobě užitečného vybavení se tedy mohou hodit různé materiály v okolí.
+        \n\nK výrobě vybavení potřebuješ mít k dispozici následující předměty (záleží na předmětu, který se snažíš vyrobit):
+        \n %c[pda_white]- Hlavní nástroje:%c[ui_gray_1] takové sady nástrojů jsou vzácné, protože mechanici je vždy potřebují pro další vylepšení. Možná je někde najdeš, pokud budeš chtít hledat.
+        \n %c[pda_white]- Příručky a recepty:%c[ui_gray_1] správné řemeslo přichází se znalostmi. Mnoho stalkerů může mít užitečné recepty nebo návody na všechny druhy věcí.
+        \n %c[pda_white]- Komponenty:%c[ui_gray_1] Každý předmět je vyroben z různých materiálů a komponentů. Tyto materiály lze získat rozebráním všech druhů předmětů v okolí.
+        \n \n%c[pda_blue]Postupy oprav%c[ui_gray_1]
+        \n1- Vyber si položku řemesla podle svého výběru. Položky jsou seřazený podle typu předmětu, u každé se zobrazí seznam souvisejících předmětů, z nichž si můžeš vybrat.
+        \n2- Pokud je předmět, který chceš vyrobit, zvýrazněn, znamená to, že znáš recepty. Klikni na něj a pokračuj.
+        \n3- Zobrazí se seznam komponent spolu s potřebnou sadou nástrojů. Minimální množství komponenty je uvedeno pod ikonou komponenty.
+        \n4- Pokud ti chybí hlavní sada nástrojů nebo některá komponenta nesplňuje minimální množství, crafting nelze provést.
+        \n5- V opačném případě klikni na tlačítko "Výroba" a vyrob požadovaný předmět.
+        \n \n%c[pda_yellow]Notes:%c[ui_gray_1]
+        \n- Pro práci je nutné mít k dispozici hlavní nástroje, které se při výrobě nespotřebovávají.
+        \n- Seznam použitelných hlavních nástrojů: %c[pda_white]Základní nástroje, Pokročilé nástroje, Expertní nástroje, Sada na výrobu drog, Nástroje pro kovář zbraní.%c[ui_gray_1]
+        \n- Pokud jsi již dříve přinesl mechanikovi sadu nástrojů, budeš ji mít v dílně ihned k dispozici k použití.
+        \n- Demontáž lze provést pomocí specifických nástrojů, viz související článek.
+        \n- Všechny recepty se zobrazí v rohu. Zvýrazněny budou pouze známé recepty.
+    </text>
+</string>
+
+	
+<string id="encyclopedia_features_disassembly">
+<text>Demontáž předmětu</text>
+</string>
+<string id="encyclopedia_features_disassembly_text">
+<text>
+	Můžete %c[pda_white]rozebrat%c[ui_gray_1] různé typy předmětu a získat z nich základní části.
+	\n \n%c[pda_green]Informace%c[ui_gray_1]
+	\nDemontáž pomáhá s recyklací nepotřebných předmětů, abyste získali součástky, které lze použít k jiným smysluplným účelům, jako je oprava nebo výroba jiných předmětů v dílně.
+	\nMůže být provedeno pomocí jednoho z těchto tří nástrojů:
+	\n- %c[pda_white]Švýcarský nůž%c[ui_gray_1] (kromě zbraní).
+	\n- %c[pda_white]Opravná sada%c[ui_gray_1] (kromě zbraní)
+	\n• %c[pda_white]Multitool%c[ui_gray_1]
+	\n \n%c[pda_blue]Postup%c[ui_gray_1]
+	\nPředměty, které lze rozebrat, se zobrazí (rozebrat [!]), když na ně kliknete v inventáři.
+	\nChcete-li předmět rozebrat, ujistěte se, že máte vhodný rozebírací nástroj, pak podržte levé tlačítko ALT, klikněte na předmět a zvolte (demontovat [!]).
+	\n \n%c[pda_yellow]Poznámka%c[ui_gray_1]
+	\nTlačítko levé ALT slouží jako bezpečnostní opatření, aby se zabránilo náhodnému rozebrání. Lze jej vypnout v nastavení.
+</text>
+</string>
+
+<string id="encyclopedia_features_battery">
+<text>Zařízení a baterie</text>
+</string>
+<string id="encyclopedia_features_battery_text">
+<text>
+	Každé zařízení má svoji vlastní baterii a bez nich nebude fungovat.
+	\n \n%c[pda_green]Informace%c[ui_gray_1]
+	\nNapájení zařízení je znázorněno malým modrým pruhem pod jeho ikonou. Při používání zařízení bude neustále odebírat elektrickou energii. Jakmile se baterie zcela vybije, zařízení přestane fungovat.
+	\nBaterie můžete ze zařízení balit a vybalovat. Pokud máte důležité zařízení, kterému dochází energie, můžete vždy vybalit baterie z jiných nepoužívaných zařízení a dobře je využít.
+	\nSpotřeba energie se u jednotlivých zařízení liší, špičková zařízení mají tendenci vybíjet energii rychleji než méně výkonné typy.
+	\nVždy sledujte zařízení ve svém inventáři, doporučujeme mít v kapse náhradní baterie. Nikdy nevíte, kdy je budete opravdu potřebovat.
+	\n \n%c[pda_blue]Postup%c[ui_gray_1]
+	\n- Chcete-li vložit balíček baterií do zařízení, jednoduše přetáhněte baterie na zařízení.
+	\n- Chcete-li baterie ze zařízení vybalit, klikněte na zařízení v inventáři pravým tlačítkem myši a poté vyberte možnost %c[pda_white]vybalit baterie%c[ui_gray_1].
+	\n \n%c[pda_yellow]Poznámka%c[ui_gray_1]
+	\nLevé tlačítko ALT slouží jako bezpečnostní opatření, které zabrání náhodnému rozebrání. Lze jej vypnout v možnostech.
+</text>
+</string>
+
+	
+	<string id="encyclopedia_features_economy_difficulty">
+<text>Obtížnost progrese</text>
+</string>
+<string id="encyclopedia_features_economy_difficulty_text">
+<text>
+	%c[pda_white]Obtížnost postupu%c[ui_gray_1] stanovuje, jak drsná je ekonomika dané zóny. A přímo ovlivňuje průběh vašeho hraní.\n
+	\n%c[pda_green]Informace%c[ui_gray_1]
+	\nObtížnost postupu má velký vliv na ekonomiku, která ovlivňuje hráčův postup během jeho cesty Zónou.
+	\nVliv má celá řada aspektů, od prodejních/nákupních cen u obchodníků, cen oprav/vylepšení u mechaniků, vzácnosti kořisti, peněz a dobré vůle získaných plněním úkolů a dalších.\n
+	\n%c[pda_blue]Detaily%c[ui_gray_1]
+	\nAnomalie umožňuje přizpůsobit všechny aspekty obtížnosti postupu, zde je seznam všech dostupných možností:
+	\n%c[200,200,50,50]- %c[pda_white]Koeficient získaného goodwillu: %c[ui_gray_1]násobitel množství goodwillu získaného po dokončení úkolu.
+	\n%c[200,200,50,50]- %c[pda_white]Faktor peněžních odměn: %c[ui_gray_1]násobitel množství peněz získaných po splnění úkolu.
+	\n%c[200,200,50,50]- %c[pda_white]Koeficient nákladů na opravy: %c[ui_gray_1]násobitel nákladů na opravy nabízené mechaniky.
+	\n%c[200,200,50,50]- %c[pda_white]Koeficient nákladů na vylepšení: %c[ui_gray_1]násobitel nákladů na služby vylepšení nabízené mechaniky.
+	\n%c[200,200,50,50]- %c[pda_white]Obchodní ceny (nákup) faktor: %c[ui_gray_1]násobitel cen předmětů, které vám obchodníci prodávají.
+	\n%c[200,200,50,50]- %c[pda_white]Faktor obchodních cen (prodej): %c[ui_gray_1]násobitel cen položek, které od vás obchodníci kupují.
+	\n%c[200,200,50,50]- %c[pda_white]Faktor šance na nalezení (předmětů): %c[ui_gray_1]násobitel šance na nalezení předmětů na mrtvolách.
+	\n%c[200,200,50,50]- %c[pda_white]Faktor nalezení (peněz): %c[ui_gray_1]násobitel množství peněz nalezených na mrtvolách.
+	\n%c[200,200,50,50]- %c[pda_white]Systém plných procent pro součástky: %c[ui_gray_1]pokud je zapnut, budou mít součástky vyjmuté ze zbraně/výstroje číselný stav. Tím se systém stává složitějším.
+	\n%c[200,200,50,50]- %c[pda_white]Šance na objevení skrýše: %c[ui_gray_1]řídí šanci na nalezení skrýše v PDA.
+	\n%c[200,200,50,50]- %c[pda_white]Faktor degradace zbraně: %c[ui_gray_1]násobitel míry degradace vašich zbraní.
+	\n%c[200,200,50,50]- %c[pda_white]Koeficient spotřeby energie baterie: %c[ui_gray_1]násobitel množství energie spotřebované zařízeními při používání.
+	\n%c[200,200,50,50]- %c[pda_white]Povolení omezeného množství šroubů: %c[ui_gray_1]jak název napovídá, vaše úložiště šroubů je omezené.
+	\n%c[200,200,50,50]- %c[pda_white]Povolit degradaci artefaktu: %c[ui_gray_1]artefakty mohou degradovat, když chrání své uživatele před relativním anomálním poškozením. Degradace ovlivňuje cenu artefaktu.
+	\n%c[200,200,50,50]- %c[pda_white]Šance na znovuzrození artefaktu: %c[ui_gray_1]šance, že se artefakty objeví na anomálních polích.
+	\n%c[200,200,50,50]- %c[pda_white]Cyklus doplňování zásob obchodníků (hodiny): %c[ui_gray_1]Hodiny do opětovného doplnění zásob obchodníky.
+	\n \n \n%c[200,200,50,50]POZOR%c[ui_gray_1]
+	\n- Ekonomické faktory jsou nastaveny podle aktuálního průběhu hry.
+	\n- Faktory postupu jsou přístupné pouze prostřednictvím načtených uložení. Můžete je upravit uvnitř nabídky nastavení.
+</text>
+</string>
+
+	
+	<string id="encyclopedia_features_gameplay_difficulty">
+<text>Obtížnost hry</text>
+</string>
+<string id="encyclopedia_features_gameplay_difficulty_text">
+<text>
+	%c[pda_white]Obtížnost hry%c[ui_gray_1] určuje, jak snadná nebo těžká by měla být hra.\n
+	\n%c[pda_green]Informace%c[ui_gray_1]
+	\nHerní obtížnost ovlivňuje aspekty týkající se hráče, jako je ochrana proti zdrojům poškození, ztráta výdrže a nosnost. Kromě dalších aspektů, jako je nedostatek vody a spánku.\n
+	\n%c[pda_blue]Detaily%c[ui_gray_1]
+	\nAnomalie umožňuje přizpůsobit všechny aspekty herní obtížnosti, zde je seznam všech dostupných možností:
+	\n%c[200,200,50,50]- %c[pda_white]Ochrana hráče: %c[ui_gray_1]Seznam čtyř možností, které určují základní ochranu hráče proti zdrojům poškození.
+	\n%c[200,200,50,50]- %c[pda_white]Součinitel síly zásahu kulky: %c[ui_gray_1]Násobitel poškození způsobeného kulkami ze všech zbraní. Vyšší hodnota znamená vyšší poškození a rychlejší zabití.
+	\n%c[200,200,50,50]- %c[pda_white]Faktor ztráty výdrže: %c[ui_gray_1]násobitel množství výdrže ztrácené pohybem/nosem.
+	\n%c[200,200,50,50]- %c[pda_white]Maximální nosnost: %c[ui_gray_1]určuje maximální nosnost.
+	\n%c[200,200,50,50]- %c[pda_white]Povolit nedostatek vody: %c[ui_gray_1]aktivuje simulaci žízně, což znamená, že se vaše postava musí čas od času napít.
+	\n%c[200,200,50,50]- %c[pda_white]Zapnutí spánkové deprivace: %c[ui_gray_1]umožňuje, aby plynutí času a používání spotřebních předmětů postupně vyčerpalo vaši postavu.
+	\n%c[200,200,50,50]- %c[pda_white]Povolit radiaci ve dne: %c[ui_gray_1]vyjít ven během dne vystaví vaši postavu vysokým, konstantním dávkám radiace. Vhodný oblek a přilba vám mohou poskytnout dostatečnou ochranu před radioaktivními částicemi, pokud jsou správně udržovány.
+	\n%c[200,200,50,50]- %c[pda_white]Přehrávání radičních cvaknutí pouze z geigerova čítače: %c[ui_gray_1]Pokud je tato funkce povolena, radiční cvaknutí lze slyšet pouze v případě, že máte v inventáři geigerův čítač s dostatečným množstvím baterií.
+	\n%c[200,200,50,50]- %c[pda_white]Zapnout detektor anomálií: %c[ui_gray_1]Výchozí zvuk pípání, který se přehraje, když se hráč přiblíží k anomálnímu poli.
+	\n \n \n%c[200,200,50,50]POZOR%c[ui_gray_1]
+	\n- Faktory herní obtížnosti jsou nastaveny podle aktuálního hraní.
+	\n- Faktory herní obtížnosti jsou přístupné pouze prostřednictvím načtených uložených dat. Můžete je upravit v nabídce nastavení.
+</text>
+</string>
+
+	
+<string id="encyclopedia_features_disguise">
+<text>Systém maskování</text>
+</string>
+<string id="encyclopedia_features_disguise_text">
+<text>
+	Můžeš se %c[pda_white]převléknout%c[ui_gray_1] za stalkera z jiné frakce, abys udržel svoji skutečnou identitu skrytou pro různé účely.\n
+	\n%c[pda_zelena]Informace%c[ui_gray_1]
+	\nChcete-li se přestrojit za člena určité frakce, musíš mít na sobě vhodné oblečení.
+	\nV maskování můžeš chodit mezi členy frakce a chovat se jako jeden z nich, i když jsou za normálních okolností nepřátelskými.
+	\nV jejich přítomnosti tě budou pozorovat a sledovat tvé chování. Na HUDu se zobrazí ukazatel "podezřelosti", který v reálném čase ukazuje, jak moc jsi podezřelý.
+	\nNa účinnosti tvého maskování se podílí mnoho faktorů, které ovlivňují podezřívavost okolí tvé postavy.
+	\nVěnuj pozornost vybavení, které nosíš, a jeho stavu. Chovej se normálně a nedělej žádné překvapivé pohyby, abys nevzbudil nežádoucí pozornost.
+	\nNemůžeš se převléknout za člena Monolitu, protože ten se identifikuje neznámými prostředky.
+	\n \n%c[pda_blue]Možnosti%c[ui_gray_1]
+	\n- Faktory maskování můžeš upravit pomocí různých možností v nabídce nastavení.
+</text>
+</string>
+
+<string id="encyclopedia_features_fast_travel">
+<text>Rychlé cestování</text>
+</string>
+<string id="encyclopedia_features_fast_travel_text">
+<text>
+	%c[pda_white]Rychlé cestování a cestování s batohem%c[ui_gray_1] umožňuje cestovat na místa, která jsi již dříve objevil, pomocí mapy tvého PDA.\n
+	\n%c[pda_zelena]Informace%c[ui_gray_1]
+	\nMnoho míst je objeveno během cestování, a tak se na mapě objeví značka, která ti umožní kliknout na ni a později rychle cestovat na uvedené místo.
+	\nBatoh na cesty dělá totéž, ale závisí na vytvořených skrýších.
+	\nNemůžeš rychle cestovat, pokud jsi v boji, přetížen, těžce zraněný nebo během emisí.
+	\n \n%c[pda_blue]Možnosti%c[ui_gray_1]
+	\n- Rychlé cestování a cestování s batohem můžeš ovládat pomocí různých možností v nabídce nastavení.
+</text>
+</string>
+
+
+</string_table>
