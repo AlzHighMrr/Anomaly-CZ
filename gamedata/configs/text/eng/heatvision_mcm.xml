@@ -1,0 +1,104 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_heatvision_title">
+		<text>Nastavení Termovize</text>
+	</string>	
+
+	<string id="ui_mcm_menu_heatvision">
+		<text>Termovize</text>
+	</string>
+	
+<string id="ui_mcm_heatvision_nvg_view_through_scope_mcm">
+    <text>Mùže se použít pøi míøení pøes optiku:</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_view_through_scope_mcm_desc">
+    <text>Pokud je toto políèko zaškrtnuto, mùžeš si ponechat tepelnou èoèku zapnutou pøi míøení pøes optiku. Pokud není zaškrtnuto, tvoje postava vypne noèní vidìní pøi zamíøení.</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_stays_pda_mcm">
+    <text>Tepelná èoèka zùstane zapnutá pøi prohlížení PDA:</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_stays_pda_mcm_desc">
+    <text>Pokud není toto políèko zaškrtnuto, tvá tepelná èoèka se automaticky vypne pøi pohledu na PDA.</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_tubes_mcm">
+    <text>Uspoøádání tub: (Výchozí jsou ètyøi tuby uprostøed)</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_tubes_mcm_desc">
+    <text>Zvol poèet tub.</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_body_cooldown_mcm">
+    <text>Tìla se chladí èasem:</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_body_cooldown_mcm_desc">
+    <text>Pokud je toto políèko zaškrtnuto, tìla NPC a mutantù ztratí èasem teplo. Pokud není zaškrtnuto, tìla budou vždy viditelná jako horká.</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_body_cooldown_time_mcm">
+    <text>Èas chladnutí tìl (v sekundách):</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_body_cooldown_time_mcm_desc">
+    <text>Poèet sekund, po které tìlo ztratí veškeré teplo po zabití.</text>
+</string>
+
+
+<string id="ui_mcm_lst_single_centered">
+    <text>Jedna tuba, uprostøed</text>
+</string>
+
+<string id="ui_mcm_lst_single_left">
+    <text>Jedna tuba, vlevo</text>
+</string>
+
+<string id="ui_mcm_lst_single_right">
+    <text>Jedna tuba, vpravo</text>
+</string>
+
+<string id="ui_mcm_lst_dual_centered">
+    <text>Dvì tuby, uprostøed</text>
+</string>
+
+<string id="ui_mcm_lst_quad_centered">
+    <text>Ètyøi tuby, uprostøed</text>
+</string>
+
+
+<string id="ui_mcm_heatvision_nvg_mode_mcm">
+    <text>Podkladový pøekryt: (Výchozí je rozmazaný pøekryt)</text>
+</string>
+
+<string id="ui_mcm_heatvision_nvg_mode_mcm_desc">
+    <text>Zvolte, jaký podkladový pøekryt chcete</text>
+</string>
+
+
+<string id="ui_mcm_lst_blurred_background">
+    <text>Rozmazaný pøekryt</text>
+</string>
+
+<string id="ui_mcm_lst_black_background">
+    <text>Èerný pøekryt</text>
+</string>
+
+<string id="ui_mcm_lst_image_overlay">
+    <text>(Není implementováno) Obrázkový pøekryt</text>
+</string>
+
+<string id="ui_mcm_lst_clear_vision">
+    <text>Bez pøekrytu (jasné vidìní)</text>
+</string>
+
+	
+</string_table>

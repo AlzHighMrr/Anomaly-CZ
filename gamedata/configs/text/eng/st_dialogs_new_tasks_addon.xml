@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<!-- The Living Fire -->
+	<string id="baraholka_trader_the_living_fire_1_0">
+	<text>Snitch mi řekl, abych se s tebou setkal. Víš něco, co by mohlo přinést trochu světla do té "ohnivé" stíhačky z těch zvěstí, že ano?</text>
+</string>
+<string id="baraholka_trader_the_living_fire_1_1">
+	<text>Ah, ano... Mám něco, ale nedělej si příliš velké naděje. Před časem jsme pozorovali podivné záblesky, které se děly v noci za obrovským odpadním hromadami na jihu, následované nějakým děsivým vytímutantů. Někteří samotáři byli zvědaví, co se tam děje, a navštívili místo během dne. Našli tam nějaké mrtvé flešky, které byly... no... trochu opečené. Nejprve jsme si mysleli, že ty flešky se dostaly do nějaké těžko viditelné anomálie, která se druhý den ztratila, nebo narazily na ohnivého poltergeista, ale byla tam jedna podivná věc ohledně jednoho z nich. Měl něco, co vypadalo jako známka na jeho zádech - bylo to ve tvaru lidské ruky. Mohlo to být jednoduchá nehoda... nebo ne? Kdo ví...
+Můžeš se tady podívat kolem v noci, pokud chceš zjistit víc. Pokud ten chlap opravdu existuje, pak jeho afinita k ohni může být dobrým nápovědou, kde bys ho měl hledat.</text>
+</string>
+<string id="baraholka_trader_the_living_fire_1_2">
+	<text>Hmm... Tohle stále zní jako příběh prostrašených nováčků veteránem. Každopádně se pokusím zjistit něco víc. Díky.</text>
+</string>
+<string id="baraholka_trader_the_living_fire_1_3">
+	<text>Ano... Musím přiznat, že to zní bláznivě. Ale stále si dej pozor. Zóna je divné místo...
+Každopádně - Snitch mi za to dluží jednu lahev, bez ohledu na výsledek tvého vyšetřování.</text>
+</string>
+
+<string id="baraholka_trader_the_living_fire_2_0">
+	<text>Vrátil jsem se ze svého průzkumu...</text>
+</string>
+<string id="baraholka_trader_the_living_fire_2_1">
+	<text>Nechej mě hádat. Zase jsi jen zbytečně plýtval časem honěním dalšího drby pro Snitche, že jo...</text>
+</string>
+<string id="baraholka_trader_the_living_fire_2_2">
+	<text>Viděl jsem ho... toho stíhače z toho drby.</text>
+</string>
+<string id="baraholka_trader_the_living_fire_2_3">
+	<text>Viděl... co? Myslíš to vážně? Počkej... vypadáš trochu bledě... Myslíš to vážně?! Má to něco společného s tím hlasitým výbuchem, který jsme slyšeli?</text>
+</string>
+<string id="baraholka_trader_the_living_fire_2_4">
+	<text>Ano. Dělal nějaký... rituál... u řecké ohnivé anomálie. Všude kolem byl oheň. Jedna samotná fleška se přiblížila a... vypařila se?</text>
+</string>
+<string id="baraholka_trader_the_living_fire_2_5">
+	<text>Jak proboha jsi vůbec ještě naživu, co? Mluvil jsi s ním?</text>
+</string>
+<string id="baraholka_trader_the_living_fire_2_6">
+	<text>Neumím to říct. Určitě byl vědomý mé přítomnosti od začátku, i když mě neviděl. Když jsem se ho chtěl zeptat, kdo je, přerušil mě s tím, že jeho jméno bude znát každý, a krátce poté zmizel v ohnivém výbuchu.</text>
+</string>
+<string id="baraholka_trader_the_living_fire_2_7">
+	<text>Každý bude znát jeho jméno, co? To nezní dobře. No - alespoň Snitch bude rád, že jsi našel něco. Teď mi rozhodně dluží celou láhev.</text>
+</string>
+
+<string id="bar_informator_mlr_the_living_fire_2_0">
+	<text>Snitche - musíme si promluvit.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_2_1">
+	<text>Ten drb se ukázal být pravdivý. Vím... už jsem dostal zprávu od svého přítele. Učinil jsi dobře. Tady - to si zasloužíš.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_2_2">
+	<text>Pět tisíc? Máš rozum? Mohl jsem tam umřít!</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_2_3">
+	<text>Tiše... zavři. Bude ještě víc. Udělej pro mě ještě trochu práce a dostaneš to. Musíme zjistit víc. Lidé za informaci, že ten stíhač existuje, moc nezaplatí. No... možná Petrenko ano, když už kvůli němu ztratil dva muže.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_2_4">
+	<text>Takže jaký je teď plán? Nevíme, kam šel, ani jaký je jeho cíl. Nemáme žádné stopy.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_2_5">
+	<text>Máme. Když jsi dělal své šetření, přihnal jsem se k rozhovoru mezi dvěma vědci o nějaké abnormální anomální aktivitě přesně na místě, kde jsi potkal toho cizince. Měl bys jít a promluvit si s Sakharovem a nabídnout mu svou pomoc při vyšetřování problému.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_2_6">
+	<text>Dobře. Pak se vydám na cestu.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_2_7">
+	<text>Jen ještě jedna věc. Neříkej mu, že jsem byl já ten, kdo naslouchal jeho kolegům. Nechci, aby byli kolem mě opatrnější. Vědecké informace bývají docela cenné.</text>
+</string>
+
+	<string id="yan_stalker_sakharov_the_living_fire_1_0">
+	<text>Profesore - mohl bych si s vámi promluvit?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_1">
+	<text>Ne teď, mladý muži. Máme právě spoustu práce s vyšetřováním nedávné události.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_2">
+	<text>Je tato záležitost náhodou spojená s ohnivou anomálií řeckého ohně?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_3">
+	<text>Jak jste to věděl? Podařilo se vám zachytit nějakou zprávu, kterou jsem poslal svým asistentům?! Tyto informace jsou tajné!</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_4">
+	<text>Nerozčilujte se, profesore. Irrelevantní je, jak jsem se o tom dozvěděl. Důležité je, že jsem tam byl nedávno, když se tam něco divného stalo, a jsem ochoten sdílet své znalosti s vámi, pokud souhlasíte s tím, že mi prozradíte, co víte. Bylo by to vzájemně prospěšné. Možná bych vám mohl s něčím pomoci...</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_5">
+	<text>Neudělal jsem se srozumitelným?! Tyto informace jsou tajné... počkejte... říkáte, že jste tam něco viděl? Co to bylo?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_6">
+	<text>Znalosti za znalosti, profesore. Mohu vám zaručit, že moje informace stojí za to.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_7">
+	<text>Zatracení... tak tedy. Naši skeneri zaznamenali nějaké abnormální hodnoty z té anomálie už několik dní - náhlé výkyvy v energii, kterou vydávala. Jako by anomálie expandovala a pak se vrátila do svého základního stavu. Podobné fluktuace jsme viděli i u jiných anomálií, ale nikdy s takovou frekvencí. Rozhodli jsme se to ignorovat. Nedávno naše čtení šlo mimo měřítko v noci po krátkou dobu, než se vrátilo k normálu. To je velmi znepokojující. Můžeme mít vážné potíže, pokud začnou anomálie expandovat nekontrolovatelně.
+ 
+Teď mi prosím povězte, co jste tam viděl? Předpokládám, že jste v životě viděl mnoho anomálií, takže to muselo být něco mimořádného.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_8">
+	<text>Ano - bylo. Přesně jak jste řekl, anomálie byla opravdu aktivní v tu chvíli. Vyrážela spoustu plamenů. Nejzajímavější bylo, že mezi těmi plameny byl muž. Prováděl nějaký druh rituálu. Co jsem později zjistil, je, že dokáže jaksi ovládat oheň. Doslova rozprášil flešku před mýma očima. Po krátké době vzplanul a zmizel. To je také kdy plameny opět usnuly.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_9">
+	<text>To je fascinující! Takže to byl on, kdo posílil anomálii. Měl jste možnost s ním mluvit?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_10">
+	<text>Ne - bohužel ne... i když řekl, že časem každý pozná jeho jméno.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_11">
+	<text>To nezní dobře s ohledem na jeho moc. Musíme zjistit, co chce dosáhnout.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_12">
+	<text>Souhlasím a musím říct, že jsem doufal, že mi můžete říct, kam bych se měl vydat dál.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_13">
+	<text>Bojím se, že vám s tím nemohu pomoci. Naši skeneri neprokázali nic dalšího... počkejte... tady to je! Skenery ukazují neobvyklou aktivitu u anomálie na Příkopu. Měl byste tam okamžitě vyrazit!</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_1_14">
+	<text>Děkuji, profesore! Takže já půjdu.</text>
+</string>
+
+	<string id="yan_stalker_sakharov_the_living_fire_2_0">
+	<text>Špatné zprávy, profesore. Nestihl jsem se tam dostat včas, abych se setkal s tím mužem.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_2_1">
+	<text>Řekl bych, že to jsou nějaké úžasné zprávy. Naše čtení ukázala opravdu extrémní nárůst energie vydávané touto anomálií. Pokud byste byl blíže, pravděpodobně byste byl zcela zničen.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_2_2">
+	<text>No, tak... šťastný já, předpokládám...</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_2_3">
+	<text>Jsem také rád, že jste se vrátil v pořádku. Teď mi prosím řekněte, jak se vám podařilo zastavit anomálii od větvení?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_2_4">
+	<text>Eh - větvení? Jen jsem zničil pár ohnivých poltergeistů na tom místě. Nezdálo se, že by byli zvláštní. Už jsem jich viděl několik.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_2_5">
+	<text>Skutečně byli velmi zvláštní, mladý muži. Vidíte - naši skeneri je detekovali jako samostatné entity s podobnou energií jako ostatní tepelné anomálie, jen trochu slabší. Byly to jakési proto-anomálie. Pokud byste je tam nezastavil, proměnily by se v další velké anomální zóny, za dostatečně dlouhého času.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_2_6">
+	<text>Hmm... Předpokládám, že ten muž je ještě nebezpečnější, než jsme si mysleli.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_2_7">
+	<text>Ano, skutečně. Musíme zjistit, jaké jsou jeho motivace co nejdříve. Bohužel si nemyslím, že vám mohu s opětovným lokalizováním ho pomoci. Naše čtení se opět vrátilo k normálu.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_2_8">
+	<text>To je v pořádku, profesore. Budu pokračovat v šetření sám. Sbohem.</text>
+</string>
+
+<string id="bar_informator_mlr_the_living_fire_3_0">
+	<text>Vrátil jsem se z Yantaru. Mám pro tebe další zprávy.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_1">
+	<text>To je skvělé! Nejprve mi však dovol, abych ti něco řekl. Lidé skutečně platí slušné peníze, aby se dozvěděli víc o Živém Ohni. Nápadné přezdívka, co? Vymyslel jsem ji sám, protože jsi dosud nezjistil jeho pravé jméno. Tady je tvoje část, kámo. Teď - co jsi se dozvěděl?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_2">
+	<text>To je lepší. Co se týče mých zjištění - vědci skutečně zaznamenali nárůst anomální aktivity na Smetišti. Také mě poslali vyšetřit další podezřelou aktivitu v Velkém bažině. Tam jsem se zpozdil a party začala dřív, než jsem se tam dostal, ale později jsem zjistil, že to bylo dobře - jinak bych teď s tebou pravděpodobně nemluvil. Tentokrát ten muž nějak dokázal vytvořit věci nazývané "proto-anomálie" podle Sakharova, které by se později mohly proměnit v velké anomální zóny. Stačilo mi je včas zlikvidovat.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_3">
+	<text>Wow! Takže nás čeká blížící se zkáza, kdy všichni shoříme v pekle? Tuším, že tu bude slušné peníze.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_4">
+	<text>Co... Myslíš to vážně? Nejsi trochu znepokojený? Ani trochu?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_5">
+	<text>Všichni stejně dříve nebo později zemřeme, kamaráde. Lidé s penězi mají tendenci umírat později, ale zdá se, že naše partnerství mě brzy zbohatne. Odcházím ze Zóny právě včas, pokud by se něco stalo.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_6">
+	<text>Ano... já nesdílím tvůj optimismus.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_7">
+	<text>Nemusíš. Je to jen obchod. Také se chceš dostat k záhadám Zóny, že? Takže tu máš dvojitý zisk.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_8">
+	<text>Možná máš pravdu. Každopádně vědci zatím nezaznamenali žádné další výkyvy v anomální aktivitě, takže jsme momentálně na slepé uličce.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_9">
+	<text>Ne úplně - zapomněl jsi na mě. Dobrý starý Petrenko tu nedávno zaskočil s vysílačkou a jak to tak náhodou vypadá, já jsem byl poblíž, abych slyšel nějaké zajímavé věci. Mluvil s některými úředníky. Vidíš - vojenský oddíl, který střeží laboratoř X-18, měl neočekávaného hosta. Poslední přeživší zvládl poslat nouzový signál, kde zmínil, že jeho kamarádi byli předtím, než také přerušil spojení, proměněni v popel. Jsem si docela jistý, že to byl ten chlap, kterého hledáme.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_10">
+	<text>Správně - a čekáš, že ho budu pronásledovat?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_11">
+	<text>Proč ne? Přežil jsi své poslední setkání s ním, že? Možná je za to důvod. Může vědět něco o tobě, co ti ve skutečnosti zachránilo život. Kromě toho - chceš nechat tuto záhadu nevyřešenou? Zapomněl jsi na konec světa? *smích*</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_12">
+	<text>Sakra, Snitch. Měl bys to brát vážněji. Nemyslím, že mám ale nějakou volbu... Půjdu tam.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_3_13">
+	<text>No to je duch! Doufám, že se vrátíš s nějakými cennějšími informacemi.</text>
+</string>
+
+	<string id="the_living_fire_prometheus_the_living_fire_1_0">
+    <text>To není nějaký trik, že jo?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_1">
+    <text>Proč by to bylo? Kdybych tě chtěl zabít, tak bychom si teď nemluvili.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_2">
+    <text>Tak proč jsi to neudělal? Viděl jsem tvou sílu... ta tkáň na Smetišti vzplanula.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_3">
+    <text>Znám tě, stalkeru. Vím, že jsi viděl Konejšitele Přání a neučinil sobecké přání, jako mnozí jiní. Tvé srdce je čisté. Teď - věřím, že máš mnoho otázek.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_4">
+    <text>To je dost správně. Kdo jsi ty?! Proč to všechno děláš... a... co přesně děláš?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_5">
+    <text>Jsem jen obyčejný stalker - jako ty. Před určitou nehodou jsem se především pohyboval v jižních částech Zóny, ale dostaneme se k tomu. Šel jsem pod jménem Boris... obyčejný nováček, který přišel do Zóny, aby si vydělal nějaké peníze a splatil své dluhy. Hlavně jsem plnil úkoly pro místní obchodníky... převážně pro toho parchanta Sidoroviče.\n \nJednoho dne jsem dostal úkol doručit nějaký balíček vědcům v Yantaru. Vypadalo to jako snadné peníze. Nevyšlo to dobře... chytila mě jednotka vojáků a nabídli mi, že mě pustí, když jim zaplatím. Jakmile dostali peníze, vzali mi všechno a tak mě zbili, že jsem sotva mohl chodit... zatracení zkažení bastardi.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_6">
+    <text>Ano... spravedlnost není vlastnost, kterou najdeš mezi našimi vojáky a úředníky... co se stalo dál?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_7">
+    <text>Podařilo se mi dostat na Smetišti, kde jsem zůstal v hangáru. Řezník se o mě staral několik dní a pomohl mi zahojit rány. Má hodně znalostí o Zóně a zná nějaký balzám vyrobený z tuku mutantů, který urychluje hojení ran.\n \nJakmile jsem nabral sílu, vrátil jsem se do Cordonu. Chtěl jsem si vyzvednout nějaké zásoby ze svého úkrytu tam, ale hádej co - nějaký parchant mi zase všechno ukradl.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_8">
+    <text>Zlá štěstí, co? V Zóně se stávají takové věci.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_9">
+    <text>Nedoufal bys, že tě okrade tví druzí, že? Vím jistě, že to byl jeden z mých "přátel", který mi vzal věci a šel dál na sever, aby se mi vyhnul. Bez zbraně a bez peněz jsem musel požádat Sidoroviče o půjčku. Odmítl, protože jsem nedodal svůj balíček, který mi vzali vojáci. Nabídl mi však další úkol - řekl mi, abych přinesl nějaký neobvyklý artefakt, který lze najít pouze v termálních anomáliích. Dal mi starou PM a balíček nábojů, které jsem musel vrátit poté, co úkol dokončím. Také řekl, že na mě vypsává odměnu, pokud se do tří dnů nevrátím s tím artefaktem.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_10">
+    <text>Sidor je lakomý parchant, ale tohle je spíše extrémní, i pro něj... Co jsi udělal dál?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_11">
+    <text>Nemohl jsem odmítnout... V okolí Cordonu nejsou žádné termální anomálie, takže jsem musel jít někam jinam. Darkscape a Velké bažiny jsou velmi nebezpečné, zejména pokud máš jen PM. Rozhodl jsem se podívat kolem anomálie Řecký Oheň. Dva dny jsem se potloukal kolem Blešího trhu, jedl nějaké zbytky, vyhýbal se boji a občas navštěvoval anomálii. Obchodníci tam viděli mou bídu a jednou se se mnou podělili o chléb.\n \nVe třetí den se mi konečně osud usmál... nebo tak jsem si myslel. Správný artefakt se objevil a snažil jsem se k němu dostat, aniž bych skončil jako suchar. Připlul ke mně a já ho měl v rukou. Pak, náhle, se z keřů vynořil flesh a strčil mě přímo do anomálie. Cítil jsem strašnou bolest po celém těle a krátce poté jsem ztratil vědomí. Myslel jsem, že je to konec... pohlcen plameny.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_12">
+    <text>Jak jsi pak přežil?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_13">
+    <text>Trpělivost, můj příteli. Probudil jsem se o den později, zcela nahý, obklopen plameny, které jsem necítil... ale cítil jsem hořící bolest u srdce. Snažil jsem se tam shromáždit své myšlenky, když jsem uviděl nějakého stalkera přicházet a mířit přímo na mě - byl to lovčí vyslaný Sidorovičem. O milost jsem prosil a natáhl jsem ruku, ale i přesto střílel. Jeho náboje mě nedosáhly... rozpustily se uvnitř stěny plamenů, které se přede mnou objevily. Tehdy jsem pochopil - Zóna mi udělila tuto novou sílu. Lovčí byl také šokován, když mě viděl stále naživu po vyhasnutí plamenů. Než stačil znovu stisknout spoušť, z mé ruky vystřelila ohnivá koule přímo na něj, proměňujíc ho ve hromádku prachu. Zóna mi zaplatila za veškeré trápení a ponížení. Byl jsem vyvoleným.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_14">
+    <text>Ale, vyvolený? Opravdu si myslíš, že to byl nějaký osud? Ve Zóně se každý den dějí podivné věci... mohlo to být jen jednoduché neštěstí.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_15">
+    <text>To možná, ale vím jistě, že Boris zemřel ten den. Přijal jsem nové jméno - Prometheus.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_16">
+    <text>Prometheus? To je... poetické.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_17">
+    <text>Ano... je to pocta anomálii, která mi udělila mé schopnosti.\n \nStrávil jsem tam ještě pár dní, učíc se, jak své síly správně a vědomě používat. Ten den, kdy jsme se potkali, jsem dosáhl nové úrovně... naučil jsem se čerpat energii z anomálií a také je posilovat. Také jsem cítil tvou přítomnost ve Velkých Bažinách, takže myslím, že jsi to byl ty, kdo zastavil mou malou zkoušku. Poté jsem sem přišel dál meditovat nad svými schopnostmi a podívat se, kdo je tu znovu. Proč mě pronásleduješ, stalkeru?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_18">
+    <text>Já... myslím, že mě především hnala zvědavost. Jaký je tvůj konečný cíl?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_19">
+    <text>Můj konečný cíl? No - je to... *vzdych*... Myslím, že máme nějaké nepozvané hosty. Do příště, stalkeru - sbohem.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_1_20">
+    <text>Počkej! Co...?</text>
+</string>
+
+
+<string id="bar_informator_mlr_the_living_fire_4_0">
+    <text>Ahoj, Páprda. Já...</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_1">
+    <text>Naše spása je zpět! Zase jsi to přežil - skvělé! Už jsi se konečně vypořádal s legendou?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_2">
+    <text>Proměnil jednu jednotku vojáků v knedlíčky, takže si asi domyslíš, že ne... ale měl jsem možnost s ním mluvit.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_3">
+    <text>To je ještě lepší! Co jsi se dozvěděl?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_4">
+    <text>Dozvěděl jsem se jeho jméno - je to Prometheus. On je...</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_5">
+    <text>Živý Oheň, Prometheus - narozený z Řeckého Ohně! Svatá rache! To je ještě chytřejší! Co ještě...</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_6">
+    <text>Vy... Vy svině, Páprdo! Jsi mimo! Tobě jde jen o peníze! Nic ti neřeknu!</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_7">
+    <text>Cože? Ale co naše dohoda? Nechtěl jsi taky vydělat nějaké peníze?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_8">
+    <text>Jdu pryč. Drž si svoje špinavé peníze.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_4_9">
+    <text>Budeš toho litovat, stalkeru...</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_0">
+    <text>Sidoroviči - musíme si promluvit.</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_1">
+    <text>Co se děje? Teď jsem docela zaneprázdněný.</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_2">
+    <text>Pamatuješ si nováčka stalkera jménem Boris?</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_3">
+    <text>Né... je tu spousta nováčků, kteří prochází naší vesnicí - nemůžu si pamatovat každého.</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_4">
+    <text>A co když ti řeknu, že je tvůj život v ohrožení? Boris nyní používá jméno Prometheus a je to ten Živý Oheň z pověsti. Řekněme, že tě nemá moc rád... protože jsi svině, která ho poslala na jistou smrt.</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_5">
+    <text>Přestaň s tím! Proč bych ti měl věřit?</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_6">
+    <text>A co kdybych ti řekl, že jsem měl možnost s ním mluvit. Byl tvůj nešťastný posel, kterého vojáci zbili, a ty jsi ho později poslal s PM najít neobvyklý artefakt. Teď ti to něco říká?</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_7">
+    <text>Jak to všechno víš?! Oh bože - myslíš to vážně! Proč jsi mu nevystřelil do hlavy, když jsi měl šanci?</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_8">
+    <text>Zjevně jsi si přehlédl důležité části té pověsti, že? Nejsi jediný, kdo si cení svého života. Myslím, že ho nelze zabít zbraní. Naše nejlepší šance je s ním jednoduše jednat. Teď, když jsi si něco dobře připomněl, máš nějaké informace, které by mi pomohly ho znovu najít?</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_9">
+    <text>Vím, že tenhle mizerný smolař měl tady kamaráda jménem Andrej. Drželi se spolu, protože oba byli nešťastní a chudí. Už tu není. Před nějakým časem se prý vydal na sever. Ten blázen už je pravděpodobně mrtvý.</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_10">
+    <text>Kruci... to mi moc nepomůže. Každopádně bych ti doporučil najmout nějaké stráže a nainstalovat odolné dveře proti teplu. Pokud se rozhodneš, že tě navštíví, může ti to zachránit život... i když tomu moc nedávám.</text>
+</string>
+<string id="esc_2_12_stalker_trader_the_living_fire_1_11">
+    <text>Heh... vtipný chlapík...</text>
+</string>
+
+
+<string id="yan_stalker_sakharov_the_living_fire_3_0">
+    <text>Jaká je situace, profesore?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_3_1">
+    <text>Je dobré tě vidět, mladý muži. Situace je velmi vážná, takže budu stručný.\n \nZaznamenali jsme extrémní nárůst anomální aktivity v podzemním komplexu X-16. Něco takového jsem ještě nikdy neviděl. Je to jistě dílo našeho záhadného stalkera. Pokud se tato energie promění v skutečné anomální pole, tento celý prostor se promění v peklo!\n \nVyslali jsme malou skupinu žoldáků, aby místo prozkoumali, a narazili na jednoho stalkera u vchodu, který začal ihned střílet. Žoldáci měli početní převahu, takže místo zaútočili. To byla chyba. Podařilo se jim toho stalkera zabít, ale brzy poté se stalo něco neočekávaného. Začali se shromažďovat u jeho těla a pak to náhle explodovalo. Přežil pouze jeden muž z žoldáckého oddílu - jeho tělo bylo vážně popáleno.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_3_2">
+    <text>To určitě zní jako nějaký trik Prométhea...</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_3_3">
+    <text>Prométhea? Je to jméno toho stalkera, kterého jsme hledali?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_3_4">
+    <text>Omlouvám se, profesore, ale nejspíš nemám čas ti všechno podrobně vysvětlit.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_3_5">
+    <text>Ach, máš pravdu, mladý muži. Jednou jsi dokázal zastavit větvení anomálie, tak doufám, že to dokážeš znovu.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_3_6">
+    <text>Taky doufám. Už se vydávám.</text>
+</string>
+
+<string id="the_living_fire_prometheus_the_living_fire_2_0">
+    <text>Co... Co se tu stalo? Co jsou to za spálená těla?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_2_1">
+    <text>To jsou kolegové stalkers, kteří sdílejí mou vizi. Přišli mě hledat poté, co můj přítel Andrej, kterého jsem nedávno potkal, začal šířit mou zprávu. Jdu očistit tento svět od všeho nespravedlivého hnusu, a oni souhlasili, že mi v tomto úsilí pomohou. Utrpěli dost - stejně jako já.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_2_2">
+    <text>Proč jsou tedy všichni mrtví?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_2_3">
+    <text>To nejsou všichni - to jsou jen některé neúspěšné experimenty. Ty úspěšné jsi potkal na cestě sem.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_2_4">
+    <text>Co jsi s nimi udělal? Nevede to zabíjení těch lidí a proměna jich v chodící bomby k tomu, aby ses zařadil mezi "hnus", který chceš vyhladit? Zabít člověka je nejhorší zločin.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_2_5">
+    <text>Měj na paměti svá slova - chodíš po tenkém ledě... Všichni ke mně přišli dobrovolně a souhlasili s tím, co přijde. Navíc - ty jsi zabil ty živé. Začínám tě mít rád, takže tě nezabiju na místě - nechám tě, abys byl svědkem mého Magnum Opus.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_2_6">
+    <text>Tvůj co? Co plánuješ?</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_2_7">
+    <text>Dal jsem těm lidem svoji moc. Bohužel ne všechna těla jsou schopna ji vydržet. Budou mi sloužit jako zdroj energie, až přijde ta pravá chvíle. Ještě je jedno místo, které musím navštívit osobně - žádný zdroj by nebyl schopen ovládnout jeho moc. Pak... uvidíš, co se stane dál. Sbohem, stalkere.</text>
+</string>
+<string id="the_living_fire_prometheus_the_living_fire_2_8">
+    <text>Najdu způsob, jak tě zastavit, Prométheu...</text>
+</string>
+
+
+<string id="yan_stalker_sakharov_the_living_fire_4_0">
+    <text>Prof...</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_1">
+    <text>Zase jsi to dokázal, mladý muži! Naměřené hodnoty se vracejí zpět do normálu. Já...</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_2">
+    <text>Ještě to není u konce. Prometheus unikl a plánuje něco. Nevím, co to je, ale určitě to není nic dobrého. Budu potřebovat tvou pomoc.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_3">
+    <text>Oh - co pro tebe mohu udělat?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_4">
+    <text>Muž, kterého žoldáci zabili, je jedním z vyznavačů Promethea. Předal jim svou moc a plánuje je použít jako nějaký druh zdroje energie. Budeme potřebovat využít tvé spojení s autoritami.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_5">
+    <text>Rozumím. Chceš, abych požádal vojáky, aby chránili co nejvíce tepelných anomálií a zbavili se podezřelých stalkerů, kteří se přiblíží, že ano?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_6">
+    <text>Ne zcela. Myslím, že Prometheus to ucítí, když ztratí spojení se svými vyznavači. Potřebujeme ho přimět k tomu, aby si myslel, že je vše v pořádku. Pokusí se použít veškerou tuhle moc najednou, takže pokud se zbavíme všech jeho zdrojů energie najednou, pravděpodobně spotřebuje příliš mnoho vlastní energie, než si uvědomí, co se stalo. To by mi mohlo dát nějaké okno příležitosti, abych ukončil jeho život.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_7">
+    <text>To je velmi riskantní plán... Nemyslím, že máme jinou možnost.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_8">
+    <text>Pravděpodobně ne. Zkusím použít nějakou silnou zbraň, abych zvýšil svou šanci na úspěch. Gaussova puška by měla být dostatečně dobrá.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_9">
+    <text>To zní jako plán. Víš, kde se teď nachází?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_10">
+    <text>Řekl, že bude muset navštívit nějakou anomálii osobně, aby využil její moc. Víš, o které anomálii mluvil?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_11">
+    <text>Existuje jedna anomálie s mimořádně vysokou energií. Nachází se v Červeném lese. Pochybuji, že se armáda souhlasí se zasláním lidí tam. Je to příliš riskantní. Budete si ji muset nejprve zajistit sami. Pokud začne i ona větvit, doufám, že se opět podaříte ji zastavit.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_4_12">
+    <text>Děkuji, profesore. Dám ti vědět, až bude místo bezpečné. Sbohem.</text>
+</string>
+
+
+<string id="bar_informator_mlr_the_living_fire_5_0">
+    <text>Ty malý krysu. Řekni mi, proč bych ti neměl teď prostřelit hlavu?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_1">
+    <text>Cože? O čem mluvíš?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_2">
+    <text>Setkal jsem se s týmem lovců, které jsi poslal za mnou. Jsou všichni mrtví a teď je řada na tobě.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_3">
+    <text>Počkej! Neposílal jsem žádný tým lovců! Před nějakou dobou mě navštívili vážní lidé a začali se ptát na Promethea. Jenom jsem jim řekl, že ty jsi ten, kdo o něm ví nejvíc. Nečekal jsem, že tě napadnou. Bylo to jenom obchodování.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_4">
+    <text>Mě to je úplně jedno, Špiono. Mohl jsem umřít... takže teď ti zopakuji svoji otázku. Proč bych tě neměl zabít teď?</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_5">
+    <text>Počkej! Co takhle nějaké volné informace výměnou za můj život? Nazvěme to kompenzací za tvé ztráty. Ujišťuji tě, že ti to bude užitečné.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_6">
+    <text>Jsem vším uchem...</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_7">
+    <text>Komunita Freedom chytila nějakého kazatele ve své základně. Zdá se, že to byl přítel Promethea. Freedom z něj vymámil další informace. Sejdou se v Outskirts na "něco velkolepého". Mluvil o Prometheově kině.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_8">
+    <text>Do háje... jeho Magnum Opus... nemohl si vybrat lepší místo.</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_9">
+    <text>Jeho co? Co tím myslíš...</text>
+</string>
+<string id="bar_informator_mlr_the_living_fire_5_10">
+    <text>Jsi v pořádku, Špiono. Musím jít teď.</text>
+</string>
+
+<string id="yan_stalker_sakharov_the_living_fire_5_0">
+    <text>Jsem zpět, profesore. Promethea už není - viděl jsem, jak explodoval vlastníma očima. To by nebylo možné bez tvých spojení. Co jsi chtěl?</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_5_1">
+    <text>Chtěl jsem ti poděkovat, mladý muži. Možná nám armáda pomohla zastavit Promethea, ale byl jsi ty, kdo skutečně vyšetřil tento problém a dovedl ho do konce, riskujíc svůj vlastní život.\n \nNejsem si jistý, co Prometheus v tu chvíli dělal, ale nějakým způsobem se mu podařilo vzdáleně posílit největší anomálii v zóně, která se nachází dál na sever než CNPP. Kdybys ho nezastavil, mnoho lidí by zemřelo. Máš moji vděčnost.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_5_2">
+    <text>No - také mě chtěl zabít, takže to není, jako bych měl nějakou jinou možnost.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_5_3">
+    <text>To možná ano *smích*\n \nKaždopádně - stále si zasloužíš odměnu. Moji kolegové pomáhali armádě u anomálií, které Prometheus osobně navštívil. Po jeho smrti se v Řeckém ohni zrodil výjimečný artefakt. Chtěl bych ho mít. Zdá se, že má nějaký špatný vliv na mé kolegy a raději bych neměl, aby se znovu objevil další mocichtivý člověk.\n \nPřežil jsi několik setkání s Prometheem, takže v tobě asi viděl něco... věřím, že tato věc tě ochrání před vlivem tohoto artefaktu.</text>
+</string>
+<string id="yan_stalker_sakharov_the_living_fire_5_4">
+    <text>Děkuji, profesore. Doufám, že neztratím svůj rozum taky.</text>
+</string>
+
+</string_table>

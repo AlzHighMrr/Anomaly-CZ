@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_labx8_pass_to_1st_door">
+		<text>Unidentifiable entry detected. Transmitting entry log.</text>
+	</string>
+
+</string_table>

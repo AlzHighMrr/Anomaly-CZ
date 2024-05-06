@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_weapon_cover_tilt_title">
+		<text>Naklápění zbraně  (Weapon cover tilt)</text>
+	</string>
+	<string id="ui_mcm_menu_weapon_cover_tilt">
+		<text>Naklápění zbraně</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enabled">
+		<text>Povolit</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed">
+		<text>Setrvačnost animace</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_speed_desc">
+		<text>Menší hodnota znamená rychlejší animaci</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff">
+		<text>Váhový faktor</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_animation_weight_coeff_desc">
+		<text>Čím vyšší číslo, tím větší je vliv hmotnosti zbraně na rychlost animace</text>.
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius">
+		<text>Poloměr spouště v metrech</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude">
+		<text>Modifikátor délky zbraně</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_trigger_radius_magnitude_desc">
+		<text>Změní se závislost poloměru spouště na délce zbraně, s větší hodnotou bude větší rozdíl mezi krátkou a dlouhou zbraní</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer">
+		<text>Zohlední přiložené tlumiče pro rádius spouště</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_consider_silencer_desc">
+		<text>Zbraně s připojitelnými tlumiči, pokud jsou připojeny, budou mít zvýšený rádius spouště přibližně o 0,1 metru</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_tilt_rattle">
+		<text>Zvuk rachotu při naklápění</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x">
+		<text>Poloha zbraně posunutá o X</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_x_desc">
+		<text>&lt; 0 - vlevo. &gt; 0 - vpravo</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y">
+		<text>Pozice zbraně posunutá o Y</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_y_desc">
+		<text>&lt; 0 - dolů. &gt; 0 - nahoru.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z">
+		<text>Pozice zbraně posunutá o Z</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_offset_z_desc">
+		<text>&lt; 0 - dozadu. &gt; 0 - dopředu</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation">
+		<text>Variance naklápění zbraně.</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_yaw_variation_desc">
+		<text>Při zvednutí zbraně dojde k jejímu náhodnému vychýlení o +- daný stupeň pro větší variabilitu animace</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation">
+		<text>Varianta naklánění zbraně</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_roll_variation_desc">
+		<text>Při zvednutí zbraně se náhodně přetočí o +- daný stupeň pro větší variabilitu animace</text>
+	</string>
+
+	<string id="ui_mcm_weapon_cover_tilt_enable_manual_tilt">
+		<text>Povolit ruční naklápění zbraně</text>
+	</string>
+	<string id="ui_mcm_weapon_cover_tilt_manual_tilt_key_bind">
+		<text>Klávesa manuálního naklápění zbraně</text>
+	</string>
+
+	
+</string_table>

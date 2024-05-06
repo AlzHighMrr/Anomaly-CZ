@@ -1,0 +1,24 @@
+<string_table>
+			<string id="st_wpn_win1886">
+		<text>Winchester model 1886</text>
+	</string>
+	<string id="st_wpn_win1886_descr">
+		<text>Pušky Winchester 1886 jsou ikonickım symbolem inovace a spolehlivosti americkıch støelnıch zbraní. Toto mistrovské dílo s pákovım mechanismem, které navrhl John Browning, je ztìlesnìním éry palnıch zbraní konce 19. století a mùe se pochlubit robustní a pevnou konstrukcí spojenou s vıjimeènou funkèností. Byla zkonstruována pro vıkonné náboje, jako jsou .45-70 Government a .50-110 Winchester, a její trvalá popularita spoèívá v dokonalém vyváení, hladkém chodu páky a pozoruhodné síle schopné zvládnout tìké náboje. Díky svım elegantním liniím, pabì z oøechového døeva a spolehlivé konstrukci zùstává Winchester 1886 nadèasovım ztìlesnìním øemeslné zruènosti a uiteènosti v oblasti klasickıch palnıch zbraní. Pøepoèítáno na støelivo 7,62x51 mm techniky Zone pro snadnìjší pøístup k nábojùm.
+		\n \n
+		%c[ui_gray_2]PØÍSLUŠENSTVÍ: \n
+		%c[d_purple] - %c[ui_gray_2] Puškohledy: ACOG, Specter, Leupold, March Tac a Gauss Rifle scope.\n</text>
+	</string>
+
+	
+			<string id="st_wpn_marlin_tracker">
+		<text>Temnı stopaø</text>
+	</string>
+	<string id="st_wpn_marlin_tracker_descr">
+		<text>Pušky Marlin Dark Series pøedstavují moderní variaci na klasickou palnou zbraò, která kombinuje dìdictví spoleènosti Marlin s moderními prvky. Tato páková puška, vyrobená pro taktické pouití a robustní spolehlivost, se vyznaèuje matnì èernou povrchovou úpravou, èernì lakovanou pabou z tvrdého døeva a hlavní se závitem, kterı zajišuje kompatibilitu s tlumièi hluku nebo náhubními zaøízeními. Pušky øady Dark se obvykle dodávají v oblíbenıch ráích, jako je .30-30 Winchester nebo .45-70 Government, a nabízejí tak všestranné vyuití pro lovecké nebo taktické úèely. Její páka s velkou smyèkou a míøidla s duchovním kroukem zlepšují rychlé zamìøení cíle, zatímco celkovı elegantní a zároveò robustní design ztìlesòuje snahu spoleènosti Marlin spojit tradici s inovacemi ve støelné zbrani, která je vizuálnì pùsobivá a funkènì vıjimeèná. Pøepracováno na støelivo 7,62x51mm techniky Zone pro snadnìjší pøístup k nábojùm.
+		\n \n
+		%c[ui_gray_2]PØÍSLUŠENSTVÍ: \n
+		%c[d_purple] - %c[ui_gray_2] Puškohledy: Všechny zamìøovaèe pro systém picatinny/weaver.\n
+		%c[d_purple] - %c[ui_gray_2] Tlumiè: Daniel Defense Suppressor. \n</text>
+	</string>
+
+</string_table>

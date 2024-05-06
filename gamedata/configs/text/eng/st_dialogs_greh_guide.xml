@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	
+<!-- Sin guide -->
+	<string id="red_greh_guide_start_dialog_1">
+        <text>Welcome to you, my brother. I suspect you need some help.</text>
+    </string>
+	
+	<string id="meet_red_greh_guide_0">
+		<text>I don't think we know each other.</text>
+	</string>
+	<string id="meet_red_greh_guide_1">
+		<text> That's correct. I'm Hors - guide and scout of Sin. I can lead you to a few places if you want that, my brother. Namely the Old Mine in Red Forest, House of Culture in Pripyat and Yubileiny Service Center in Outskirts. However, I will require a small fee for my services - I must eat something like any other person.</text>
+	</string>
+
+	<string id="meet_red_greh_guide_list_0">
+		<text>Remind me where you can lead me.</text>
+	</string>
+	<string id="meet_red_greh_guide_list_1">
+		<text>I can lead you to the Old Mine in Red Forest for two thousand rubles, House of Culture in Pripyat for three thousand rubles and Yubileiny Service Center in Outskirts for four thousand rubles.</text>
+	</string>
+	
+	<string id="travel_red_greh_guide_0">
+		<text>I have to go on a journey.</text>
+	</string>
+	<string id="travel_red_greh_guide_1">
+		<text>Where must you go, my brother?</text>
+	</string>
+	<string id="travel_red_greh_guide_2">
+		<text>The Monolith Campsite. %c[d_orange][2000 RU]</text>
+	</string>
+	<string id="travel_red_greh_guide_3">
+		<text>House of Culture. %c[d_orange][3000 RU]</text>
+	</string>
+	<string id="travel_red_greh_guide_4">
+		<text>Yubileiny Service Center. %c[d_orange][4000 RU]</text>
+	</string>
+	<string id="travel_red_greh_guide_5">
+		<text>I've changed my mind.</text>
+	</string>
+	
+	<string id="red_greh_guide_background_1">
+		<text>There's not much to say. I started out as a simple stalker. After doing a few jobs I came to the conclusion that I do best as a courier. I toured through many tracks of the Zone when I was doing my assignments. Then I realized that I could offer my services as a guide - it's almost the same as a courier job.</text>
+	</string>
+	<string id="red_greh_guide_background_2">
+		<text>But how did you join our cause?</text>
+	</string>
+	<string id="red_greh_guide_background_3">
+		<text>My last assignment did not go my way. My client had enemies who set a trap for him. They killed him, but I managed to kill the whole team. Another problem was that the noise attracted a pack of pseudodogs, and I ran out of ammo. Suddenly, out of nowhere, members of Sin appeared and scared the pack away. Then they came to me, said they knew who I was, and offered to join them. I, having nothing to do and even less to lose, agreed. Now I am Hors - a scout and guide for Sin. And I will do what I can to help our cause. That includes helping you, brother, too.</text>
+	</string>
+	<string id="red_greh_guide_background_4">
+		<text>I'll keep that in mind. Thank you, brother.</text>
+	</string>
+
+</string_table>

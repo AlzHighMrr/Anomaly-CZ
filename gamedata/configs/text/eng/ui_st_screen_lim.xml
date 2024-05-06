@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="dug_lim_tip_switcher_on">
+		<text>Turn on the DUGA Radar ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dug_lim_tip_switcher_off">
+		<text>Turn off the DUGA Radar ($$ACTION_USE$$)</text>
+	</string>
+
+</string_table>

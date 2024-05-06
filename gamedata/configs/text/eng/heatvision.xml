@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<!--
+	Devices
+-->
+
+<string_table>
+	
+	<string id="st_device_torch_nv_4_name">
+		<text>Termovize</text>
+	</string>
+	<string id="st_device_torch_nv_4_descr">
+		<text>Zařízení pro rozpoznávání tepelného pozadí (termální hledí) vybavené vestavěnou svítilnou. Umožňuje rozlišit tepelné stopy teplých objektů, včetně lidí, zvířat, ohně, anomálních polí a dalších. \n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] %c[ui_gray_2] technologická položka\n
+		%c[d_blue] %c[ui_gray_2] vysoká spotřeba elektrické energie\n
+		</text>
+	</string>
+
+	
+</string_table>
