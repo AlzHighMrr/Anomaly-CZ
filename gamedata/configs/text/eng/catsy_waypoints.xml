@@ -943,7 +943,7 @@
 	</string>
 
 	<string id="ui_mcm_pawsys_pawgen_wp_hud_icon_enabled">
-		<text>Show waypoint marker on HUD</text>
+		<text>Zobrazení znaèky na HUD</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawgen_welcome_msg_shown">
@@ -1009,15 +1009,15 @@ This message won't bother you again. Good hunting, %s.</text>
 	</string>
 
 	<string id="st_paw_unknown">
-		<text>Unknown</text>
+		<text>Neznámé</text>
 	</string>
 
 	<string id="st_paw_stash">
-		<text>stash</text>
+		<text>Skrýš</text>
 	</string>
 
 	<string id="st_paw_squad">
-		<text>squad</text>
+		<text>Oddíl</text>
 	</string>
 
 	<string id="st_paw_npc_pda_equipped">
@@ -1439,5 +1439,274 @@ This message won't bother you again. Good hunting, %s.</text>
 	<string id="ui_mcm_lst_paw_crosshair_gradient">
 		<text>Gradient Crosshairs</text>
 	</string>
+
+<!-- Added in 1.16.3 -->
+
+	<string id="st_paw_texture_load_error_tip">
+		<text>The $clr_yelPersonal Adjustable Waypoint$clr_wht addon $clr_redfailed to load its texture data$clr_wht, and has disabled itself in order to protect your game from crashes. \n \n
+		Check the game log for errors, and ensure that nothing loads after PAW which modifies the file $clr_yelmap_spots_relations.xml$clr_wht. \n \n
+		This only requires a change in load order, and is usually easy to resolve. However, if you never intend to use PAW's features, and don't care that something else is breaking it, you can disable this error message under the $clr_yelAdjustable Waypoint$clr_wht menu in MCM.</text>
+	</string>
+
+	<string id="st_paw_texture_load_error_mcmhead1">
+		<text>WARNING: mapspot texture data missing.</text>
+	</string>
+
+	<string id="st_paw_texture_load_error_mcmhead2">
+		<text>To avoid crashes, both PAW and many parts of its MCM menus have been disabled until this issue is resolved.</text>
+	</string>
+
+	<string id="st_paw_texture_load_error1">
+		<text>Personal Adjustable Waypoint could not load texture data from map_spots_relations.xml. This is almost ALWAYS caused by loading another addon after PAW which modifies that file. Examples include (but are not limited to) Kill Tracker or Milspec PDA.</text>
+	</string>
+
+	<string id="st_paw_texture_load_error2">
+		<text>If you are using Mod Organizer 2 (or a modpack such as GAMMA that uses it), adjust your load order so that PAW loads after (below) any and all addons which modify map_spots_relations.xml. If you are not using MO2, you should do so.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_disable_load_warning">
+		<text>Disable the in-game warning for this error (NOT recommended)</text>
+	</string>
+
+<!-- Added in 1.17 -->
+
+	<string id="ui_mcm_pawsys_pawret_autotag_persistence">
+		<text>Autotag pins are persistent</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_autotag_persistence_desc">
+		<text>Unless this option is enabled, all pins added by autotagging will be temporary--that is, they will automatically disappear on next map change or savegame load, or when timed out after the below number of seconds.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_autotag_lifetime">
+		<text>Autotag expiration time (in seconds)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawret_autotag_lifetime_desc">
+		<text>If Autotag persistence is not enabled, tags will be automatically cleared after this many seconds. Setting this to zero will disable the timeout, but temporary tags will still be cleared on the next map change or savegame load.</text>
+	</string>
+
+<!-- Added in 2.0 -->
+
+	<string id="ui_mcm_pawsys_pawgen_headertxt">
+		<text>
+		$clr_yelPAW$clr_wht isn't just a waypoint marker--it's a suite of mapping and navigation tools that give you more control over your map and HUD, letting you mark your own path through the Zone. $clr_yelAll of these features are optional and customizable to your liking.$clr_wht \n \n
+		•$clr_lbl Set your own quest marker anywhere, anytime, and customize its text$clr_wht \n 
+		•$clr_lbl Place, rename, and remove map markers ("pins") anywhere on the map with your choice of icon$clr_wht \n 
+		•$clr_lbl Automatically tag ID'd targets with "smart" pins of your choice, and display them on the HUD$clr_wht \n \n
+		$clr_yelDon't let NPCs tell you where to go--put your PAW down and make the map yours.$clr_wht
+		</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_clear_dist_desc">
+		<text>When the player comes within this distance of the waypoint marker, it will automatically be cleared. Setting this to zero will disable the autoclear setting entirely.</text>
+	</string>
+
+<!-- Added in 2.1 -->
+
+	<string id="ui_mcm_pawsys_pawmenu_show_label">
+		<text>Show Map Label</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_hide_label">
+		<text>Hide Map Label</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_pn_settings">
+		<text>Pin Settings</text>
+	</string>
+
+	<string id="st_paw_argb_a">
+		<text>A</text>
+	</string>
+
+	<string id="st_paw_argb_r">
+		<text>R</text>
+	</string>
+
+	<string id="st_paw_argb_g">
+		<text>G</text>
+	</string>
+
+	<string id="st_paw_argb_b">
+		<text>B</text>
+	</string>
+
+	<string id="ui_paw_use_custom_color">
+		<text>Pøizpùsobení barvy</text>
+	</string>
+
+	<string id="ui_paw_reset_defaults">
+		<text>Výchozí nastavení</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_tag">
+		<text>BWHR Target Tag</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_convert_to_pin">
+		<text>Convert to Pin and Customize</text>
+	</string>
+
+	<string id="ui_paw_hint_sidebar_desc">
+		<text>Open or close the pin and set control sidebar</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawmenu_wp_settings">
+		<text>Nastavení znaèky</text>
+	</string>
+
+	<string id="st_paw_target">
+		<text>Cíl</text>
+	</string>
+
+	<string id="st_paw_wp_active">
+		<text>Znaèka je aktivní</text>
+	</string>
+
+	<string id="st_paw_none">
+		<text>None</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_use_custom_backpack_icon">
+		<text>Customize icon for player backpack stashes</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_use_custom_backpack_icon_desc">
+		<text>If enabled, when placing a backpack stash, PAW will attempt to replace the usual generic stash icon with one of your choosing.</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_custom_backpack_icon">
+		<text>Icon to use from Favorites set</text>
+	</string>
+
+	<string id ="ui_mcm_pawsys_pawpins_custom_backpack_icon_desc">
+		<text>If you don't see the icon you want here, edit configs\ui\icon_set_faves.ltx and add it to the list.</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_stash_backpack">
+		<text>Backpack Stash</text>
+	</string>
+
+	<string id="ui_mcm_lst_paw_bwhr_stash">
+		<text>BWHR Stash Icon</text>
+	</string>
+
+	<string id="ui_paw_hint_btn_sidebar_desc">
+		<text>$clr_whtOpen or close the$clr_yel Icon Library Sidebar$clr_wht, which lets you browse through all of your sets and replace the pin's current icon with any other. You can scroll your mouse wheel while hovering certain controls to cycle through sets and icons.</text>
+	</string>
+
+	<string id="ui_paw_hint_btn_delete_desc">
+		<text>$clr_whtClicking this button will$clr_orn immediately and permanently remove this pin.$clr_wht There is no confirmation, and this cannot be undone.\nYou can$clr_yel lock$clr_wht a pin to protect it from accidental deletion.</text>
+	</string>
+
+	<string id="ui_paw_hint_btn_ok_desc">
+		<text>$clr_whtAccept any changes to this pin and close the dialog.</text>
+	</string>
+
+	<string id="ui_paw_hint_btn_cancel_desc">
+		<text>$clr_whtDiscard any changes to this pin and close the dialog.</text>
+	</string>
+
+	<string id="ui_paw_hint_btn_sound_desc">
+		<text>$clr_whtToggle $clr_yelUI sound effects on or off$clr_wht. This can also be set in PAW's MCM menu.</text>
+	</string>
+
+	<string id="ui_paw_hint_check_lock_desc">
+		<text>$clr_whtA$clr_yel locked$clr_wht pin is protected from any and all changes other than the pin data wipe in MCM. Even the$clr_yel Clear All Pins$clr_wht context action will ignore it.</text>
+	</string>
+
+	<string id="ui_paw_hint_check_text_desc">
+		<text>$clr_whtShow or hide the pin's text as a$clr_yel visible label$clr_wht on the PDA map.</text>
+	</string>
+
+	<string id="ui_paw_hint_check_hud_desc">
+		<text>$clr_whtShow or hide a$clr_yel visible HUD marker$clr_wht for this pin.</text>
+	</string>
+
+	<string id="ui_paw_hint_input_desc">
+		<text>$clr_whtClick here to$clr_yel edit the label$clr_wht for this pin.</text>
+	</string>
+
+	<string id="ui_paw_hint_check_argb_desc">
+		<text>$clr_whtEnable or disable$clr_yel color and transparency customization$clr_wht for this pin's icon. Note that all changes are relative to the starting color of the icon--some changes will look better than others, but only black-and-white icons can be made any color.</text>
+	</string>
+
+	<string id="ui_paw_hint_input_a_desc">
+		<text>$clr_whtClick here to$clr_yel edit the Alpha (transparency)$clr_wht for this pin's icon. Setting it to 0 will make the pin invisible; 255 is completely opaque.</text>
+	</string>
+
+	<string id="ui_paw_hint_input_r_desc">
+		<text>$clr_whtClick here to$clr_yel edit the Red channel$clr_wht for this pin's icon color. This change is relative to the starting color of the icon--only black-and-white icons can be made any color.</text>
+	</string>
+
+	<string id="ui_paw_hint_input_g_desc">
+		<text>$clr_whtClick here to$clr_yel edit the Green channel$clr_wht for this pin's icon color. This change is relative to the starting color of the icon--only black-and-white icons can be made any color.</text>
+	</string>
+
+	<string id="ui_paw_hint_input_b_desc">
+		<text>$clr_whtClick here to$clr_yel edit the Blue channel$clr_wht for this pin's icon color. This change is relative to the starting color of the icon--only black-and-white icons can be made any color.</text>
+	</string>
+
+	<string id="ui_paw_hint_btn_wpreset_desc">
+		<text>$clr_whtResets all waypoint settings back to their defaults, including any text customizations above. The current waypoint, if any, is preserved.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_near_fade_dist">
+		<text>Waypoint near fade-out distance (in meters)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_near_fade_dist_desc">
+		<text>When the player comes within this distance of the waypoint, it will begin to fade out.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_far_fade_dist">
+		<text>Waypoint far fade-out distance (in meters)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_far_fade_dist_desc">
+		<text>When the player gets this far away from the waypoint, it will begin to fade out.</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_far_hide_dist">
+		<text>Waypoint far hide distance (in meters)</text>
+	</string>
+
+	<string id="ui_mcm_pawsys_pawgen_wp_far_hide_dist_desc">
+		<text>If the player is more than this far beyond where the fade-out begins, the waypoint will disappear completely.</text>
+	</string>
+
+
+<!-- Added in 2.1.2 -->
+
+	<string id="ui_paw_mapspot_tooltip_mode">
+		<text>Tooltip Mode</text>
+	</string>
+
+	<string id="ui_mcm_lst_pawsys_msttmode_text">
+		<text>Use Pin Text</text>
+	</string>
+	<string id="ui_mcm_lst_pawsys_msttmode_obj">
+		<text>Use Object Name</text>
+	</string>
+
+<!-- Added in 2.2 (not yet implemented) -->
+
+    <string id="ui_mcm_pawsys_pawret_autotag_pdas">
+        <text>Enable Autotag for the following devices:</text>
+    </string>
+
+    <string id="ui_mcm_pawsys_pawret_device_pda_1">
+        <text>PDA 1.0</text>
+    </string>
+    <string id="ui_mcm_pawsys_pawret_device_pda_2">
+        <text>PDA 2.0</text>
+    </string>
+    <string id="ui_mcm_pawsys_pawret_device_pda_3">
+        <text>PDA 3.1</text>
+    </string>
+    <string id="ui_mcm_pawsys_pawret_device_pda_milspec">
+        <text>Milspec PDA (requires addon)</text>
+    </string>
 
 </string_table>
