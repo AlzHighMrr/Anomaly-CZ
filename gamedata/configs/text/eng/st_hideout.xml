@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+  <string id="st_structures">
+    <text>Nábytek (Část 1)</text>
+  </string>
+
+  <string id="st_hideout_crafting_title">
+    <text>Nábytek (Část 2)</text>
+  </string>
+    <string id="st_backpacks_crafting_title">
+    <text>Batohy</text>
+  </string>
+      <string id="st_munice_crafting_title">
+    <text>Munice WIP</text>
+  </string>
+        <string id="st_filters_crafting_title">
+    <text>Plynové filtry</text>
+  </string>
+</string_table>

@@ -6,441 +6,551 @@
 
 <string_table>
 	
-<string id="st_antirad">
-    <text>Protiradiaèní léky</text>
-</string>
-<string id="st_antirad_descr">
-    <text>Mexaminum léky na ochranu pøed radiací jsou bìné ve Zónì. Pøi uívání tìchto lékù dochází k zúení periferních krevních cév a nedostatku kyslíku, co slouí k léèbì a prevenci vystavení radiaci. Lék nemá váné vedlejší úèinky, i kdy byly hlášeny izolované pøípady mírné nevolnosti, závratí, køeèí a bolesti aludku. Obsahuje také deriváty opiatù k tlumení bolesti.\n \n
-    %c[0,255,255,255]VLASTNOSTI:\n
-    </text>
-</string>
-<string id="st_bandage">
-    <text>Obvaz</text>
-</string>
-<string id="st_bandage_descr">
-    <text>Bìnı elastickı obvaz pouívanı k zastavení krvácení a prevenci infekce ran. Pøi bìném krvácení peèlivì pøilote obvaz na ránu. Pøi arteriálním krvácení okamitì pøivate obvaz kolem postiené oblasti.\n \n
-    %c[0,255,255,255]VLASTNOSTI:\n
-    %c[d_green] • %c[pda_white]První pomoc %c[pda_white]T%c[d_orange]••• %c[pda_white]A%c[d_orange]••• %c[pda_white]L%c[d_orange]•••\n
-    </text>
-</string>
-<string id="st_drug_coagulant">
-    <text>Vinca</text>
-</string>
-<string id="st_drug_coagulant_descr">
-    <text>Ukrajinské Vikasolum - umìlá obdoba vitamínu K. Hlavním úèelem tohoto léku je zvıšení rychlosti sráení krve. Velkou poptávkou se tìší mezi stalkerù, kteøí chtìjí, aby se pomalu hojící rány a trhliny zpùsobené mutacemi uzavøely rychleji. Úèinky léku jsou dlouhodobé. Uívejte najednou dvì tablety.\n \n
-    %c[0,255,255,255]VLASTNOSTI:\n
-    %c[d_green] • %c[pda_white]dokonèení hojení %c[pda_white]T%c[0,255,255,255]••••\n
-    </text>
-</string>
-<string id="st_drug_anabiotic">
-    <text>Anabiotika</text>
-</string>
-<string id="st_drug_anabiotic_descr">
-    <text>Experimentální lék vyvinutı profesorem Ozerskım pro vìdecké vızkumné tımy pracující ve Zónì. Lék obsahuje tetrodotoxin, známı bìnì jako "prášek zombie", kterı zpùsobuje úplné vypnutí centrálního nervového systému tìla, co mùe umonit lidem pøeít emise mimo kryt. Po šesti letech terénních testù si uvìdomení stalkerové radìji uchovávají nìkolik tablet pro neoèekávané havárie.\n \n
-    %c[0,255,255,255]VLASTNOSTI:\n
-    %c[d_red] • %c[ui_gray_2]Zpùsobuje doèasnou ztrátu vìdomí\n
-    %c[d_green] • %c[pda_white]dokonèení hojení %c[0,255,255,255]100% celého tìla\n
-    </text>
-</string>
-<string id="st_drug_psy_blockade">
-    <text>Psy-blokátor</text>
-</string>
-<string id="st_drug_psy_blockade_descr">
-    <text>Lék, kterı blokuje lavinovité nervové impulsy. Pøi uívání zpùsobuje krátkodobou ztrátu veškerıch emocí. Pouívá se vıhradnì ve Zónì k neutralizaci úèinkù anomálních psy-pole. Úèinky léku jsou dlouhodobé. Uívejte najednou dvì tablety.\n \n
-    %c[0,255,255,255]VLASTNOSTI:\n
-    %c[d_green] • %c[ui_gray_2]Zlepšuje morálku a ochranu mysli proti hrùzám Zóny\n
-    %c[d_red] • %c[ui_gray_2]Zpùsobuje silné závratì\n
-    </text>
-</string>
-<string id="st_drug_antidot">
-    <text>Antidotum</text>
-</string>
-<string id="st_drug_antidot_descr">
-    <text>Antitoxin IP2 je sloitı lék obsahující nìkolik protijedù, vèetnì metoklopramidu, pyridoxinu, thiaminu, riboxinu a dalších farmaceutik. Lék slouí k injekci škály antibiotik ke neutralizaci pøírodních jedù spolu s syntetickımi látkami absorbovateli jedù do krevního obìhu. IP2 není ve Zónì pøíliš oblíbenı, protoe vìtšina stalkerù se spoléhá na plynovou masku a ochrannı oblek. Nicménì stále existují tací, kteøí mají pár jednotek tohoto protijedu schovalıch pro nouzové situace. Úèinky léku jsou dlouhodobé. Uívejte najednou jednu kapsli.\n \n
-    %c[0,255,255,255]VLASTNOSTI:\n
-    %c[d_green] • %c[pda_white]dokonèení hojení %c[pda_white]H%c[0,255,255,255]••• %c[pda_white]T%c[0,255,255,255]•••\n
-    </text>
-</string>
-<string id="st_drug_booster">
-    <text>Herkules</text>
-</string>
-<string id="st_drug_booster_descr">
-    <text>Hlavní slokou tohoto vırobku je anabolickı androgen, umìlı steroid, jeho chemické sloení pøipomíná testosteron. Èasto pouívanı stalkery bìhem dlouhıch vıprav k redukci únavy svalù. Vıznamnì zvyšuje nosnost. Úèinky léku jsou dlouhodobé.\n \n
-    %c[0,255,255,255]VLASTNOSTI:\n
-    %c[d_green] • %c[ui_gray_2]odstranìní mírnıch závratí\n
-    </text>
-</string>
-<string id="st_drug_radioprotector">
-    <text>Radioprotektor</text>
-</string>
-<string id="st_drug_radioprotector_descr">
-    <text>B190 Indraline radioprotektor, souèást medkitù vydávanıch personálu jadernıch elektráren. Pouívá se v Zónì místo nadmìrnì toxického hydrochloridu cysteaminu PC1, jeho opakované uívání èasto zpùsobovalo smrt. Sníuje úèinky gama záøení na ivou tkáò. Nejlépe uívat pøed vystavením, protoe úèinky nejsou okamité, ale lék vydrí dlouho. Uívejte jednu tobolku najednou.\n \n
-    %c[0,255,255,255]Vlastnosti:\n
-    </text>
-</string>
-<string id="st_akvatab">
-    <text>Ibuprofen</text>
-</string>
-<string id="st_akvatab_descr">
-    <text>Ibuprofen je lék ze tøídy nesteroidních protizánìtlivıch lékù (NSAID), kterı se pouívá k léèbì bolesti, horeèky a zánìtu. Pouívá se jako obecné analgetikum.\n \n
-    %c[0,255,255,255]Vlastnosti:\n
-    %c[d_red] • %c[ui_gray_2]Zpùsobuje mírné závratì\n
-    %c[d_green] • %c[pda_white]pøedléèuje %c[ui_gray_2] A%c[0,255,255,255]•••• %c[pda_white]L%c[0,255,255,255]••••\n
-    </text>
-</string>
-<string id="st_medkit_ai1">
-    <text>Základní lékaøskı balíèek</text>
-</string>
-<string id="st_medkit_ai1_descr">
-    <text>Lékaøskı balíèek obsahující rùzné vybavení pro léèbu drobnıch zranìní.\n \n
-    %c[ui_gray_3]Obsah:\n
-    %c[d_cyan] • %c[default] obvaz (4)\n
-    %c[d_cyan] • %c[default] diklofenak sodnı\n
-    %c[d_cyan] • %c[default] improvizovanı stimpack\n
-    %c[d_cyan] • %c[default] metamizolová ampule\n
-    %c[d_cyan] • %c[default] minerální voda\n
-    %c[d_cyan] • %c[default] sulfadimethoxin\n
-    %c[d_cyan] • %c[default] turniket\n
-    %c[d_cyan] • %c[default] yadulin\n \n
-    %c[0,255,255,255]Vlastnosti:\n
-    %c[d_cyan] • %c[ui_gray_2]úloištì pro lékaøské vybavení\n</text>
-</string>
-<string id="st_medkit_ai2">
-    <text>Armádní lékaøskı balíèek</text>
-</string>
-<string id="st_medkit_ai2_descr">
-    <text>Armádní lékaøskı balíèek obsahující velké mnoství stimulaèních lékù.\n \n
-    %c[ui_gray_3]Obsah:\n
-    %c[d_cyan] • %c[default] obvaz (4)\n
-    %c[d_cyan] • %c[default] tablety s kofeinem\n
-    %c[d_cyan] • %c[default] diklofenak sodnı\n
-    %c[d_cyan] • %c[default] fentanyl\n
-    %c[d_cyan] • %c[default] ibuprofen\n
-    %c[d_cyan] • %c[default] vojenskı stimpack\n
-    %c[d_cyan] • %c[default] minerální voda\n
-    %c[d_cyan] • %c[default] minerální voda\n
-    %c[d_cyan] • %c[default] morfinová ampule\n
-    %c[d_cyan] • %c[default] prášky na spaní\n
-    %c[d_cyan] • %c[default] turniket (2)\n \n
-    %c[0,255,255,255]Vlastnosti:\n
-    %c[d_cyan] • %c[ui_gray_2]úloištì pro lékaøské vybavení\n</text>
-</string>
-<string id="st_medkit_ai3">
-    <text>Vìdeckı lékaøskı balíèek</text>
-</string>
-<string id="st_medkit_ai3_descr">
-    <text>Lékaøskı balíèek navrenı speciálnì pro pouití v Zónì. Obsahuje velké mnoství lékù pro boj proti chemickım, psy- a radioaktivním hrozbám.\n \n
-    %c[ui_gray_3]Obsah:\n
-    %c[d_cyan] • %c[default] protiradièní lék (2)\n
-    %c[d_cyan] • %c[default] antidotum\n
-    %c[d_cyan] • %c[default] antioxidant IP2\n
-    %c[d_cyan] • %c[default] chlortetracyklin\n		
-    %c[d_cyan] • %c[default] cystamin (2)\n
-    %c[d_cyan] • %c[default] diklofenak sodnı\n		
-    %c[d_cyan] • %c[default] adrenalinová injekce\n
-    %c[d_cyan] • %c[default] glukózová injekce (2)\n
-    %c[d_cyan] • %c[default] minerální voda\n
-    %c[d_cyan] • %c[default] psi-blokátor\n
-    %c[d_cyan] • %c[default] radioprotektor\n
-    %c[d_cyan] • %c[default] vìdeckı stimpack (2)\n \n
-    %c[d_cyan] • %c[default] sulfadimethoxin\n		
-    %c[d_cyan] • %c[default] turniket\n \n
-    %c[0,255,255,255]Vlastnosti:\n
-    %c[d_cyan] • %c[ui_gray_2]úloištì pro lékaøské vybavení\n
-    </text>
-</string>
+	<string id="st_antirad">
+		<text>Protiradiaèní léky</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Mexaminové léky na ochranu pøed záøením jsou v zónì bìné. Pøi pouití tento lék vyvolává staení periferních cév a nedostatek kyslíku, co slouí k léèbì a prevenci ozáøení. Lék nemá závané vedlejší úèinky, i kdy byly hlášeny ojedinìlé pøípady mírné nevolnosti, závratí, køeèí a bolesti aludku.\n \n
+		%c[ui_gray_3]HEALING:\n
+		%c[d_red] - %c[ui_gray_2] Pøi pouití vyèerpá 5 % HP\n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n
+		</text>
+	</string>
+	<string id="st_bandage">
+		<text>Obvaz</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Obyèejnı elastickı obvaz pouívanı k zastavení krvácení a prevenci infekce ran. Pøi pravidelném krvácení obvaz opatrnì pøilote na ránu. Pøi tepenném krvácení obvaz naléhavì ovate kolem postieného místa.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] první pomoc %c[ui_gray_2] H%c[d_blue] 20% %c[ui_gray_2] T%c[d_blue] 20% %c[ui_gray_2] L%c[d_blue] 20% %c[ui_gray_2] A%c[d_blue] 20%\n
+		%c[d_blue] - %c[ui_gray_2] pøestává krvácet\n
+		%c[d_blue] - %c[ui_gray_2] doèasnì zalepí ruce a nohy\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (náplast)\n
+		</text>
+	</string>
 	
-<string id="st_analgetic">
-	<text>Diklofenak sodnı</text>
-</string>
-<string id="st_analgetic_descr">
-	<text>Nesteroidní protizánìtlivı lék ze skupiny derivátù fenylacetové kyseliny. Úèinek léku ztlumuje nervovou aktivitu uivatele. Kvùli obrovskému mnoství vedlejších úèinkù, jako jsou bolesti hlavy, závratì, ospalost a v nìkterıch pøípadech poruchy pamìti, dezorientace, podrádìnost, se ve vìtšinì zemí nepouívá pro léèebné úèely. Nicménì v Zónì se stal populárním díky vedlejšímu úèinku projevujícímu se porušením citlivosti centrálního nervového systému, co mu umoòuje odolávat tìkım zranìním, jako jsou støelné a støepinové rány.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_purple] • %c[pda_white]Prùmìrnı bonus odolnosti proti poškození (5%)\n
-	%c[d_red] • %c[ui_gray_2]Zpùsobuje mírné závratì\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]•••• %c[pda_white]T%c[d_orange]•••• %c[pda_white]A%c[d_orange]•• %c[pda_white]L%c[d_orange]••\n
-	</text>
-</string>
-
-
-<string id="st_jgut_zhgut">
-	<text>Turniket</text>
-</string>
-<string id="st_jgut_descr">
-	<text>Hemostatickı gumovı turniket umoòující uivateli zastavit krvácení.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[pda_white]První pomoc %c[d_orange]100% pae a nohy\n
-	</text>
-</string>
-
-
-<string id="st_yadylin">
-	<text>Yadulin</text>
-</string>
-<string id="st_yadylin_descr">
-	<text>Pololék na bázi morfinu. Umoòuje uivateli rychle utlumit bolest a zvıšit produkci adrenalinu, co pomáhá uivateli vydret i nejnároènìjší boje. Je populární mezi stopaøi, èasto se uívá jako rekreaèní droga mezi kriminálními skupinami a údajnì se dodává k Monolitu.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_red] • %c[ui_gray_2]Zpùsobuje silné závratì\n
-	%c[d_green] • %c[pda_white]pozdravuje po boji %c[pda_white]H%c[0,255,255,255]•••• %c[pda_white]T%c[0,255,255,255]•••• %c[pda_white]A%c[0,255,255,255]•• %c[pda_white]L%c[0,255,255,255]••\n
-	</text>
-</string>
-
-<string id="st_medkit">
-	<text>Lékarnièka AI-2</text>
-</string>
-<string id="st_medkit_descr">
-	<text>Lékarnièka AI-2 byl vyvinut jako standardní servisní lékárnièka pro rùzné obranné a bezpeènostní sloky a civilní obranné síly SSSR. Uiteèná pøi ošetøování zranìní, ran, chemickıch a tepelnıch popálenin a rùznıch typù otrav.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]••••• %c[pda_white]T%c[d_orange]••••• %c[pda_white]A%c[d_orange]•• %c[pda_white]L%c[d_orange]••\n
-	</text>
-</string>
-
-<string id="st_medkit_army">
-	<text>Armádní lékárnièka</text>
-</string>
-<string id="st_medkit_army_descr">
-	<text>Specializovaná lékárnièka pro poskytování první pomoci pøi bojovıch zranìních. Sada obsahuje krevní srálivé látky na bázi menadionu, analgetika, antibiotika a imunostimulanty, stejnì jako sadu pro odstraòování støel a støepin z tìla. Tuto lékárnièku obdrí pøevánì vojáci, jako jsou jednotky speciálního urèení Spetsnaz, vydávaná jim pøi prùniku hluboko do Zóny, a je populární mezi silami Povinnosti.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]••••••• %c[pda_white]T%c[d_orange]••••••• %c[pda_white]A%c[d_orange]••• %c[pda_white]L%c[d_orange]•••\n
-	</text>
-</string>
-
-
-<string id="st_medkit_science">
-	<text>Vìdecká lékárnièka</text>
-</string>
-<string id="st_medkit_science_descr">
-	<text>Lékárnièka navrená speciálnì pro pouití v Zónì. Sada obsahuje prostøedky pro ošetøování ran a také pro prevenci vıvoje radiace a sníení nahromadìné radiace v tìle. Na rozdíl od jinıch lékárenskıch sestav obsahuje Vikasolum, Batilolum a Nafazolin.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]••••••••• %c[pda_white]T%c[d_orange]••••••••• %c[pda_white]A%c[d_orange]•••• %c[pda_white]L%c[d_orange]••••\n
-	</text>
-</string>
-
-<string id="st_glucose_s">
-	<text>Gluokózová injekce</text>
-</string>
-<string id="st_glucose_s_descr">
-	<text>Gluokózové injekce se pouívají pøi silném diabetickém hypoglykémii, ale také jako stimulant. Okamité podání sacharidù zpùsobuje rychlı nábìh energie, co umoòuje uivateli vyvinout zvıšenou fyzickou námahu a odolat stresu. Díky své pohodlné zpùsobu aplikace lze tyto injekce pouít i v bojovıch situacích. To z nich èiní velmi dobrı zpùsob, jak urychlit hojení.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[pda_white]prùmìrné odstranìní závratì\n
-	</text>
-</string>
-
-<string id="st_glucose">
-	<text>Velká glukózová injekce</text>
-</string>
-<string id="st_glucose_descr">
-	<text>Velké glukózové injekce se pouívají pøi silném diabetickém hypoglykémii, ale také jako stimulant. Okamité podání sacharidù zpùsobuje rychlı nábìh energie, co umoòuje uivateli vyvinout zvıšenou fyzickou námahu a odolat stresu. Díky své pohodlné zpùsobu aplikace lze tyto injekce pouít i v bojovıch situacích. To z nich èiní velmi dobrı zpùsob, jak urychlit hojení.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[ui_gray_2]Silné odstranìní závratì\n
-	</text>
-</string>
-
-<string id="st_stim_impro">
-	<text>Improvizovaná stimulantní injekce</text>
-</string>
-<string id="st_stim_impro_descr">
-	<text>Improvizované stimulantní injekce obsahují kombinaci rùznıch chemickıch látek, které zvyšují fyzickou vıkonnost a zlepšují reakèní schopnosti. Tato injekce je èasto vyrábìna v terénu pomocí dostupnıch chemikálií a zdrojù, co z ní èiní cennı zdroj energie pro stalkerù v bojovıch situacích. Nicménì, jejich pouívání mùe mít vedlejší úèinky, jako je zvıšená srdeèní frekvence, pocit neklidu a zvıšená agresivita.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_red] • %c[pda_white]Silné zvıšení srdeèní frekvence\n
-	</text>
-</string>
-
-<string id="st_stim">
-	<text>Stimulanty</text>
-</string>
-<string id="st_stim_descr">
-	<text>Stimulanty jsou chemické látky, které stimulují nervovı systém a zvyšují fyzickou a duševní aktivitu. Pouívají se k boji proti únavì a vyèerpání a zlepšení reakèních schopností. Tyto látky se bìnì pouívají v Zónì, zejména bìhem dlouhıch expedic nebo intenzivních bojovıch situací. Nicménì, jejich dlouhodobé uívání mùe mít negativní úèinky na zdraví a závislost.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[ui_gray_2]odstranìní únavy\n
-	%c[d_red] • %c[ui_gray_2]mùe zpùsobit závratì\n
-	</text>
-</string>
+	<string id="st_bandage_army">
+		<text>Armádní obvaz</text>
+	</string>
+	<string id="st_bandage_army_descr">
+		<text>Elastickı armádní obvaz pouívanı k zastavení krvácení a prevenci infekce ran. Pøi pravidelném krvácení obvaz opatrnì pøilote na ránu. Pøi tepenném krvácení obvaz urychlenì ovate kolem postieného místa.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] první pomoc %c[ui_gray_2] H%c[d_blue] 20% %c[ui_gray_2] T%c[d_blue] 20% %c[ui_gray_2] L%c[d_blue] 20% %c[ui_gray_2] A%c[d_blue] 20%\n
+		%c[d_blue] - %c[ui_gray_2] pøestává krvácet\n
+		%c[d_blue] - %c[ui_gray_2] doèasnì zalepí ruce a nohy\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (náplast)\n
+		</text>
+	</string>
 	
-<string id="st_stim_military">
-	<text>Armádní stimulant</text>
-</string>
-<string id="st_stim_military_descr">
-	<text>Armádní stimulanty pøedstavují souèást standardní vıbavy vojákù pro terénní operace v Zónì. Snadno dostupné na trhu za støední cenu. Oblíbené mezi zkušenımi Stalkery. Jsou vıraznì silnìjší a rychleji pùsobící ne jejich improvizované protìjšky, co je èiní ideálními pro pouití v ivot ohroujících situacích. Vyrábìjí se z hustıch surovin, které mohou tìlu zatìovat. Vedlejší úèinky zahrnují šok, extrémní závratì a zvıšenı hlad.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]••••• %c[pda_white]T%c[d_orange]••••••• %c[pda_white]A%c[d_orange]••• %c[pda_white]L%c[d_orange]•••\n
-	%c[d_green] • %c[pda_white]pozdravy %c[pda_white]H%c[0,255,255,255]•• %c[pda_white]T%c[0,255,255,255]•• %c[pda_white]A%c[0,255,255,255]• %c[pda_white]L%c[0,255,255,255]•\n
-	</text>
-</string>
-
-
-<string id="st_stim_scientic">
-	<text>Vìdeckı stimulant</text>
-</string>
-<string id="st_stim_scientic_descr">
-	<text>Vytvoøeno stejnım obrannım vızkumnım ústavem v Kyjevì, kterı vyvinul známı oblek SEVA, tato nejmodernìjší metoda pøedstavuje nejsilnìjší dostupnı stabilizátor zdraví v Zónì. Nejkvalitnìjší ingredience a dokonalı recept umoòují témìø okamité zotavení a zajišují rychlé odstranìní radiace. Vedlejší úèinky jsou minimalizovány. Extrémnì vysoké náklady prakticky omezují cílovou skupinu tohoto léku na nejzruènìjší a nejúspìšnìjší Stalkery.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]••••••••• %c[pda_white]T%c[d_orange]••••••••• %c[pda_white]A%c[d_orange]•••• %c[pda_white]L%c[d_orange]••••\n
-	%c[d_green] • %c[pda_white]pozdravy %c[pda_white]H%c[0,255,255,255]•••• %c[pda_white]T%c[0,255,255,255]•••• %c[pda_white]A%c[0,255,255,255]• %c[pda_white]L%c[0,255,255,255]•\n
-	</text>
-</string>
-
-
-<string id="st_sleepingpills">
-	<text>Prášky na spaní</text>
-</string>
-<string id="st_sleepingpills_descr">
-	<text>Balíèek malıch uspávacích pilulek, které okamitì zpùsobí ospalost a pomáhají sníit nervové impulsy po urèitou dobu. Spolknìte nìjakou dobu pøed tím, ne si chcete odpoèinout, a následnì vypijte pár douškù vody pro maximální úèinek. Uijte dvì tablety najednou.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[ui_gray_2]Zlepšuje morálku a ochranu mysli pøed hrùzami Zóny\n
-	%c[d_green] • %c[ui_gray_2]Zpùsobuje ospalost\n
-	</text>
-</string>
-
-<string id="st_cocaine">
-	<text>Kokain</text>
-</string>
-<string id="st_cocaine_descr">
-	<text>Malı hliníkovı pouzdro obsahující kokain a nástroje usnadòující jeho uívání. Kokain je silnı stimulant nervového systému. Jeho úèinky mohou trvat od 15-30 minut do jedné hodiny v závislosti na zpùsobu podání. Kokain zvyšuje bdìlost, vyvolává pocit pohody, kompetence a sexuality. Bìnımi vedlejšími úèinky jsou úzkost, paranoia a neklid. Pøi nadmìrném dávkování se mohou objevit tøesy, køeèe a zvıšená tìlesná teplota. Bandité jsou známí tím, e si tento lék nasávají pøímo pøed zahájením útoku nebo úkladu.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_cyan] • %c[ui_gray_2]Velmi silnı stimulant\n
-	%c[d_green] • %c[ui_gray_2]Velmi silné odstranìní závratì\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]••• %c[pda_white]T%c[d_orange]•••\n
-	</text>
-</string>
-
-<string id="st_adrenalin">
-	<text>Injekce epinefrinu</text>
-</string>
-<string id="st_adrenalin_descr">
-	<text>Epinefrin (také známı jako adrenalin) je hormon a neurotransmiter. Epinefrin má v tìle mnoho funkcí, okamitì reguluje srdeèní tep, prùmìry krevních cév a prùchod vzduchu a provádí metabolické zmìny. Uvolòování epinefrinu je klíèovou slokou boj-èi-uteè reakce sympatického nervového systému. Jeho úèinky vedou k zvıšené hladinì glukózy a mastnıch kyselin, které poskytují substráty pro okamitou energetickou produkci ve všech buòkách tìla.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_cyan] • %c[ui_gray_2]Velmi silnı stimulant\n
-	%c[d_green] • %c[ui_gray_2]Velmi silné odstranìní závratì\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]••••••••••• %c[pda_white]T%c[d_orange]••••••••••• %c[pda_white]A%c[d_orange]••••• %c[pda_white]L%c[d_orange]•••••\n
-	</text>
-</string>
-
-<string id="st_morphine">
-	<text>Ampule s morfinem</text>
-</string>
-<string id="st_morphine_descr">
-	<text>elezná ampule navrená jako polní vybavení pro vojenskı personál pro okamité sníení bolesti. Tato ampule obsahuje silnou dávku morfinu. V klinické medicínì je morfin povaován za zlatı standard opioidních analgetik pouívanıch k úlevì od silné nebo trıznivé bolesti. Stejnì jako další opioidy, jako je oxycodon, hydromorfon a diacetylmorfin (heroin), morfin pùsobí pøímo na centrální nervovı systém (CNS) k úlevì od bolesti. Podává se injekcí do pae nebo stehna.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_purple] • %c[ui_gray_2]extrémnì velkı bonus na odolnost proti poškození (15%)\n
-	%c[d_red] • %c[ui_gray_2]Zpùsobuje mírnou závratì\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]•••••••••• %c[pda_white]T%c[d_orange]••••••••• %c[pda_white]A%c[d_orange]••••• %c[pda_white]L%c[d_orange]•••••\n
-	</text>
-</string>
+	<string id="st_drug_coagulant">
+		<text>Vinca</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>Ukrajinské vikasolum - umìlı ekvivalent vitaminu K. Hlavním úèelem tohoto léku je zvıšení rychlosti sráení krve. Velmi ádanı mezi stalkery, kteøí chtìjí, aby se pomalu se hojící rány a trné rány zpùsobené mutanty rychleji uzavíraly. Úèinky léku jsou dlouhodobé a mìl by se pouívat preventivnì.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] zastavuje krvácení\n
+		%c[d_red] - %c[ui_gray_2] zpùsobuje závratì\n</text>
+	</string>
 	
-<string id="st_salicidic_acid">
-	<text>Ampule metamizolu</text>
-</string>
-<string id="st_salicidic_acid_descr">
-	<text>elezná ampule navrená jako terénní vybavení pro vojenskı personál v terénu k okamitému sníení bolesti. Obsahuje silnou dávku metamizolu smíchaného s antihemoragickım lékem. Metamizol je jedním z nejsilnìjších nesteroidních protizánìtlivıch lékù (NSAID), které jsou zejména úèinné pøi zmírnìní bolesti a sníení horeèky. Je také uiteènı jako protizánìtlivı lék pøi vyšších dávkách. Mùe zpùsobit nìkteré opodìné vedlejší úèinky, jako je leukopenie nebo agranulocytóza, proto by se mìl pouívat s mírou. Podává se injekcí do pae nebo stehen. Jeho dostupnost v Zónì je omezena kvùli obtínosti pašování léku pøes vojenská omezení.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_purple] • %c[pda_white]Velkı bonus odolnosti proti poškození (10%)\n
-	%c[d_green] • %c[pda_white]První pomoc %c[pda_white]H%c[d_orange]•• %c[pda_white]T%c[d_orange]•• %c[pda_white]A%c[d_orange]•• %c[pda_white]L%c[d_orange]••\n
-	</text>
-</string>
+	<string id="st_drug_anabiotic">
+		<text>Anabiotika</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>Experimentální lék vyvinutı profesorem Ozerskım pro vìdecké vızkumné tımy pracující v Zónì. Jádrem léku je tetrodotoxin, lidovì nazıvanı "zombie prášek", kterı zpùsobuje úplné vypnutí centrální nervové soustavy tìla, co mùe lidem umonit pøeít emise mimo krytí. Po šesti letech testování v terénu u prozíraví slídilové vìdí, e si jich mají pár nechat po ruce pro pøípad neèekaného vıbuchu.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] zónová produkce\n
+		%c[d_red] - %c[ui_gray_2] zpùsobuje doèasnı vıpadek proudu\n</text>
+	</string>
 
-<string id="st_caffeine">
-	<text>Kofeinové tablety</text>
-</string>
-<string id="st_caffeine_descr">
-	<text>Kofein a sodnı benzoát, které zpùsobují nejvyšší monou úèinnost centrálního nervového systému v danı èas. Vıraznì sniují ospalost. Uijte dvì tablety najednou.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_cyan] • %c[ui_gray_2]Stimulant\n
-	%c[d_cyan] • %c[ui_gray_2]odstranìní závratì\n
-	</text>
-</string>
-
-<string id="st_antirad_cystamine">
-	<text>Cystamin</text>
-</string>
-<string id="st_antirad_cystamine_descr">
-	<text>Látka pùsobící jako radioprotektor, pouívaná k oslabení úèinkù záøení na tìlo. Radioprotektivní úèinek cystaminu spoèívá v jeho schopnosti vázat volné radikály - ionizované a excitované molekuly vytvoøené v tkáních pøi ozáøení - stejnì jako v jeho schopnosti interagovat s urèitımi enzymy a poskytovat odolnost proti ionizujícímu záøení. Úèinky cystaminu neodstraòují ji nahromadìné záøení. Obsahuje také léky proti bolesti a protizánìtlivé slouèeniny.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	</text>
-</string>
-
-<string id="st_antibio_sulfad">
-	<text>Sulfadimethoxin</text>
-</string>
-<string id="st_antibio_sulfad_descr">
-	<text>Sulfonamidovı lék úèinnı proti gram-pozitivním a gram-negativním bakteriím. Pùsobí na pneumokoky, streptokoky, stafylokoky, E. coli, Klebsiellu (Friedlanderùv bacil), pùvodce úplavice; je ménì úèinnı proti bílkovinám; pùsobí proti viru trachomu (infekèní oèní onemocnìní, které mùe vést ke slepotì); neúèinkuje na kmeny bakterií odolné vùèi jinım sulfonamidovım pøípravkùm. Mezi neádoucí úèinky patøí bolesti hlavy, poruchy trávení, vyráky na kùi, horeèka a leukopenie. Úèinky léku jsou dlouhodobé.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_red] • %c[ui_gray_2]Zpùsobuje mírnou závratì\n
-	%c[d_green] • %c[pda_white]dopojeèí %c[ui_gray_2] %c[pda_white]T%c[0,255,255,255]••• %c[pda_white]L%c[0,255,255,255]•\n
-	</text>
-</string>
-
-<string id="st_antibio_chlor">
-	<text>Chlortetracyklin</text>
-</string>
-<string id="st_antibio_chlor_descr">
-	<text>Antibiotikum. Krystalickı prášek zlatì luté barvy, hoøké chuti, rozpustnı ve vodì. Jedná se o jeden z prvních dostupnıch antibiotik (po penicilinu).\n Chlorotetracyklin hydrochlorid má bakteriostatickı úèinek na gram-pozitivní a gram-negativní mikroby, rickettsie a nìkteré velké viry.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_red] • %c[ui_gray_2]Zpùsobuje mírnou závratì\n
-	%c[d_green] • %c[pda_white]dopojeèí %c[pda_white]H%c[0,255,255,255]••• %c[pda_white]A%c[0,255,255,255]•\n
-	</text>
-</string>
-
-<string id="st_antiemetic">
-	<text>Etperazin</text>
-</string>
-<string id="st_antiemetic_descr">
-	<text>Tablety potaené obalem obsahující 4,6 a 10 mg perfenazinu. Lék je neuroleptikum - antipsychotikum, které má antialergické, sedativní, miorelaxaèní, antiemetické, slabé anticholinergní, hypotenèní a hypotermické úèinky. Úèinnost Etperazinu je zpùsobena blokádou receptorù D2 v mezokortikálním a mezolimbickém systému. V Zónì se zøídka pouívá.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[ui_gray_2] mírnì Zlepšuje morálku a ochranu mysli pøed hrùzami Zóny\n
-	%c[d_green] • %c[ui_gray_2] mírnì odstraòuje závratì\n
-	</text>
-</string>
-<string id="st_joint">
-	<text>Joint</text>
-</string>
-<string id="st_joint_descr">
-	<text>Jsou známé svımi relaxaèními úèinky, jointy jsou pouívány stalkerama rekreaènì, zejména tìmi, kteøí èasto navštìvují Barrieru nebo Rudı les za ní. Pokud se kombinují s alkoholem, vyvolávají uklidòující úèinek. Zvyšuje chu k jídlu.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[ui_gray_2] Zlepšuje morálku a ochranu mysli pøed hrùzami Zóny\n
-	%c[d_cyan] • %c[ui_gray_2] mírnì odstraòuje závratì\n
-	</text>
-</string>
-
-<string id="st_rebirth">
-	<text>Axyltallisal "znovuzrození"</text>
-</string>
-<string id="st_rebirth_descr">
-	<text>Varování! Nepouívejte ve spojení s jinım lékem, protoe mùe bıt smrtelné. Tato silná smìs obsaená v malé støíkaèce vás pøivede do bezvìdomí. Ale kdy se probudíte (jestli se probudíte), budete se cítit znovuzrozeni. Injikujte støíkaèku do stehna, kdy sedíte, abyste se zabránili pádu pøi ztrátì vìdomí.\n \n
-	%c[0,255,255,255]VLASTNOSTI:\n
-	%c[d_green] • %c[ui_gray_2] okamitì zvyšuje morálku a fyzické vlastnosti\n
-	</text>
-</string>
+	<string id="st_drug_psy_blockade">
+		<text>Psy-block</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>Lék, kterı blokuje lavinovité nervové impulzy. Konzumace vyvolává krátkodobou ztrátu veškerıch emocí. Pouívá se vıhradnì v Zónì k potlaèení úèinkù anomálních psy-polí. Úèinky drogy jsou dlouhodobé. Uívejte dvì tablety najednou.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_red] - %c[ui_gray_2] zpùsobuje extrémní závratì\n
+		</text>
+	</string>
 	
-<string id="st_tetanus">
-	<text>Fentanyl</text>
-</string>
-<string id="st_tetanus_descr">
-	<text>Fentanyl je silnı opioid pouívanı jako lék proti bolesti. Je také uíván rekreaènì, nìkdy smíchanı s heroinem, kokainem nebo metamfetaminem, a jeho potenciálnì smrtelné pøedávkování mùe bıt neutralizováno naloxonem. Fentanyl pùsobí pøedevším aktivací ?-opioidních receptorù.\n \n
-	%c[0,255,255,255]Vlastnosti:\n
-	%c[d_red] • %c[ui_gray_2]Zpùsobuje mírné závratì\n
-	%c[d_green] • %c[pda_white]po léèení zanechává %c[pda_white]H%c[0,255,255,255]••• %c[ui_gray_2]T%c[0,255,255,255]••• %c[pda_white]A%c[0,255,255,255]••• %c[pda_white]L%c[0,255,255,255]•••\n
-	</text>
-</string>
+	<string id="st_drug_antidot">
+		<text>Antidotum</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>Antiotin IP2 je komplexní léèivı pøípravek zahrnující nìkolik antidot, vèetnì metoklopramidu, pyridoxinu, thiaminu, riboxinu a dalších léèivıch látek. Lék se pouívá k injekènímu podání øady antibiotik k neutralizaci pøírodních jedù spolu se syntetickımi absorbéry jedù do krevního obìhu. IP2 není v Zónì pøíliš populární, protoe vìtšina slídilù spoléhá na plynovou masku a ochrannı oblek. Stále se však najdou tací, kteøí mají schováno nìkolik jednotek tohoto protijedu pro pøípad nouze. Úèinky drogy jsou dlouhodobé. Uívejte vdy po jedné kapsli.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_red] - %c[ui_gray_2] zpùsobuje závratì\n</text>
+	</string>
+	
+	<string id="st_drug_booster">
+		<text>Hercules</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>Hlavní slokou tohoto pøípravku je anabolickı androgen, umìlı steroid, jeho chemické sloení se podobá testosteronu. Èasto uíván stalkery bìhem dlouhıch nájezdù ke sníení svalové únavy. Vıraznì zvyšuje nosnost. Úèinky léku jsou dlouhodobé.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] drink\n
+		%c[d_blue] - %c[ui_gray_2] importovanı\n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] mírné vystøízlivìní z alkoholu\n
+		</text>
+	</string>
+	
+	<string id="st_drug_radioprotector">
+		<text>Radioprotektivum</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>B190 Indralinovı radioprotektant, kterı je souèástí lékárnièek vydávanıch personálu jadernıch elektráren. Pouíval se v zónì místo pøíliš toxického cysteamin hydrochloridu PC1, jeho opakované pouití èasto zpùsobovalo smrt. Sniuje úèinky gama záøení na ivé tkánì. Nejlépe se uívá pøed ozáøením, protoe úèinky nejsou okamité, ale lék pùsobí dlouho. Uívejte po jedné tobolce.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_red] - %c[ui_gray_2] mírné závratì\n
+		</text>
+	</string>
 
-<string id="st_antirad_kalium">
-	<text>Jodid draselnı</text>
-</string>
-<string id="st_antirad_kalium_descr">
-	<text>Farmakologická slouèenina pouívaná v Zónì jako levnı prostøedek k potlaèení úèinkù záøení na tìlo. Zpùsobuje øadu vedlejších úèinkù, zejména puchıøe v trávicím traktu, znecitlivìní na bolest a poruchy štítné lázy.\n \n
-	%c[0,255,255,255]Vlastnosti:\n
-	</text>
-</string>
+	
+	<string id="st_akvatab">
+		<text>Ibuprofen</text>
+	</string>
+	<string id="st_akvatab_descr">
+		<text>Je lék ze skupiny nesteroidních protizánìtlivıch léèiv (NSAID), kterı se pouívá k léèbì bolesti, horeèky a zánìtu.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[0,255,255,255] po vyléèení %c[ui_gray_2] H%c[0,255,255,255] 40% %c[ui_gray_2]T%c[0,255,255,255] 40% %c[ui_gray_2]A%c[0,255,255,255] 40% %c[ui_gray_2]L%c[0,255,255,255] 40% \n
+		%c[d_blue] - %c[ui_gray_2] léky proti bolesti\n
+		%c[d_purple] - %c[ui_gray_2] bonus k prùmìrné odolnosti proti poškození\n
+		%c[d_red] - %c[ui_gray_2] pomalé pouívání (dispergovatelné tablety)\n
+		</text>
+	</string>
+	
+	<string id="st_medkit_ai1">
+		<text>Grizzly</text>
+	</string>
+	<string id="st_medkit_ai1_descr">
+		<text>Cestovní lékárnièka Grizzly je povaována za jednu z nejlepších lékárnièek. Obsahuje vše potøebné pro vèasné poskytnutí lékaøské péèe v extrémních podmínkách. Nyní ve VİPRODEJI.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] - %c[default] obvaz\n
+		%c[d_cyan] - %c[default] salewa medkit\n
+		%c[d_cyan] - %c[default] dlaha na ruku\n
+		%c[d_cyan] - %c[default] dlaha na nohu\n
+		%c[d_cyan] - %c[default] antibiotika\n
+		%c[d_cyan] - %c[default] iboprufen\n
+		%c[d_cyan] - %c[default] anabiotikum\n
+		%c[d_cyan] - %c[vıchozí] vinca\n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] úloištì pro lékaøské vybavení\n</text>
+	</string>
+	
+	<string id="st_medkit_ai2">
+		<text>Medicínskı kuføík</text>
+	</string>
+	<string id="st_medkit_ai2_descr">
+		<text>Tento lékaøskı kuføík je speciální pevnı kuføík chlazenı baterií, kterı obsahuje všechny dostupné injekèní pera. Pouze pro vyškolené osoby a zdravotníky. Nyní ve VİPRODEJI.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_cyan] - %c[default] morfin\n
+		%c[d_cyan] - %c[default] adrenalin\n
+		%c[d_cyan] - %c[default] combat stim red\n
+		%c[d_cyan] - %c[default] combat stim blue\n
+		%c[d_cyan] - %c[default] zagustin\n
+		%c[d_cyan] - %c[default] propital\n
+		%c[d_cyan] - %c[default] eTG-c\n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] - %c[ui_gray_2] sklad pro lékaøské vybavení\n</text>
+	</string>
+	
+	<string id="st_medkit_ai3">
+		<text>Stará brašna první pomoci</text>
+	</string>
+	<string id="st_medkit_ai3_descr">
+		<text>Tato stará brašna první pomoci pøes rameno obsahuje vše, co je potøeba v drsném prostøedí zóny. Od radiaèní a po chemickou nebo protipoární ochranu. Souèástí jsou také nìkteré chirurgické nástroje a také vojenskı obvaz. Nyní v prodeji.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_cyan] - %c[default] armádní obvaz\n
+		%c[d_cyan] - %c[default] ai-2 medkit\n
+		%c[d_cyan] - %c[default] chirurgické nástroje\n
+		%c[d_cyan] - %c[default] antirad\n
+		%c[d_cyan] - %c[default] radioprotector\n
+		%c[d_cyan] - %c[default] antidotum\n
+		%c[d_cyan] - %c[default] psy block\n
+		%c[d_cyan] - %c[default] vaselin\n
+		%c[d_cyan] - %c[default] kofein\n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] úloištì pro lékaøské vybavení\n</text>
+	</string>
+	
+	<string id="st_analgetic">
+		<text>Hromada lékù</text>
+	</string>
+	<string id="st_analgetic_descr">
+		<text>Nezaøazená hromada lékù. Vzhledem k prostøedí zón je pouívání lékaøskıch pøedmìtù docela bìné. Stejnì tak odpad, kterı zùstává všude kolem zóny.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] neklasifikované léky\n
+		%c[d_red] - %c[ui_gray_2] vysoká pravdìpodobnost, e si ublííš nebo dostaneš infekci\n
+		</text>
+	</string>
+	
+	<string id="st_jgut_zhgut">
+		<text>CMS</text>
+	</string>
+	<string id="st_jgut_descr">
+		<text>Kompaktní chirurgická souprava pro ošetøení støelnıch a jinıch vánıch poranìní.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] první pomoc %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2]T%c[d_blue] 100% \n
+		%c[d_blue] - %c[ui_gray_2] chirurgická poloka\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] sada pro trvalou pomoc pro hlavu a trup\n
+		%c[d_red] - %c[ui_gray_2] pomalé pouití (polní souprava)\n
+		</text>
+	</string>
 
-<string id="st_marijuana">
-	<text>Ganja</text>
-</string>
-<string id="st_marijuana_descr">
-	<text>Samì pìstovaná konopí. Kouøení je populární zábava, zejména mezi èleny skupiny Svoboda, kteøí slouili u Bariéry. V Zónì lze obèas zakoupit sáèky s marihuanou. Nìkteøí vìøí, e droga pomáhá udrovat duševní rovnováhu.\n \n
-	%c[0,255,255,255]Vlastnosti:\n
-	%c[d_green] • %c[ui_gray_2]Zlepšuje morálku a ochranu mysli pøed hrùzami Zóny\n
-	%c[d_green] • %c[ui_gray_2]úèinnì odstraòuje závratì\n
-	</text>
-</string>
+	
+	<string id="st_surginst">
+		<text>Chirurgické nástroje</text>
+	</string>
+	<string id="st_surginst_descr">
+		<text>Malá varianta chirurgického nástroje, které jsou v zónì bìné. Pouívají se k vırobì soupravy Surv12 a soupravy CMS. Lze je pouít pøímo, ale bude vyadovat obvaz a nástroje ji nejsou sterilní. Lze je tedy pouít pouze jednou.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] po zahojení %c[ui_gray_2] H%c[d_blue] 25% %c[ui_gray_2]T%c[d_blue] 25% %c[ui_gray_2]A%c[d_blue] 10% %c[ui_gray_2]L%c[d_blue] 10% \n
+		%c[d_blue] - %c[ui_gray_2] malá trvalá pomùcka pro všechny èásti tìla\n
+		%c[d_blue] - %c[ui_gray_2] øemeslnı pøedmìt\n
+		%c[d_blue] - %c[ui_gray_2] chirurgickı pøedmìt\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_red] - %c[ui_gray_2] pøi lékaøském zákroku se budete muset zranit\n
+		</text>
+	</string>
+	
+	<string id="st_yadylin">
+		<text>Antibiotika</text>
+	</string>
+	<string id="st_yadylin_descr">
+		<text>Komplexní a všestranné antibiotikum pouívané k léèbì bakteriálních infekcí.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[0,255,255,255] po vyléèení %c[ui_gray_2] H%c[0,255,255,255] 40% %c[ui_gray_2]T%c[0,255,255,255] 40% %c[ui_gray_2]A%c[0,255,255,255] 40% %c[ui_gray_2]L%c[0,255,255,255] 40% \n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] agonistickı efekt\n
+		%c[d_red] - %c[ui_gray_2] zpùsobuje krátkodobı zákal vìdomí\n
+		%c[d_red] - %c[ui_gray_2] pomalé uívání (dispergovatelné tablety)\n
+		%c[d_purple] - %c[ui_gray_2] malı bonus k odolnosti proti poškození\n
+		</text>
+	</string>
+	
+		<string id="st_medkit">
+		<text>IFAK</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>IFAK je osobní zdravotnická souprava vydávaná vojákùm ve slubì. Jedná se o oficiální lékárnièku v rámci IFAK (Individual First Aid Kit of the United States Marine Corps) námoøní pìchoty USA. Nejnovìjší, tøetí generace (gen3), nejlépe navrená a obsahovì nejbohatší.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] první pomoc %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[ui_gray_2] vojenská poloka\n
+		%c[d_red] - %c[ui_gray_2] pomalé pouití (polní vıstroj)\n
+		%c[d_red] - %c[ui_gray_2] pomalá prodlouená doba obnovy zdraví\n
+		</text>
+	</string>
+
+	
+	<string id="st_medkit_cheese">
+		<text>AI-2</text>
+	</string>
+	<string id="st_medkit_cheese_descr">
+		<text>Lékárnièka AI-2 byla vyvinuta jako standardní sluební lékárnièka pro rùzné obranné a donucovací orgány a civilní obranu SSSR. V pøípadì totálního konfliktu s pouitím zbraní hromadného nièení mìla bıt narušena obyvatelstvu zasaenıch a okolních oblastí.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] první pomoc %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_purple] - %c[ui_gray_2] rychlé pouití (field kit injector)\n
+		%c[d_blue] - %c[ui_gray_2] vojenská poloka\n
+		%c[d_red] - %c[ui_gray_2] pomalá prodlouená doba obnovy zdraví\n
+		</text>
+	</string>
+	
+	<string id="st_medkit_army">
+		<text>Auto lékarnièka</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Stejnì jako hasicí pøístroj je autolékárnièka zásadnì dùleitım ochrannım opatøením v pøípadì nouze na silnici.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] první pomoc %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[ui_gray_2] vojenská poloka\n
+		%c[d_red] - %c[ui_gray_2] pomalé pouití (polní vıstroj)\n
+		%c[d_red] - %c[ui_gray_2] pomalá prodlouená doba obnovy zdraví\n
+		</text>
+	</string>
+	
+	<string id="st_medkit_science">
+		<text>Salewa</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Sada první pomoci obsahující rùzné druhy obvazù a obvazovıch pomùcek.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] první pomoc %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[ui_gray_2] valuable\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] vojenská poloka\n
+		%c[d_red] - %c[ui_gray_2] pomalé pouití (polní vıstroj)\n
+		%c[d_red] - %c[ui_gray_2] pomalá prodlouená doba obnovy zdraví\n
+		</text>
+	</string>
+	
+	<string id="st_glucose_s">
+		<text>Malá dávka glukózy</text>
+	</string>
+	<string id="st_glucose_s_descr">
+		<text>Glukózové injekce se pouívají v pøípadech tìké diabetické hypoglykémie, ale lze je pouít i jako stimulant. Okamité navození sacharidù s sebou nese rychlı pøíliv energie, co uivateli umoòuje vyvíjet zvıšenou fyzickou námahu a odolávat stresu. Vzhledem k pohodlnému zpùsobu podání je lze pouít i v bojovıch situacích. Díky tomu je glukózová injekce velmi dobrım zpùsobem, jak urychlit proces uzdravování.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n</text>
+	</string>
+
+	<string id="st_glucose">
+		<text>Velká dávka glukózy</text>
+	</string>
+	<string id="st_glucose_descr">
+		<text>Glukózové injekce se pouívají v pøípadech tìké diabetické hypoglykémie, ale mohou bıt pouity i jako stimulant. Okamité navození sacharidù s sebou nese rychlı pøíliv energie, co uivateli umoòuje vyvíjet zvıšenou fyzickou námahu a odolávat stresu. Vzhledem k pohodlnému zpùsobu podání je lze pouít i v bojovıch situacích. Díky tomu je glukózová injekce velmi dobrım zpùsobem, jak urychlit proces uzdravování.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n</text>
+	</string>
+	
+	<string id="st_stim_impro">
+		<text>Kombinaèní stimulant</text>
+	</string>
+	<string id="st_stim_impro_descr">
+		<text>Kombinaèní stimulant. Pouívá se pro získání síly a vytrvalosti pøed bojem po dobu asi 3 minut. Stimulant smìjí pouívat jednotky speciálních sil. Vyvinut spoleèností Svarog Test Labs, oznaèen jako SJ1. Má vedlejší úèinky.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importovanı\n
+		%c[d_blue] - %c[ui_gray_2] vojenská poloka\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n
+		%c[d_purple] - %c[ui_gray_2] dobrı bonus k odolnosti proti poškození\n</text>
+	</string>
+	
+	<string id="st_stim_military">
+		<text>Stimulátor boje</text>
+	</string>
+	<string id="st_stim_military_descr">
+		<text>Bojovı stimulant. Ve smìsi s malım mnostvím adrenalinu se pouívá ke zvıšení tìlesnıch schopností pøed bojem po dobu asi 3 minut. Stimulant smìjí pouívat jednotky speciálních sil. Vyvinuto spoleèností Svarog Test Labs, oznaèeno jako SJ6. Má vedlejší úèinky.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importovanı\n
+		%c[d_blue] - %c[ui_gray_2] vojenská poloka\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n
+		%c[d_purple] - %c[ui_gray_2] velmi dobrı bonus k odolnosti proti poškození\n
+		%c[d_purple] - %c[ui_gray_2] bonus k vıdri\n</text>
+	</string>
+	
+	<string id="st_stim_scientic">
+		<text>Propital</text>
+	</string>
+	<string id="st_stim_scientic_descr">
+		<text>Vojenské vydání léku. Stimuluje regeneraèní procesy zvıšením biosyntézy purinovıch a pyrimidinovıch bází, RNA, funkèních a enzymatickıch bunìènıch prvkù. Zvyšuje látkovou vımìnu, zdraví a vitalitu. Má dlouhodobé vedlejší úèinky. Povoleno pouívat pouze lékaøùm a zdravotníkùm.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n
+		%c[d_purple] - %c[ui_gray_2] rychlá doba obnovy zdraví\n</text>
+	</string>
+	
+	<string id="st_sleepingpills">
+		<text>027 R pills</text>
+	</string>
+	<string id="st_sleepingpills_descr">
+		<text>Balení tablet alprazolamu 0,25 mg, známıch také jako 027 R. Alprazolam je mezi lékárníky známı pro svou schopnost sniovat depresi, úzkost a panické poruchy. Neocenitelnı pro kadého, kdo zkoumá Yantar, Radar, Rudı les nebo nìkterou z podzemních laboratoøí. Mezi vedlejší úèinky patøí ospalost. Nejlépe se uívá s vodou, ale nìkteøí stalkerové místo toho volí kofein.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] okamité navození ospalosti\n
+		</text>
+	</string>
+	
+	<string id="st_cocaine">
+		<text>Kokain</text>
+	</string>
+	<string id="st_cocaine_descr">
+		<text>Malı hliníkovı kuføík obsahující kokain a nástroje usnadòující pouití. Kokain je silnı stimulant nervové soustavy. Jeho úèinky mohou v závislosti na zpùsobu podání trvat od 15-30 minut do jedné hodiny. Kokain zvyšuje bdìlost, navozuje pocity pohody, kompetence a sexuality. Èastımi vedlejšími úèinky jsou úzkost, paranoia a neklid. Pøi nadmìrném dávkování se objevuje tøes, køeèe a zvıšená tìlesná teplota. Lupièi jsou známí tím, e tuto drogu šòupou tìsnì pøed zahájením útoku nebo pøepadení.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] stimulant\n
+		%c[d_blue] - %c[ui_gray_2] velmi silnı úèinek na vystøízlivìní z alkoholu\n
+		%c[d_red] - %c[ui_gray_2] mírné zhoršení zdravotního stavu pøi uívání\n
+		</text>
+	</string>
+
+
+
+	
+	<string id="st_adrenalin">
+		<text>Adrenalin</text>
+	</string>
+	<string id="st_adrenalin_descr">
+		<text>Sterilní jednorázová injekèní støíkaèka s dávkou adrenalinu - hlavního hormonu døenì nadledvin. Pouívá se ke zvıšení fyziologické reakce spojené s pøedpøípravou všech svalù na zvıšenou aktivitu. Zmíròuje pocit bolesti.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n
+		%c[d_purple] - %c[ui_gray_2] silné posílení vıdre\n
+		%c[d_purple] - %c[ui_gray_2] sniuje únavu\n
+		</text>
+	</string>
+	
+	<string id="st_morphine">
+		<text>Morfin</text>
+	</string>
+	<string id="st_morphine_descr">
+		<text>Jednorázová injekèní støíkaèka plná morfinu - silného léku pouívaného pøedevším k léèbì akutní i chronické silné bolesti.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[0,255,255,255] po vyléèení %c[ui_gray_2] H%c[0,255,255,255] 100% %c[ui_gray_2]T%c[0,255,255,255] 100% %c[ui_gray_2]A%c[0,255,255,255] 100% %c[ui_gray_2]L%c[0,255,255,255] 100% \n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] velmi silnı lék proti bolesti\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n
+		%c[d_purple] - %c[ui_gray_2] velkı bonus k odolnosti proti poškození\n
+		%c[d_purple] - %c[ui_gray_2] dlouhá vıdr\n
+		%c[d_red] - %c[ui_gray_2] zpùsobuje doèasnı vıpadek proudu\n
+		</text>
+	</string>
+	
+	<string id="st_salicidic_acid">
+		<text>eTG-Change</text>
+	</string>
+	<string id="st_salicidic_acid_descr">
+		<text>Injektor do pera, kterı obsahuje smìs rùznıch steroidù a dalších sloek. Hádám, e nikdo nechce vìdìt, co pøesnì je v nìm obsaeno. Hlavní je, e to funguje.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n
+		%c[d_purple] - %c[ui_gray_2] silná zvıšená nosnost\n
+		</text>
+	</string>
+	
+	<string id="st_caffeine">
+		<text>Kofeinové tablety</text>
+	</string>
+	<string id="st_caffeine_descr">
+		<text>Kofein a benzoan sodnı, které zpùsobují, e centrální nervstvo pracuje s nejvyšší monou úèinností v daném èase. Sniují do znaèné míry ospalost. Uívejte dvì tablety najednou.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] stimulant\n
+		%c[d_blue] - %c[ui_gray_2] silnı úèinek na vystøízlivìní z alkoholu\n
+		</text>
+	</string>
+
+	
+		<string id="st_antirad_cystamine">
+		<text>Alu dlaha (pae)</text>
+	</string>
+	<string id="st_antirad_cystamine_descr">
+		<text>Obvyklá dlaha pro fixaci poškozenıch kostí v polohách jako nouzové pomocné opatøení.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[0,255,255,255] po zahojení %c[ui_gray_2]A%c[0,255,255,255] 40% \n
+		%c[d_blue] - %c[ui_gray_2] menší vnìjší oprava ramene\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] rychle a trvale\n
+		</text>
+	</string>
+		
+	<string id="st_antibio_sulfad">
+		<text>Sulfadimethoxin</text>
+	</string>
+	<string id="st_antibio_sulfad_descr">
+		<text>Sulfanilamidovı léèivı pøípravek, úèinnı proti grampozitivním a gramnegativním bakteriím. Pùsobí na pneumokoky, streptokoky, stafylokoky, E. coli, Klebsiella stick (Friedlanderova tyèinka), pùvodce úplavice; je ménì úèinnı s ohledem na bílkovinu; pùsobí proti viru trachomu (infekèní oèní onemocnìní, které mùe vést ke slepotì); Nepùsobí na kmeny bakterií rezistentní k jinım sulfanilamidovım pøípravkùm. Mezi neádoucí úèinky patøí bolesti hlavy, zaívací poruchy, koní vyráky, horeèky a leukopenie. Úèinky pøípravku jsou dlouhodobé.\n \n
+		%c[ui_gray_3]HEALING:\n
+		%c[d_red] - %c[ui_gray_2] Pøi pouití vyèerpá 1,5 % hp\n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		</text>
+	</string>
+		
+	<string id="st_antibio_chlor">
+		<text>Chlortetracyklin</text>
+	</string>
+	<string id="st_antibio_chlor_descr">
+		<text>Abiotikum. Krystalickı prášek zlatoluté barvy, hoøké chuti, rozpustnı ve vodì. Jedná se o jedno z prvních otevøenıch antibiotik (po penicilinu).\n Chlorotetracyklin-hydrochlorid má bakteriostatickı úèinek na grampozitivní a gramnegativní mikroby, rickettsie a nìkteré velké viry.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_red] - %c[ui_gray_2] prùmìrné zvıšení ospalosti\n
+		</text>
+	</string>
+		
+	<string id="st_antiemetic">
+		<text>Etperazin</text>
+	</string>
+	<string id="st_antiemetic_descr">
+		<text>Tablety potaené obalem, obsahující 4,6 a 10 mg perfenazinu. Pøípravek je neuroleptikum - antipsychotikum, které poskytuje antialergické, sedativní, miorelaxaèní, antiemetické, slabì anticholinergní, hypotenzní a hypotermické úèinky. Úèinnost etperazinu je dána blokádou D2 receptorù v mezokortikálním a mezolimbickém systému. Zøídka se pouívá v zónì.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] protizánìtlivé\n
+		</text>
+	</string>
+	
+	<string id="st_joint">
+		<text>Konopnı kloub</text>
+	</string>
+	<string id="st_joint_descr">
+		<text>Doint, známı pro své uvolòující úèinky, je rekreaènì uíván stalkery, zejména tìmi, kteøí èasto navštìvují Bariéru nebo Rudı les za ní. Navozuje uklidòující úèinek, pokud je kombinován s alkoholem. Zvyšuje hlad.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] stimulant\n
+		%c[d_blue] - %c[ui_gray_2] zónovı\n
+		%c[d_blue] - %c[ui_gray_2] mírné vystøízlivìní po alkoholu\n
+		</text>
+	</string>
+	
+	<string id="st_rebirth">
+		<text>Zagustin</text>
+	</string>
+	<string id="st_rebirth_descr">
+		<text>Vojenské vydání léku. Inhibuje aktivátory profibinolysinu a zpomaluje jeho pøemìnu na fibrinolysin. Doèasnì zastavuje krvácení a zvyšuje odolnost proti ztrátì krve. Má vedlejší úèinky. Vede k tìké dehydrataci.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] okamitì zastavuje krvácení\n
+		%c[d_blue] - %c[ui_gray_2] rychlé pouití (støíkaèka)\n
+		</text>
+	</string>
+
+	
+	<string id="st_tetanus">
+		<text>Zlatá hvìzda Valm</text>
+	</string>
+	<string id="st_tetanus_descr">
+		<text>Cao Sao Vang, je mast pouívaná pro øadu úèelù, kde jsou vyadovány její hydroizolaèní a mazací vlastnosti. Napøíklad ošetøení drobnıch øeznıch ran a popálenin, potahování pøedmìtù náchylnıch ke korozi nebo mazání zaøízení, která vyadují nekyselá maziva.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] vnìjší léky\n
+		%c[d_blue] - %c[ui_gray_2] opravné prostøedky, mazání\n
+		%c[d_blue] - %c[ui_gray_2] bonus na ochranu proti popáleninám\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n</text>
+	</string>
+	
+	<string id="st_antirad_kalium">
+		<text>Splint (nohy)</text>
+	</string>
+	<string id="st_antirad_kalium_descr">
+		<text>Obvyklá dlaha pro fixaci poškozenıch kostí v polohách jako nouzové pomocné opatøení.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[0,255,255,255] po zahojení %c[ui_gray_2]L%c[0,255,255,255] 40% \n
+		%c[d_blue] - %c[ui_gray_2] drobná vnìjší oprava nohy\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] rychle a trvale\n
+		</text>
+	</string>
+	
+	<string id="st_marijuana">
+		<text>Marihuana</text>
+	</string>
+	<string id="st_marijuana_descr">
+		<text>Samopìstitelské konopí. Jeho kouøení je oblíbenou kratochvílí, zejména mezi Svobodnımi, kteøí slouili na Bariéøe. Pytlíky s marihuanou se dají koupit tu a tam v Zónì. Nìkteøí vìøí, e droga pomáhá udret duševní rovnováhu.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] stimulant\n
+		%c[d_red] - %c[ui_gray_2] pomalé uívání (dlouhodobá inhalace)\n
+		%c[d_blue] - %c[ui_gray_2] silnı úèinek na vystøízlivìní z alkoholu\n
+		</text>
+	</string>
+
+
 	
 </string_table>

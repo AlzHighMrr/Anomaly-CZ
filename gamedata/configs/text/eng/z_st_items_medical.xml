@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Medical Items + Drugs
+-->
+
+<string_table>
+	
+	<string id="st_bandage">
+		<text>Obvaz</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Hemostatické škrtidlo je pojmenováno po Friedrichu Augustu von Esmarchovi, který navrhl jeho použití spolu s dalšími metodami ve vojenské polní chirurgii.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] Trvale léčí %c[ui_gray_2] H%c[d_blue] 20% %c[ui_gray_2] T%c[d_blue] 20% %c[ui_gray_2] L%c[d_blue] 20% %c[ui_gray_2] A%c[d_blue] 20%\n
+		%c[d_blue] - %c[ui_gray_2] Malé trvalé hojení všech částí těla\n
+		%c[pda_green] - %c[ui_gray_2] rychlé použití (náplast)\n
+		</text>
+	</string>
+	
+	<string id="st_bandage_army">
+		<text>Škrtidlo Esmarch</text>
+	</string>
+	<string id="st_bandage_army_descr">
+		<text>Elastický armádní obvaz používaný k zastavení krvácení a prevenci infekce ran. Při pravidelném krvácení obvaz opatrně přiložte na ránu. Při tepenném krvácení obvaz urychleně ovažte kolem postiženého místa.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] Trvale hojí %c[ui_gray_2] H%c[d_blue] 20% %c[ui_gray_2] T%c[d_blue] 20% %c[ui_gray_2] L%c[d_blue] 20% %c[ui_gray_2] A%c[d_blue] 20%\n
+		%c[d_blue] - %c[ui_gray_2] Malé trvalé hojení všech částí těla\n
+		%c[pda_green] - %c[ui_gray_2] rychlé použití (náplast)\n
+		</text>
+	</string>
+	
+	<string id="st_akvatab">
+		<text>Ibuprofen</text>
+	</string>
+	<string id="st_akvatab_descr">
+		<text>Je lék ze skupiny nesteroidních protizánětlivých léčiv (NSAID), který se používá k léčbě bolesti, horečky a zánětu.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_red] Dočasně léčí %c[ui_gray_2] H%c[d_red] 40% %c[ui_gray_2]T%c[d_red] 40% %c[ui_gray_2]A%c[d_red] 40% %c[ui_gray_2]L%c[d_red] 40% \n
+		%c[d_blue] - %c[ui_gray_2] Malé dočasné léčení všech částí těla\n
+		%c[d_blue] - %c[ui_gray_2] léky proti bolesti\n
+		%c[pda_green] - %c[ui_gray_2] bonus k průměrné odolnosti proti poškození\n
+		%c[pda_green] - %c[ui_gray_2] rychlé použití (dispergovatelné tablety)\n
+		</text>
+	</string>
+	
+	<string id="st_medkit_ai1">
+		<text>Grizzly</text>
+	</string>
+	<string id="st_medkit_ai1_descr">
+		<text>Cestovní lékárnička Grizzly je považována za jednu z nejlepších lékárniček. Obsahuje vše potřebné pro včasné poskytnutí lékařské péče v extrémních podmínkách. Nyní ve VÝPRODEJI.\n \n
+		%c[ui_gray_3]CONTENTS:\n
+		%c[d_cyan] - %c[default] Obvaz\n
+		%c[d_cyan] - %c[default] Salewa Medkit\n
+		%c[d_cyan] - %c[default] Dlaha (ruce)\n
+		%c[d_cyan] - %c[default] Dlaha (nohy)\n
+		%c[d_cyan] - %c[default] Antibiotika\n
+		%c[d_cyan] - %c[výchozí] Ibuprofen Léky proti bolesti\n
+		%c[d_cyan] - %c[výchozí] Anabiotika\n
+		%c[d_cyan] - %c[výchozí] Vinca\n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] skladiště pro lékařské vybavení\n</text>
+	</string>
+
+
+	
+	<string id="st_medkit_ai2">
+		<text>Medicínský kufřík</text>
+	</string>
+	<string id="st_medkit_ai2_descr">
+		<text>Tento lékařský kufřík je speciální pevný kufřík chlazený baterií, který obsahuje všechny dostupné injekční pera. Pouze pro vyškolené osoby a zdravotníky. Nyní ve VÝPRODEJI.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_cyan] - %c[default] Injektor morfinu\n
+		%c[d_cyan] - %c[default] Adrenalinový injektor\n
+		%c[d_cyan] - %c[default] SJ1 Labs Combat Stimulant Injector\n
+		%c[d_cyan] - %c[default] SJ6 Labs Combat Stimulant Injector\n
+		%c[d_cyan] - %c[výchozí] Zagustin Hemostatic Drug Injector\n
+		%c[d_cyan] - %c[default] Propital Regenerační stimulační injektor\n
+		%c[d_cyan] - %c[default] eTG-Change Stimulant Injector\n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] úložiště pro lékařské vybavení\n</text>
+	</string>
+	
+	<string id="st_analgetic">
+		<text>Hromada léků</text>
+	</string>
+	<string id="st_analgetic_descr">
+		<text>Nezařazená hromada léků. Vzhledem k prostředí zón je používání lékařských předmětů docela běžné. Stejně tak odpad, který zůstává všude kolem zóny.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] neklasifikované léky\n
+		%c[d_red] - %c[ui_gray_2] vysoká pravděpodobnost, že si ublížíš nebo dostaneš infekci\n
+		</text>
+	</string>
+	
+	<string id="st_jgut_zhgut">
+		<text>CMS</text>
+	</string>
+	<string id="st_jgut_descr">
+		<text>Kompaktní chirurgická souprava pro ošetření střelných a jiných vážných poranění.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_red] Dočasně léčí %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2]T%c[d_blue] 100% \n
+		%c[d_blue] - %c[ui_gray_2] Úplné dočasné uzdravení hlavy a trupu\n
+		%c[d_blue] - %c[ui_gray_2] chirurgická položka\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_red] - %c[ui_gray_2] pomalé použití (polní souprava)\n
+		</text>
+	</string>
+
+	
+	<string id="st_surginst">
+		<text>Chirurgické nástroje</text>
+	</string>
+	<string id="st_surginst_descr">
+		<text>Malá varianta chirurgického nástroje, které jsou v zóně běžné. Používají se k výrobě soupravy Surv12 a soupravy CMS. Lze je použít přímo, ale bude vyžadovat obvaz a nástroje již nejsou sterilní. Lze je tedy použít pouze jednou.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_red] Dočasně léčí %c[ui_gray_2] H%c[d_blue] 25% %c[ui_gray_2]T%c[d_blue] 25% %c[ui_gray_2]A%c[d_blue] 10% %c[ui_gray_2]L%c[d_blue] 10% \n
+		%c[d_blue] - %c[ui_gray_2] Malé dočasné léčení všech částí těla\n
+		%c[d_blue] - %c[ui_gray_2] předmět k výrobě\n
+		%c[d_blue] - %c[ui_gray_2] chirurgický předmět\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_red] - %c[ui_gray_2] při lékařském zákroku se budete muset zranit\n
+		</text>
+	</string>
+	
+	<string id="st_yadylin">
+		<text>Antibiotika</text>
+	</string>
+	<string id="st_yadylin_descr">
+		<text>Komplexní a všestranné antibiotikum používané k léčbě bakteriálních infekcí.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_red] Dočasně léčí %c[ui_gray_2] H%c[d_red] 40% %c[ui_gray_2]T%c[d_red] 40% %c[ui_gray_2]A%c[d_red] 40% %c[ui_gray_2]L%c[d_red] 40% \n
+		%c[d_blue] - %c[ui_gray_2] Malé dočasné léčení všech částí těla\n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] agonistický efekt\n
+		%c[d_red] - %c[ui_gray_2] způsobuje krátkodobý zákal vědomí\n
+		%c[d_red] - %c[ui_gray_2] pomalé užívání (dispergovatelné tablety)\n
+		%c[pda_green] - %c[ui_gray_2] malý bonus k odolnosti proti poškození\n
+		</text>
+	</string>
+	
+		<string id="st_medkit">
+		<text>IFAK</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>IFAK je osobní zdravotnická souprava vydávaná vojákům ve službě. Jedná se o oficiální lékárničku v rámci IFAK (Individual First Aid Kit of the United States Marine Corps) námořní pěchoty USA. Nejnovější, třetí generace (gen3), nejlépe navržená a obsahově nejbohatší.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] Trvalé léčení %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[ui_gray_2] Plné trvalé uzdravení všech částí těla\n
+		%c[d_blue] - %c[ui_gray_2] vojenský předmět\n
+		%c[d_red] - %c[ui_gray_2] pomalé používání (polní výstroj)\n
+		</text>
+	</string>
+
+	
+	<string id="st_medkit_cheese">
+		<text>AI-2</text>
+	</string>
+	<string id="st_medkit_cheese_descr">
+		<text>Lékárnička AI-2 byla vyvinuta jako standardní služební lékárnička pro různé obranné a donucovací orgány a civilní obranu SSSR. V případě totálního konfliktu s použitím zbraní hromadného ničení měla být narušena obyvatelstvu zasažených a okolních oblastí.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] Trvale léčí %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[ui_gray_2] Plné trvalé uzdravení všech částí těla\n
+		%c[d_purple] - %c[ui_gray_2] rychlé použití (field kit injector)\n
+		%c[d_blue] - %c[ui_gray_2] vojenský předmět\n
+		%c[d_red] - %c[ui_gray_2] pomalá prodloužená doba obnovy zdraví\n
+		</text>
+	</string>
+	
+	<string id="st_medkit_army">
+		<text>Autolékarnička</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Stejně jako hasicí přístroj je autolékárnička zásadně důležitým ochranným opatřením v případě nouze na silnici.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] Trvale léčí %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[ui_gray_2] Plné trvalé uzdravení všech částí těla\n
+		%c[d_blue] - %c[ui_gray_2] vojenský předmět\n
+		%c[d_red] - %c[ui_gray_2] pomalé používání (polní výstroj)\n
+		%c[d_red] - %c[ui_gray_2] pomalá prodloužená doba obnovy zdraví\n
+		</text>
+	</string>
+	
+	<string id="st_medkit_science">
+		<text>Salewa</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Sada první pomoci obsahující různé druhy obvazů a obvazových pomůcek.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_blue] Trvale léčí %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[ui_gray_2] Plné trvalé uzdravení všech částí těla\n
+		%c[d_blue] - %c[ui_gray_2] hodnotné\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] vojenská položka\n
+		%c[d_red] - %c[ui_gray_2] pomalé použití (polní výstroj)\n
+		%c[d_red] - %c[ui_gray_2] pomalá prodloužená doba obnovy zdraví\n
+		</text>
+	</string>
+
+		
+	<string id="st_stim_impro">
+		<text>SJ1 Labs Combat Stimulant Injector</text>
+	</string>
+	<string id="st_stim_impro_descr">
+		<text>Kombinační stimulant. Používá se pro získání síly a vytrvalosti před bojem po dobu cca 5 minut. Stimulant smějí používat jednotky speciálních sil. Vyvinut společností Svarog Test Labs, označen jako SJ1. Má vedlejší účinky.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importovaný\n
+		%c[d_blue] - %c[ui_gray_2] vojenská položka\n
+		%c[d_blue] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		%c[pda_green] - %c[ui_gray_2] dobrý bonus k odolnosti proti poškození\n</text>
+	</string>
+	
+	<string id="st_stim_military">
+		<text>Bojový stimulující injektor SJ6 Labs</text>
+	</string>
+	<string id="st_stim_military_descr">
+		<text>Kombinační stimulant. Ve směsi s malým množstvím adrenalinu se používá ke zvýšení tělesných schopností před bojem po dobu asi 5 minut. Stimulant smějí používat jednotky speciálních sil. Vyvinuto společností Svarog Test Labs, označeno jako SJ6. Má vedlejší účinky.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importovaný\n
+		%c[d_blue] - %c[ui_gray_2] vojenská položka\n
+		%c[d_blue] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		%c[pda_green] - %c[ui_gray_2] velmi dobrý bonus k odolnosti proti poškození\n
+		</text>
+	</string>
+	
+	<string id="st_stim_scientic">
+		<text>Propitální regenerační stimulační injektor</text>
+	</string>
+	<string id="st_stim_scientic_descr">
+		<text>Vojenské vydání léku. Stimuluje regenerační procesy zvýšením biosyntézy purinových a pyrimidinových bází, RNA, funkčních a enzymatických buněčných prvků. Zvyšuje látkovou výměnu, zdraví a vitalitu. Má dlouhodobé vedlejší účinky. Povoleno používat pouze lékařům a zdravotníkům.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		%c[d_purple] - %c[ui_gray_2] rychlá doba obnovy zdraví\n</text>
+	</string>
+
+
+	
+	<string id="st_morphine">
+		<text>Injektor morfinu</text>
+	</string>
+	<string id="st_morphine_descr">
+		<text>Jednorázová injekční stříkačka plná morfinu - silného léku používaného především k léčbě akutní i chronické silné bolesti.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_red] Dočasně léčí %c[ui_gray_2] H%c[d_red] 100% %c[ui_gray_2]T%c[d_red] 100% %c[ui_gray_2]A%c[d_red] 100% %c[ui_gray_2]L%c[d_red] 100% \n
+		%c[d_modrá] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] velmi silný lék proti bolesti\n
+		%c[d_blue] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		%c[d_red] - %c[ui_gray_2] způsobuje dočasný výpadek paměti\n
+		</text>
+	</string>
+
+	<string id="st_adrenalin">
+		<text>Injektor adrenalinu</text>
+	</string>
+	<string id="st_adrenalin_descr">
+		<text>Sterilní jednorázová injekční stříkačka s dávkou adrenalinu - hlavního hormonu dřeně nadledvin. Používá se ke zvýšení fyziologické odezvy spojené s přípravou všech svalů na zvýšenou aktivitu. Zmírňuje pocit bolesti.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		%c[pda_green] - %c[ui_gray_2] silné posílení výdrže\n
+		%c[pda_green] - %c[ui_gray_2] snižuje únavu\n
+		</text>
+	</string>
+	
+	<string id="st_salicidic_acid">
+		<text>M.U.L.E. Stimulant Injector</text>
+	</string>
+	<string id="st_salicidic_acid_descr">
+		<text>Svalový ultra velký stimulátor. Používá se k rozšíření tělesných schopností před dlouhými pochody. Umožňuje tělu dlouhodobě nést zvýšenou hmotnost. Prokázal účinnost při bojových operacích v oblastech, kde není k dispozici doprava.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		%c[pda_green] - %c[ui_gray_2] silná zvýšená nosnost\n
+		</text>
+	</string>
+
+	<string id="st_drug_antidot">
+		<text>vstřikovač protilátky xTG-12</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>Odstraňuje většinu známých jedů a toxinů používaných v bojovém průmyslu. Lze použít ke zmírnění účinků přírodních jedů. Poskytuje imunitu vůči otravám, dokud jsou složky v krevním systému. Může snížit zdravotní stav.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		%c[d_red] - %c[ui_gray_2] způsobuje závratě\n
+		</text>
+	</string>
+
+	<string id="st_drug_psy_blockade">
+		<text>3-(b-TG) stimulační injekce</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>Kombinační lék. Má stimulační účinek na centrální nervový systém. Zvyšuje vnímání a pozornost. Může mírně zlepšit silové ukazatele díky silnějším signálům do svalů. Účinnou látkou je 3-(b-fenylisopropyl)-sydnonimin hydrochlorid. Povoleno k použití pouze vojenskými lékaři a zdravotníky.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_blue] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		%c[d_red] - %c[ui_gray_2] způsobuje závratě\n
+		</text>
+	</string>
+
+
+	<string id="st_antirad_cystamine">
+		<text>Dlaha (ruce)</text>
+	</string>
+	<string id="st_antirad_cystamine_descr">
+		<text>Obvyklá dlaha pro fixaci poškozených kostí v polohách jako nouzové pomocné opatření.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_red] Dočasně léčí %c[ui_gray_2]A%c[d_red] 40% \n
+		%c[d_blue] - %c[ui_gray_2] Malé dočasné léčení pro tvé ruce\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[pda_green] - %c[ui_gray_2] rychlé použití\n
+		</text>
+	</string>
+		
+	<string id="st_rebirth">
+		<text>Zagustinův hemostatický injektor</text>
+	</string>
+	<string id="st_rebirth_descr">
+		<text>Vojenské vydání léku. Inhibuje aktivátory profibinolysinu a zpomaluje jeho přeměnu na fibrinolysin. Dočasně zastavuje krvácení a zvyšuje odolnost proti ztrátě krve. Má vedlejší účinky. Vede k těžké dehydrataci.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] lék\n
+		%c[d_blue] - %c[ui_gray_2] okamžitě zastavuje krvácení\n
+		%c[pda_green] - %c[ui_gray_2] rychlé použití (stříkačka)\n
+		</text>
+	</string>
+	
+	<string id="st_tetanus">
+		<text>Zlatá hvězda Valm</text>
+	</string>
+	<string id="st_tetanus_descr">
+		<text>Cao Sao Vang, je mast používaná pro řadu účelů, kde jsou vyžadovány její hydroizolační a mazací vlastnosti. Například ošetření drobných řezných ran a popálenin, potahování předmětů náchylných ke korozi nebo mazání zařízení, která vyžadují nekyselá maziva.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] vnější léky\n
+		%c[d_blue] - %c[ui_gray_2] opravné prostředky, mazání\n
+		%c[d_blue] - %c[ui_gray_2] importované\n
+		%c[pda_green] - %c[ui_gray_2] bonus za ochranu proti popálení\n
+		</text>
+	</string>
+	
+	<string id="st_antirad_kalium">
+		<text>Dlaha (nohy)</text>
+	</string>
+	<string id="st_antirad_kalium_descr">
+		<text>Obvyklá dlaha pro fixaci poškozených kostí v polohách jako nouzové pomocné opatření.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_red] Dočasně léčí %c[ui_gray_2]L%c[d_red] 40% \n
+		%c[d_blue] - %c[ui_gray_2] Malé dočasné léčení nohou\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[pda_green] - %c[ui_gray_2] rychlé použití\n
+		</text>
+	</string>
+
+	<string id="st_survival_kit_eft">
+		<text>Surv12</text>
+	</string>
+	<string id="st_survival_kit_eft_descr">
+		<text>Polní chirurgická souprava s dalšími a lepšími nástroji, které vám umožní ošetřit vážná zranění končetin přímo na bojišti.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[d_red] Dočasně léčí %c[ui_gray_2]A%c[d_blue] 100% %c[ui_gray_2]L%c[d_blue] 100% \n
+		%c[d_blue] - %c[ui_gray_2] Úplné dočasné uzdravení všech částí těla\n
+		%c[d_blue] - %c[ui_gray_2] chirurgická položka\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
+		%c[d_red] - %c[ui_gray_2] pomalé použití (polní souprava)\n
+		</text>
+	</string>
+
+
+
+</string_table>

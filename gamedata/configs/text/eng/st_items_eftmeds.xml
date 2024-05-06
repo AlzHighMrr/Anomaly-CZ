@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	EFT Additions
+-->
+
+<string_table>
+	<string id="st_speed_drug">
+		<text>Rychlost</text>
+	</string>
+	<string id="st_speed_drug_descr">
+		<text>Malý hliníkový kufřík obsahující Speed a nástroje usnadňující použití. Speed je silný stimulant nervového systému. Jeho účinky mohou trvat od 15-30 minut do jedné hodiny, v závislosti na způsobu podání. Speed zvyšuje bdělost, navozuje pocity pohody, kompetence a sexuality. Častými vedlejšími účinky jsou úzkost, paranoia a neklid. Při nadměrném dávkování se objevuje třes, křeče a zvýšená tělesná teplota. Lupiči jsou známí tím, že tuto drogu šňupou těsně před zahájením útoku nebo přepadení.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] stimulant\n
+		%c[d_blue] - %c[ui_gray_2] velmi silný účinek na vystřízlivění z alkoholu\n
+		%c[d_red] - %c[ui_gray_2] mírné zhoršení zdravotního stavu při užívání\n
+		%c[pda_green] - %c[ui_gray_2] malý bonus k odolnosti proti poškození\n
+		</text>
+	</string>
+
+	<string id="st_antibio_sulfad2">
+		<text>Léky proti bolesti</text>
+	</string>
+	<string id="st_antibio_sulfad_descr2">
+		<text>Nejlevnější a nejrozšířenější léky proti bolesti.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[0,255,255,255] po-zdraví %c[ui_gray_2] H%c[0,255,255,255] 40% %c[ui_gray_2]T%c[0,255,255,255] 40% %c[ui_gray_2]A%c[0,255,255,255] 40% %c[ui_gray_2]L%c[0,255,255,255] 40% \n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] importováno\n
+		%c[d_blue] - %c[ui_gray_2] léky proti bolesti\n
+		%c[pda_green] - %c[ui_gray_2] bonus k odolnosti proti malému poškození\n
+		</text>
+	</string>
+
+	<string id="st_antibio_chlor2">
+<text>Hromada léků</text>
+</string>
+<string id="st_antibio_chlor_descr2">
+<text>Nezařazená hromada léků.Vzhledem k prostředí zón je používání léků docela běžné.Stejně tak odpad, který zůstává všude kolem zóny.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] neklasifikované léky\n
+		%c[d_red] - %c[ui_gray_2] vysoká pravděpodobnost, že si ublížíš nebo dostaneš infekci\n
+		</text>
+	</string>
+
+	<string id="st_antiemetic2">
+<text>Hromada léků</text>
+	</string>
+	<string id="st_antiemetic_descr2">
+<text>Nezařazená hromádka léků. Vzhledem k prostředí zón je používání léků docela běžné. Stejně tak odpad, který zůstává všude kolem zóny.\n \n
+%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] neklasifikované léky\n
+		%c[d_red] - %c[ui_gray_2] vysoká pravděpodobnost, že si ublížíš nebo dostaneš infekci\n
+		</text>
+	</string>
+
+	
+</string_table>
