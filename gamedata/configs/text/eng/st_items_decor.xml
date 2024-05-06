@@ -71,6 +71,39 @@
     %c[d_green] • %c[ui_gray_2] nábytek\n</text>
 </string>
 
+
+   <string id="st_placeable_toilet">
+		<text>Toaleta</text>
+	</string>
+	<string id="st_placeable_toilet_descr">
+		<text>
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_orange] - %c[ui_gray_2] umístitelná položka\n
+		%c[d_blue] - %c[ui_gray_2] nábytkový pøedmìt\n</text>
+	</string>
+	
+   <string id="st_placeable_shower">
+		<text>Sprcha</text>
+	</string>
+	<string id="st_placeable_shower_descr">
+		<text>
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_orange] - %c[ui_gray_2] umístitelná položka\n
+		%c[d_blue] - %c[ui_gray_2] nábytkový pøedmìt\n</text>
+	</string>
+	
+   <string id="st_placeable_tv_box">
+		<text>TV box </text>
+	</string>
+	<string id="st_placeable_tv_box_descr">
+		<text>
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_orange] - %c[ui_gray_2] umístitelná položka\n
+		%c[d_blue] - %c[ui_gray_2] technologický pøedmìt\n</text>
+	</string>
+
+
+
 	
  <string id="st_placeable_countertop">
     <text>Kuchyòský Pult</text>
@@ -747,13 +780,13 @@
 
 
    <string id="st_placeable_wall_divider">
-		<text>Room Divider 2x2m</text>
+		<text>Pøepážka místnosti 2x2 m</text>
 	</string>
 	<string id="st_placeable_wall_divider_descr">
 		<text>
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] placeable item\n
-		%c[d_green] • %c[ui_gray_2] furniture item\n</text>
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] umístitelný prvek\n
+		%c[d_green] - %c[ui_gray_2] nábytkový pøedmìt\n</text>
 	</string>	
 	
    <string id="st_placeable_storage01">
@@ -832,6 +865,19 @@
 		%c[d_green] - %c[ui_gray_2] nábytkový pøedmìt\n
 		%c[ui_gray_3] - %c[ui_gray_2] Kapacita: 200 kg\n</text>
 	</string>
+
+   <string id="st_placeable_storage08">
+		<text>Velký trezor</text>
+	</string>
+	<string id="st_placeable_storage08_descr">
+		<text>
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] skladování pøedmìtù\n
+		%c[d_orange] - %c[ui_gray_2] placeable\n
+		%c[d_purple] - %c[ui_gray_3] Kapacita:%c[ui_gray_2] 70kg\n</text>
+	</string>
+
+
 	
    <string id="st_placeable_wooden_board">
 		<text>Døevìná deska</text>
@@ -979,6 +1025,7 @@
 		%c[d_green] - %c[ui_gray_2] Velmi nízká spotøeba elektrické energie\n
 		%c[d_purple] - %c[ui_gray_2] TEMP: 4000K\n</text>
 	</string>
+
 
 
 

@@ -17,7 +17,7 @@
     <text>Základní, pokroèilé a expertní nástrojové sady jsou požadovány mnoha mechaniky k provedení urèitých vylepšení zbraní a odìvù. Takové pøedmìty lze èasto nalézt v úkrytech odmìn za splnìní úkolù.</text>
 </string>
 <string id="ls_tip_4">
-    <text>Chronický nedostatek spánku je volitelnou funkcí, pøi které postup èasu a používání spotøebního materiálu postupnì vyèerpá postavu - nakonec vyžaduje odpoèinek, když je k tomu vyzván. Nedodržení tohoto mùže mít vážné následky.</text>
+    <text>Pokud nemáš ještì vybavení se dostat pøes strážené stanovištì mnoha nepøáteli vždycky mùžeš jít okolo a nebo to obejít skrz jinou lokaci.</text>
 </string>
 <string id="ls_tip_5">
     <text>Hlídky vrtulníku jsou volitelnou funkcí s mocnými úèinky na Zónu. Pøi boji mohou èlenové frakce vrtulníku èasto požádat o vzdušnou podporu, která pomáhá nièit útoèící nebo naopak pomáhá bránícím se jednotkám.</text>
@@ -33,7 +33,7 @@
     <text>Batohy lze koupit nebo najít a poté je použít k vytvoøení vlastního úložištì. Úložištì vytvoøená hráèem nikdy nezmizí a nikdy je nevyberou jiní stalkeøi. Jsou trvalá, dokud nejsou všechny pøedmìty odebrány.</text>
 </string>
 <string id="ls_tip_9">
-    <text>Pokud si chceš upravit sklady a ceny obchodníkù mùžeš tak provést pøi nahrané høe stisknutím ESC a kliknout na "Nastavení modù".</text>
+    <text>Spací pytle jsou skvìlým zpùsobem, jak odpoèívat v Zónì, pokud nenajdeš slušnou postel ke spaní. Dají se zakoupit u vìtšiny hlavních obchodníkù nebo je možná najdeš v úkrytu jiného stalkera.</text>
 </string>
 <string id="ls_tip_10">
     <text>Høbitov nákladních aut je velkým høbitovem ozáøených zemìdìlských, civilních a vojenských vozidel. Jako skvìlé místo pro skrytí úkrytu mùže bystrý stalker mezi vraky najít mnoho cenných vìcí.</text>
@@ -48,10 +48,10 @@
     <text>Hodnost má osm rùzných úrovní a lze jej zvýšit témìø jakoukoli èinností ve høe. Urèité funkce mohou vyžadovat dosažení vysokého ranku, než budou moci být použity nebo plnì odemèené.</text>
 </string>
 <string id="ls_tip_14">
-    <text>Vìtšina úkolù mùže být zrušena poté, co si je vezmeš. Mùžeš to udìlat pokecáním se stalkerem, který ti ten úkol dal. Jen si pamatuj, že zrušení úkolu sníží tvoji reputaci a sympatie.</text>
+    <text>Vìtšina úkolù mùže být zrušena poté, co si je vezmeš. Mùžeš to udìlat pokecáním se stalkerem, který ti ten úkol dal. Jen si pamatuj, že zrušení úkolu sníží tvoji reputaci.</text>
 </string>
 <string id="ls_tip_15">
-    <text>Reputace je zobrazení toho, jak je stalker vnímán svou frakcí. Získává se a ztrácí tím, že pomáháš nebo škodíš neagresivním stalkerùm.</text>
+    <text>Mùžeš rychle pøesouvat pøedmìty tak že na nì ukážeš a podržíš levý shift.</text>
 </string>
 <string id="ls_tip_16">
     <text>Stisknutím "J" otevøeš menu dovedností urèitì by jsi se tam mìl podívat.</text>
@@ -66,7 +66,7 @@
     <text>Aréna v Rostoku poøádá dva typy soutìží: tradièní zápasy, kde stalkeøi bojují mezi sebou za finanèní odmìny, nebo výzvy, kde se pokoušejí zabít stále obtížnìjší mutanty.</text>
 </string>
 <string id="ls_tip_20">
-    <text>Online vylouèený polomìr lze nastavit v nabídce herních možností. Vytváøí oblast bez generace kolem hráèe, což brání nespravedlivému a nebezpeènì blízkému generování mutantù a jiných stalkerù.</text>
+    <text>Pokud u poškozeného vybavení podržíš levý ctrl mùžeš zjistit jak je vybavení dobré když je plnì opraveno.</text>
 </string>
 <string id="ls_tip_21">
     <text>Mráz, Spore a zbytek hlavních postav Jasné oblohy mohou být dotazováni na svùj pøíbìh. Tímto zpùsobem mùžeš lépe pochopit celkové pøežití jejich frakce.</text>
@@ -75,7 +75,7 @@
     <text>Svoboda úplnì obsadila stanici Yanov v Jupiteru poté, co Šulga odešel bojovat proti obnovenému Monolithu. Mnoho stalkerù, kteøí døíve opustili Svobodu, se k nìmu vrátilo, aby posílili jeho pozici.</text>
 </string>
 <string id="ls_tip_23">
-    <text>Úspìch 'Kompletista' je získán za odemknutí všech ostatních dostupných úspìchù. Kolik úspìchù je vám dostupných, závisí na tvé frakci a tom, zda je povolený režim pøíbìhu.</text>
+    <text>Do laboratoøí a ostatních podzemí potøebuješ pøilbu a plynové filtry.Pro použití filtrù je staèí pøetáhnout na pøilbu a  p.</text>
 </string>
 <string id="ls_tip_24">
     <text>Je mnohem snazší se vyhnout detekci pøi cestování v noci nebo v prudkém dešti. Nicménì riskujete setkání s divokými noèními mutanty.</text>
@@ -119,7 +119,7 @@
     <text>Nezahazuj svoji pistol, ponech si ji jako zálohu. Je lehká, snadno ovladatelná a levná na údržbu, pokud se o ni budeš starat, jistì se postará i o tebe.</text>
 </string>
 <string id="ls_tip_37">
-    <text>Obchodníci ti dávají složitìjší úkoly, když si vydobýváš vìtší reputaci u svý frakce. Navzdory tomu, že jsou dobøe placení, jsou nebezpeènìjší než ostatní a otestují tvoji dovednosti.</text>
+    <text>Obchodníci ti dávají složitìjší úkoly, když získáš vìtší reputaci u svý frakce. Navzdory tomu, že jsou dobøe placení, jsou nebezpeènìjší než ostatní a otestují tvoji dovednosti.</text>
 </string>
 <string id="ls_tip_38">
     <text>Zvaž, že si nìkteré artefakty, které najdeš, ponecháš. Jejich vlastnosti by mohly otevøít dveøe k získání nových pozdìji.</text>
@@ -158,7 +158,7 @@
     <text>Myslíš si, že neprùstøelná vesta ti zaruèí nesmrtelnost? Prober se, tohle není Hollywood.</text>
 </string>
 <string id="ls_tip_50">
-    <text>Mít záložní zbraò, na kterou spoléháš, kdybys nemìl dost munice pro svou hlavní zbraò, je dùležité. Pistole jsou blízkým pøítelem stalkera, ale i upilovaná brokovnice mùže udìlat velký rozdíl.</text>
+    <text>Kantýnu si mùžeš doplnit z pumpy a nebo zajdi blízko k vodì a pravým tlaèítkem myši na kantýnu zvolit naplnit.Hlavnì nezapomeò použít èisticí pilulky aby voda byla pitná.</text>
 </string>
 <string id="ls_tip_51">
     <text>Dávej pozor na svou pøetíženost pøi lovu artefaktù. Mohli bys dokonce nìco z vìcí odhodit do batohu pøed tím, než pùjdeš do anomální oblasti, a pozdìji si je zase vzít.</text>
