@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_stealth_title">
+    <text>Nastavenн detekce hrбиe NPC stalkery</text>
+</string>
+<string id="ui_mcm_menu_stealth">
+    <text>Stealth</text>
+</string>
+
+<string id="ui_mcm_stealth_memory">
+    <text>Pamмќ</text>
+</string>
+<string id="ui_mcm_stealth_memory_desc">
+    <text>Nбsobitel pamмti. (Pokud npc jiћ vidмlo cнl, pak dostane npc posнlenн svйho vidмnн proti tomuto cнli. S иasem klesб, s vэchozн hodnotou 1.0 trvб asi 100 skuteиnэch sekund, neћ npc snнћн svй posнlenн na 0 proti tomuto cнli)
+        
+        Vэchozн hodnota: 1.0</text>
+</string>
+
+<string id="ui_mcm_stealth_luminocity">
+    <text>Jas</text>
+</string>
+<string id="ui_mcm_stealth_luminocity_desc">
+    <text>Nбsobitel jasu. (Svмtlo na objektu)
+        
+        Vэchozн hodnota: 1.0</text>
+</string>
+
+<string id="ui_mcm_stealth_distance">
+    <text>Vzdбlenost</text>
+</string>
+<string id="ui_mcm_stealth_distance_desc">
+    <text>Nбsobitel vzdбlenosti. (Vzdбlenost od objektu k objektu, dosah a zornй pole)
+        
+        Vэchozн hodnota: 1.0</text>
+</string>
+
+<string id="ui_mcm_stealth_velocity">
+    <text>Rychlost</text>
+</string>
+<string id="ui_mcm_stealth_velocity_desc">
+    <text>Nбsobitel rychlosti. (Rychlost objektu)
+        
+        Vэchozн hodnota: 1.0</text>
+</string>
+
+<string id="ui_mcm_stealth_weight">
+    <text>Vбha</text>
+</string>
+<string id="ui_mcm_stealth_weight_desc">
+    <text>Nбsobitel vбhy. (Vбha na postavм)
+        
+        Vэchozн hodnota: 1.0</text>
+</string>
+
+<string id="ui_mcm_stealth_crouch">
+    <text>Krиenн</text>
+</string>
+<string id="ui_mcm_stealth_crouch_desc">
+    <text>Nбsobitel krиenн.
+        
+        Vэchozн hodnota: 0.4</text>
+</string>
+
+<string id="ui_mcm_stealth_low_crouch">
+    <text>Nнzkй krиenн</text>
+</string>
+<string id="ui_mcm_stealth_low_crouch_desc">
+    <text>Nбsobitel nнzkйho krиenн.
+        
+        Vэchozн hodnota: 0.25</text>
+</string>
+
+<string id="ui_mcm_stealth_icon">
+    <text>Ikona</text>
+</string>
+<string id="ui_mcm_stealth_icon_desc">
+    <text>Ikona jasu. (Zobrazuje svмtlo na postavм)</text>
+</string>
+
+<string id="ui_mcm_stealth_michiko_patch">
+    <text>Patch poиasн Michiko</text>
+</string>
+<string id="ui_mcm_stealth_michiko_patch_desc">
+    <text>Doporuиuje se povolit toto, pokud pouћнvбte poиasн Michiko.</text>
+</string>
+
+<string id="ui_mcm_stealth_debugx">
+    <text>Debug</text>
+</string>
+<string id="ui_mcm_stealth_debugx_desc">
+    <text>Zobrazenн promмnnэch rovnice (pro sprбvnэ prбh musнte kurzor drћet na objektu po celou dobu):
+        
+        Konsola: vљechny promмnnй
+        
+        Dynamickй zprбvy: zda objekt vidн postavu nebo ne
+        
+        Spodnн zprбva na obrazovce: viditelnostnн prбh objektu (a promмnnй, kterй mщћete zmмnit v MCM)</text>
+</string>
+
+
+
+
+</string_table>

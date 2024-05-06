@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table> 
+<string id="st_zone_backpack_name">
+	<text>Plátěný Batoh</text>
+</string>
+<string id="st_zone_backpack_descr">
+	<text>Plátěné batohy jsou obvykle používány freeridery. Běžní lidé je mohou najít užitečné při nošení malých zátěží na aktivity. Pro začínajícího turistu bude toto to nejlepší volba. Navrženo pro túry na 1-2 dny.\n \n
+%c[ui_gray_3]CHARAKTERISTIKY:\n
+%c[d_blue] • %c[ui_gray_2] rozšířené použití\n
+%c[d_blue] • %c[ui_gray_2] slouží k ukládání předmětů\n
+%c[0,100,255,150] • %c[ui_gray_2] může být použit jako skrýš\n
+	</text>
+</string>
+
+<string id="st_zone_backpack2_name">
+	<text>Vojenský Batoh</text>
+</string>
+<string id="st_zone_backpack2_descr">
+	<text>Vojenský batoh je navržen k přepravě nezbytných zásob a vybavení během vojenských operací, které často probíhají v podmínkách obtížného a nepředvídatelného terénu. Volba požadovaného objemu je určena vašimi úkoly - v jakých podmínkách, kolik vybavení si s sebou vezmete.\n \n
+%c[ui_gray_3]CHARAKTERISTIKY:\n
+%c[d_blue] • %c[ui_gray_2] rozšířené použití\n
+%c[d_blue] • %c[ui_gray_2] slouží k ukládání předmětů\n
+%c[0,100,255,150] • %c[ui_gray_2] může být použit jako skrýš\n
+	</text>
+</string>
+
+<string id="st_zone_backpack3_name">
+	<text>Taktický Batoh</text>
+</string>
+<string id="st_zone_backpack3_descr">
+	<text>Taktický batoh je navržen pro případy, kdy nevíte, kdy se vrátíte. Volba požadovaného objemu je určena vašimi úkoly - jak dlouho strávíte na samostatné cestě.\n \n
+%c[ui_gray_3]CHARAKTERISTIKY:\n
+%c[d_blue] • %c[ui_gray_2] rozšířené použití\n
+%c[d_blue] • %c[ui_gray_2] slouží k ukládání předmětů\n
+%c[0,100,255,150] • %c[ui_gray_2] může být použit jako skrýš\n
+	</text>
+</string>
+
+<string id="st_zone_backpack4_name">
+	<text>Útočný Batoh</text>
+</string>
+<string id="st_zone_backpack4_descr">
+	<text>Zónový batoh je navržen k přepravě těžkých zátěží na dlouhé vzdálenosti. Volba požadovaného objemu je určena vašimi úkoly - v jakých podmínkách, kolik vybavení si s sebou vezmete.\n \n
+%c[ui_gray_3]CHARAKTERISTIKY:\n
+%c[d_blue] • %c[ui_gray_2] rozšířené použití\n
+%c[d_blue] • %c[ui_gray_2] slouží k ukládání předmětů\n
+%c[0,100,255,150] • %c[ui_gray_2] může být použit jako skrýš\n
+	</text>
+</string>
+
+
+<string id="st_zone_backpack5_name">
+    <text>Těžký Útočný Batoh</text>
+</string>
+<string id="st_zone_backpack5_descr">
+    <text>Těžký útočný batoh je navržen k přepravě těžkých zátěží různých druhů munice. Volba požadovaného objemu je určena vašimi úkoly - v jakých podmínkách, kolik vybavení si s sebou vezmete.\n \n
+%c[ui_gray_3]CHARAKTERISTIKY:\n
+%c[d_blue] • %c[ui_gray_2] rozšířené použití\n
+%c[d_blue] • %c[ui_gray_2] slouží k ukládání předmětů\n
+%c[0,100,255,150] • %c[ui_gray_2] může být použit jako skrýš\n
+    </text>
+</string>
+
+<string id="st_zone_backpack6_name">
+    <text>Taktický Turistický Batoh</text>
+</string>
+<string id="st_zone_backpack6_descr">
+    <text>Taktický turistický batoh je navržen k přepravě těžkých zátěží na dlouhé vzdálenosti, což často probíhá v podmínkách obtížného terénu, nepředvídatelného počasí a zvýšené únavy. Volba požadovaného objemu je určena vašimi úkoly - v jakých podmínkách, kolik vybavení si s sebou vezmete.\n \n
+%c[ui_gray_3]CHARAKTERISTIKY:\n
+%c[d_blue] • %c[ui_gray_2] rozšířené použití\n
+%c[d_blue] • %c[ui_gray_2] slouží k ukládání předmětů\n
+%c[0,100,255,150] • %c[ui_gray_2] může být použit jako skrýš\n
+    </text>
+</string>
+
+<string id="st_zone_backpack7_name">
+    <text>Batoh 6Sh118</text>
+</string>
+<string id="st_zone_backpack7_descr">
+    <text>Batoh 6Sh118 je součástí 2. generace výbavy "Ratnik" pro boj. Batoh 6Sh118 je modernizací modelu batohu 6B38 Permyachka. Batoh 6Sh118 je navržen k přepravě vybavení pro podporu palby, zbraní, munice, prvků horské výbavy, stejně jako osobních věcí jednotlivých vojáků. Batoh lze použít během bojových operací, dlouhých túr a akcí nájezdů. Je ideálním batohem pro sběr kořisti. Pokud máte sílu.\n \n
+%c[ui_gray_3]CHARAKTERISTIKY:\n
+%c[d_blue] • %c[ui_gray_2] rozšířené použití\n
+%c[d_blue] • %c[ui_gray_2] slouží k ukládání předmětů\n
+%c[0,100,255,150] • %c[ui_gray_2] může být použit jako skrýš\n
+    </text>
+</string>
+</string_table>

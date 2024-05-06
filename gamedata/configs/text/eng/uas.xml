@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="ui_mcm_menu_ultimate_autosave_conf">
+    <text>Ultimátní Automatické Ukládání</text>
+</string>
+<string id="ui_mcm_menu_ultimate_autosave">
+    <text>Ultimátní Automatické Ukládání</text>
+</string>
+<string id="ui_mcm_uas_title">
+    <text>Ultimátní Automatické Ukládání verze 2.0</text>
+</string>
+
+<string id="ui_mcm_uas_desc">
+    <text>Tento mod vám umožňuje nastavit automatické periodické ukládání hry. Můžete definovat časový interval mezi ukládáními (například každých 10 minut). Každé uložení je uloženo v samostatném souboru, což zabrání náhodnému přepsání. Navíc můžete určit maximální počet záložních souborů, které si chcete ponechat. Tato funkce je zvláště užitečná pro prevenci ztráty pokroku kvůli chybám jako je "BusyHands".</text>
+</string>
+<string id="ui_mcm_uas_extra_desc">
+    <text>Povolením těchto možností můžete provádět zálohy za specifických podmínek, generující samostatné soubory pro každou akci.</text>
+</string>
+
+<string id="ui_mcm_ultimate_autosave_conf_enable_recursive_save">
+    <text>Povolit rekurzivní ukládání</text>
+</string>
+<string id="ui_mcm_ultimate_autosave_conf_max_slot_save">
+    <text>Maximální povolené sloty: </text>
+</string>
+
+<string id="ui_mcm_ultimate_autosave_conf_save_timer">
+    <text>Ukládat každých ... minut: </text>
+</string>
+
+<string id="ui_mcm_ultimate_autosave_conf_show_message_save_on_chat">
+    <text>Zobrazit oznámení v chatu</text>
+</string>
+<string id="ui_mcm_ultimate_autosave_conf_on_leave_dialog_save">
+    <text>Při opuštění rozhovoru: </text>
+</string>
+<string id="ui_mcm_ultimate_autosave_conf_on_npc_death_save">
+    <text>Při smrti NPC: </text>
+</string>
+<string id="ui_mcm_ultimate_autosave_conf_on_monster_death_save">
+    <text>Při smrti monstra: </text>
+</string>
+
+<string id="ui_mcm_ultimate_autosave_conf_on_campfire_save">
+    <text>U ohniště: </text>
+</string>
+<string id="ui_mcm_ultimate_autosave_conf_on_campfire_save_timer">
+    <text>Po ... sekundách čekání: </text>
+</string>
+<string id="ui_mcm_ultimate_autosave_conf_on_campfire_save_timer_after_save">
+    <text>Záloha každých ... minut, pokud zůstanu poblíž ohně: </text>
+</string>
+
+<string id="saveslot">
+    <text>Uložení bylo provedeno ve slotu </text>
+</string>
+<string id="saveslot_camp">
+    <text>Uložení u ohniště bylo provedeno.</text>
+</string>
+<string id="saveslot_exit">
+    <text>Uložení při opuštění bylo provedeno.</text>
+</string>
+<string id="saveslot_kill">
+    <text>Uložení při smrti NPC bylo provedeno.</text>
+</string>
+
+<string id="saveslot_enter_safe_zone">
+    <text>Uložení při vstupu do bezpečné zóny bylo provedeno.</text>
+</string>
+
+<string id="saveslot_leave_safe_zone">
+    <text>Uložení při opuštění bezpečné zóny bylo provedeno.</text>
+</string>
+<string id="saveslot_exit_trade">
+    <text>Poslední uložení obchodu bylo provedeno.</text>
+</string>
+<string id="ui_mcm_ultimate_autosave_conf_on_trade_close_save">
+    <text>Po obchodu: </text>
+</string>
+
+<string id="ui_mcm_ultimate_autosave_conf_on_enter_safe_zone">
+    <text>Při vstupu do bezpečné zóny:</text>
+</string>
+
+<string id="ui_mcm_ultimate_autosave_conf_on_enter_safe_zone_timer">
+    <text>Po ... sekundách:</text>
+</string>
+
+<string id="ui_mcm_ultimate_autosave_conf_on_leave_safe_zone">
+    <text>Při opuštění bezpečné zóny: </text>
+</string>
+<string id="ui_mcm_ultimate_autosave_conf_on_leave_safe_zone_timer">
+    <text>Po ... sekundách:</text>
+</string>
+
+
+<string id="ui_mcm_uas_special_thx">
+    <text>Mnoho díků všem těmto lidem za jejich pomoc, jejich příspěvky a jejich skriptovací funkce.  @Stalker_Boss , @Ishmaeel (Yet Another Campfire Saving) , @JRangel (ilrathCXV) (Campfire Limb Healing).</text>
+</string>
+
+
+</string_table>

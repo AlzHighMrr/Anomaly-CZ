@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<string_table>
+
+	<string id="ui_mcm_menu_intimidation_surrender">
+		<text>6.Zastrašování NPC</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_title">
+		<text>Zastrašení nepřátel, aby se vzdali</text>
+	</string>
+	
+	<string id="ui_mcm_intimidation_surrender_base_chance_to_intimidate">
+		<text>Základní šance na zastrašení</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_base_chance_to_intimidate_desc">
+		<text>Základní šance bez bonusů a postihů. Používá se při výpočtu konečné šance na zastrašení.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_max_intimidation_distance">
+		<text>Max. vzdálenost zastrašení</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_max_intimidation_distance_desc">
+		<text>Musíš být takto blízko k  NPC, abys ho zastrašil </text>.
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_surrender_bonus">
+		<text>Bonus ke konvertovaní NPC</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_surrender_bonus_desc">
+		<text>Zvyšuje šanci na konverzi NPC k tvé frakci, protože jsi je přesvědčil, aby se vzdali, místo toho aby si je zabil.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_attack_chance_override">
+		<text>Šance na útok, pokud se nepodařilo konvertovat</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_attack_chance_override_desc">
+		<text>Překrývá šanci na útok z addonu "Konvertovaní NPC". Přidáno proto, že nepřátelé, kteří nikdy nebyli těžce zraněni, by měli mít více síly k boji. Přepisuje pouze šanci těch nepřátel, kteří se vzdali po zastrašení.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_low_health_bonus">
+		<text>Bonus za nízké zdraví k zastrašování</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_low_health_bonus_desc">
+		<text>Šance na vzdání se se zvýší o tuto hodnotu, pokud má nepřítel méně než 50 % zdraví </text>.
+	</string>
+	<string id="ui_mcm_intimidation_surrender_sneak_bonus">
+		<text>Bonus k zastrašení při plížení</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_sneak_bonus_desc">
+		<text>Šance na vzdání se se zvýší o tuto hodnotu, pokud tě nepřítel nevidí </text>.
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_voice">
+		<text>Hlas zastrašování</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_voice_desc">
+		<text>Hlasové repliky, které se přehrávají, kdykoli se pokusíš zastrašit nepřítele.</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_delay">
+		<text>Zpoždění vzdávání se(milisekundy)</text>
+	</string>
+	<string id="ui_mcm_intimidation_surrender_intimidation_delay_desc">
+		<text>Kolik milisekund trvá, než na tě cíl zareaguje. Bez zpoždění se npc vzdá dříve, než tě uslyší, což vypadá hloupě</text>
+	</string>
+
+	<string id="ui_mcm_intimidation_surrender_isolation_enabled">
+    <text>Povolit mechanismus izolace</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_isolation_enabled_desc">
+    <text>Mechanismus izolace snižuje nebo zvyšuje šance v závislosti na tom, jak je cíl izolován od svých přátel. Bez něj můžete donutit osobu, aby se vzdala, i když je mezi stovkami svých přátel.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_minimal_isolation_distance">
+    <text>Minimální vzdálenost izolace</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_minimal_isolation_distance_desc">
+    <text>Stalkers mimo tuto vzdálenost nemají vliv na šanci zastrašení.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_isolation_bonus">
+    <text>Bonus za izolaci</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_isolation_bonus_desc">
+    <text>Tato hodnota se přidává za každého dalšího nepřítele vašeho cíle, který je jim blízko. Pokud tedy obklopíte nepřítele svým týmem, máte větší šanci je vyděsit.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_isolation_penalty">
+    <text>Trest za izolaci</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_isolation_penalty_desc">
+    <text>Tato hodnota se odečítá za každého dalšího přítele vašeho cíle, který je jim blízko. Méně pravděpodobně donutíte koho, kdo je v blízkosti svých přátel.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_enemy_response_enabled">
+    <text>Povolit reakce nepřátel</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_enemy_response_enabled_desc">
+    <text>Pokud je zapnuto, nepřátelé budou přehrávat hlasové linky, když souhlasí nebo odmítnou se vzdát. Nepodařilo se mi najít způsob, jak je přehrát přímo z npc, takže to není dokonalé, hraje společně s ostatními hlasovými linkami npc a nelze správně kopírovat jejich hlas. (Každá frakce má pouze 1 hlasovou odpověď, protože jsem nenašel způsob, jak rozpoznat jednotlivé hlasy npc.) Je také stacionární, takže pokud npc uteče, zvuk se přehraje z posledního místa, kde byli.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_novice_bravery">
+    <text>Odvaha Nováčků</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_novice_bravery_desc">
+    <text>Tato úroveň odvahy. Je odečtena od celkové šance zastrašení. Odvážnější npc dávají menší šanci.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_trainee_bravery">
+    <text>Odvaha Stážistů</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_trainee_bravery_desc">
+    <text>Tato úroveň odvahy. Je odečtena od celkové šance zastrašení. Odvážnější npc dávají menší šanci.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_experienced_bravery">
+    <text>Odvaha Zkušených</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_experienced_bravery_desc">
+    <text>Tato úroveň odvahy. Je odečtena od celkové šance zastrašení. Odvážnější npc dávají menší šanci.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_professional_bravery">
+    <text>Profesionální odvaha</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_professional_bravery_desc">
+    <text>Tato úroveň odvahy. Je odečtena od celkové šance zastrašení. Odvážnější npc dávají menší šanci.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_veteran_bravery">
+    <text>Odvaha Veteránů</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_veteran_bravery_desc">
+    <text>Tato úroveň odvahy. Je odečtena od celkové šance zastrašení. Odvážnější npc dávají menší šanci.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_expert_bravery">
+    <text>Odvaha Expertů</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_expert_bravery_desc">
+    <text>Tato úroveň odvahy. Je odečtena od celkové šance zastrašení. Odvážnější npc dávají menší šanci.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_master_bravery">
+    <text>Odvaha Mistrů</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_master_bravery_desc">
+    <text>Tato úroveň odvahy. Je odečtena od celkové šance zastrašení. Odvážnější npc dávají menší šanci.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_legend_bravery">
+    <text>Odvaha Legend</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_legend_bravery_desc">
+    <text>Tato úroveň odvahy. Je odečtena od celkové šance zastrašení. Odvážnější npc dávají menší šanci.</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_int_calc_descr_text">
+    <text>Formule pro výpočet konečné šance zastrašení:\n[Základní šance] + [bonus za skrytost] (pokud vás nepřítel nemůže vidět) + [bonus za nízké zdraví] (pokud má nepřítel méně než 50% hp) + [bonus za izolaci] (za každého stalkera, který je blízko a nepřátelský k nepříteli) - [trest za izolaci] (za každého přítele nepřítele, který je jim blízko) - [odvaha ranku nepřítele] = [konečná šance zastrašení]%</text>
+</string>
+<string id="ui_mcm_intimidation_surrender_convert_descr_text">
+    <text>Interakce s doplňkem "Konvertovaní NPC"</text>
+</string>
+
+
+	
+	
+	<string id="is_stalker_1">
+		<text>Stalker 1</text>
+	</string>
+	<string id="is_stalker_1_muffled">
+		<text>Stalker 1 tlumený</text>
+	</string>
+	<string id="is_stalker_2">
+		<text>Stalker 2</text>
+	</string>
+	<string id="is_stalker_2_muffled">
+		<text>Stalker 2 tlumený</text>
+	</string>
+	<string id="is_build">
+		<text>Stalker 3</text>
+	</string>
+	<string id="is_build_muffled">
+		<text>Stalker 3 tlumený</text>
+	</string>
+	<string id="is_bandit_1">
+		<text>Bandita 1</text>
+	</string>
+	<string id="is_bandit_1_muffled">
+		<text>Bandit 1 tlumený</text>
+	</string>
+	<string id="is_bandit_2">
+		<text>Bandit 2</text>
+	</string>
+	<string id="is_bandit_2_muffled">
+		<text>Bandit 2 tlumený</text>
+	</string>
+	<string id="is_csky">
+		<text>Jasná obloha</text>
+	</string>
+	<string id="is_csky_muffled">
+		<text>Jasná obloha tlumená</text>
+	</string>
+	<string id="is_dolg">
+		<text>Povinnost</text>
+	</string>
+	<string id="is_dolg_muffled">
+		<text>Povinnost muffled</text>
+	</string>
+	<string id="is_ecolog">
+		<text>Ekolog</text>
+	</string>
+	<string id="is_ecolog_muffled">
+		<text>Ekolog tlumený</text>
+	</string>
+	<string id="is_freedom">
+		<text>Svoboda</text>
+	</string>
+	<string id="is_freedom_muffled">
+		<text>Svoboda tlumená</text>
+	</string>
+	<string id="is_greh">
+		<text>Hřích</text>
+	</string>
+	<string id="is_greh_muffled">
+		<text>Hřích tlumený</text>
+	</string>
+	<string id="is_military">
+		<text>Armáda</text>
+	</string>
+	<string id="is_military_muffled">
+		<text>Armáda tlumený</text>
+	</string>
+	<string id="is_monolith_random_speeches">
+		<text>Náhodné hlášky Monolitu</text>
+	</string>
+	<string id="is_custom">
+		<text>Vlastní</text>
+	</string>
+	<string id="is_none">
+		<text>Žádný</text>
+	</string>
+
+
+
+</string_table>

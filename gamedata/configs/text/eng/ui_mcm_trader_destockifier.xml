@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_trader_destockifier_title">
+		<text>Sklady obchodníků</text>
+	</string>
+	<string id="ui_mcm_menu_trader_destockifier">
+		<text>2.Sklady obchodníků</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_enable">
+		<text>Povolit</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_debug_mode">
+<text>Debug Mode</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_debug_mode_desc">
+		<text>Zapíná spamování zpráv v konzoli</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_items_help">
+		<text>
+			Níže můžeš definovat maximální množství položek, které může mít každý obchodník na skladě po doplnění zásob.\n
+			Nastavením posuvníku na hodnotu 0 se předměty se zcela odstraní.\n
+			Jednoduše.. Jestli chceš hrát hru jako G.A.M.M.A nastav nulu u zbraní,přileb a obleků.\n
+			Nastavením posuvníku na hodnotu -1 se nebude používat tento addon a bude se používat vanilla nastavení.\n
+		</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_guns">
+		<text>Max. množství velkých zbraní</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_handguns">
+		<text>Max. množství pistolí</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_knives">
+		<text>Max. množství nožů</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_outfits">
+		<text>Max. množství výstroje</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_helmets">
+		<text>Max množství přileb</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_weapon_attachments">
+		<text>Max. množství přídavných zařízení ke zbraním</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_backpacks">
+		<text>Max množství batohů</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_explosives">
+		<text>Max. množství výbušnin (granátů, raket)</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_ammo_percent">
+		<text>Max procento munice z počáteční zásoby k prodeji</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_ammo_percent_desc">
+		<text>-10 se nebude týkat munice</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_sell_only_guns_ammo">
+		<text>Prodej munice pouze do zbraní, které jsou na skladě</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_food">
+		<text>Max. množství potravin (žrádlo, nápoje, cíga)</text>.
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_food_desc">
+<text>Obchodníci kteří nejsou barmani, budou mít o 50 % méně, než je definované množství</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_heal">
+		<text>Max. množství léků.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_heal_desc">
+		<text>Stalkeři kteří nejsou doktor budou mít o 50 % méně, než je definované množství</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_repair">
+		<text>Max. množství opravných položek na skladě.</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_repair_desc">
+		<text>Obchodníci bez mechaniky budou mít o 50 % méně, než je definované množství</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize">
+		<text>Randomizovat</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_desc">
+		<text>Množství položek se bude pohybovat od definovaného množství v MCM</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_deviation">
+		<text>Randomizovat odchylku (%)</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_randomize_deviation_desc">
+		<text>
+			100% - položky kolísají mezi 0 a 2x množstvím\n
+			50% - položky kolísají mezi 0,5x a 1,5x množstvím
+		</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_compatibility_help">
+		<text>
+			Níže můžeš definovat množství pro předměty, které některé mody používají\n
+		</text>
+	</string>
+	<string id="ui_mcm_trader_destockifier_max_mags">
+		<text>Max. množství zásobníků na skladě. (Pokud hraješ s Anomaly Magazines Redux)</text>
+	</string>
+
+
+	
+</string_table>

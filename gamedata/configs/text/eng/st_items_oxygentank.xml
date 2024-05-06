@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+	<string id="st_af_oxygen_tank_1_name">
+    <text>Nouzová kyslíková nádrž</text>
+</string>
+<string id="st_af_oxygen_tank_1_descr">
+    <text>Nouzová kyslíková nádrž, hodnocená na několik hodin stlačeného vzduchu. Při používání této nádrže je třeba dbát opatrnosti a pravidelně testovat kvalitu nádrže. Mnohé jsou často vyrobeny sotva víc než svářečem a kovovými odpadky. Často se říká, že Stalker, který se spoléhá pouze na nouzovou nádrž, je blázen, který hraje o sázky daleko nad svou kontrolu. Často se tyto nádrže nacházejí s jednoduchými popruhy připevněnými k nim nebo dokonce strčeny do kapes, aby sloužily jako první linie obrany pro ty, kteří nemají přístup k financím nebo vlastním bohatstvím.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_red] • %c[ui_gray_2] provizorní technologická položka\n
+    %c[d_red] • %c[ui_gray_2] nízká kvalita\n
+    %c[d_green] • %c[ui_gray_2] schopnost dýchat na většině severních lokalit\n
+    %c[d_red] • %c[ui_gray_2] nevhodné pro většinu podzemních lokalit\n
+    %c[d_blue] • %c[ui_gray_2] průtok vzduchu:%c[ui_gray_1] střední\n
+    </text>
+</string>
+
+<string id="st_af_oxygen_tank_1soviet_name">
+    <text>Sovětská kyslíková bomba</text>
+</string>
+<string id="st_af_oxygen_tank_1soviet_descr">
+    <text>Kanistr FG-130, s hrdostí vyrobený v Sovětském svazu. Prvně vyráběn v roce 1971 a používaný k ochraně proti nebezpečím nalezeným v průmyslu a zemědělské výrobě. Považován za lehký mezi kyslíkovými nádržemi, ale stále objemný ve srovnání s filtry. Zastaralý design vyžaduje hadici a bod připojení k oděvu a nabízí mnohem méně ochrany než dokonce nouzové kyslíkové sady vyrobené v Zóně. Mohou nebo nemusí zvyšovat obranu proti kyselým hrozbám.  \n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_red] • %c[ui_gray_2] nízká kvalita\n
+    %c[d_green] • %c[ui_gray_2] schopnost dýchat na většině severních lokalit\n
+    %c[d_red] • %c[ui_gray_2] nevhodné pro většinu podzemních lokalit\n
+    %c[d_green] • %c[ui_gray_2] průtok vzduchu:%c[ui_gray_1] nízký\n
+    </text>
+</string>
+
+<string id="st_af_oxygen_tank_2_name">
+    <text>Moderní kyslíková nádrž</text>
+</string>
+<string id="st_af_oxygen_tank_2_descr">
+    <text>Poměrně běžná více litrová kyslíková nádrž, často nalezená mezi zkušenějšími Stalkery, kteří nosí SEVA obleky. Není známo, jak se tyto nádrže dostávají do Zóny; nicméně se spekuluje, že jsou importovány prostřednictvím neznámých cest černého trhu. Každá nádrž je potažena speciálním povlakem vyrobeným v Zóně, aby se přístroj nezhoršoval v nejpřísnějších anomálních polích. Výsledky tohoto povlaku jsou spíše spekulativní, i když mnoho Stalkerů stále upřednostňuje před těžší izolací. Nádrž je hodnocena na poskytování asi tří hodin kyslíku stlačenému zařízení, na rozdíl od jejího těžšího příbuzného nalezeného v Zóně často nalezeného v rukou expedic Ekologů. \n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_green] • %c[ui_gray_2] schopnost dýchat v severních lokalitách\n
+    %c[d_red] • %c[ui_gray_2] nevhodné pro většinu podzemních lokalit\n
+    %c[d_green] • %c[ui_gray_2] průtok vzduchu:%c[ui_gray_1] nízký\n
+    </text>
+</string>
+
+
+	<string id="st_af_oxygen_tank_3_name">
+    <text>Vědecká kyslíková nádrž</text>
+</string>
+<string id="st_af_oxygen_tank_3_descr">
+    <text>Poměrně těžký kovový válec navržený pro použití s oblekem SSP-99 Ecologist. Výrobce těchto nádrží je neznámý; často se předpokládá, že jsou do Zóny importovány prostřednictvím Kyjevského institutu. Nádrž je potažena pryžovým polymerem, aby nedocházelo k vedení s elektrickými anomáliemi; zároveň je dostatečně lehká pro vědce, aby ji nosili kolem. K nádrži je také připojena sada odolných popruhů navržených tak, aby snášely útoky od vědeckého týmu. Nádrž je hodnocena na poskytování asi 90 minut směsi vysokotlakého kyslíku prostřednictvím poskytnutého regulátoru. \n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_green] • %c[ui_gray_2] schopnost dýchat v severních lokalitách\n
+    %c[d_green] • %c[ui_gray_2] schopnost dýchat pod zemí\n
+    %c[d_red] • %c[ui_gray_2] průtok vzduchu:%c[ui_gray_1] vysoký\n
+    </text>
+</string>
+
+<string id="st_af_oxygen_tank_3military_name">
+    <text>Jednotka nepřetržité dodávky vzduchu</text>
+</string>
+<string id="st_af_oxygen_tank_3military_descr">
+    <text>[VAROVÁNÍ: NEPOUŽITÝ DEBUGOVACÍ PŘEDMĚT] Běžně používáno vojenskými a speciálními jednotkami. Vyžaduje zdroj napájení, ale může být používáno neustále. Efektivně je to vědecká kyslíková nádrž bez váhových nebo průtokových problémů, nicméně tento kousek vybavení je extrémně vzácný a extrémně drahý, což ho činí spíše "co kdyby" v očích většiny operátorů Zóny. \n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_green] • %c[ui_gray_2] schopnost dýchat v severních lokalitách\n
+    %c[d_green] • %c[ui_gray_2] schopnost dýchat pod zemí\n
+    %c[d_green] • %c[ui_gray_2] průtok vzduchu:%c[ui_gray_1] nekonečný s napájecím zdrojem\n
+    %c[d_red] • %c[ui_gray_2] extrémně vzácné\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_1_name">
+    <text>Filtr GP-5</text>
+</string>
+<string id="st_af_mask_filter_1_descr">
+    <text>Starý sovětský filtrační filtr GP-5 je nejlevnější volbou pro Stalkery, kteří poprvé cestují do Zóny. Navzdory slabé ochraně proti prostředí Zóny může stále být nejlepší alternativou, když není nic jiného, čím by se mohly nahradit již použité filtry plynových masek v nouzi. Zdroje importu tohoto modelu jsou stále předmětem spekulací. Pravděpodobně obsahuje azbest, ale je to přeci jen Zóna.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_green] • %c[ui_gray_2] Měl by postačit do podzemí Agropromu\n
+    %c[d_green] • %c[ui_gray_2] Lze opravit kombinací stejného typu\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_red] • %c[ui_gray_2] nízká kvalita\n
+    %c[d_red] • %c[ui_gray_2] ochrana:%c[ui_gray_1] nízká\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_2_name">
+    <text>Filtr M10</text>
+</string>
+<string id="st_af_mask_filter_2_descr">
+    <text>Standard GOST M10 je nejčastěji používaným filtračním filtrem plynových masek v Zóně. Stále neposkytuje dostatečnou ochranu pro výpravy na nejsevernější místa, ale zůstává dobrým výběrem pro procházku do Pripjati. Tento filtrační filtr plynových masek je široce prodáván v Zóně a je hlavně pašován vojáky najatými vojenskými jednotkami a osamělci. Poměr ceny, vzácnosti a kvality tohoto filtračního filtru plynových masek z něj činí nejvhodnější volbu pro každého Stalkera. Dodává se s adaptéry se závitem 60 mm a 40 mm pro zvýšení kompatibility mezi platformami.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_blue] • %c[ui_gray_2] ochrana:%c[ui_gray_1] střední\n
+    </text>
+</string>
+
+
+	<string id="st_af_mask_filter_2dolg_name">
+    <text>Filtr M10 'Ochránce'</text>
+</string>
+<string id="st_af_mask_filter_2dolg_descr">
+    <text>Varianta M10 "Ochránce" je úprava provedená inženýry Duty v Zóně. Stále neposkytuje dostatečnou ochranu pro vysoce toxické tunely pod Pripjatí, ale nabízí vyšší ochranu než standardní model, což umožňuje hlubší útoky do kontaminovaných doupět pro ty, kteří nemají na víc peněz. Tento filtrační filtr plynových masek je k dispozici pouze v inventářích Duty a je cenově dostupnou lehkou variantou pro zvýšenou ochranu na rozdíl od objemných kyslíkových nádrží, drahých možností Ecologistů a pochybných importů od žoldáků. Určité úpravy provedené na původním designu M10 vedly k mírnému zvýšení hmotnosti a snížení průtoku vzduchu jako důsledek zvýšené ochrany.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_blue] • %c[ui_gray_2] střední kvalita\n
+    %c[d_green] • %c[ui_gray_2] ochrana:%c[ui_gray_1] vysoká\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_3_name">
+    <text>Filtr NBC-70 CBRN</text>
+</string>
+<string id="st_af_mask_filter_3_descr">
+    <text>Filtr NBC-70 CBRN je údajně nejlepší filtrační filtr plynových masek dostupný v Zóně. Nejspolehlivější, ale také vzácný a drahý filtr s vyšší ochranou proti velmi škodlivým toxickým částicím ve vzduchu. Dodáván a používán hlavně ekology, což ho činí docela obtížně dostupným bez dostatečně dobrých spojení mezi těmito frakcemi. Navzdory tomu, že stále není tak dobrý jako kyslíkové nádrže, dokáže poskytnout dostatečnou ochranu na nejsevernějších místech, i když to je jen o hodinu navíc. Někteří Stalkeři dokonce slyšeli o ekologech, kteří tyto filtry používají během svých nájezdů do podzemních lokalit, což ještě není potvrzeno.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_green] • %c[ui_gray_2] ochrana:%c[ui_gray_1] vysoká\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_3isg_name">
+    <text>Filtr NBC-77 SOF</text>
+</string>
+<string id="st_af_mask_filter_3isg_descr">
+    <text>Moderní filtrační filtr plynových masek používaný speciálními jednotkami po celém světě. Nabízí prvotřídní ochranu proti škodlivým toxickým částicím ve vzduchu a jaderným hrozbám a zůstává přitom neuvěřitelně kompaktní, lehký a efektivní, zejména ve srovnání s kyslíkovou nádrží. Štítek uvádí "MIRA SAFETY - Vyrobeno v České republice, EU. CE 1024. Datum výroby: 2018/11. UNISG SOF Special Composite NBC-77 Ochranný filtr - pro použití v nebezpečných bojových prostředích"...\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_green] • %c[ui_gray_2] ochrana:%c[ui_gray_1] vysoká\n
+    %c[d_red] • %c[ui_gray_2] extrémně vzácný\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_homemade_name">
+    <text>Domácí filtr</text>
+</string>
+<string id="st_af_mask_filter_homemade_descr">
+    <text>Skutečný zázrak zónového inženýrství, tento domácí filtr se skládá z prázdné plastové lahve hustě naplněné uhlím a látkou/bavlnou, všechno spojené s nadějemi, sny a lepicí páskou. Extrémně nízká kvalita a nepříjemné použití, ale poskytuje právě dostatečnou ochranu, abyste zůstali naživu a poskytli krátkodobé nouzové opatření v nouzové situaci.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_green] • %c[ui_gray_2] Měl by postačit do podzemí Agropromu\n
+    %c[d_green] • %c[ui_gray_2] vyrobitelný\n
+    %c[d_red] • %c[ui_gray_2] improvizovaná technologická položka\n
+    %c[d_red] • %c[ui_gray_2] nízká kvalita\n
+    %c[d_red] • %c[ui_gray_2] ochrana:%c[ui_gray_1] vysoká\n
+    %c[d_red] • %c[ui_gray_2] Velmi rychle vyprší\n
+
+    </text>
+</string>
+
+<string id="st_af_mask_filter_dp1_name">
+    <text>Filtr DP-1</text>
+</string>
+<string id="st_af_mask_filter_dp1_descr">
+    <text>Hnědý sovětský filtr vyrobený poprvé na začátku 70. let, určený k přeměně oxidu uhelnatého na oxid uhličitý. Obvykle má dva pruhy umístěné rovnoměrně kolem středu nádrže. Obsahuje hopkalit umístěný mezi suspenzorem a bavlněnou síťí, držený v nádrži kovovými mřížkami a pružinami. Nabízí dlouhou životnost, ale velmi malou ochranu, i ve srovnání s GP-5. Kromě standardního mužského závitu 40mm GOST pro připojení k masce nebo prodlužovací hadici má DP-1 na vstupu vzduchu ženský závit GOST, uzavřený kovovým víčkem místo gumové zátky jako ostatní sovětské filtry. Tento druhý závit měl uživateli umožnit připojení primárního filtru, protože DP-1 nebyl navržen pro CBRN ochranu.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_red] • %c[ui_gray_2] nízká kvalita\n
+    %c[d_red] • %c[ui_gray_2] ochrana:%c[ui_gray_1] nízká\n
+    </text>
+</string>
+
+
+<string id="st_af_mask_filter_ms4_name">
+    <text>Filtr MS-4</text>
+</string>
+<string id="st_af_mask_filter_ms4_descr">
+    <text>Polsko-vyrobený filtrační filtr plynových masek navržený pro použití civilní obrany. Nižší kvalita uhlíkového sorbentu použitého ve srovnání s většinou filtrů. Původně vytvořen v 80. letech a stažen na konci 90. let. Kompatibilní s 40mm GOST a obvykle dlouhodobě trvanlivý, ale neefektivní z hlediska ochrany.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_blue] • %c[ui_gray_2] střední kvalita\n
+    %c[d_red] • %c[ui_gray_2] ochrana:%c[ui_gray_1] nízká\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_r18_name">
+    <text>Filtr R18 NBC</text>
+</string>
+<string id="st_af_mask_filter_r18_descr">
+    <text>Canistr filtra R18 je moderní filtrační nádrž NATO 40mm NBC vyrobena v Maďarsku, původně vydána pro vojenské účely. Hlavně používáno žoldáky, kteří přecházejí do Zóny z vnějšího světa zakázanými a silně ozářenými cestami. Kvůli problémům s kompatibilitou jsou tyto filtry často zahazovány ve prospěch mnohem běžnějšího typu kompatibilního s GOST. Filtrační nádrž R18 od společnosti Gamma Technical Corporation byla navržena tak, aby splňovala příslušné kritéria stanovená v normě NATO AEP-73 pro ochranu proti chemickým a biologickým bojovým látkám ve formě aerosolu, kapaliny nebo výparu, což znamená, že úroveň ochrany je vysoká. Hlavní prvky, částicový filtr a aktivovaný uhlík, byly vybrány tak, aby poskytovaly nízký respirační odpor a hmotnost, přičemž splňují požadavky normy NATO AEP-73 - nicméně, tento filtr již byl mnohokrát použit, je tedy pravděpodobné, že brzy vyprší. Tělo filtrační nádrže je vyrobeno z hliníkové slitiny, která poskytuje velmi robustní produkt, který je odolný proti korozi a extrémně odolný proti nárazům a nárazům. Je vybaven standardním připojovacím závitem podle požadavků EN 148-1 a STANAG 4155 a je určen k použití s celoobličejovou maskou. Doba použitelnosti je 10 let.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_green] • %c[ui_gray_2] ochrana:%c[ui_gray_1] vysoká\n
+    %c[d_red] • %c[ui_gray_2] brzy vyprší\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_m58_name">
+    <text>Zrenovovaný filtr M.58</text>
+</string>
+<string id="st_af_mask_filter_m58_descr">
+    <text>Filtr M.58 byl italským standardním filtrem od roku 1958 do 90. let. Má částicové filtry na dně a vrstvu aktivovaného uhlíku a další blokující látky nahoře. Velmi čistý design pro tak starý filtr a jako takový je velmi dobrá a levná alternativa pro nové expediční asistenty. Červený kříž je vybaven speciálně označeným filtrem M.58, který tento konkrétní model zdá se, že má. I když je sklad těchto druhů filtrů nízký, jsou značně vzácné. Ekologové je stále nabízejí za nízkou cenu.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_red] • %c[ui_gray_2] ochrana:%c[ui_gray_1] nízká\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_fp5_name">
+    <text>Filtr FP-5</text>
+</string>
+<string id="st_af_mask_filter_fp5_descr">
+    <text>[UPOZORNĚNÍ: NEPOUŽITÝ VÝSTUPNÍ PRVEK DEBUG - IKONA TAKÉ NENÍ UPRAVENA]Používán Ukrajinou a Polskem od 90. let do současnosti v armádě, policii a dalších. Filtrační nádrž FP-5 byla vyvinuta pro MP-5, který nahradil masky z komunistické éry ve službě polské armády. Přijetí této filtrační nádrže NATO STANAG 4155 přišlo několik let po vstupu Polska a Ukrajiny do vojenské aliance. Obecně je objemnější a dlouhotrvající než vědecké filtry, ale také méně ochranný. Může se připojit na masky GOST díky relativně tolerantním závitům SHM-62u.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_green] • %c[ui_gray_2] ochrana:%c[ui_gray_1] vysoká\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_mof6_name">
+    <text>Filtr MOF-6</text>
+</string>
+<string id="st_af_mask_filter_mof6_descr">
+    <text>Lehký československý filtrační filtr plynové masky dodávaný v ochranném obalu z mastnotě odolného papíru. Často dováženo bandity pro použití při průzkumu a sbírkách. Poskytuje obecnou respirační ochranu proti důsledkům chemických bojových látek, toxických látek, radioaktivních částic a biologických bojových látek.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_blue] • %c[ui_gray_2] střední kvalita\n
+    %c[d_blue] • %c[ui_gray_2] ochrana:%c[ui_gray_1] střední\n
+    </text>
+</string>
+
+<string id="st_af_mask_filter_clearsky_name">
+    <text>Filtr N750-CS</text>
+</string>
+<string id="st_af_mask_filter_clearsky_descr">
+    <text>[UPOZORNĚNÍ: NEPOUŽITÝ VÝSTUPNÍ PRVEK DEBUG]Výtvor Novikova, N750-CS je extrémně lehký a ochranný. I když by obvykle filtrační design jako tento prokázal svou neefektivitu na poli a brzy by se stal přítěží, Novikov přišel s nápadem používat protiradiční artefakty jako filtrační materiál, vytvářejíc první super-efektivní filtrační filtr do plynové masky. Projekt je stále tajný, ale pouze vybraní operátoři Clear Sky jsou kdykoliv oprávněni používat nebo dokonce nést tuto součást výstroje.\n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] technologická položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_green] • %c[ui_gray_2] ochrana:%c[ui_gray_1] vysoká\n
+    %c[d_red] • %c[ui_gray_2] mimořádně vzácné\n
+    </text>
+</string>
+
+
+
+
+
+	<string id="st_air_is_toxic">
+	<text>Vzduch je příliš toxický, těžce se tu dýchá</text>
+</string>
+
+<string id="st_remove_filter">
+	<text>Odstranit filtr</text>
+</string>
+
+<string id="st_wrong_equip">
+	<text>Nelze připojit filtr k tehle přilbě/masce</text>
+</string>
+
+<string id="st_already_active">
+	<text>Předmět již má filtr</text>
+</string>
+
+<string id="st_filter_descr">
+	<text>Stav filtru:</text>
+</string>
+
+<string id="st_krug_xd">
+	<text>•</text>
+</string>
+
+<string id="st_filter_location_rate">
+	<text>Dopad na lokalitu:</text>
+</string>
+
+<string id="st_filter_flow_rate">
+	<text>Degradace filtru:</text>
+</string>
+
+<string id="st_tank_flow_rate">
+	<text>Koncentrace vzduchu:</text>
+</string>
+
+<string id="st_tank_doesnt_protect">
+	<text>Neposkytuje ochranu na aktuální lokalitě</text>
+</string>
+
+<string id="st_tank_per_min">
+	<text>% za hodinu</text>
+</string>
+
+</string_table>

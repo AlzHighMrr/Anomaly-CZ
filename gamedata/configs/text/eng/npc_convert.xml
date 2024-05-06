@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<string_table>
+	
+    <string id="npc_convert_stalker">
+		<text>Podívej se na sebe. Nejsi už unavený z toho, že jsi nikdo, bez skutečné skupiny lidí, kteří by tě vždy podporovali? Přidej se k nám a budeš mít skutečné jméno a delší život.</text>
+	</string>
+	 <string id="npc_convert_bandit">
+		<text>Jaké to je být krysou na dně potravního řetězce, která vždy sbírá zbytky? Podívej se na své mizerné vybavení. Podívej se na lidi kolem sebe, vždy připravené bodnout ti nůž do zad. Přidej se k nám a možná budeš mít skutečnou šanci.</text>
+	</string>
+	 <string id="npc_convert_csky">
+		<text>Chceš opravdu strávit svůj krátký život životem v bažinách, mezi bandou zmutovaných prasat a podobným mrdkovin? Tímto tempem tvoji lidi nikdy ničeho nedosáhnou. Přidej se raději k nám.</text>
+	</string>
+	 <string id="npc_convert_army">
+		<text>Nevidíš, že tvoje vláda se o tebe vůbec nezajímá? Jsi jen pěšák v této šachové partii. Začni myslet sám za sebe, přidej se k nám.</text>
+	</string>
+	 <string id="npc_convert_freedom">
+		<text>Je tohle ta svoboda, kterou jsi chtěl? Vykrvácet k smrti, daleko od všech přátel? Tvůj lid je banda neschopných feťáků, kteří se sotva dokážou zachránit. Přidej se k nám a žij déle.</text>
+	</string>
+	 <string id="npc_convert_dolg">
+		<text>Tak dlouho ses snažil zbavit zóny, až jsi zapomněl na největší nebezpečí tam venku - na lidi. Přidej se k nám a my ti ukážeme pravdu: zóna je nic ve srovnání s činy lidí, které se snažíš zachránit.</text>
+	</string>
+	 <string id="npc_convert_ecolog">
+		<text>Vstoupil jsi na nejnebezpečnější místo na světě a v ruce jsi držel jen tužku a kus papíru. Opravdu jsi čekal, že parta šprtů dokáže ochránit tvůj život? Pokud chceš skutečně odhalit tajemství zóny, přidej se k nám.</text>
+	</string>
+	 <string id="npc_convert_killer">
+		<text>Podívej se, kam tě dovedla tvá chamtivost po penězích. Zabil bys i vlastní rodinu, kdybys za to dostal zaplaceno, že? Přestaň se chovat jako robot a slepě pracovat na tom, aby ses dostal o jediné číslo výš. Začni myslet sám za sebe, přidej se k nám.</text>
+	</string>
+	 <string id="npc_convert_monolith">
+		<text>Probuď se konečně.</text>
+	</string>
+	 <string id="npc_convert_renegade">
+		<text>Jaké to je být krysou na dně potravního řetězce, která vždy sbírá zbytky? Podívej se na své mizerné vybavení. Podívej se na lidi kolem sebe, kteří jsou vždy připraveni bodnout ti nůž do zad. Přidej se k nám a možná budeš mít opravdu šanci.</text>
+	</string>
+	 <string id="npc_convert_greh">
+		<text>Probuď se, sloužíš pod velením šíleného fanatika. Pokud to monolitu nefunguje dobře, vážně si myslíš, že vytvoření další takové skupiny něco změní? Skoncuj s Hříchem a přidej se raději k nám.</text>
+	</string>
+	<string id="npc_convert_isg">
+		<text>Nejsem si jistý, pro koho pracuješ, ale očividně ti to nevyšlo. Dám ti šanci se vykoupit. Přidej se k nám a já tě nechám žít.</text>
+	</string>
+	<string id="npc_convert_zombied">
+		<text>Nejsi to ty, když máš hlad. Na, dej si snickers ty obludo.</text>
+	</string>
+	<string id="npc_convert_unknown">
+		<text>Přidej se k nám a budeš žít déle.</text>
+	</string>
+
+	
+	<string id="npc_convert_stalker_2">
+		<text>Podívej se na sebe. Nejsi už unavený z toho, že jsi nikdo, bez skutečné skupiny lidí, kteří by tě vždy podporovali? Přidej se k nám a budeš mít skutečné jméno a delší život.</text>
+	</string>
+	 <string id="npc_convert_bandit_2">
+		<text>Jaké to je být krysou na dně potravního řetězce, která vždy sbírá zbytky? Podívej se na své mizerné vybavení. Podívej se na lidi kolem sebe, kteří jsou vždy připraveni bodnout ti nůž do zad. Přidej se k nám a možná budeš mít opravdu šanci.</text>
+	</string>
+	 <string id="npc_convert_csky_2">
+		<text>Chceš opravdu strávit svůj krátký život životem v bažinách, mezi bandou zmutovaných prasat a sraček? Tímto tempem tvůj lid nikdy ničeho nedosáhne. Přidej se raději k nám.</text>
+	</string>
+	 <string id="npc_convert_army_2">
+		<text>Nevidíš, že tvoje vláda na tebe kašle? Jsi jen pěšák v této šachové partii. Začni myslet sám za sebe, přidej se k nám.</text>
+	</string>
+	 <string id="npc_convert_freedom_2">
+		<text>Je tohle ta Svoboda, kterou jsi chtěl? Hlaveň zbraně u tvého obličeje, žádní přátelé, kteří by ti pomohli? Tvůj lid je banda neschopných feťáků, kteří se sotva dokážou zachránit. Přidej se k nám a žij déle.</text>
+	</string>
+	 <string id="npc_convert_dolg_2">
+		<text>Tak dlouho ses snažil zbavit zóny, až jsi zapomněl na největší nebezpečí tam venku - na lidi. Přidej se k nám a my ti ukážeme pravdu: zóna je nic ve srovnání s činy lidí, které se snažíš zachránit.</text>
+	</string>
+	 <string id="npc_convert_ecolog_2">
+		<text>Vstoupil jsi na nejnebezpečnější místo na světě a v ruce jsi držel jen tužku a kus papíru. Opravdu jsi čekal, že parta šprtů dokáže ochránit tvůj život? Pokud chceš skutečně odhalit tajemství zóny, přidej se k nám.</text>
+	</string>
+	 <string id="npc_convert_killer_2">
+		<text>Podívej se, kam tě dovedla tvá chamtivost po penězích. Zabil bys i vlastní rodinu, kdybys za to dostal zaplaceno, že? Přestaň se chovat jako robot a slepě pracovat na tom, aby ses dostal o jediné číslo výš. Začni myslet sám za sebe, přidej se k nám.</text>
+	</string>
+	 <string id="npc_convert_monolith_2">
+		<text>Probuď se.</text>
+	</string>
+	 <string id="npc_convert_renegade_2">
+		<text>Jaké to je být krysou na dně potravního řetězce, která vždy sbírá zbytky? Podívej se na své mizerné vybavení. Podívej se na lidi kolem sebe, vždy připravené bodnout ti nůž do zad. Přidejte se k nám a možná budete mít skutečně šanci.</text>
+	</string>
+	 <string id="npc_convert_greh_2">
+		<text>Probuď se, sloužíš pod velením šíleného fanatika. Pokud to Monolitu nefunguje dobře, vážně si myslíš, že vytvoření další takové skupiny něco změní? Skoncuj s Hříchem a přidej se raději k nám.</text>
+	</string>
+	<string id="npc_convert_isg_2">
+		<text>Nejsem si jistý, pro koho pracuješ, ale očividně ti to nevyšlo. Dám ti šanci se napravit. Přidej se k nám a já tě nechám žít.</text>
+	</string>
+	<string id="npc_convert_zombied_2">
+		<text>Nejsi to ty, když máš hlad. Na, dej si snickers.</text>
+	</string>
+	<string id="npc_convert_unknown_2">
+		<text>Přidej se k nám a budeš žít déle.</text>
+	</string>
+
+
+	
+	<string id="npc_convert_join">
+		<text>Fajn. Připojím se k tvé frakci.</text>
+	</string>
+	
+	<string id="ui_mcm_menu_npc_convert">
+		<text>5.Konvertovaní NPC</text>
+	</string>
+	<string id="ui_mcm_npc_convert_title">
+		<text>Konvertuj NPC na tvou frakci</text>
+	</string>
+	<string id="ui_mcm_npc_convert_random_convert_chance_enabled">
+		<text>Povolit náhodnou šanci na odmítnutí nabídky.</text>
+	</string>
+	<string id="ui_mcm_npc_convert_random_convert_chance_enabled_desc">
+		<text>Pokud je vypnuto, všechny npc budou mít 100% šanci přijmout tvoji nabídku.</text>
+	</string>
+	<string id="ui_mcm_npc_convert_calc_descr_text">
+		<text>Pro výpočet šance se používá vzorec:\n[Zastrašení hodnosti hráče] - [Zastrašení hodnosti nepřítele] + [Základní šance] = [Šance na konverzi]%\nPokud je tvoje zastrašení 20, zastrašení npc 10 a základní šance 30, konečný výsledek bude: 20 - 10 + 30 = 40% šance na konverzi\n \nPokud nechceš použít modifikátory šance hodnosti, prostě nastav sílu všech hodností na 0 a skript použije základní šanci pro všechno</text>
+	</string>
+	<string id="ui_mcm_npc_convert_base_chance">
+		<text>Základní šance</text>
+	</string>
+	<string id="ui_mcm_npc_convert_base_chance_desc">
+		<text>Toto číslo se vždy přičte po odečtení zastrašení npc od zastrašení hráče.</text>
+	</string>
+	<string id="ui_mcm_npc_convert_attack_chance">
+		<text>Šance na útok při neúspěchu</text>
+	</string>
+	<string id="ui_mcm_npc_convert_attack_chance_desc">
+		<text>Šance, že se npc při neúspěchu konverze okamžitě postaví a zaútočí na vás. Vždy stejná šance. Žádné další modifikátory.</text>
+	</string>
+	<string id="ui_mcm_npc_convert_novice_intimidation">
+		<text>Síla zastrašování nováčků</text>
+	</string>
+	<string id="ui_mcm_npc_convert_trainee_intimidation">
+		<text>Síla zastrašování stážisty</text>
+	</string>
+	<string id="ui_mcm_npc_convert_experienced_intimidation">
+		<text>Síla zastrašování zkušeného</text>
+	</string>
+	<string id="ui_mcm_npc_convert_professional_intimidation">
+		<text>Síla profesionálního zastrašování</text>
+	</string>
+	<string id="ui_mcm_npc_convert_veteran_intimidation">
+		<text>Síla zastrašování veteránů</text>
+	</string>
+	<string id="ui_mcm_npc_convert_expert_intimidation">
+		<text>Síla zastrašování experta</text>
+	</string>
+	<string id="ui_mcm_npc_convert_master_intimidation">
+		<text>Síla zastrašování mistra</text>
+	</string>
+	<string id="ui_mcm_npc_convert_legend_intimidation">
+		<text>Síla zastrašování legendy</text>
+	</string>
+	<string id="ui_mcm_npc_convert_convert_debug_msg">
+		<text>(Debug)Zobrazit šance po pokusu o konverzi</text>
+	</string>
+	<string id="ui_mcm_npc_convert_convert_debug_msg_desc">
+		<text>Zobrazí zprávu v dolní části obrazovky. Nutné pouze pro zjištění případných chyb.</text>
+	</string>
+
+
+
+	
+</string_table>

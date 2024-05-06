@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	
+	<string id="ui_mcm_demonized_icm_title">
+		<text>Nastavení cen u obchodníků (ICM)</text>
+	</string>
+	<string id="ui_mcm_menu_demonized_icm">
+		<text>1.Ceny obchodníků</text>
+	</string>
+
+	<string id="ui_mcm_demonized_icm_presets">
+		<text>Předvolby</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_presets_desc">
+		<text>Výběr předdefinovaných nastavení ze seznamu</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_default">
+		<text>Žádná změna</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_more_arties">
+		<text>Drahé artefakty</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_helmet_balance">
+		<text>Vyvážení obleků</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_gun_balance">
+		<text>Vyvážení zbraní</text>
+	</string>
+	<string id="ui_mcm_lst_demonized_icm_presets_all_of_them">
+		<text>Vše výše uvedené</text>
+	</string>
+
+	<string id="ui_mcm_demonized_icm_i_arty">
+		<text>Artefakty</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_mutant_belt">
+		<text>Kůže mutantů (nasazovací)</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_mutant_part">
+		<text>Části mutantů (nenasazovací)</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_backpack">
+		<text>Batohy</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_device">
+		<text>Zařízení</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_food">
+		<text>Žrádlo a pití</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_medical">
+		<text>Léčiva a jiné léčivé přípravky</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_kit">
+		<text>Sady, opravy, nářadí</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_misc">
+		<text>Smetí</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_part">
+		<text>Díly</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_i_upgrade">
+		<text>Upgrade</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_helmet">
+		<text>Přilby</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_helmet_medium">
+		<text>Střední přilby</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_helmet_heavy">
+		<text>Těžké přilby</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_light">
+		<text>Lehká výstroj</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_medium">
+		<text>Střední obleky</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_sci">
+		<text>Vědecké obleky</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_o_heavy">
+		<text>Těžké obleky</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_melee">
+		<text>Nože sekery sekáčky</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_pistol">
+		<text>Pistole</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_shotgun">
+		<text>Brokovnice</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_smg">
+		<text>SMG</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_rifle">
+		<text>Utočné zbraně</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_sniper">
+		<text>Odstřelovačky</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_misc">
+		<text>Věci z modů</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_ammo">
+		<text>Munice</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_w_explosive">
+		<text>Výbušniny</text>
+	</string>
+
+
+
+
+	<string id="ui_mcm_demonized_icm_debug_mode">
+		<text>Debug mode</text>
+	</string>
+	<string id="ui_mcm_demonized_icm_debug_mode_desc">
+		<text>Spam sraček v konzoli</text>
+	</string>
+	
+</string_table>

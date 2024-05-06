@@ -1,0 +1,473 @@
+<!--
+	Author: Catspaw (CatspawMods @ ModDB)
+	Addon: Fair Fast Travel
+	Source: https://www.moddb.com/mods/stalker-anomaly/addons/fair-fast-travel-duration-for-anomaly-151
+	Permission granted to freely translate into any language.
+-->
+
+<string_table>
+	<string id="ui_mcm_menu_fftd">
+    <text>Spravedlivé Rychlé Cestování</text>
+</string>
+
+<string id="st_fftd_mapspot_estdur">
+    <text>alespoò</text>
+</string>
+
+<string id="st_fftd_mapspot_meters">
+    <text>m</text>
+</string>
+
+<string id="ui_mcm_menu_gen">
+    <text>Obecné</text>
+</string>
+
+<string id="ui_mcm_menu_ftcfg">
+    <text>Rychlé Cestování</text>
+</string>
+
+<string id="ui_mcm_menu_bpcfg">
+    <text>Cestování s Batohem</text>
+</string>
+
+<string id="st_pda_backpack_travel_to">
+    <text>Cestování s batohem do</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_skillsystem_enabled">
+    <text>Povolit integraci dovednostního systému Haruka</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_haruka_enabled_desc">
+    <text>Pokud je nainstalován mod Harukova dovednostního systému a tato monost je povolena, FFTD vezme násobitel rychlosti pohybu z vaší dovednosti Vıdr a upraví èasy cestování odpovídajícím zpùsobem, napø. násobitel pohybu 1,15 by sníil všechny èasy rychlého cestování pøiblinì o 15 %.\n\nPokud není nainstalován dovednostní systém, tato nastavení nemají ádnı vliv.</text>
+</string>
+
+<string id="ui_mcm_fftd_usedisguisefix">
+    <text>Pouít opravu pro systém maskování?</text>
+</string>
+
+<string id="ui_mcm_fftd_useoldcalcs">
+    <text>Pouít neupravenı vzorec vzdálenosti z Anomálie?</text>
+</string>
+
+<string id="ui_mcm_fftd_mpm">
+    <text>Minuty hry uplynulé za 100 metrù cesty</text>
+</string>
+
+<string id="ui_mcm_fftd_rnd_enabled">
+    <text>Náhodné zpodìní povoleno pro dobu trvání cesty?</text>
+</string>
+
+<string id="ui_mcm_fftd_rnd_hours_min">
+    <text>Pokud je povoleno, minimální hodiny pøidané</text>
+</string>
+
+<string id="ui_mcm_fftd_rnd_hours_max">
+    <text>Pokud je povoleno, maximální hodiny pøidané</text>
+</string>
+
+<string id="ui_mcm_fftd_rnd_minutes_min">
+    <text>Pokud je povoleno, minimální minuty pøidané</text>
+</string>
+
+<string id="ui_mcm_fftd_rnd_minutes_max">
+    <text>Pokud je povoleno, maximální minuty pøidané</text>
+</string>
+
+<string id="ui_mcm_header_loc_travel">
+    <text>Cestování ve stejné mapì</text>
+</string>
+
+<string id="ui_mcm_header_map_travel">
+    <text>Cestování na jinou mapu</text>
+</string>
+
+<string id="st_fftd_rub">
+    <text>RU</text>
+</string>
+
+<string id="st_fftd_toopoor">
+    <text>Nemáte peníze na zaplacení prùchodu</text>
+</string>
+
+<string id="st_fftd_mapspot_guideto">
+    <text>Najmout prùvodce do</text>
+</string>
+
+<string id="st_fftd_farepaid_guide">
+    <text>Zavolali jste nedalekého zkušeného prùvodce a zaplatili mu %s, aby vás dovezl na místo urèení.</text>
+</string>
+
+<string id="st_fftd_guides_ignored">
+    <text>ádní prùvodci nejsou ochotní pøijít na takovéto místo jenom kvùli vás</text>
+</string>
+
+<string id="ui_mcm_menu_gtcfg">
+    <text>Cestování s Prùvodcem</text>
+</string>
+
+<string id="ui_mcm_fftd_cost_coef">
+    <text>Náklady v rublech za ujetı metr</text>
+</string>
+
+<string id="ui_mcm_fftd_pause_stats">
+    <text>Pozastavit statistiky pøeití bìhem cestování?</text>
+</string>
+
+<string id="st_fftd_notyet">
+    <text>%s není k dispozici ještì po dobu %s</text>
+</string>
+
+
+	<string id="st_fft_hour">
+    <text>hodina</text>
+</string>
+<string id="st_fft_hours">
+    <text>hodiny</text>
+</string>
+<string id="st_fft_minute">
+    <text>minuta</text>
+</string>
+<string id="st_fft_minutes">
+    <text>minuty</text>
+</string>
+<string id="st_fft_second">
+    <text>sekunda</text>
+</string>
+<string id="st_fft_seconds">
+    <text>sekundy</text>
+</string>
+
+<string id="st_fftd_travelname_ft">
+    <text>rychlá cesta</text>
+</string>
+
+<string id="st_fftd_travelname_bp">
+    <text>cestování s batohem</text>
+</string>
+
+<string id="st_fftd_travelname_gt">
+    <text>cestování s prùvodcem</text>
+</string>
+
+<string id="st_fftd_ftsystem">
+    <text>Systém Rychlého Cestování</text>
+</string>
+
+<string id="st_fftd_guides_far">
+    <text>ádní prùvodci nejsou dostateènì blízko, aby odpovìdìli</text>
+</string>
+
+<string id="st_fftd_enemy_guides">
+    <text>Jediní prùvodci v okolí jsou nepøáteli vaší souèasné frakce</text>
+</string>
+
+<string id="st_fftd_guides_none">
+    <text>ádní prùvodci momentálnì neodpovídají vašim zprávám</text>
+</string>
+
+<string id="ui_mcm_fftd_rnd_enabled_desc">
+    <text>Pokud je povoleno pro tento typ cestování, kadé cestì mùe bıt pøidáno náhodné zpodìní podle nastavení níe. Nastavení 0-2 hodiny a 0-59 minut pøesnì replikuje základní chování Anomálie, pokud je to ádoucí.</text>
+</string>    
+
+<string id="ui_mcm_fftd_pause_stats_desc">
+    <text>Pokud je povoleno, vìtšina statistik pøeití (hlad, ízeò) bude zamrazena po dobu tohoto typu cestování.</text>
+</string>
+
+
+<string id="ui_mcm_fftd_gtcfg_enabled">
+    <text>Najmout prùvodce rychlého cestování z mapy PDA</text>
+</string>
+
+<string id="ui_mcm_fftd_ftcfg_travel_cooldown">
+    <text>Èas odpoèinku rychlého cestování</text>
+</string>
+
+<string id="ui_mcm_fftd_bpcfg_travel_cooldown">
+    <text>Èas odpoèinku cestování s batohem</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_travel_cooldown">
+    <text>Èas odpoèinku cestování s prùvodcem</text>
+</string>
+
+<string id="ui_mcm_fftd_ftcfg_travel_cooldown_desc">
+    <text>Musíte poèkat tolik skuteènıch sekund mezi cestami rychlım cestováním. Chcete-li tuto funkci zakázat, nastavte ji na nulu.</text>
+</string>
+
+<string id="ui_mcm_fftd_bpcfg_travel_cooldown_desc">
+    <text>Musíte poèkat tolik skuteènıch sekund mezi cestami s batohem. Chcete-li tuto funkci zakázat, nastavte ji na nulu.</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_travel_cooldown_desc">
+    <text>Musíte poèkat tolik skuteènıch sekund mezi cestami s prùvodcem. Chcete-li tuto funkci zakázat, nastavte ji na nulu.</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_add_travel_time">
+    <text>Prùvodci potøebují èas, ne k vám dorazí</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_add_travel_time_desc">
+    <text>Pokud je povoleno, doba trvání cesty bude zahrnovat vıpoèty, jak dlouho trvá prùvodci dorazit od jejich vıchozího bodu k hráèi.</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_local_only">
+    <text>Prùvodci jsou dostupní pouze lokálnì</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_local_only_desc">
+    <text>Pokud je povoleno, budou prùvodci k dispozici pouze tehdy, pokud je jeden zaloen na aktuální mapì.</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_guides_loyal">
+    <text>Prùvodci jsou vìrní své frakci</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_guides_loyal_desc">
+    <text>Pokud je povoleno, prùvodci odmítnou obchodovat s hráèi, kteøí jsou nepøáteli jejich frakce. Prùvodci však budou zavírat oèi, pokud je hráè øádnì pøestrojen.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_shared_cooldown">
+    <text>Všechny typy cestování sdílejí spoleènı spouštìè odpoèinku</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_shared_cooldown_desc">
+    <text>Pokud je tato monost povolena, odpoèiny všech typù cestování jsou propojeny - to znamená, e kdy je spuštìn jeden, jsou spuštìny všechny. Napøíklad cestování k batohu spustí také odpoèiny, pokud nìjaké jsou, pro rychlé cestování a cestování s prùvodcem.\n\nPøi zakázání kadı typ cestování sleduje svùj odpoèinek zvláš, pokud je to vhodné.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_debuglogs_enabled">
+    <text>Povolit ladící záznamy</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_allow_debug_travel">
+    <text>Povolit cestování na ladicí mapové body</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_allow_debug_travel_desc">
+    <text>Pøi spuštìní v reimu ladìní Anomaly umoòuje rychlé cestování k stalkerùm, oblastním znaèkám a rùznım dalším ladicím mapovım bodùm, které normálnì nejsou platnımi cíli. To mùe bıt neádoucí, protoe tyto znaèky mohou pøekáet a zpùsobit, e se dostanete na nesprávné místo, jako je za Barkeepem nebo jinım obchodníkem. Ve vıchozím stavu FFT tyto body filtruje.\n\nPovolením této monosti se vrátíte k chování Anomaly. Pokud neprovádíte testování nebo nejste uvízlí v mapì a potøebujete se dostat ven, doporuèuje se nechat tuto monost vdy vypnutou.</text>
+</string>
+
+<string id="ui_mcm_header_ft">
+    <text>Normální Nastavení Rychlého Cestování</text>
+</string>
+
+<string id="ui_mcm_header_ftsub">
+    <text>Toto je vıchozí forma rychlého cestování, která je ovládána všemi nastaveními rychlého cestování Anomaly. Pokud monost cestování øíká "rychlé cestování" místo "cestování s batohem" nebo "cestování s prùvodcem", pouívá nastavení na této stránce.</text>
+</string>
+
+<string id="ui_mcm_header_bp">
+    <text>Nastavení Rychlého Cestování s Batohem</text>
+</string>
+
+<string id="ui_mcm_header_bpsub">
+    <text>Cestování s batohem vám umoòuje rychle cestovat ke umístìnım skrıším batohù a je také øízeno nastaveními rychlého cestování s batohem Anomaly. Zobrazí se správné názvy skrıší, které byly vytvoøeny po instalaci FFT.</text>
+</string>
+
+<string id="ui_mcm_header_gt">
+    <text>Nastavení Cestování s Prùvodcem z PDA</text>
+</string>
+
+<string id="ui_mcm_header_gtsub">
+    <text>Cestování s prùvodcem je jedineèné pro FFT a umoòuje vám najmout zkušeného prùvodce, kterı vás doprovodí k vašemu cíli. Musíte jim zaplatit, ale prùvodci jsou pøedpokládáni, e mají zásoby pro cestu - vaše statistiky pøeití budou bìhem cesty pozastaveny (nastavitelné níe) a pøijdou vás pro vás, i kdy jste zranìni nebo pøetíeni, ignorují tyto dvì nastavení. Existují však urèitá místa, kam jednoduše nepùjdou za plat.</text>
+</string>
+
+<string id="ui_mcm_fftd_allow_pin_travel">
+    <text>Povolit cestování k rychlım znaèkám? (vyaduje PAW)</text>
+</string>
+
+<string id="ui_mcm_fftd_allow_pin_travel_desc">
+    <text>Pokud je povoleno pro tento typ cestování, mohou bıt rychlé znaèky pouity jako cíle rychlého cestování. Funkce Pin Travel vyaduje doplnìk Personal Adjustable Waypoint, a toto nastavení nemá ádnı vliv, pokud není nainstalován.\n\nTo je povoleno pouze pro Quick Pins, protoe je lze umístit pouze na místa dosaitelná hráèem.</text>
+</string>
+
+<string id="ui_mcm_fftd_getpaw">
+    <text>Funkce Pin Travel vyaduje doplnìk Personal Adjustable Waypoint:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/personal-adjustable-waypoint-for-anomaly-151-152-and-gamma</text>
+</string>
+
+<string id="ui_mcm_fftd_usedisguisefix_desc">
+    <text>V originální Anomaly chyba v maskování zpùsobí odhalení pøestrojení, pokud rychle cestujete poblí NPC s plynutím èasu. Toto nastavení chybu opravuje tím, e do doby skonèení pøeskoèení èasu zakáe podezøení zaloené na èase v nastavení maskování. Toto by nikdy nemìlo bıt vypnuto, kromì ladìní.</text>
+</string>
+
+
+<string id="ui_mcm_fftd_useoldcalcs_desc">
+    <text>V originální Anomaly vıpoèet vzdálenosti funguje správnì pouze ve stejné mapì. Pøi vıpoètu cestování do jinıch map èasto vznikají podivné a nesmyslné vısledky. FFT tento postup nahrazuje globálním vıpoètem vzdálenosti.\n\nMetoda pouitá v originální høe je špatná a nikdy byste ji nemìli povolovat - ale pro kompatibilitu to mùete udìlat, pokud je to opravdu nutné.</text>
+</string>
+
+<string id="ui_mcm_fftd_cost_coef_desc">
+    <text>V základu má pouze prùvodcovské cestování cenu. Volitelnì mùete nastavit i ostatní dva typy cestování, aby mìly cenu, a pokud je tato hodnota vìtší ne nula, budou pouity stejné vıpoèty jako u prùvodcovského cestování.</text>
+</string>
+
+<string id="st_fftd_farepaid_noguide">
+    <text>Zaplacenı poplatek za rychlé cestování: %s</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_ignore_status">
+    <text>Prùvodci ignorují status "zranìní" a "pøetíení"</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_ignore_status_desc">
+    <text>Pokud je povoleno, prùvodcovské cestování ignoruje nastavení, která brání rychlému cestování, pokud hráè krvácí, je ozáøen nebo je pøetíen. Tím se má symbolizovat, e prùvodci jsou ochotni poskytnout první pomoc nebo vám pomoci nést èást vaší zátìe.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_combat_dist">
+    <text>Vzdálenost NPC v boji</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_combat_dist_desc">
+    <text>Maximální vzdálenost, ve které je hráè povaován za "v boji" pro úèely blokování rychlého cestování.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_combat_timeout">
+    <text>Èasovı limit boje s NPC</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_combat_timeout_desc">
+    <text>Pokud nepøítel nevidìl hráèe po této dobu v sekundách, ji se nepoèítá pro úèely blokování rychlého cestování.</text>
+</string>
+
+<!-- Added in 2.3 -->
+
+<string id="ui_mcm_fftd_gen_use_warfare_fix">
+    <text>Pouít opravu pøídavku Warfare Alife Overhaul</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_use_warfare_fix_desc">
+    <text>Pokud je tato monost povolena a je aktivní reim Warfare, FFT pøeskoèí pokusy o pøidání ikon rychlého cestování na mapu. Pokud ikony na mapì nebo kontextové nabídky nefungují správnì, kdy je nainstalován pøídavek Warfare Alife Overhaul, zkuste tuto monost povolit.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_allow_open_bp">
+    <text>Povolit otevírání batohù z mapy</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_allow_open_bp_desc">
+    <text>Povolením této monosti znovu povolíte funkci originální hry, která umoòuje otevøít batoh odkudkoli na stejné mapì. Z dùvodù vyváení je tato monost vıchozím nastavením vypnutá.</text>
+</string>
+
+<string id="ui_mcm_fftd_gear_dmg_factor">
+    <text>Násobitel poškození stavu vıbavy</text>
+</string>
+
+<string id="ui_mcm_fftd_gear_dmg_factor_desc">
+    <text>Umoòuje nastavit násobitel pro mnoství poškození stavu veškeré vybavení hráèe pøi rychlém cestování. Èím dál cestujete, tím více opotøebení a poškození.\n\nHodnoty kolem 1 nebo 2 jsou doporuèeny jako "normální" obtínost, zatímco maximální nastavení 11 je pravdìpodobnì mnohem více, ne je potøeba pro vìtšinu bìné hry.\n\nNastavením této monosti na nulu tuto funkci pro tento typ cestování vypnete.</text>
+</string>
+
+
+<!-- Added in 2.3.1 -->
+
+<string id="ui_mcm_fftd_gen_cond_dmg_mode">
+    <text>Funkce poškození stavu vybavení</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_cond_dmg_mode_desc">
+    <text>Všechno vybavení: ztráta stavu se aplikuje na veškeré vybavené vybavení\n
+        Náhodné: ztráta stavu se aplikuje na jednu vybavenou poloku náhodnì\n
+        Pancíø: ztráta stavu se aplikuje na vybavenı pancíø a helmu\n
+        Zbranì: ztráta stavu se aplikuje na vybavené zbranì\n
+        Vypnuto: vypne veškeré ztráty stavu vybavení pro všechny typy cestování, bez ohledu na jejich individuální nastavení.\n
+    </text>
+</string>
+
+<string id="ui_mcm_lst_fft_dmg_disabled">
+    <text>Vypnuto</text>
+</string>
+
+<string id="ui_mcm_lst_fft_dmg_all">
+    <text>Všechno vybavení</text>
+</string>
+
+<string id="ui_mcm_lst_fft_dmg_random">
+    <text>Náhodné</text>
+</string>
+
+<string id="ui_mcm_lst_fft_dmg_armor">
+    <text>Obleky</text>
+</string>
+
+<string id="ui_mcm_lst_fft_dmg_weapons">
+    <text>Zbranì</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_minimum_health">
+    <text>Minimální zdraví pro cestování</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_minimum_health_desc">
+    <text>Pokud by hráè byl normálnì zabraòován cestování kvùli ozáøení nebo krvácení, nebude moci cestovat, pokud jeho zdraví klesne pod tuto procentuální hodnotu. Nastavením této hodnoty na nulu efektivnì tuto funkci vypnete.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_minimum_satiety">
+    <text>Minimální sytost pro cestování</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_minimum_satiety_desc">
+    <text>Pokud by hráè byl normálnì zabraòován cestování kvùli ozáøení nebo krvácení, nebude moci cestovat, pokud jeho "sytost" (hlad/thirst) klesne pod tuto procentuální hodnotu. Nastavením této hodnoty na nulu efektivnì tuto funkci vypnete.</text>
+</string>
+
+
+<!-- Added in 2.4 -->
+
+	<string id="ui_mcm_fftd_ftcfg_enabled">
+    <text>Povolit pouití bìného rychlého cestování</text>
+</string>
+
+
+<!-- Added in 2.5 -->
+
+<string id="ui_mcm_fftd_gtcfg_npc_guides_too">
+    <text>Nìkterá nastavení se vztahují také na NPC prùvodce</text>
+</string>
+
+<!-- Added in 2.6 -->
+
+	<string id="st_fftd_farepaid_npcguide">
+    <text>Zaplatili jste prùvodci %s, aby vás dovedl k vaší destinaci.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_progressive_cost">
+    <text>Ceny se mìní v závislosti na úrovni hráèe</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_progressive_cost_desc">
+    <text>Pokud je povoleno, všechny náklady na rychlé cestování se budou zvyšovat podle køivky v závislosti na úrovni hráèe. Zvıšení nákladù je na zaèátku pomalé a dosahuje maximálního násobitele uvedeného níe.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_prog_coef_max">
+    <text>Násobitel nákladù pøi maximální úrovni</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_prog_coef_max_desc">
+    <text>Kdy hráè dosáhne maximální úrovnì definované níe, všechny náklady na rychlé cestování se zvıší tímto násobitelem. Pod touto úrovní se násobitel bude zvyšovat podél eskalující køivky od nuly po toto nastavení. [Funkce køivky: 1 - cos((x * pi) / 2)]</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_prog_rank_cap">
+    <text>Progresivní maximální úroveò</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_prog_rank_cap_desc">
+    <text>Pokud je povoleno progresivní nastavení nákladù, tato hodnota úrovnì urèuje, kde se náklady zastaví ve zvyšování.</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_npc_cost_coef">
+    <text>Náklady na najmutí NPC v dialogu</text>
+</string>
+
+<string id="ui_mcm_fftd_gtcfg_npc_cost_coef_desc">
+    <text>Pøi najímání prùvodce NPC tváøí v tváø v dialozích se tato cena za metr pouívá namísto bìné hodnoty.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_force_vanilla_fares">
+    <text>Vynutit pouití bìnıch cen NPC prùvodcù</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_force_vanilla_fares_desc">
+    <text>Pokud je povoleno, budou pouity bìné ceny místo vıpoètù FFT pøi najímání prùvodcù NPC osobnì.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_nice_round_numbers">
+    <text>Generované ceny zaokrouhlovat na 100</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_nice_round_numbers_desc">
+    <text>Pokud je povoleno, ceny, které FFT generuje, budou zaokrouhlovány dolù na nejbliší 100, aby se podobaly èistìjšímu vzhledu bìnıch cen.</text>
+</string>
+
+</string_table>

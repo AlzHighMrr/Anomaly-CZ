@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_dismemb_title">
+    <text>Odtrћenй konиetiny</text>
+</string>
+<string id="ui_mcm_menu_dismemb">
+    <text>Odtrћenй konиetiny</text>
+</string>
+
+<!-- Hlavnн konfigurace -->
+<string id="ui_mcm_dismemb_enable_stalker">
+    <text>Povolit pro stalkery</text>
+</string>
+
+<string id="ui_mcm_dismemb_enable_mutant">
+    <text>Povolit pro mutanty</text>
+</string>
+
+<string id="ui_mcm_dismemb_hit_threshold">
+    <text>Prбh zбsahu</text>
+</string>
+<string id="ui_mcm_dismemb_hit_threshold_desc">
+    <text>Sнla ъderu pro fatбlnн zбsah odtrћenнm konиetiny, momentбlnм nekontroluje zbroj atd.</text>
+</string>
+
+<string id="ui_mcm_dismemb_wm_lifetime">
+    <text>Doba ћivota krve na tмle</text>
+</string>
+
+<string id="ui_mcm_dismemb_enable_foot">
+    <text>Povolit odtrhбvanн nohy stalkerщ (vypadб љpatnм)</text>
+</string>
+
+<string id="ui_mcm_dismemb_mutant_muti">
+    <text>Vнce odtrhбvanн na mutantech (viz. popis)</text>
+</string>
+<string id="ui_mcm_dismemb_mutant_muti_desc">
+    <text>Mutanti obvykle ъderem zasбhnou "koшenovou" kost, kterб nic neodtrhne. Tato moћnost zpщsobн, ћe se pшi zabнjenн nмkoho mutanti odtrhnou nбhodnб kost (kromм hlavy), pokud pшekroин urиenэ prбh zбsahu.</text>
+</string>
+
+<string id="ui_mcm_dismemb_max_explosion_limbs">
+    <text>Maximбlnн odtrћenй konиetiny pшi explozi</text>
+</string>
+
+<string id="ui_mcm_dismemb_max_explosion_limbs_desc">
+    <text>Nбhodnй инslo od 1 do tйto hodnoty.</text>
+</string>
+
+<!-- Sнtм -->
+<string id="ui_mcm_dismemb_enable_meshes">
+    <text>Povolit odtrћenй konиetiny</text>
+</string>
+
+<string id="ui_mcm_dismemb_meshes_lifetime">
+    <text>Doba ћivota odtrћenэch konиetin</text>
+</string>
+
+<!-- Typy ъderщ -->
+<string id="ui_mcm_dismemb_allow_exp">
+    <text>Povolit typ exploze</text>
+</string>
+
+<string id="ui_mcm_dismemb_allow_wound">
+    <text>Povolit typ zranмnн (noћe/mutanti)</text>
+</string>
+
+<string id="ui_mcm_dismemb_allow_strike">
+    <text>Povolit typ ъderu (nмkteшн mutanti)</text>
+</string>
+
+<string id="ui_mcm_dismemb_allow_ball">
+    <text>Povolit typ kulometu</text>
+</string>
+
+<!-- Ladмnн -->
+<string id="ui_mcm_dismemb_wm_size">
+    <text>Velikost stмnovэch znaиek (mщћe zabrбnit pбdu ovladaиe GPU)</text>
+</string>
+<string id="ui_mcm_dismemb_wm_size_desc">
+    <text>Pokud mбte zmrazenн a potй chyby v suspendaci GPU, snнћenн tйto hodnoty mщћe pomoci tomu pшedchбzet.</text>
+</string>
+
+<string id="ui_mcm_dismemb_debugx">
+    <text>Debug informace</text>
+</string>
+<string id="ui_mcm_dismemb_debugx_desc">
+    <text>Jen nмkterй informace v konzoli.</text>
+</string>
+
+<string id="ui_mcm_dismemb_debug_hit">
+    <text>Debug informace o sнle zбsahu*1000</text>
+</string>
+
+
+</string_table>

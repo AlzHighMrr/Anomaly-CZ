@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+<string id="st_not_same_tank">
+	<text>%c[d_red]Potřebuješ identické kyslíkové nádrže pro sloučení jejich zásob kyslíku!</text>
+</string>
+
+<string id="st_not_same_filter">
+	<text>%c[d_red]Potřebuješ identické filtry na masku pro sloučení jejich stavu!</text>
+</string>
+
+<string id="st_filter_on">
+	<text>Filtr byl nainstalován.</text>
+</string>
+
+<string id="st_filter_on_tanks_removed">
+	<text>Filtr nainstalován: kyslíkové nádrže byly odebrány...</text>
+</string>
+
+<string id="st_already_has_equipment">
+	<text>%c[d_red]Již máš kyslíkovou nádrž, nebo máš nainstalovaný filtr na masku, nebo ti chybí vhodná ochranná helma!</text>
+</string>
+
+
+</string_table>

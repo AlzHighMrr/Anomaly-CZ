@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+
+	<string id="ui_mcm_toxic_air_title">
+	<text>Toxický vzduch</text>
+</string>
+
+<string id="ui_mcm_menu_toxic_air">
+	<text>Toxický vzduch</text>
+</string>
+
+<string id="ui_mcm_toxic_air_mono_sin_exception">
+	<text>Výjimka v Prypiat/Rudý les</text>
+</string>
+
+<string id="ui_mcm_toxic_air_mono_sin_exception_desc">
+	<text>Umí umožnit dýchání bez nádrže/masky v Prypiati a Rudém lese (funguje pouze pokud je hráčova frakce Monolit/Hřích).</text>
+</string>
+
+<string id="ui_mcm_toxic_air_toxic_damage_mult">
+	<text>Multiplikátor toxického poškození</text>
+</string>
+
+<string id="ui_mcm_toxic_air_toxic_damage_mult_desc">
+	<text>Multiplikátor toxického poškození, které dostáváte, když ochrana vzduchu není dostatečná. \n 
+				\n Výchozí hodnota: 1.0</text>
+</string>
+
+<string id="ui_mcm_toxic_air_flow_rate_mult">
+	<text>Multiplikátor průtoku</text>
+</string>
+
+<string id="ui_mcm_toxic_air_flow_rate_mult_desc">
+	<text>Multiplikátor průtoku vzduchu kyslíkové nádrže. \n 
+				\n Výchozí hodnota: 1.0</text>
+</string>
+
+<string id="ui_mcm_toxic_air_tank_sprint_mult">
+	<text>Multiplikátor při sprintu (pouze pro nádrže)</text>
+</string>
+
+<string id="ui_mcm_toxic_air_tank_sprint_mult_desc">
+	<text>Multiplikátor průtoku vzduchu kyslíkové nádrže během sprintu. \n 
+				\n Výchozí hodnota: 2.0</text>
+</string>
+
+<string id="ui_mcm_toxic_air_trader_items">
+	<text>Množství položek u obchodníků</text>
+</string>
+
+<string id="ui_mcm_toxic_air_trader_items_desc">
+	<text>Multiplicátor pro množství položek (filtrů/nádrží), které se objeví v inventáři obchodníka. \n 
+				\n Výchozí hodnota: 2.0</text>
+</string>
+
+<string id="ui_mcm_toxic_air_filter_animation">
+	<text>Animace</text>
+</string>
+
+<string id="ui_mcm_toxic_air_filter_animation_desc">
+	<text>Zapnout/Vypnout animaci výměny filtrů a animaci kamery nádrží (pouze pro vybavené položky).</text>
+</string>
+
+<string id="ui_mcm_toxic_air_sound_toggle">
+	<text>Zvukové efekty</text>
+</string>
+
+<string id="ui_mcm_toxic_air_sound_toggle_desc">
+	<text>Zapnout/Vypnout zvukové efekty dušení se při pobytu v toxické oblasti bez dostatečné ochrany vzduchu.</text>
+</string>
+
+<string id="ui_mcm_toxic_air_ppe_toggle">
+	<text>Vizuální efekty</text>
+</string>
+
+<string id="ui_mcm_toxic_air_ppe_toggle_desc">
+	<text>Zapnout/Vypnout vizuální efekty na obrazovce při pobytu v toxické oblasti bez dostatečné ochrany vzduchu.</text>
+</string>
+
+<string id="ui_mcm_toxic_air_delete_items">
+	<text>SMAZAT VŠECHNY NÁDRŽE PŘI DALŠÍM NAHRÁNÍ</text>
+</string>
+
+<string id="ui_mcm_toxic_air_delete_items_desc">
+	<text>Pro zabránění poškození souboru s uloženou hrou tato volba smaže všechny nové položky přidané tímto doplňkem při dalším načtení hry. \n 
+				\n Takže, pokud chcete doplněk smazat: \n
+				\n 1) Povolte tuto možnost; \n
+				\n 2) Uložte hru, načtěte ji znovu, znovu ji uložte; \n
+				\n 3) Opusťte hru a vypněte doplněk.</text>
+</string>
+
+
+</string_table>
