@@ -36,7 +36,7 @@
 	</string>
 <string id="encyclopedia_artefacts__about_text">
 	<text>
-		%c[pda_white]Artefakty%c[ui_gray_1] jsou objekty, které byly vytvoøeny podmínkami Zóny.\n\n%c[pda_green]Informace%c[ui_gray_1]
+		%c[pda_white]Artefakty%c[ui_gray_1] jsou objekty, které byly vytvoøeny z hoven.\n\n%c[pda_green]Informace%c[ui_gray_1]
 	\nVìtšina artefaktù má zvláštní a užiteèné vlastnosti. Napøíklad nìkteré artefakty vytváøejí ochranné pole, které zvyšuje odolnost uživatele proti poškození, když jsou drženy blízko tìla. Jiné mohou zvýšit vytrvalost uživatele nebo chránit pøed ohnìm atd. Artefakty jsou také cenným vìdeckým studijním materiálem a vnìjší korporace by zaplatily vysokou cenu za získání jednoho z tìchto artefaktù ze Zóny.
 	\n \n%c[pda_blue]Vznik artefaktu%c[ui_gray_1]
 	\nArtefakty vznikají z anomálií, které jsou vystaveny urèitým objektùm nebo podmínkám: kombinace bìžného objektu (nebo bìžných objektù) a anomálie, degenerace a smrt anomálie nebo pokud je anomálie vystavena urèitým podmínkám.
