@@ -29,7 +29,7 @@
 
 	<!-- Exchange line of dialog-->
 	<string id="western_goods_trader_dialog_init">
-		<text>Rád bych vymìnil nìjakou mìnu. %c[d_orange][Exchange]</text>
+		<text>Rád bych promìnil nìjaké peníze. %c[d_orange][Exchange]</text>
 	</string>
 
 	<!-- Meet dialog -->
@@ -38,11 +38,11 @@
 	</string>
 
 	<string id="western_goods_trader_meet_1">
-		<text>Taky jen tak chodíš a ptáš se náhodných lidí, kdo jsou? Dobøe, jestli je to tak, tak já jsem Williams Heades, lidé mi øíkají "Popel". Dohlížím na dovoz ze západních zemí pro Žoldáky. V Zónì jsem už nìjakou dobu a obchod nikdy nebyl tak dobrý.</text>
+		<text>Kolem jen tak chodíš a ptáš se náhodných lidí, kdo jsou kurva zaè? Dobøe, jestli je to tak, tak já jsem Williams Heades, lidé mi øíkají "Popel". Dohlížím na dovoz ze západních dobrùtek pro Žoldáky. V Zónì jsem už nìjakou dobu a obchod nikdy nebyl tak dobrý.</text>
 	</string>
 
 	<string id="western_goods_trader_meet_2">
-		<text>Takže ty jsi ten, kdo do Zóny dováží všechno to zboží? Vidìl jsem v Zónì i jiné obchodníky s dováženým zbožím, dovážejí ho také?"</text>
+		<text>Takže ty jsi ten, kdo do Zóny dováží všechno to zboží? Slyšel jsem že tu jso u jiní obchodníci s dováženým zbožím ze západu, k tìmhle patøíš?</text>
 	</string>
 
 	<string id="western_goods_trader_meet_3">
@@ -54,7 +54,7 @@
 	</string>
 
 	<string id="western_goods_trader_meet_5">
-		<text>No víte, jak to s námi je. Když zaplatíte dobré peníze, vždycky se mùžeme dohodnout. Stejnì vìtšinì kecù ze Zóny nevìøím. Tìchto válek, které frakce mezi sebou vedou, se neúèastním. Pokud nejsi úplný blbec, mùžeme spolu obchodovat.</text>
+		<text>No víš, jak to s námi je. Když zaplatíš dobré peníze, vždycky se mùžeme dohodnout. Stejnì vìtšinì kecù ze Zóny nevìøím. Tìchto válek, které frakce mezi sebou vedou, se neúèastním. Pokud nejsi úplný blbec, mùžeme spolu obchodovat.</text>
 	</string>
 
 	<string id="western_goods_trader_meet_6">
@@ -96,19 +96,19 @@
 	</string>
 
 	<string id="western_goods_trader_guide_red_forest">
-<text>Rudý les, vedle Kesníkova srubu. %c[d_orange][Free]</text>
+    <text>Rudý les, vedle Lesníka. %c[d_orange][Free]</text>
 	</string>
 
 	<string id="western_goods_trader_guide_jupiter">
-		<text>Jupiter, u chladicí vìže. %c[d_orange][Free]</text>
+		<text>Jupiter, ke chladicí vìži. %c[d_orange][Free]</text>
 	</string>
 
 	<string id="western_goods_trader_guide_zaton">
-		<text>Zaton, u staré bárky. %c[d_orange][Free]</text>
+		<text>Zaton, ke staré bárce. %c[d_orange][Free]</text>
 	</string>
 
 	<string id="western_goods_trader_guide_deserted_hospital">
-		<text>Opustlá nemocnice, u zavaleného vchodu. %c[d_orange][Free]</text>
+		<text>Opuštìná nemocnice, k zavalenému vchodu. %c[d_orange][Free]</text>
 	</string>
 
 	<!-- Western Goods Trader Trade strings -->
@@ -117,7 +117,7 @@
 	</string>
 
 	<string id="st_wg_trader_empty_buy">
-		<text>Nevybral jsu nic, co bys mohl koupit.</text>
+		<text>Nevybral jsi nic, co bys mohl koupit.</text>
 	</string>
 
 	<string id="st_wg_trader_uneven_value">
@@ -131,32 +131,33 @@
 
 	<!-- Dollars to Dollars barters -->
 	<string id="st_wg_barter_dollars_10_to_50_desc">
-<text>Vymìnitpìt %c[d_orange]10dolarových%c[ui_gray_2] bankovek za %c[d_orange]50dolarovou%c[ui_gray_2] bankovku.</text>
+<text>Vymìnit pìt %c[d_orange]10 dolarových%c[ui_gray_2] bankovek za %c[d_orange]50 dolarovou%c[ui_gray_2] bankovku.</text>
 	</string>
 
 	<string id="st_wg_barter_dollars_50_to_10_desc">
-<text>Vymìnit %c[d_orange]50dolarovou%c[ui_gray_2] bankovku za pìt %c[d_orange]10dolarových%c[ui_gray_2] bankovek.</text>
+<text>Vymìnit %c[d_orange]50 dolarovou%c[ui_gray_2] bankovku za pìt %c[d_orange]10 dolarových%c[ui_gray_2] bankovek.</text>
 	</string>
 
 	<string id="st_wg_barter_dollars_50_to_100_desc">
-<text>Vymìnit dvì %c[d_orange]50dolarové%c[ui_gray_2] bankovky za %c[d_orange]100dolarovou%c[ui_gray_2] bankovku.</text>
+<text>Vymìnit dvì %c[d_orange]50 dolarové%c[ui_gray_2] bankovky za %c[d_orange]100 dolarovou%c[ui_gray_2] bankovku.</text>
 	</string>
 
 	<string id="st_wg_barter_dollars_100_to_50_desc">
-<text>Vymìnit %c[d_orange]100dolarovou%c[ui_gray_2] bankovku za dvì %c[d_orange]50dolarové%c[ui_gray_2] bankovky.</text>
+<text>Vymìnit %c[d_orange]100 dolarovou%c[ui_gray_2] bankovku za dvì %c[d_orange]50 dolarové%c[ui_gray_2] bankovky.</text>
 	</string>
 
 	<string id="st_wg_barter_dollars_100_to_10_desc">
-		<text>Vymìnit %c[d_orange]100dolarovou%c[ui_gray_2] bankovku za deset %c[d_orange]10dolarových%c[ui_gray_2] bankovek.</text>
+		<text>Vymìnit %c[d_orange]100 dolarovou%c[ui_gray_2] bankovku za deset %c[d_orange]10 dolarových%c[ui_gray_2] bankovek.</text>
 	</string>
 
 	<string id="st_wg_barter_dollars_10_to_100_desc">
 <text>Vymìnit deset %c[d_orange]10dolarových%c[ui_gray_2] bankovek za %c[d_orange]100dolarovou%c[ui_gray_2] bankovku.</text>
 	</string>
 
+
 	<!-- Smìny eur na eura -->
 	<string id="st_wg_barter_euros_10_to_50_desc">
-<text>Vymìnit pìt bankovek %c[d_orange]10 euro%c[ui_gray_2] za bankovku %c[d_orange]50 euro%c[ui_gray_2].</text>
+    <text>Vymìnit pìt bankovek %c[d_orange]10 euro%c[ui_gray_2] za bankovku %c[d_orange]50 euro%c[ui_gray_2].</text>
 	</string>
 
 	<string id="st_wg_barter_euros_50_to_10_desc">
@@ -212,23 +213,23 @@
 
 <!-- Øetìzce dialogù -->
 <string id="western_goods_jupiter_informant_meet_0">
-    <text>Ahoj. Hledám informace.</text>
+    <text>Ahoj. Sháním nìjaké informace.</text>
 </string>
 
 <string id="western_goods_jupiter_informant_meet_1">
-    <text>Ano? Jaké pøesnì?</text>
+    <text>Jo? A jaké pøesnì by to mìli bejt?</text>
 </string>
 
 <string id="western_goods_jupiter_informant_meet_2">
-    <text>Slyšel jsem, že se tu šíøí zvìsti o "podivných svìtlech". Víte nìco o tom?</text>
+    <text>Slyšel jsem, že se tu šíøí zvìsti o "podivných svìtlech". Víš nìco o tom?</text>
 </string>
 
 <string id="western_goods_jupiter_informant_meet_3">
-    <text>Ano, všichni tady to vìdí. Znáte Sklad kontejnerù, jihovýchodnì od téhle lokace? Nevím, co se tam dìje, ale pøed pár nocemi tam byla poøádná ohòostroj.</text>
+    <text>Ano, všichni tady to vìdí. Znáš Sklad kontejnerù, jihovýchodnì od téhle lokace? Nevím, co se tam dìje, ale pøed pár nocema tam byl poøádný ohòostroj.</text>
 </string>
 
 <string id="western_goods_jupiter_informant_meet_4">
-    <text>Víte, co by ty svìtla mohla být? Možná nìjaká anomálie?</text>
+    <text>Víš, co by ty svìtla mohla být? Možná nìjaká anomálie?</text>
 </string>
 
 <string id="western_goods_jupiter_informant_meet_5">
@@ -236,7 +237,7 @@
 </string>
 
 <string id="western_goods_jupiter_informant_meet_6">
-    <text>Dobøe. Díky.</text>
+    <text>Fajn. Tak teda díky.</text>
 </string>
 
 
@@ -273,6 +274,7 @@
     <text>Hej, pøíteli, má radost tì vidìt!</text>
 </string>
 
+
 <!-- Øetìzce dialogù -->
 <string id="stalker_crew_member_rescue_0">
     <text>Hej, jsi stále s námi? Pøi sebezachování a pojï se mnou, rychle!</text>
@@ -283,7 +285,7 @@
 </string>
 
 <string id="stalker_crew_member_rescue_2">
-    <text>Skautský tým tì zpozoroval pøed chvílí, odvádím tì odsud pryè.</text>
+    <text>Výzvìdný tým tì zpozoroval pøed chvílí, dostaneme tì odsud pryè.</text>
 </string>
 
 <string id="stalker_crew_member_rescue_3">
@@ -295,7 +297,7 @@
 </string>
 
 <string id="stalker_crew_member_reward_0">
-    <text>Hej, Heades øekl, že mì chceš vidìt?</text>
+    <text>Hej, Hádes øekl, že mì chceš vidìt?</text>
 </string>
 
 <string id="stalker_crew_member_reward_1">
@@ -332,7 +334,7 @@
 </string>
 
 <string id="st_wg_dunn_lynn_start_1">
-    <text>Ahoj.</text>
+    <text>Èau.</text>
 </string>
 
 <string id="st_wg_dunn_lynn_start_2">
@@ -387,11 +389,11 @@
 </string>
 
 <string id="stalker_ecolog_convoy_yellow_second_meet_2">
-    <text>Jsem jen dodavatel. Dejte mi ho pomalu.</text>
+    <text>Jsem jen dodavatel. Dejte mi ho a pìknì pomalu.</text>
 </string>
 
 <string id="stalker_ecolog_convoy_yellow_second_meet_3">
-    <text>Víte, více si cením svého života než této výzkumné práce...</text>
+    <text>Víš, více si cením svého života než této výzkumné práce...</text>
 </string>
 
 	<string id="stalker_ecolog_convoy_yellow_second_meet_4">
@@ -399,7 +401,7 @@
 	</string>
 
 	<!-- ============================================================================================================-->
-	<!--    Oleksandr Chernenko                                                                                      -->
+	<!--    Oleksandr Chernenko    ****Tady jsem skonèil naposled****                                                -->
 	<!-- ============================================================================================================-->
 
 	<!-- Dialogs strings -->
