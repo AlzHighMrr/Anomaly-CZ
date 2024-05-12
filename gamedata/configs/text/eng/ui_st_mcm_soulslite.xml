@@ -82,7 +82,7 @@
         <text>Ztráta pøedmìtu v %</text>
     </string>
     <string id="ui_mcm_soulslike_items_item_loss_scalar_desc">
-        <text>Na maximální úrovni má vaše postava 75% šanci, že pøi smrti ztratí každý pøedmìt.  Skalár ztráty pøedmìtù vám umožòuje øídit tuto ztrátu podle vašich pøedstav.  Pøi výchozí hodnotì 0,20 (neboli 20 %) by vaše maximální šance na ztrátu každého pøedmìtu byla 15 %.  Mìli byste ji nastavit na hodnotu, která odpovídá vaší pøijatelné úrovni ztráty pøedmìtù. Pøíklady: 0,10 = 7,5 %, 0,20 = 15 %, 0,30 = 22 %, 0,40 = 30 %... už chápete?
+        <text>Na maximální úrovni má vaše postava 75% šanci, že pøi smrti ztratí každý pøedmìt.  Skalár ztráty pøedmìtù vám umožòuje øídit tuto ztrátu podle vašich pøedstav.  Pøi výchozí hodnotì 0,20 (neboli 20 %) by vaše maximální šance na ztrátu každého pøedmìtu byla 15 %.  Mìli byste ji nastavit na hodnotu, která odpovídá vaší pøijatelné úrovni ztráty pøedmìtù. Pøíklady: 0,10 = 7,5 %, 0,20 = 15 %, 0,30 = 22 %, 0,40 = 30 %... už chápete?</text>
     </string>
 
     <string id="ui_mcm_soulslike_items_item_condition_loss_scalar">
