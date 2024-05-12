@@ -5,226 +5,237 @@
 
     <!--General-->
     <string id="ui_mcm_soulslike_general">
-        <text>General</text>
+        <text>Obecné</text>
     </string>
     <string id="ui_mcm_soulslike_general_title">
-        <text>Jabbers' Soulslike Settings</text>
+        <text>Nastavení Soulslike</text>
     </string>
     <string id="ui_mcm_soulslike_general_description">
-        <text>The Soulslike mod brings elements souls style games to Stalker. Upon death your are saved by a random Stalker in the zone. They bring you back to the set last spawn location where you awake to find a message from them about how you were found and the lengths they may have gone to to get you to a safe place. The items that were on your character must be retrieved, some can be lost and condition degraded all depending on settings.</text>
+        <text>Mod Soulslike pøináší do hry Stalker prvky souls stylu. Po smrti vás zachrání náhodný Stalker v zónì. Pøenese vás zpìt na nastavené místo posledního spawnu, kde se probudíte a najdete od nìj zprávu o tom, jak vás našel a jak dlouho možná musel èekat, aby vás dostal na bezpeèné místo. Pøedmìty, které byly na vaší postavì, je tøeba získat zpìt, nìkteré se mohou ztratit a stav se zhorší, vše závisí na nastavení.</text>
      </string>
     <string id="ui_mcm_soulslike_general_disclaimer">
-        <text>DISCLAIMER: Stop crying, this mod is suppose to make the game harder. Because of this it's 100% possible to get yourself into a situation where you unexpectedly lose your gear. Random item loss on death means you could lose your weapons or armor, dying in the middle of an anomaly and not being able to get your gear back is possible and expected.  Always stock a backup kit, plan for the worst, hope for the best.</text>
+        <text>DISCLAIMER: Pøestaòte breèet, tento mod má hru ztížit. Z tohoto dùvodu je 100% možné, že se dostanete do situace, kdy neèekanì pøijdete o své vybavení. Náhodná ztráta pøedmìtù pøi smrti znamená, že mùžete pøijít o zbranì nebo brnìní, zemøít uprostøed anomálie a nemít možnost získat svou výbavu zpìt je možné a oèekávané.  Vždy mìjte v zásobì záložní výbavu, plánujte nejhorší a doufejte v nejlepší.</text>
     </string>
+
 
     <!--Character-->
     <string id="ui_mcm_soulslike_character">
-        <text>Character</text>
+        <text>Postava</text>
     </string>
     <string id="ui_mcm_soulslike_character_title">
-        <text>Character Settings</text>
+        <text>Nastavení postavy</text>
     </string>
     <string id="ui_mcm_soulslike_character_rank_loss_percent">
-        <text>Rank Loss %</text>
+        <text>Ztráta hodnosti v %</text>
     </string>
     <string id="ui_mcm_soulslike_character_rank_loss_percent_desc">
-        <text>This amount of character rank you will lose on respawn.</text>
+        <text>Tento poèet hodností postavy, které ztratíte pøi respawnu.</text>
     </string>
     <string id="ui_mcm_soulslike_character_rep_loss_percent">
-        <text>Reputation Loss %</text>
+        <text>Ztráta reputace v %</text>
     </string>
     <string id="ui_mcm_soulslike_character_rep_loss_percent_desc">
-        <text>This amount of character reputation you will lose on respawn.  This is personal repuation, not faction standing/rep.</text>
+        <text>Toto množství reputace postavy, kterou ztratíte pøi respawnu.  Jedná se o osobní reputaci, nikoli o postavení/reputaci frakce.</text>
     </string>
     <string id="ui_mcm_soulslike_character_health_loss_on_respawn">
-        <text>Health loss % on respawn</text>
+        <text>Ztráta zdraví v % pøi respawnu</text>
     </string>
     <string id="ui_mcm_soulslike_character_health_loss_on_respawn_desc">
-        <text>This add a bit more difficulty to your playthrough. This is the amount of health that will be removed when you respawn.  Example: 25% means you will have 75% health when you respawn.  The concept here is that you would still be slightly injured and requires you to keep some meds around to heal yourself before trying to continue and retrieve your items from where you died.</text>
+        <text>Toto pøidává trochu více obtížnosti pøi hraní. Jedná se o množství zdraví, které vám bude odebráno pøi respawnu.  Pøíklad: 25 % znamená, že pøi respawnu budete mít 75 % zdraví.  Koncept je takový, že budete stále mírnì zranìni a vyžaduje, abyste mìli po ruce nìjaké léky na vyléèení, než se pokusíte pokraèovat a získat své pøedmìty z místa, kde jste zemøeli.</text>
     </string>
+
 
     <!--Items-->
     <string id="ui_mcm_soulslike_items">
-        <text>Items</text>
+        <text>Pøedmìty</text>
     </string>
     <string id="ui_mcm_soulslike_items_title">
-        <text>Item Settings</text>
+        <text>Nastavení pøedmìtù</text>
     </string>
     <string id="ui_mcm_soulslike_items_keep_equipped_items_on_death">
-        <text>Keep Equipped Items On Death</text>
+        <text>Zachovat vybavené pøedmìty pøi smrti</text>
     </string>
     <string id="ui_mcm_soulslike_items_allow_desc">
-        <text>The settings below apply to items dropped on death.  Each of the item types below have a chance to be permanenently lost unless you uncheck them.</text>
+        <text>Níže uvedené nastavení se vztahuje na pøedmìty odhozené pøi smrti.  Každý z níže uvedených typù pøedmìtù má šanci být trvale ztracen, pokud je neodškrtnete.</text>
     </string>
     <string id="ui_mcm_soulslike_items_allow_weapon_loss">
-        <text>Allow Weapon Loss</text>
+        <text>Povolit ztrátu zbranì</text>
     </string>
     <string id="ui_mcm_soulslike_items_allow_outfit_loss">
-        <text>Allow Outfit Loss</text>
+        <text>Povolit ztrátu oblekù</text>
     </string>
     <string id="ui_mcm_soulslike_items_allow_headgear_loss">
-        <text>Allow Headgear Loss</text>
+        <text>Povolit ztrátu pøileb</text>
     </string>
     <string id="ui_mcm_soulslike_items_allow_artifact_loss">
-        <text>Allow Artifact Loss</text>
+        <text>Povolit ztrátu artefaktu</text>
     </string>
     <string id="ui_mcm_soulslike_items_allow_tool_loss">
-        <text>Allow Tools Loss</text>
+        <text>Povolit ztrátu nástrojù</text>
     </string>
+
+
     <string id="ui_mcm_soulslike_items_scalar_description">
-        <text>Item and condition loss are based on your rank. When you die, the higher rank you are the more likely the chance to lose an item or have the condition reduced. This is to make it easier at the beginning of a new game but as you progress the conciquence of death becomes more and more severe.  See the tooltip on each setting for a more detailed explination.</text>
+        <text>Ztráty pøedmìtù a stavù jsou založeny na vaší hodnosti. Když zemøeš, èím vyšší hodnost máš, tím vìtší je pravdìpodobnost, že pøijdeš o pøedmìt nebo se ti sníží stav. Je to proto, aby to bylo na zaèátku nové hry jednodušší, ale s postupem ve høe se následky smrti stávají stále závažnìjšími.  Podrobnìjší vysvìtlení najdete v nápovìdì u každého nastavení.</text>
      </string>
     <string id="ui_mcm_soulslike_items_item_loss_scalar">
-        <text>Item loss scalar</text>
+        <text>Ztráta pøedmìtu v %</text>
     </string>
     <string id="ui_mcm_soulslike_items_item_loss_scalar_desc">
-        <text>At max rank your character has a 75% chance to lose each item on death.  The Item loss scalar allows you to manage that loss to your liking.  At the default value of 0.20 (or 20%) your maximum loss chance per item would be 15%.  You should set this to a value that suits your accetable level of item loss. Examples: 0.10 = 7.5%, 0.20 = 15%, 0.30 = 22%, 0.40 = 30%... you get the idea yet?</text>
+        <text>Na maximální úrovni má vaše postava 75% šanci, že pøi smrti ztratí každý pøedmìt.  Skalár ztráty pøedmìtù vám umožòuje øídit tuto ztrátu podle vašich pøedstav.  Pøi výchozí hodnotì 0,20 (neboli 20 %) by vaše maximální šance na ztrátu každého pøedmìtu byla 15 %.  Mìli byste ji nastavit na hodnotu, která odpovídá vaší pøijatelné úrovni ztráty pøedmìtù. Pøíklady: 0,10 = 7,5 %, 0,20 = 15 %, 0,30 = 22 %, 0,40 = 30 %... už chápete?
     </string>
-    
+
     <string id="ui_mcm_soulslike_items_item_condition_loss_scalar">
-        <text>Item condition loss scalar</text>
+        <text>Ztráta stavu položky</text>
     </string>
     <string id="ui_mcm_soulslike_items_item_condition_loss_scalar_desc">
-        <text>At max rank your character will lose 18 condition on each item on death.  The Item condition loss scalar allows you to manage that loss to your liking.  At the default value of 0.05 (or 5%) your maximum condition loss per item would be 3.7.  You should set this to a value that suits your accetable level of item condition loss. Examples: 0.05 = 3.7, 0.10 = 7.4, 0.15 = 11... you get the idea yet?</text>
+        <text>Na maximální úrovni ztratí vaše postava pøi smrti 18 kondic na každém pøedmìtu.  Skalár ztráty kondice pøedmìtu vám umožòuje øídit tuto ztrátu podle vašich pøedstav.  Pøi výchozí hodnotì 0,05 (neboli 5 %) by vaše maximální ztráta kondice na pøedmìt byla 3,7.  Mìli byste ji nastavit na hodnotu, která odpovídá vaší pøijatelné úrovni ztráty stavu pøedmìtu. Pøíklady: 0,05 = 3,7, 0,10 = 7,4, 0,15 = 11... už chápete, o co jde?</text>
     </string>
     
+
     <!--Scenarios-->
     <string id="ui_mcm_soulslike_scenarios">
-        <text>Scenarios</text>
+        <text>Scénáøe</text>
      </string>
     <string id="ui_mcm_soulslike_scenarios_title">
-        <text>Scenario Settings</text>
+        <text>Nastavení scénáøe</text>
     </string>
     <string id="ui_mcm_soulslike_scenarios_description">
-        <text>Soulslike scenarios are dynamic by nature.  Respawn events occur based on who killed you, how you were killed, where, how close to your spawn you are when you died, whether you are inside or outside, just to name a few.  These settings exist to allow you to customize the ways you want to try and recover your gear.  The default scenario's that always exist are that you may end up having all of your items on you on respawn (again, based on events), or you may find that your items are in a backpack on the ground where your body was found.  The options below are in addition to those and weight can be changed to make them more or less frequent.</text>
+        <text>Scénáøe podobné souls jsou ze své podstaty dynamické.  Události znovuzrození se objevují na základì toho, kdo vás zabil, jak jste byli zabiti, kde, jak blízko spawnu jste se nacházeli, když jste zemøeli, zda jste uvnitø nebo venku, a to je jen nìkolik pøíkladù.  Tato nastavení existují proto, abyste si mohli pøizpùsobit zpùsoby, jakými se chcete pokusit obnovit své vybavení.  Výchozí scénáøe, které vždy existují, jsou takové, že pøi respawnu mùžete mít všechny své pøedmìty u sebe (opìt na základì událostí), nebo mùžete zjistit, že vaše pøedmìty jsou v batohu na zemi, kde bylo nalezeno vaše tìlo.  Níže uvedené možnosti jsou doplòkem k tìmto možnostem a jejich váhu lze zmìnit tak, aby se vyskytovaly èastìji nebo ménì èasto.</text>
      </string>
     <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight">
-        <text>RF Detector Scenario Weight.</text>
+        <text>Scénáø RF detektoru.</text>
      </string>
+
     <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
-        <text>As an extra layer of difficulty and to just mix things up a bit, when this scenario is used it your rescuer will move all your items to a hidden stash on the same map where you were found.  They will tell you the RF freqency to listen to to track down your gear, and also leave you a note in your inventory as a reminder.</text>
+        <text>Jako další vrstva obtížnosti a jen pro zpestøení situace, pøi použití tohoto scénáøe váš zachránce pøesune všechny vaše pøedmìty do skryté skrýše na stejné mapì, kde jste byli nalezeni.  Øekne vám, jakou rádiovou frekvenci máte poslouchat, abyste své vybavení vypátrali, a také vám v inventáøi zanechá poznámku jako pøipomínku.</text>
      </string>
     <string id="ui_mcm_soulslike_scenarios_hidden_stash_scenario_weight">
-        <text>Hidden Stash Scenario Weight.</text>
+        <text>Scénáø skryté skrýše.</text>
      </string>
     <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
-        <text>As an extra layer of difficulty and to just mix things up a bit, when this scenario is used it your rescuer will move all your items to a hidden stash and mark it on your PDA.</text>
+        <text>Jako další vrstva obtížnosti a jen pro zpestøení situace, pøi použití tohoto scénáøe váš zachránce pøesune všechny vaše pøedmìty do skryté skrýše a oznaèí ji na vašem PDA.</text>
      </string>
+
+
     <string id="ui_mcm_soulslike_scenarios_looter_npcs_marked">
-        <text>Mark looting NPCs on the PDA</text>
+        <text>Oznaèít NPC co tì vybral na PDA</text>
     </string>
     <string id="ui_mcm_soulslike_scenarios_rf_detector_scenario_weight_desc">
-        <text>When your gear is looted by an NPC, this option will allow you to track them on your PDA.</text>
+        <text>Když vaše vybavení vyrabuje NPC, tato volba vám umožní sledovat je na PDA.</text>
      </string>
 
     <!--Ambush-->
     <string id="ui_mcm_soulslike_ambush">
-        <text>Ambush</text>
+        <text>Pøepad</text>
     </string>
-    <string id="ui_mcm_soulslike_ambush_title">
-        <text>Ambush Settings</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_description">
-        <text>Depending on what has occured in the scenario and what items are on your character, there is a chance for an ambush event to occur where your body was discovered.</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_mutant_ambush_chance">
-        <text>Mutant Ambush Chance</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_boar_ambush">
-        <text>Allow Boar Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_flesh_ambush">
-        <text>Allow Flesh Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_dogs_ambush">
-        <text>Allow Dog Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_cats_ambush">
-        <text>Allow Cat Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_snorks_ambush">
-        <text>Allow Snork Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_bloodsucker_ambush">
-        <text>Allow Blood Sucker Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_burer_ambush">
-        <text>Allow Burer Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_chimera_ambush">
-        <text>Allow Chimera Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_controller_ambush">
-        <text>Allow Controller Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_stalker_ambush_chance">
-        <text>Stalker Ambush Chance</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_stalker_novice_ambush">
-        <text>Allow Novice Stalker Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_stalker_advanced_ambush">
-        <text>Allow Experienced Stalker Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_stalker_veteran_ambush">
-        <text>Allow Master Stalker Ambush</text>
-    </string>
-    <string id="ui_mcm_soulslike_ambush_allow_stalker_sniper_ambush">
-        <text>Allow Sniper Stalker Ambush</text>
-    </string>
+ <string id="ui_mcm_soulslike_ambush_title">
+    <text>Nastavení Pøepadu</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_description">
+    <text>V závislosti na tom, co se stalo ve scénáøi a jaké pøedmìty máte na postavì, existuje šance na událost Pøepadu, kde bylo vaše tìlo objeveno.</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_mutant_ambush_chance">
+    <text>Šance na Mutanty</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_boar_ambush">
+    <text>Povolit Divoèáky</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_flesh_ambush">
+    <text>Povolit Flaksy</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_dogs_ambush">
+    <text>Povolit Psi</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_cats_ambush">
+    <text>Povolit Koèky</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_snorks_ambush">
+    <text>Povolit Snorky</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_bloodsucker_ambush">
+    <text>Povolit Upíry</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_burer_ambush">
+    <text>Povolit Burery</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_chimera_ambush">
+    <text>Povolit Chiméry</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_controller_ambush">
+    <text>Povolit Kontroléry</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_stalker_ambush_chance">
+    <text>Šance na Stalkery</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_stalker_novice_ambush">
+    <text>Povolit Nováèkù Stalkerù</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_stalker_advanced_ambush">
+    <text>Povolit Zkušených Stalkerù</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_stalker_veteran_ambush">
+    <text>Povolit Mistrù Stalkerù</text>
+</string>
+<string id="ui_mcm_soulslike_ambush_allow_stalker_sniper_ambush">
+    <text>Povolit Stalkery Ostøelovaèe</text>
+</string>
+
 
     <!--Hardcore-->
-    <string id="ui_mcm_soulslike_hardcore">
-        <text>Hardcore</text>
-    </string>
-    <string id="ui_mcm_soulslike_hardcore_title">
-        <text>Hardcore Settings</text>
-    </string>
-    <string id="ui_mcm_soulslike_hardcore_save_description">
-        <text>Kind of like slamming your dick in a hard cover book, Hardcore Saves means manual, quick and campfire saves are all disabled and only one save file will ever exist.  Hardcore Saves only allows saving during sleeping and when respawning.  Keep in mind that because only 1 save file will ever exist, its possible to get stuck in a position where progression is tough if you lose all your gear and have no money to heal or eat.</text>
-     </string>
-    <string id="ui_mcm_soulslike_hardcore_is_enabled">
-        <text>Enable Hardcore Saves</text>
-    </string>    
-    <string id="ui_mcm_soulslike_hardcore_override_campfire_hardcore_saves">
-        <text>Allow Campfire Saves w/Hardcore Saves</text>
-    </string>
-    <string id="ui_mcm_soulslike_hardcore_override_campfire_hardcore_saves_desc">
-        <text>Sometimes you need that warm fuzzy feeling of comfort you get by saving often.  This allow saving at campfires, even though hardcore saves is enabled.  Keep in mind that when respawning or sleeping your campfire saves will still be deleted if Hardcore Saves is enabled.</text>
-    </string>
+ <string id="ui_mcm_soulslike_hardcore">
+    <text>Hardcore</text>
+</string>
+<string id="ui_mcm_soulslike_hardcore_title">
+    <text>Nastavení Hardcore</text>
+</string>
+<string id="ui_mcm_soulslike_hardcore_save_description">
+    <text>Jako když zaboucháte svùj penis do tvrdé knihy, Hardcore Uložení znamená, že ruèní, rychlé a ohnivé uložení jsou vypnuty a existovat bude pouze jeden soubor se uložením. Hardcore Uložení umožòuje ukládání pouze bìhem spánku a pøi respawnu. Mìjte na pamìti, že protože bude existovat pouze 1 soubor se uložením, je možné uvíznout v situaci, kde je pokrok obtížný, pokud ztratíte veškeré vybavení a nemáte peníze na léèbu nebo jídlo.</text>
+</string>
+<string id="ui_mcm_soulslike_hardcore_is_enabled">
+    <text>Povolit Hardcore Uložení</text>
+</string>    
+<string id="ui_mcm_soulslike_hardcore_override_campfire_hardcore_saves">
+    <text>Povolit Uložení u ohnì s Hardcore Uložením</text>
+</string>
+<string id="ui_mcm_soulslike_hardcore_override_campfire_hardcore_saves_desc">
+    <text>Nìkdy potøebujete ten teplý a uklidòující pocit, který získáte tím, že ukládáte èasto. Toto umožòuje ukládání u ohnì, i když je povoleno hardcore uložení. Mìjte na pamìti, že když respawnujete nebo spíte, vaše uložení u ohnì bude stále smazáno, pokud je povoleno Hardcore Uložení.</text>
+</string>
+
 
     <!--Debug-->
-    <string id="ui_mcm_soulslike_debug">
-        <text>Developer</text>
-    </string> 
-    <string id="ui_mcm_soulslike_debug_title">
-        <text>Developer Settings</text>
-    </string>    
-    <string id="ui_mcm_soulslike_debug_is_enabled">
-        <text>Debug Mode</text>
-    </string>  
-    <string id="ui_mcm_soulslike_debug_enable_tips">
-        <text>Show PDA Messages</text>
-    </string>    
-    <string id="ui_mcm_soulslike_debug_debug_hidden_stashes">
-        <text>Debug Hidden Stashes</text>
-    </string>
-    <string id="ui_mcm_soulslike_debug_debug_item_loss">
-        <text>Debug Item Loss</text>
-    </string>
-    <string id="ui_mcm_soulslike_debug_debug_the_tarkov_looter">
-        <text>Debug Tarkov Looter</text>
-    </string>
-    <string id="ui_mcm_soulslike_debug_debug_the_noloss_scenario">
-        <text>Debug No Loss Scenario</text>
-    </string>
-    <string id="ui_mcm_soulslike_debug_debug_the_default_scenario">
-        <text>Debug Default Loss Scenario</text>
-    </string>
-    <string id="ui_mcm_soulslike_debug_debug_the_rf_scenario">
-        <text>Debug RF Detector Scenario</text>
-    </string>
-    <string id="ui_mcm_soulslike_debug_debug_the_hidden_stash_scenario">
-        <text>Debug Hidden Stash Scenario</text>
-    </string>
+   <string id="ui_mcm_soulslike_debug">
+    <text>Vývojáø</text>
+</string> 
+<string id="ui_mcm_soulslike_debug_title">
+    <text>Nastavení Vývojáøe</text>
+</string>    
+<string id="ui_mcm_soulslike_debug_is_enabled">
+    <text>Režim Debugování</text>
+</string>  
+<string id="ui_mcm_soulslike_debug_enable_tips">
+    <text>Zobrazit Zprávy PDA</text>
+</string>    
+<string id="ui_mcm_soulslike_debug_debug_hidden_stashes">
+    <text>Debugovat Skrytá Úkryty</text>
+</string>
+<string id="ui_mcm_soulslike_debug_debug_item_loss">
+    <text>Debugovat Ztrátu Pøedmìtù</text>
+</string>
+<string id="ui_mcm_soulslike_debug_debug_the_tarkov_looter">
+    <text>Debugovat Loupeže z Tarkova</text>
+</string>
+<string id="ui_mcm_soulslike_debug_debug_the_noloss_scenario">
+    <text>Debugovat Scénáø Bez Ztrát</text>
+</string>
+<string id="ui_mcm_soulslike_debug_debug_the_default_scenario">
+    <text>Debugovat Výchozí Scénáø Ztrát</text>
+</string>
+<string id="ui_mcm_soulslike_debug_debug_the_rf_scenario">
+    <text>Debugovat Scénáø s RF Detektorem</text>
+</string>
+<string id="ui_mcm_soulslike_debug_debug_the_hidden_stash_scenario">
+    <text>Debugovat Scénáø Skrytých Úkrytù</text>
+</string>
+
 </string_table>
