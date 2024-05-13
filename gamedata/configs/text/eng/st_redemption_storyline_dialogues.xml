@@ -116,7 +116,7 @@
 	<text>Ano, jsem jeho pøítel, nìjaký èas jsme spolu po Zónì pobíhali. Má tady dùležitou zprávu z druhé strany, ale nemohou ho kontaktovat, tak mì požádali, abych ho našel. Stalkeøi øekli, že ho naposledy vidìli tady.</text>		
 </string>
 <string id="st_redemption_2_barman_4">
-	<text>No stejnì ti s tím asi moc nepomùžu. Pøišel sem docela veselý, hostil spoustu lidí, øíkal mi, že našel nìjaké dùležité dokumenty. Prohlídl jsem si je trochu, zatímco všichni pili, porovnal jsem je se svými objednávkami a øekl jsem mu, že ty jeho papíry nikdo nepotøebuje, ale že jsem ochoten je koupit za malý peníz. On se rozèílil, jak tìžko bylo dostat tyhle dokumenty, a že ho nìkdo snaží okrást, takže mùj strážce ho musel vyhodit ven spolu s jeho nesmysly.Øíkají, že druhý den ráno odešel smìrem k Hromadì a už jsme ho tady nevidìli. Asi šel zkusit prodat je nìkomu jinému.</text>
+	<text>No stejnì ti s tím asi moc nepomùžu. Pøišel sem docela veselý, hostil spoustu lidí, øíkal mi, že našel nìjaké dùležité dokumenty. Prohlídl jsem si je trochu, zatímco všichni pili, porovnal jsem je se svými objednávkami a øekl jsem mu, že ty jeho papíry nikdo nepotøebuje, ale že jsem ochoten je koupit za malý peníz. On se rozèílil, jak tìžko bylo dostat tyhle dokumenty, a že ho nìkdo snaží okrást, takže mùj strážce ho musel vyhodit ven spolu s jeho nesmysly.Øíkají, že druhý den ráno odešel smìrem ke Smetišti a už jsme ho tady nevidìli. Asi šel zkusit prodat je nìkomu jinému.</text>
 </string>
 <string id="st_redemption_2_barman_5">
 	<text>Rozumím, dìkuji za informace.</text>		
@@ -128,14 +128,14 @@
 	<text>Øíkáš, že není složitý? Dobøe, povìz, co mám udìlat.</text>		
 </string>
 <string id="st_redemption_2_barman_8">
-	<text>Jen bez zbyteèných otázek, ano? Alkoholu je tady nedostatek, a další dodávka bude až za týden. Zatím jsem se domluvil na koupi jednoho bedýnky s nìkým, kdo sem ale nemùže dorazit. Všechno je už zaplacené, tobì jen bude staèit se s nimi setkat na Høbitovì techniky, vzít zboží a pøinést mi ho. Hned ti øíkám, že bedna je tìžká.</text>
+	<text>Jen bez zbyteèných otázek, jasný? Alkoholu je tady nedostatek, a další dodávka bude až za týden. Zatím jsem se domluvil na koupi jedné bedýnky s nìkým, kdo sem ale nemùže dorazit. Všechno je už zaplacené, tobì jen bude staèit se s nimi setkat na Høbitovì aut, vzít zboží a pøinést mi ho. Hned ti øíkám, že bedna je tìžká.</text>
 </string>
 <string id="st_redemption_2_barman_9">
 	<text>Zní to podezøele, ale souhlasím.</text>		
 </string>
 
 <string id="st_redemption_2_bandit_1">
-	<text>Proè tady potøebuješ krabici s vodkou?</text>		
+	<text>Proè jsi tady potøebuješ snad nìjakou krabici s vodkou?</text>		
 </string>
 <string id="st_redemption_2_bandit_2">
 	<text>Ano.</text>		
@@ -153,7 +153,7 @@
 	<text>Barman øekl, že už je vše zaplaceno. Nemùžeš to potvrdit u svých lidí?</text>		
 </string>
 <string id="st_redemption_2_bandit_7">
-	<text>Poèkej, zùstaò tady a nehyb se, jsem nervózní, rozumíš? Mmm, jo, šéf napsal, že je všechno v poøádku. Tak tady máš tu krabici, teï mùžeš jít, když jsem hodnej.</text>		
+	<text>Poèkej, zùstaò tady a nehejbej se, jsem nervózní, rozumíš? Mmm, jo, šéf napsal, že je všechno v poøádku. Tak tady máš tu krabici, teï mùžeš jít, když jsem hodnej.</text>		
 </string>
 <string id="st_redemption_2_bandit_8">
 	<text>[Odejít]</text>	
@@ -198,7 +198,7 @@
 	<text>Co ty víš? Èistý vìdci by je možná vzali, nìco vìdecky vyzkoumali. Mùžu je prodat i Sakharovovi, on zaplatí, co øeknu.</text>		
 </string>
 <string id="st_redemption_2_hare_9">
-	<text>Právì jsem se vrátil od Yantar, na Sakharovovy objednávky, a øeknu ti, že teï jsou tyhle území na jeho seznamu "nejnižší priority". Nemyslíš si, že by si najal nìkoho jiného, kdyby potøeboval nìco dùležitého? Mùžeš se snažit prodat je po celé Zónì, ale neuvidíš moc penìz. Nabízím ti jednoduchou cestu, aniž bys musel nìkam cestovat. Øekni mi rozumnou cenu.</text>	
+	<text>Právì jsem se vrátil od Yantaru, na Sakharovovy objednávky, a øeknu ti, že teï jsou tyhle území na jeho seznamu "nejnižší priority". Nemyslíš si, že by si najal nìkoho jiného, kdyby potøeboval nìco dùležitého? Mùžeš se snažit prodat je po celé Zónì, ale neuvidíš moc penìz. Nabízím ti jednoduchou cestu, aniž bys musel nìkam cestovat. Øekni mi rozumnou cenu.</text>	
 </string>
 <string id="st_redemption_2_hare_10">
 	<text>Mmm, dej mi chvíli na rozmyšlenou...Tak dobøe, øeknìme 15... ne, 20 tisíc.</text>		
@@ -217,7 +217,7 @@
 </string>
 
 	<string id="st_redemption_2_hare_14">
-		<text>Mám s sebou jen kopie nìkolika stránek odtamtud, abych je pøedal obchodníkùm, samotné dokumenty jsem ukryl na smetišti hned za hangárem, bude tam dodávka a pod sedadlem spolujezdce jsou dokumenty. Stejnì už jsi na cestì zpátky, ne? Tam venku je spousta uší, víš, a spousta svrbících rukou. \n\nJá jen... Nejspíš jsem trochu lhal o tom, kde jsem je našel, a taky o kamarádovi, kterého jsem ztratil. Každopádnì jsem je našel v prùmyslové zónì, ale na okraji, u benzinové pumpy. Jednou jsme sedìli v Baru a jeden kámoš z firmy se s námi podìlil o to, jak se dostat do prùmyslové zóny. Rozhodl jsem se, že se ráno trochu porozhlédnu, nová místa, zajímavá, a kdybych náhodou cestou nìco našel. Šel jsem pøes Høbitov nákladních aut, není to daleko a po cestì skoro nikdy nejsou žádná zvíøata. Vyšel jsem k benzínce v Prùmyslové zónì, prohlédl si pár aut, v pøihrádce jednoho auta jsem našel tyhle dokumenty, pak jsem nedaleko uslyšel štìkot a rozhodl se, že je èas vrátit se.\nAle prostì jsem mìl pocit, že v tìch dokumentech jsou nìjaké dùležité informace a že stojí za ty peníze. </text>		
+		<text>Mám s sebou jen kopie nìkolika stránek odtamtud, abych je pøedal obchodníkùm, samotné dokumenty jsem ukryl na Smetišti hned za hangárem, bude tam dodávka a pod sedadlem spolujezdce jsou dokumenty. Stejnì už jsi na cestì zpátky, ne? Tam venku je spousta uší, víš, a spousta svrbících rukou. \n\nJá jen... Nejspíš jsem trochu lhal o tom, kde jsem je našel, a taky o kamarádovi, kterého jsem ztratil. Každopádnì jsem je našel v prùmyslové zónì, ale na okraji, u benzinové pumpy. Jednou jsme sedìli v Baru a jeden kámoš z firmy se s námi podìlil o to, jak se dostat do prùmyslové zóny. Rozhodl jsem se, že se ráno trochu porozhlédnu, nová místa, zajímavá, a kdybych náhodou cestou nìco našel. Šel jsem pøes Høbitov nákladních aut, není to daleko a po cestì skoro nikdy nejsou žádná zvíøata. Vyšel jsem k benzínce v Prùmyslové zónì, prohlédl si pár aut, v pøihrádce jednoho auta jsem našel tyhle dokumenty, pak jsem nedaleko uslyšel štìkot a rozhodl se, že je èas vrátit se.\nAle prostì jsem mìl pocit, že v tìch dokumentech jsou nìjaké dùležité informace a že stojí za ty peníze. </text>		
 	</string>
 
 <string id="st_redemption_2_hare_15">
