@@ -6,6 +6,14 @@
 Pistols and MP's
 -->
 
+	<string id="ext_mag_kriss_drum">
+		<text>Bubnový zásobník pro Vector Kriss</text>
+	</string>
+	<string id="ext_mag_kriss_drum_descr">
+		<text>Bubnový zásobník ráže .45 s kapacitou 40 nábojù.
+		</text>
+	</string>
+
 	<string id="st_mag_sr1m_9x21">
 		<text>Standardní zásobník SR1M 9x21</text>
 	</string>

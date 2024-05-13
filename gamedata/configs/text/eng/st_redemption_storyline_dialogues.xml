@@ -304,7 +304,7 @@
 </string>
 
 <string id="st_redemption_3_hare_1">
-    <text>Ahoj, znovu tu. Co tady dìláš?</text>
+    <text>Ahoj, znovu ty. Co tady dìláš?</text>
 </string>
 <string id="st_redemption_3_hare_2">
     <text>Stále jsem na pokynech vìdcù, a ty?</text>
@@ -324,10 +324,10 @@
 
 
 <string id="st_redemption_3_monolith_news_1">
-    <text>Bratøe Vakhare, to znovu není on.</text>
+    <text>Bratøe Vakhare, to není on.</text>
 </string>
 <string id="st_redemption_3_monolith_news_2">
-    <text>Zabij nevìøící a pokraèujme ve vyhledávání.</text>
+    <text>Zabij ty nevìøící a pokraèujme ve hledávání.</text>
 </string>
 
 <string id="st_redemption_3_illeon_news_1">
@@ -337,7 +337,7 @@
     <text>Ty... kdo...?</text>
 </string>
 <string id="st_redemption_3_illeon_news_3">
-    <text>Podle žetonu mì zvou Illeon.</text>
+    <text>Podle žetonu mi øikají Illeon.</text>
 </string>
 <string id="st_redemption_3_illeon_news_4">
     <text>Ž... žeton...?</text>
@@ -350,7 +350,7 @@
     <text>Bolí mì celé tìlo...</text>
 </string>
 <string id="st_redemption_3_illeon_3">
-    <text>Není se èemu divit, vypadáš, jako bys byl propíchnutý když jsem tì sem táhnul.</text>
+    <text>Není se èemu divit, vypadals, jako bys byl propíchnutý když jsem tì sem táhnul.</text>
 </string>
 <string id="st_redemption_3_illeon_4">
     <text>A kam sem? A proè máš jejich uniformu? Kdo vlastnì jsi?</text>
@@ -362,16 +362,16 @@
     <text>Myslíš si? Nevíš?</text>
 </string>
 <string id="st_redemption_3_illeon_7">
-    <text>Vypadáš nevalnì, ale mìl bys ještì chvíli odpoèinout.</text>
+    <text>Vypadáš slabì, ale mìl bys ještì chvíli odpoèinout.</text>
 </string>
 <string id="st_redemption_3_illeon_8">
     <text>Jsem v poøádku. Odpovìz, co to tu bylo a kdo jsi?</text>
 </string>
 <string id="st_redemption_3_illeon_9">
-    <text>Pravdìpodobnì tì sledovali, stejnì jako ty vìdce. Co se týèe toho, kdo jsem... Nezpomínám si.</text>
+    <text>Pravdìpodobnì tì sledovali, stejnì jako ty vìdce. Co se týèe toho, kdo jsem... Nevzpomínám si.</text>
 </string>
 <string id="st_redemption_3_illeon_10">
-    <text>Celé to nezpomínáš?</text>
+    <text>Celé to nevzpomínáš?</text>
 </string>
 <string id="st_redemption_3_illeon_11">
     <text>Poslední, co si pamatuji, je, že jsem šel po cestì nìkde uprostøed této oblasti. A pak... jsem se probudil... A všechno, co bylo pøed tím, prostì zmizelo z pamìti.\n
@@ -387,7 +387,7 @@
     <text>A víš, kde pøesnì se nacházíš, nebo aspoò, jaký je teï rok?</text>
 </string>
 <string id="st_redemption_3_illeon_15">
-    <text>Pøibližnì... Když vidím nebo slyším nìco známého, nìkdy si to mohu vzpomenout. Mutanti okolo mi tøeba pomohli témìø okamžitì si vzpomenout, kde jsem. Jinak bych skonèil v nìjaké anomálii.\n
+    <text>Pøibližnì... Když vidím nebo slyším nìco známého, nìkdy si mohu vzpomenout. Mutanti okolo mi tøeba pomohli témìø okamžitì si vzpomenout, kde jsem. Jinak bych skonèil v nìjaké anomálii nebo v nìèím žalùdku.\n
     \nAle nevzpomínám si na celou oblast, jen nìkolik míst, a i ty ne zcela pøesnì.</text>
 </string>
 <string id="st_redemption_3_illeon_16">
@@ -402,7 +402,7 @@
 </string>
 
 <string id="st_redemption_3_illeon_19">
-    <text>Potom jsem uslyšel lidi venku, ale rozhodl jsem se jim neukazovat a sledovat je, když odejdou. Bylo slyšet mnoho vìcí skrz díru v podlaze. Zaèali prohlížet stanici a neustále si stìžovali na nìjakého profesora. Za pár minut jsem slyšel výstøely a køiky.\n
+    <text>Potom jsem uslyšel lidi venku, ale rozhodl jsem se jim neukazovat a sledovat je, než odejdou. Bylo slyšet mnoho vìcí skrz díru v podlaze. Zaèali prohlížet stanici a neustále si stìžovali na nìjakého profesora. Za pár minut jsem slyšel výstøely a køiky.\n
     \nPak jsem slyšel, jak jeden z útoèníkù zaèal vyslýchat ranìného o tom, jak nìco vypnout. Jeho hlas mi pøišel povìdomý, ale nepodaøilo se mi vzpomenout. Ranìný jenom køièel bolestí a tvrdil, že nic neví, a že je jenom strážce. Témìø ho okamžitì zastøelili. Potom útoèníci zmiòovali pár slov, zmínili jméno Illeon a já pochopil, že kromì všeho ostatního mì také hledají.</text>
 </string>
 <string id="st_redemption_3_illeon_20">
@@ -415,10 +415,10 @@
     <text>A proè jsi se potom vrátil a zachránil mì? Mimochodem, díky za to, nikdy jsem ti za to nepodal ruku.</text>
 </string>
 <string id="st_redemption_3_illeon_23">
-    <text>Sledoval jsem stalkerovi, ale ne s úmyslem ho obrat nebo zabít. Nejsem zlodìj nebo maniak jako ti ze stanice. Chtìl jsem pozorovat... Nevím, co za èlovìk to je, a jestli mu mohu dùvìøovat. Je mi líto, že jsem ho nestihl zachránit, všechno se stalo pøíliš rychle...</text>
+    <text>Sledoval jsem stalkera, ale ne s úmyslem ho obrat nebo zabít. Nejsem zlodìj nebo maniak jako ti ze stanice. Chtìl jsem pozorovat... Nevím, co za èlovìka to je, a jestli mu mohu dùvìøovat. Je mi líto, že jsem ho nestihl zachránit, všechno se stalo pøíliš rychle...</text>
 </string>
 <string id="st_redemption_3_illeon_24">
-    <text>A proè bys potøeboval nìjakého stalkeru?</text>
+    <text>A proè bys potøeboval nìjakého stalkera?</text>
 </string>
 <string id="st_redemption_3_illeon_25">
     <text>Co si myslíš, proè jsem stále tady? Nemám tušení, komu mohu dùvìøovat, a komu ne. Kam a jak jít. Dokonce si nepamatuji všechny ty vaše skupiny, a tak když k nìkomu pøistoupíš, tak až pozdìji zjistíš, kdo to je. Potøebuji prùvodce.</text>
@@ -436,14 +436,14 @@
     <text>Nejenom kvùli tomu... Tak co, pomùžeš mi?</text>
 </string>
 <string id="st_redemption_3_illeon_30">
-    <text>Myslím, že tì mohu doprovodit na Jantar. To je alespoò to nejmenší, co mohu udìlat jako odplatu za zachránìný život.</text>
+    <text>Myslím, že tì mohu doprovodit na Yantar. To je alespoò to nejmenší, co mohu udìlat jako odplatu za zachránìný život.</text>
 </string>
 
 <string id="st_redemption_3_illeon_31">
     <text>Díky. Poté, co jsem vidìl, co ti lidé udìlali tobì a tìm vìdcùm, rozhodl jsem se, že by bylo nejlepší nechodit v uniformì jejich skupiny. Proto jsem sundal oblek tvého známého. Nemám zájem o loupež mrtvých lidí, ale nemìl jsem moc jinou volbu.</text>
 </string>
 <string id="st_redemption_3_illeon_32">
-    <text>Zde je to bìžné, mrtvým už to nepotøebují, a ve tvé uniformì nevypadneme mezi ostatními stalkeri.</text>
+    <text>Zde je to bìžné, mrtvý už to nepotøebují, a ve tvé uniformì nepadneme mezi ostatní stalkery.</text>
 </string>
 <string id="st_redemption_3_illeon_33">
     <text>Pøevléknu se, pøinesu ti tvé vìci a pak mùžeme jít.</text>
@@ -461,10 +461,10 @@
 <text>Zdá se, že ne... I když hlavního z nich nazývali Vakhar.</text>
 </string>
 <string id="st_redemption_3_illeon_stalker_3">
-<text>Vakhare...\nVzpomínaje na hlas, který jsem slyšel na stanici, spolu s jeho jménem se zdá, že nìco zaèíná vytávat v pamìti. "Monolit" má zpravodajství, obèas posílají malé skupiny do Zóny, Vakhar je šéf jejich zpravodajského oddìlení.\n\nNastavení vojákù s vysokým postavením v této skupinì se trochu liší od bìžných vojákù. Nebìží slepì do palby, ale poèítají své šance a rozumí tomu, kdy ustoupit. Nejprve jsem ho chtìl dostihnout a ukonèit to všechno, ale pak jsem vidìl, že jsi stále naživu. Navíc na jeho místo stejnì pøijdou další...</text>
+<text>Vakhare...\nVzpomínaje na hlas, který jsem slyšel na stanici, spolu s jeho jménem se zdá, že nìco zaèíná vytávat v pamìti. "Monolit" má nìco jako rozvìdku, obèas posílají malé skupinky do Zóny, Vakhar je šéf jejich té jejich rozvìdky.\n\nSestavení vojákù s vysokým postavením v této skupinì se trochu liší od bìžných vojákù. Nebìží slepì do støelby, ale poèítají své šance a rozumí tomu, kdy ustoupit. Nejprve jsem ho chtìl dostihnout a ukonèit to všechno, ale pak jsem vidìl, že jsi stále naživu. Navíc na jeho místo stejnì by pøišli další...</text>
 </string>
 <string id="st_redemption_3_illeon_stalker_4">
-<text>Je to docela divné, že znáš takové podrobnosti o tìchto fanatikách. Øekl bych, že jsi jedním z nich, ale zdáš se být zdravým rozumem, a takových tam rozhodnì není. Zatím to nerozumím.</text>
+<text>Je to docela divné, že znáš takové podrobnosti o tìchto fanatikách. Øekl bych, že jsi jedním z nich, ale zdáš se být zdravým rozumem, a takových tam rozhodnì není. Zatím tomu nerozumím.</text>
 </string>
 <string id="st_redemption_3_illeon_stalker_5">
 <text>Stejnì jako já, takže potøebujeme dostat k vašim vìdcùm.</text>
@@ -473,7 +473,7 @@
 <text>Dobøe, pojïme.</text>
 </string>
 
-Here is the translation of the provided text into Czech:
+
 
 <string id="st_redemption_3_yantar_1">
 <text>Tady s tebou chce mluvit jeden èlovìk.</text>
@@ -482,19 +482,19 @@ Here is the translation of the provided text into Czech:
 <text>Ah, tady jsi. Zaèalo mi být divné, že se tak dlouho neozýváš a nevracíš se pro platbu. Podle tvého vzhledu to vypadá, že jsi mìl nìjaké potíže?</text>
 </string>
 <string id="st_redemption_3_yantar_3">
-<text>Nìjaké potíže? Tam mì témìø zabili! Nestihl jsem dostat se ze stanice a ocitl se pod palbou monolitovcù, kteøí se objevili za rohem. Pøedtím pravdìpodobnì vyvraždili i vaše vìdce. Øeknu ti, že mì tam zase nepotáhneš.</text>
+<text>Nìjaké potíže? Témìø mì tam zabili! Nestihl jsem dostat se ze stanice a ocitl se pod palbou Monolitù, kteøí se objevili za rohem. Pøedtím pravdìpodobnì vyvraždili i vaše vìdce. Øeknu vám, že mì tam zase nepotáhnete.</text>
 </string>
 <string id="st_redemption_3_yantar_4">
-<text>Velmi mì to mrzí...\nHm, mluvíš o skupinì "Monolit"? Zajímavé, jaké by mohli mít zájmy v této oblasti. Podle mého vìdomí je severní prùchod zcela zablokován anomálními poli, což znamená, že museli projít Rudžm lesem a Armádními sklady.\n\nDíky za informace. V budoucnu pošlu tam sjednocené skupiny složené z nejzkušenìjších najatých pracovníkù... Poèkej, nechali tì tam jen tak zranìného a odešli?</text>
+<text>Velmi mì to mrzí...\nHm, mluvíš o skupinì "Monolit"? Zajímavé, jaké by mohli mít zájmy v této oblasti. Podle mého vìdomí je severní prùchod zcela zablokován anomálními poli, což znamená, že museli projít Rudým lesem a Armádními sklady.\n\nDíky za informace. V budoucnu pošlu tam sjednocené skupiny složené z nejzkušenìjších pracovníkù... Poèkej, nechali tì tam jen tak zranìného a odešli?</text>
 </string>
 <string id="st_redemption_3_yantar_5">
-<text>Ne, zachránil mì tenhle stalker. Pøestøílel vìtšinu jejich oddílu, a pak jsem se probudil s obvázanými ranami v nedalekém tunelu. Øíká, že tì chce vidìt, protože si na nic nevzpomíná.</text>
+<text>Ne, zachránil mì tenhle stalker. Pøestøílel vìtšinu jejich oddílu, a pak jsem se probudil s obvázanými ranami v nedalekém tunelu. Øíká, že vás chce vidìt, protože si na nic nevzpomíná.</text>
 </string>
 <string id="st_redemption_3_yantar_6">
 <text>Ale my jsme fyzici, ne neurologové, a navíc máme dost práce i tak. S pøípady amnézie je lepší obrátit se na nìkoho jiného.</text>
 </string>
 <string id="st_redemption_3_yantar_7">
-<text>Když mì potkal, mìl na sobì monolitovský oblek. Navíc si na cestì zaèal vzpomínat na podrobnosti, které obyèejný stalker nemohl vìdìt. Prostì si s ním promluv.</text>
+<text>Když mì potkal, mìl na sobì oblek Monolitù. Navíc si na cestì zaèal vzpomínat na podrobnosti, které obyèejný stalker nemohl vìdìt. Prostì si s ním promluv.</text>
 </string>
 <string id="st_redemption_3_yantar_8">
 <text>Dobøe, jako gesto vdìènosti vùèi vìdeckému spoleèenství udìlám tentokrát výjimku.</text>
