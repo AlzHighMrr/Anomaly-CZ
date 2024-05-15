@@ -12,7 +12,7 @@
 	<string id="st_bandage_descr">
 		<text>Hemostatické škrtidlo je pojmenováno po Friedrichu Augustu von Esmarchovi, který navrhl jeho použití spolu s dalšími metodami ve vojenské polní chirurgii.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_blue] Trvale léèí %c[ui_gray_2] H%c[d_blue] 20% %c[ui_gray_2] T%c[d_blue] 20% %c[ui_gray_2] L%c[d_blue] 20% %c[ui_gray_2] A%c[d_blue] 20%\n
+		%c[d_blue] - %c[d_blue] Trvale léèí %c[ui_gray_2] HLAVA%c[d_blue] 20% %c[ui_gray_2] TÌLO%c[d_blue] 20% %c[ui_gray_2] NOHY%c[d_blue] 20% %c[ui_gray_2] RUCE%c[d_blue] 20%\n
 		%c[d_blue] - %c[ui_gray_2] Malé trvalé hojení všech èástí tìla\n
 		%c[pda_green] - %c[ui_gray_2] rychlé použití (náplast)\n
 		</text>
@@ -24,7 +24,7 @@
 	<string id="st_bandage_army_descr">
 		<text>Elastický armádní obvaz používaný k zastavení krvácení a prevenci infekce ran. Pøi pravidelném krvácení obvaz opatrnì pøiložte na ránu. Pøi tepenném krvácení obvaz urychlenì ovažte kolem postiženého místa.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_blue] Trvale hojí %c[ui_gray_2] H%c[d_blue] 20% %c[ui_gray_2] T%c[d_blue] 20% %c[ui_gray_2] L%c[d_blue] 20% %c[ui_gray_2] A%c[d_blue] 20%\n
+		%c[d_blue] - %c[d_blue] Trvale hojí %c[ui_gray_2] HLAVA%c[d_blue] 20% %c[ui_gray_2] TÌLO%c[d_blue] 20% %c[ui_gray_2] NOHY%c[d_blue] 20% %c[ui_gray_2] RUCE%c[d_blue] 20%\n
 		%c[d_blue] - %c[ui_gray_2] Malé trvalé hojení všech èástí tìla\n
 		%c[pda_green] - %c[ui_gray_2] rychlé použití (náplast)\n
 		</text>
@@ -36,7 +36,7 @@
 	<string id="st_akvatab_descr">
 		<text>Je lék ze skupiny nesteroidních protizánìtlivých léèiv (NSAID), který se používá k léèbì bolesti, horeèky a zánìtu.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] H%c[d_red] 40% %c[ui_gray_2]T%c[d_red] 40% %c[ui_gray_2]A%c[d_red] 40% %c[ui_gray_2]L%c[d_red] 40% \n
+		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] HLAVA%c[d_red] 40% %c[ui_gray_2]TÌLO%c[d_red] 40% %c[ui_gray_2]RUCE%c[d_red] 40% %c[ui_gray_2]NOHY%c[d_red] 40% \n
 		%c[d_blue] - %c[ui_gray_2] Malé doèasné léèení všech èástí tìla\n
 		%c[d_blue] - %c[ui_gray_2] léky proti bolesti\n
 		%c[pda_green] - %c[ui_gray_2] bonus k prùmìrné odolnosti proti poškození\n
@@ -98,7 +98,7 @@
 	<string id="st_jgut_descr">
 		<text>Kompaktní chirurgická souprava pro ošetøení støelných a jiných vážných poranìní.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2]T%c[d_blue] 100% \n
+		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] HLAVA%c[d_blue] 100% %c[ui_gray_2]TÌLO%c[d_blue] 100% \n
 		%c[d_blue] - %c[ui_gray_2] Úplné doèasné uzdravení hlavy a trupu\n
 		%c[d_blue] - %c[ui_gray_2] chirurgická položka\n
 		%c[d_blue] - %c[ui_gray_2] importováno\n
@@ -114,7 +114,7 @@
 	<string id="st_surginst_descr">
 		<text>Malá varianta chirurgického nástroje, které jsou v zónì bìžné. Používají se k výrobì soupravy Surv12 a soupravy CMS. Lze je použít pøímo, ale bude vyžadovat obvaz a nástroje již nejsou sterilní. Lze je tedy použít pouze jednou.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] H%c[d_blue] 25% %c[ui_gray_2]T%c[d_blue] 25% %c[ui_gray_2]A%c[d_blue] 10% %c[ui_gray_2]L%c[d_blue] 10% \n
+		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] HLAVA%c[d_blue] 25% %c[ui_gray_2]TÌLO%c[d_blue] 25% %c[ui_gray_2]RUCE%c[d_blue] 10% %c[ui_gray_2]NOHY%c[d_blue] 10% \n
 		%c[d_blue] - %c[ui_gray_2] Malé doèasné léèení všech èástí tìla\n
 		%c[d_blue] - %c[ui_gray_2] pøedmìt k výrobì\n
 		%c[d_blue] - %c[ui_gray_2] chirurgický pøedmìt\n
@@ -130,7 +130,7 @@
 	<string id="st_yadylin_descr">
 		<text>Komplexní a všestranné antibiotikum používané k léèbì bakteriálních infekcí.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] H%c[d_red] 40% %c[ui_gray_2]T%c[d_red] 40% %c[ui_gray_2]A%c[d_red] 40% %c[ui_gray_2]L%c[d_red] 40% \n
+		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] HLAVA%c[d_red] 40% %c[ui_gray_2]TÌLO%c[d_red] 40% %c[ui_gray_2]RUCE%c[d_red] 40% %c[ui_gray_2]NOHY%c[d_red] 40% \n
 		%c[d_blue] - %c[ui_gray_2] Malé doèasné léèení všech èástí tìla\n
 		%c[d_blue] - %c[ui_gray_2] medicína\n
 		%c[d_blue] - %c[ui_gray_2] importované\n
@@ -147,7 +147,7 @@
 	<string id="st_medkit_descr">
 		<text>IFAK je osobní zdravotnická souprava vydávaná vojákùm ve službì. Jedná se o oficiální lékárnièku v rámci IFAK (Individual First Aid Kit of the United States Marine Corps) námoøní pìchoty USA. Nejnovìjší, tøetí generace (gen3), nejlépe navržená a obsahovì nejbohatší.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_blue] Trvalé léèení %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[d_blue] Trvalé léèení %c[ui_gray_2] HLAVA%c[d_blue] 100% %c[ui_gray_2] TÌLO%c[d_blue] 100% %c[ui_gray_2] NOHY%c[d_blue] 100% %c[ui_gray_2] RUCE%c[d_blue] 100%\n
 		%c[d_blue] - %c[ui_gray_2] Plné trvalé uzdravení všech èástí tìla\n
 		%c[d_blue] - %c[ui_gray_2] vojenský pøedmìt\n
 		%c[d_red] - %c[ui_gray_2] pomalé používání (polní výstroj)\n
@@ -161,7 +161,7 @@
 	<string id="st_medkit_cheese_descr">
 		<text>Lékárnièka AI-2 byla vyvinuta jako standardní služební lékárnièka pro rùzné obranné a donucovací orgány a civilní obranu SSSR. V pøípadì totálního konfliktu s použitím zbraní hromadného nièení mìla být narušena obyvatelstvu zasažených a okolních oblastí.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_blue] Trvale léèí %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[d_blue] Trvale léèí %c[ui_gray_2] HLAVA%c[d_blue] 100% %c[ui_gray_2] TÌLO%c[d_blue] 100% %c[ui_gray_2] NOHY%c[d_blue] 100% %c[ui_gray_2] RUCE%c[d_blue] 100%\n
 		%c[d_blue] - %c[ui_gray_2] Plné trvalé uzdravení všech èástí tìla\n
 		%c[d_purple] - %c[ui_gray_2] rychlé použití (field kit injector)\n
 		%c[d_blue] - %c[ui_gray_2] vojenský pøedmìt\n
@@ -175,7 +175,7 @@
 	<string id="st_medkit_army_descr">
 		<text>Stejnì jako hasicí pøístroj je autolékárnièka zásadnì dùležitým ochranným opatøením v pøípadì nouze na silnici.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_blue] Trvale léèí %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[d_blue] Trvale léèí %c[ui_gray_2] HLAVA%c[d_blue] 100% %c[ui_gray_2] TÌLO%c[d_blue] 100% %c[ui_gray_2] NOHY%c[d_blue] 100% %c[ui_gray_2] RUCE%c[d_blue] 100%\n
 		%c[d_blue] - %c[ui_gray_2] Plné trvalé uzdravení všech èástí tìla\n
 		%c[d_blue] - %c[ui_gray_2] vojenský pøedmìt\n
 		%c[d_red] - %c[ui_gray_2] pomalé používání (polní výstroj)\n
@@ -189,7 +189,7 @@
 	<string id="st_medkit_science_descr">
 		<text>Sada první pomoci obsahující rùzné druhy obvazù a obvazových pomùcek.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_blue] Trvale léèí %c[ui_gray_2] H%c[d_blue] 100% %c[ui_gray_2] T%c[d_blue] 100% %c[ui_gray_2] L%c[d_blue] 100% %c[ui_gray_2] A%c[d_blue] 100%\n
+		%c[d_blue] - %c[d_blue] Trvale léèí %c[ui_gray_2] HLAVA%c[d_blue] 100% %c[ui_gray_2] TÌLO%c[d_blue] 100% %c[ui_gray_2] NOHY%c[d_blue] 100% %c[ui_gray_2] RUCE%c[d_blue] 100%\n
 		%c[d_blue] - %c[ui_gray_2] Plné trvalé uzdravení všech èástí tìla\n
 		%c[d_blue] - %c[ui_gray_2] hodnotné\n
 		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
@@ -248,7 +248,7 @@
 	<string id="st_morphine_descr">
 		<text>Jednorázová injekèní støíkaèka plná morfinu - silného léku používaného pøedevším k léèbì akutní i chronické silné bolesti.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] H%c[d_red] 100% %c[ui_gray_2]T%c[d_red] 100% %c[ui_gray_2]A%c[d_red] 100% %c[ui_gray_2]L%c[d_red] 100% \n
+		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2] HLAVA%c[d_red] 100% %c[ui_gray_2]TÌLO%c[d_red] 100% %c[ui_gray_2]RUCE%c[d_red] 100% %c[ui_gray_2]NOHY%c[d_red] 100% \n
 		%c[d_modrá] - %c[ui_gray_2] medicína\n
 		%c[d_blue] - %c[ui_gray_2] importováno\n
 		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
@@ -322,7 +322,7 @@
 	<string id="st_antirad_cystamine_descr">
 		<text>Obvyklá dlaha pro fixaci poškozených kostí v polohách jako nouzové pomocné opatøení.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2]A%c[d_red] 40% \n
+		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2]RUCE%c[d_red] 40% \n
 		%c[d_blue] - %c[ui_gray_2] Malé doèasné léèení pro tvé ruce\n
 		%c[d_blue] - %c[ui_gray_2] importováno\n
 		%c[pda_green] - %c[ui_gray_2] rychlé použití\n
@@ -360,7 +360,7 @@
 	<string id="st_antirad_kalium_descr">
 		<text>Obvyklá dlaha pro fixaci poškozených kostí v polohách jako nouzové pomocné opatøení.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2]L%c[d_red] 40% \n
+		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2]NOHY%c[d_red] 40% \n
 		%c[d_blue] - %c[ui_gray_2] Malé doèasné léèení nohou\n
 		%c[d_blue] - %c[ui_gray_2] importováno\n
 		%c[pda_green] - %c[ui_gray_2] rychlé použití\n
@@ -373,7 +373,7 @@
 	<string id="st_survival_kit_eft_descr">
 		<text>Polní chirurgická souprava s dalšími a lepšími nástroji, které vám umožní ošetøit vážná zranìní konèetin pøímo na bojišti.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2]A%c[d_blue] 100% %c[ui_gray_2]L%c[d_blue] 100% \n
+		%c[d_blue] - %c[d_red] Doèasnì léèí %c[ui_gray_2]RUCE%c[d_blue] 100% %c[ui_gray_2]NOHY%c[d_blue] 100% \n
 		%c[d_blue] - %c[ui_gray_2] Úplné doèasné uzdravení všech èástí tìla\n
 		%c[d_blue] - %c[ui_gray_2] chirurgická položka\n
 		%c[d_blue] - %c[ui_gray_2] importováno\n
