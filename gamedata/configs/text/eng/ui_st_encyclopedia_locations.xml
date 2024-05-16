@@ -350,7 +350,7 @@
     </text>
 </string>
 <string id="encyclopedia_locations_pripyat">
-    <text>Pripja</text>
+    <text>Pripyat</text>
 </string>
 <string id="encyclopedia_locations_pripyat_text">
     <text>
@@ -455,18 +455,18 @@
 		\n \n%c[pda_blue]Propojené lokace%c[ui_gray_1]
 		\n- Rostok
 		\n- Smetištì
-		\n- Jantar
+		\n- Yantar
 		\n \n%c[pda_yellow]Trivia%c[ui_gray_1]
 		\n- Sluba chtìla zahrnout Divoké území jako souèást Rostoku u dávno, ale vdycky se zdálo, e na to nemá dostatek lidí.
 		\n- Toto místo je místem hrozného masakru, ke kterému došlo v roce 2012. oldáci pod velením Vlèího psa zlikvidovali velkou skupinu ekologù a jejich strácù, kteøí tudy procházeli, a zanechali pouze dva pøeivší. Vlkodav byl spolu s celım svım tımem brzy zlikvidován v rámci odvety. V dnešní dobì nechávají oldáci ekology vìtšinou na pokoji, a na nìkolik krátkodobıch vıjimek.
 	</text>
 </string>
 <string id="encyclopedia_locations_yantar">
-	<text>Jantar</text>
+	<text>Yantar</text>
 </string>
 <string id="encyclopedia_locations_yantar_text">
 	<text>
-		%c[pda_green]Informace\n%c[ui_gray_1]Legendární jezero Jantar dávno vyschlo a na jeho místì zùstala jen mìlká baina. Toto místo je morbídní a prosycené smrtí, straší zde vìci, které u nejsou lidské. Stopaøi, kteøí se odváí pøíliš blízko komplexu na severu, èasto slyší hlasy, nìkdy zesílí nebo se pøidají k øadám chodících mrtvıch. Vìtšina pøícházejících lidí, kteøí sem pøicházejí, sem pøichází jen proto, aby obchodovali s místními ekology, pøívìtivımi dušemi, které štìdøe platí za vzorky mutantù a artefaktù, mimo jiné za práci.
+		%c[pda_green]Informace\n%c[ui_gray_1]Legendární jezero Yantar dávno vyschlo a na jeho místì zùstala jen mìlká baina. Toto místo je morbídní a prosycené smrtí, straší zde vìci, které u nejsou lidské. Stopaøi, kteøí se odváí pøíliš blízko komplexu na severu, èasto slyší hlasy, nìkdy zesílí nebo se pøidají k øadám chodících mrtvıch. Vìtšina pøícházejících lidí, kteøí sem pøicházejí, sem pøichází jen proto, aby obchodovali s místními ekology, pøívìtivımi dušemi, které štìdøe platí za vzorky mutantù a artefaktù, mimo jiné za práci.
 		\n \n%c[pda_blue]Pøipojené lokality%c[ui_gray_1]
 		\n- Mrtvé mìsto
 		\n- Divoká Oblast
