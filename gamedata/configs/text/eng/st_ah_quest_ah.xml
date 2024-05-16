@@ -453,7 +453,7 @@
 </string>
 
 <string id="ah_juk_quest3_title">
-    <text>Prùzkumníci: Najdi ètyøi anomální vzorky v Pripjati a na pøedmìstí</text>
+    <text>Prùzkumníci: Najdi ètyøi anomální vzorky v Pripyati a na pøedmìstí</text>
 </string>
 <string id="ah_juk_quest3_desc">
     <text>Mìsto Pripjat je pro vìdce prakticky neprùchodné kvùli pøítomnosti Monolitu. Pro dokonèení jejich výzkumu jsou však nezbytné vzorky z anomálií ve mìstì. Musím je najít.</text>
@@ -462,7 +462,7 @@
     <text>Najdi vzorek v anomálii ve Vinì</text>
 </string>
 <string id="ah_p_h1_desc">
-    <text>"Vinì" je nejzajímavìjší anomálie na okraji Pripjati. Mám na ni vylézt a hledat vzorek na vrcholu anomálie.</text>
+    <text>"Vinì" je nejzajímavìjší anomálie na okraji Pripyati. Mám na ni vylézt a hledat vzorek na vrcholu anomálie.</text>
 </string>
 <string id="ah_p_g1_title">
     <text>Najdi vzorek ve škole</text>
@@ -480,7 +480,7 @@
     <text>Najdi vzorek v neoznaèené elektroanomalii</text>
 </string>
 <string id="ah_p_e1_desc">
-    <text>V jižní èásti Pripjati se nachází další neoznaèená anomálie. Mìl bych ji také naskenovat.</text>
+    <text>V jižní èásti Pripyati se nachází další neoznaèená anomálie. Mìl bych ji také naskenovat.</text>
 </string>
   
 <string id="ah_vorobushkin_quest1_title">
@@ -621,16 +621,16 @@
     <text>Potøebuji se informovat o žoldákovi jménem Jizva. Ten starý podvodník Sidoroviè by mìl být schopen nasmìrovat správným smìrem.</text>
 </string>
 <string id="cs_task9_storytask_name">
-    <text>Poslední rozbøesk: Promluvit si se Striderem</text>
+    <text>Poslední rozbøesk: Promluv si se Striderem</text>
 </string>
 <string id="cs_task9_storytask_descr">
-    <text>Musíme dostat dekoder ke Striderovi. Jeho jednotka si zøídila malou operaèní základnu na Jupiteru, na starém kontrolním stanovišti jižnì od stanice Janov.</text>
+    <text>Musíme dostat dekoder ke Striderovi. Jeho jednotka si zøídila malou operaèní základnu V Jupiteru, na starém kontrolním stanovišti jižnì od stanice Janov.</text>
 </string>
 <string id="cs_task11_storytask_name">
     <text>Poslední rozbøesk: Promluv si se Striderem</text>
 </string>
 <string id="cs_task11_storytask_descr">
-    <text>Jizva hlásí, že pøeživší z Jasné Oblohy se možná pøidali k Vyvržencùm monolitu. Jejich vùdce se jmenuje Strider. Jeho jednotka se nachází na Jupiteru na starém kontrolním stanovišti jižnì od stanice Janov. Musím ho najít a zeptat se ho, jestli neví o zmizelých stalkerech z Jasné Oblohy.</text>
+    <text>Jizva hlásí, že pøeživší z Jasné Oblohy se možná pøidali k Vyvržencùm monolitu. Jejich vùdce se jmenuje Strider. Jeho jednotka se nachází V Jupiteru na starém kontrolním stanovišti jižnì od stanice Janov. Musím ho najít a zeptat se ho, jestli neví o zmizelých stalkerech z Jasné Oblohy.</text>
 </string>
 <string id="cs_task10_storytask_name">
     <text>Poslední rozbøesk: Promluv si s Mrázem.</text>
@@ -639,19 +639,19 @@
     <text>Mùj úkol je splnìn. Musím se ohlásit Mrázovy a øíct mu, že jeho muži jsou stále naživu.</text>
 </string>
 <string id="cs_task8_storytask_name">
-    <text>Poslední rozbøesk: Odrazit protiútok</text>
+    <text>Poslední rozbøesk: Odraž protiútok Monolitu</text>
 </string>
 <string id="cs_task8_storytask_name1">
     <text>Poslední rozbøesk: Promluv si s Gamayunem.</text>
 </string>
 <string id="cs_task8_storytask_descr">
-    <text>Podle Vyvržencù mají fanatici v øíèním pøístavu na severovýchodì Pripjati zaøízení na dekódování šifrovaných rozhovorù. Potøebuji ho získat zpìt.</text>
+    <text>Podle Vyvržencù mají fanatici v øíèním pøístavu na severovýchodì Pripyati zaøízení na dekódování šifrovaných rozhovorù. Potøebuji ho získat zpìt.</text>
 </string>
 <string id="cs_task7_storytask_name">
-    <text>Poslední rozbøesk: Zajistit zaøízení</text>
+    <text>Poslední rozbøesk: Zajisti zaøízení</text>
 </string>
 <string id="cs_task7_storytask_descr">
-    <text>Podle Vyvržencù mají fanatici v øíèním pøístavu zaøízení na dekódování zašifrovaných rozhovorù.</text>
+    <text>Podle Vyvržencù mají fanatici v øíèním pøístavu zaøízení na dekódování zašifrovaných rozhovorù. Buïto ho mají u sebe nebo nìkde v nìjaké skrýši poblíž</text>
 </string>
 <string id="cs_task6_storytask_name1">
     <text>Poslední rozbøesk: Promluv si s Gamayunem</text>
@@ -660,7 +660,7 @@
     <text>Poslední rozbøesk: Zachraò ztracený prùzkumný oddíl</text>
 </string>
 <string id="cs_task6_storytask_descr">
-    <text>Ve východní èásti Pripjati, poblíž ubytovny, je uvìznìn oddíl monolitických vyvrhelù. Je mezi nimi i jeden z pøeživších èlenù oddílu Jasné Oblohy. Musím je zachránit, jinak bude má mise zbyteèná.</text>
+    <text>Ve východní èásti Pripyati, poblíž ubytovny, je uvìznìn oddíl monolitických vyvrhelù. Je mezi nimi i jeden z pøeživších èlenù oddílu Jasné Oblohy. Musím je zachránit, jinak bude má mise zbyteèná.</text>
 </string>
 
 
@@ -697,7 +697,7 @@
     <text>Speciální zaøízení pro studium anomálních polí, patøící do skupiny Jasné Oblohy.</text>
 </string>
 <string id="cs_informer_pda_name">
-    <text>Krutèovo PDA</text>
+    <text>Crutchovo PDA</text>
 </string>
 <string id="cs_informer_pda_desc">
     <text>V tomto PDA jsou uloženy zašifrované informace týkající se frakce Jasné Oblohy.</text>
@@ -787,10 +787,10 @@
     <text>Najdi dokumenty v laboratoøi X-8.</text>
 </string>
 <string id="kuznecov_find_document_5_descr">
-    <text>Pokraèuji ve shromažïování všech záhad experimentù v laboratoøi v Zónì pro vojenské velení. Tentokrát mì Kuznìcov posílá na procházku po Pripjati, abych našel jistou laboratoø X-8, která se zøejmì zabývala vytváøením vysoce pøesných zbraní na bázi pulzní energie, a abych odtud získal všechny dùležité dokumenty.</text>
+    <text>Pokraèuji ve shromažïování všech záhad experimentù v laboratoøi v Zónì pro vojenské velení. Tentokrát mì Kuznìcov posílá na procházku po Pripyati, abych našel jistou laboratoø X-8, která se zøejmì zabývala vytváøením vysoce pøesných zbraní na bázi pulzní energie, a abych odtud získal všechny dùležité dokumenty.</text>
 </string>
 <string id="kuznecov_find_document_6">
-    <text>Najdi dokumenty v kobkách Pripjati</text>
+    <text>Najdi dokumenty v kobkách Pripyati</text>
 </string>
 <string id="kuznecov_find_document_6_descr">
     <text>Je tøeba proniknout do tajného objektu "Pripjat-1", který stalkerùm øíká "Pripjatský záø". Potøebuji najít dokumenty o výzkumu, který tam byl proveden.</text>
@@ -807,7 +807,7 @@
 
 <!-- Caaaaei ?a?o yoe oaiaoeeai! -->
 <string id="assault_gen_name">
-    <text>Operace Pomsta Monolitu: Dostaòte se ke generátorùm CNPP</text>
+    <text>Operace Pomsta Monolitu: Dostaò se ke generátorùm CNPP</text>
 </string>
 <string id="assault_gen_descr">
     <text>Nastal èas zaútoèit na generátory CNPP. Setkejte se s vojenským oddílem u Generátoru. Zaujali pozice ve staré vesnici.</text>
