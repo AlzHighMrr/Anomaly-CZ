@@ -241,11 +241,11 @@
     <text>Sinské síly obsadily vìtšinu Limansku. Zavradìním jejich vedení je rozvrátíš.</text>
 </string>
 <string id="lttz_ms_urban_warfare_descr2">
-    <text>Pøemohl jsi Sinské kastigátory. Ohlaste svùj úspìch Rogueovi.</text>
+    <text>Vyèistil jsi Limansk od Høíchù. Ohlas svùj úspìch Tulákovi.</text>
 </string>
 
 <string id="drekavac_notes_name">
-    <text>Drekavacovy poznámky</text>
+    <text>Døekavacovy poznámky</text>
 </string>
 <string id="drekavac_notes_desc">
     <text>"Koneènì, po nìkolika letech nároènıch pøíprav, mùeme pokraèovat v Mistrovì plánu. Je politováníhodné, e nám tolik lidí nevìøí, ale nìkdy slova nestaèí. Jsou zaslepení pøízemními lidskımi touhami. Pokud budou trvat na tom, e budou pokraèovat ve svém násilnickém jednání, budeme s nimi jednat násilím. Moná pak pochopí. Vyrajovo semínko vzkvétá a já jsem tady, abych šíøil ráj dál a dál. Já jsem hrot kopí."</text>
@@ -256,7 +256,7 @@
     <text>Smrtelnı høích: Váleènı zajatec</text>
 </string>
 <string id="lttz_ms_war_prisoner_descr">
-    <text>Rogovi se podaøilo zajmout èlena Sinu. Vyslechni ho a získej uiteèné informace.</text>
+    <text>Tulákovi se podaøilo zajmout èlena Høíchu. Vyslechni ho a získej uiteèné informace.</text>
 </string>
 
 	
@@ -266,7 +266,7 @@
     <text>Smrtelnı høích: Ztracenı kontakt</text>
 </string>
 <string id="lttz_ms_contact_lost_descr">
-    <text>Zvednı tım vyslanı Rogue se nevrátil ze své mise. Prošetøete situaci.</text>
+    <text>Vızvìdnı tım vyslanı Tulákem se nevrátil ze své mise. Prošetøi situaci.</text>
 </string>
 <string id="lttz_ms_contact_lost_descr2">
     <text>Podaøilo se vám získat nìjaké informace od tımu. Vrate se k Tulakovi.</text>
