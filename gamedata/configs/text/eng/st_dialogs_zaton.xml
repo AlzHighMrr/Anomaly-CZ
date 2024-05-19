@@ -2,6 +2,21 @@
 <string_table>
 <!-- 100% -->
 
+<!-- Prostorové Anomálie Noah -->
+	<string id="ask_about_compass_0">
+		<text>Poslouchej, co to bylo vlastnì, tam na tom spáleném statku?</text>
+	</string>
+	<string id="ask_about_compass_1">
+		<text>Jedna z mnoha prostorových anomálií. S jejich pomocí mùžeš v mžiku pøekonat obrovské vzdálenosti, ale musíš být opatrný, nìkdy tì mohou pøesunout na nebezpeèné místo. Teleportaci lze do jisté míry ovládat pomocí artefaktu "Kompas".</text>
+	</string>
+	<string id="ask_about_compass_2">
+		<text>Kompas? O nìèem takovém jsem nikdy neslyšel.</text>	
+	</string>
+	<string id="ask_about_compass_3">
+		<text>A není se èemu divit, protože už dlouho nebyly nalezeny... Ale já jeden mám. Hodnì jsi mi pomohl, takže si ho mùžeš vzít pro sebe jako projev mé vdìènosti.</text>	
+	</string>
+
+
 
 
 <!-- (Mercenary Trader) at the merc base -->
