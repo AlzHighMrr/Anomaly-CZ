@@ -28,14 +28,16 @@
 <string id="drx_sl_cit_killers_merc_trader_stalker_task_1_finish">
 <text>Dobrá práce. Náš klient je spokojený. Dokonce ti pøidal bonus.</text>
 </string>
+
+
 <string id="drx_sl_cit_killers_merc_trader_stalker_task_2_name">
-<text>Útok na banditùv tábor</text>
+<text>Útok na tábor banditù</text>
 </string>
 <string id="drx_sl_cit_killers_merc_trader_stalker_task_2_text">
-<text>Byl jsem najat, abych vedl útok na banditùv tábor v této oblasti.</text>
+<text>Byl jsem najat, abych vedl útok na tábor banditù v této oblasti.</text>
 </string>
 <string id="drx_sl_cit_killers_merc_trader_stalker_task_2_about">
-<text>Bandité se pøestìhovali do této oblasti. Obvykle máme dohodu, ale je to pøíliš blízko na pohodlí. Vezmi si nìkolik mužù a vyèisti je.</text>
+<text>Banditi se pøestìhovali do této oblasti. Obvykle máme dohodu, ale je to pøíliš blízko na pohodlí. Vezmi si nìkolik mužù a vyèisti je.</text>
 </string>
 <string id="drx_sl_cit_killers_merc_trader_stalker_task_2_finish">
 <text>Vynikající práce. Tady, tohle jsi si vydìlal.</text>
@@ -67,6 +69,8 @@
 <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_1_finish">
 <text>Skvìlá práce. Tady je tvùj podíl.</text>
 </string>
+
+
 <string id="drx_sl_cit_killers_merc_mechanic_stalker_task_2_name">
 <text>Vytáhnutí zajatého žoldáka</text>
 </string>
