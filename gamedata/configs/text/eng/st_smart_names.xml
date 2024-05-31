@@ -150,46 +150,46 @@
 </string>
 
 <string id="st_ds_ptr4_name">
-    <text>Darkscape. Opuštìný nákladní vùz</text>
+    <text>Temná kotlina. Opuštìný nákladní vùz</text>
 </string>
 <string id="st_ds2_lager_st_name">
-    <text>Darkscape. Tábor na útesu</text>
+    <text>Temná kotlina. Tábor na útesu</text>
 </string>
 <string id="st_ds2_st_dogs_name">
-    <text>Darkscape. Lesní shromaždištì</text>
+    <text>Temná kotlina. Lesní shromaždištì</text>
 </string>
 <string id="st_ds_grverfer2_name">
-    <text>Darkscape. Shromaždištì u silnice</text>
+    <text>Temná kotlina. Shromaždištì u silnice</text>
 </string>
 <string id="st_ds_ptr2_name">
-    <text>Darkscape. Odpoèinková oblast</text>
+    <text>Temná kotlina. Odpoèinková oblast</text>
 </string>
 <string id="st_ds_deb1_name">
-    <text>Darkscape. Silnièní blokáda</text>
+    <text>Temná kotlina. Silnièní blokáda</text>
 </string>
 <string id="st_ds_kem2_name">
-    <text>Darkscape. Benzínová stanice</text>
+    <text>Temná kotlina. Benzínová stanice</text>
 </string>
 <string id="st_ds2_domik_st_name">
-    <text>Darkscape. Lesní úkryt</text>
+    <text>Temná kotlina. Lesní úkryt</text>
 </string>
 <string id="st_ds_boars_nest_name">
-    <text>Darkscape. Shromaždištì na útesu</text>
+    <text>Temná kotlina. Shromaždištì na útesu</text>
 </string>
 <string id="st_ds2_st_hoofs_name">
-    <text>Darkscape. Místo na zasednutí</text>
+    <text>Temná kotlina. Místo na zasednutí</text>
 </string>
 <string id="st_ds_ptr_name">
-    <text>Darkscape. Zøícený železnièní most</text>
+    <text>Temná kotlina. Zøícený železnièní most</text>
 </string>
 <string id="st_ds_ptr3_name">
-    <text>Darkscape. Radiaktivní kamionové zastávka</text>
+    <text>Temná kotlina. Radiaktivní kamionové zastávka</text>
 </string>
 <string id="st_ds_kem3_name">
-    <text>Darkscape. Malý most</text>
+    <text>Temná kotlina. Malý most</text>
 </string>
 <string id="st_ds_kem1_name">
-    <text>Darkscape. Prùchod temnou údolím</text>
+    <text>Temná kotlina. Prùchod temnou údolím</text>
 </string>
 
 
@@ -1504,7 +1504,7 @@
 	<text>Jižní kontrolní stanovištì (Kordon)</text>
 </string>
 <string id="ui_st_dasc_sawwill">
-	<text>Pila (Darkscape)</text>
+	<text>Pila (Temná kotlina)</text>
 </string>
 <string id="ui_st_l13_generators">
 	<text>Vojenská laboratoø (Generátory)</text>
