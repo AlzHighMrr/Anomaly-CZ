@@ -438,10 +438,10 @@
 
 
 <string id="esc_2_12_stalker_fanat_task_1_name">
-	<text>Zniè doupì mutantù</text>
+	<text>Vypoøádej se s doupìtem mutantù</text>
 </string>
 <string id="esc_2_12_stalker_fanat_task_1_text">
-	<text>S Fanatikem jsem se dohodl, že znièím doupì mutantù kvùli stalkerùm v Kordonu.</text>
+	<text>S Fanatikem jsem se dohodl, že se vypoøádám doupìtem mutantù kvùli bezpeènosti stalkerù v Kordonu.</text>
 </string>
 <string id="esc_2_12_stalker_fanat_task_1_about">
 	<text>Jo, je tu malý problém, který je tøeba vyøešit. Kordon má být jedním z nejbezpeènìjších míst v Zónì, pøesto nedaleko odtud vzniklo nové mutantí doupì. Je tøeba ho vyèistit, než se pøíliš rozroste - jinak zdejší nováèci èekají krušné chvíle. Tak co øíkáš? Udìláš to?</text>
@@ -451,10 +451,10 @@
 </string>
 
 <string id="esc_2_12_stalker_fanat_task_2_name">
-	<text>Najdi artefakt Baterka pro Fanatika</text>
+	<text>Najdi artefakt "Baterka" pro Fanatika</text>
 </string>
 <string id="esc_2_12_stalker_fanat_task_2_text">
-	<text>Fanatik potøebuje artefakt Baterka, aby pomohl nìkterým svým starým pøátelùm uplatit se ze Zóny.</text>
+	<text>Fanatik potøebuje artefakt "Baterka" aby pomohl nìkterým svým starým pøátelùm uplatit se ze Zóny.</text>
 </string>
 <string id="esc_2_12_stalker_fanat_task_2_fetch_about">
 	<text>Takže, tady je ta dohoda. Aby tahle vesnice zùstala bez zásahu místních vojákù, je tøeba udìlat spoustu špinavé práce. Sidoroviè tak udržuje v bezpeèí samotnou vesnici, ale já mám pár pøátel, kteøí chtìjí odejít, a pro nì neexistuje žádná skuteèná cesta ven.\n\nTak je to s tìmi vojenskými pohranièními hlídkami - nedávají si pøíliš pozor, aby se sem lidé nedostali. Ale radìji vás chladnokrevnì zabijí, než aby vás nechali odejít. Takže moji pøátelé tu uvízli.\n\nStrážci kontrolního stanovištì je nenechají projít živé, pokud je nepodplatíme artefaktem Baterie. Slyšel jsi o nìm? Dají se najít v elektroanomáliích.\n\nJe to neuvìøitelnì vzácné. Už jsem poslal všechny svítilny, aby ho našli, ale ještì se mi nikdo neozval. Pomùžeš mi taky?</text>

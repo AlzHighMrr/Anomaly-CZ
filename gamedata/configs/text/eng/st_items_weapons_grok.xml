@@ -1,31 +1,28 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+<?xml version="1.0" encoding="windows-1250"?>
+
 <!--
 	Weapons
 -->
 
 <string_table>
 	
-	<string id="st_wpn_raptr">
-		<text>RAPTR Shotgun</text>
-	</string>
-	<string id="st_wpn_raptr_descr">
-		<text>RAPTR je automatická brokovnice se zásobníkem zrozená v Zóně a přizpůsobená specifickým potřebám této nebezpečné části světa. Stíhači RAPTR často nazývají "Bloodsucker Killer" (Zabiják Upírů). Jeho vysoká rychlost střelby, velký zásobník a bezkonkurenční ergonomie z něj totiž činí dokonalou zbraň k zabíjení rychle se pohybujících a neviditelných šelem. RAPTR, který je považován hlavně za luxusní zbraň pro fajnšmekry, začal mezi stalkery získávat na popularitě během nedávného rozkvětu hnízd bloodsuckerů. Nyní je považována za jednu z nejlepších 12x70mm zbraní v zóně.\n \n
-		%c[0,255,255,255]VLASTNOSTI:\n
-		%c[d_cyan] - %c[0,255,255,255]Původ: %c[ui_gray_1]Ukrajina\n
-		%c[d_cyan] - %c[0,255,255,255,255]Výrobce: %c[ui_gray_1]Unknown\n
-		%c[d_cyan] - %c[0,255,255,255]Rok výroby: %c[ui_gray_1]Neznámý\n \n
-		%c[0,255,255,255]PŘÍSLUŠENSTVÍ (INTEGRATED):\n
-		%c[d_blue] - %c[0,255,255,255,255]Přerušení ústí\n
-		%c[d_blue] - %c[0,255,255,255,255]Kompenzátor\n
-		%c[d_blue] - %c[0,255,255,255,255]Rozšířený zásobník\n
-		</text>
-	</string>
-	<string id="mag_raptr">
-		<text>RAPTR Zásobník bubnového zásobníku brokovnice</text>
-	</string>
-	<string id="mag_raptr_descr">
-		<text>Velký zásobník, do kterého se vejde 20 nábojů ráže 12</text>.
-	</string>
+<string id="st_wpn_raptr">
+	<text>Brokovnice RAPTR</text>
+</string>
+<string id="st_wpn_raptr_descr">
+	<text>
+		RAPTR je automatická brokovnice s vyměnitelným zásobníkem, vyvinutá v Zóně za účelem lovu mutantů. Někdy se jí říká zabiják vysavačů, její vysoká kadence, velký zásobník a bezkonkurenční ergonomie z ní činí dokonalou zbraň pro zabíjení rychle se pohybujících neviditelných cílů. V posledních letech je RAPTR považována za sběratelskou raritu, její popularita mezi stalkery však vzrostla kvůli častějším setkáním s vysavači.\n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] • %c[ui_gray_2] Leupold M40, Eotech XPS3, Aimpoint CompM4s, Aimpoint Pro, Firefield MG Kemper XL\n 
+		%c[d_purple] • %c[ui_gray_2] Tlumič Hexagon 12K\n \n 
+	</text>
+</string>
+<string id="mag_raptr">
+	<text>Zásobník RAPTR Brokovnice</text>
+</string>
+<string id="mag_raptr_descr">
+	<text>Velký zásobník, který pojme 20 nábojů ráže 12.</text>
+</string>
 
 	
 </string_table>
