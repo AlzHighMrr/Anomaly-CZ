@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+	<!-- mcm menu (mandatory) -->
+
+	<string id="ui_mcm_npe_module_npe_welcome">
+		<text>NPE Welcome</text>
+	</string>
+	<string id="ui_mcm_npe_module_npe_welcome_title">
+		<text>New Player Experience</text>
+	</string>
+	<string id="ui_mcm_npe_module_npe_welcome_introduction">
+		<text>Úvod</text>
+	</string>
+
+	<string id="ui_npe_welcome_set_title">
+		<text>Úvodní informace</text>
+	</string>
+	<!-- deck_npe_welcome -->
+
+	<string id="ui_npe_welcome_card_01_title">
+		<text>%c[d_cyan]Vítej v zóně Stalkere!</text>
+	</string>
+	<string id="ui_npe_welcome_card_01_description">
+		<text>Modpack má mnoho mechanik které se liší od klasického Anomaly. 
+		\n
+		\n
+		Proto ti doporučuji pořádně přečíst veškeré informace zobrazené na všech stranách tohoto dialogu.
+		\n
+		\n
+		Dozvíš se zde třeba jak se používá zdravotní systém a nebo jak si vyrobit ať už munici,léky a nebo jak si opravit zbraně nebo dalšího vybavení.
+		\n
+		\n
+		A nebo také je opravdu důležité vědět jak funguje sbírání kořisti a obstarávaní receptů na výrobu a taky jak získat sady pro tu výrobu.
+		\n
+		\n
+		Také zjistíš jak a kde se podiváš na svoje denní questy za ktéré můžeš získat odměnu a také jaká klávesa je pro otevření menu dovedností a nebo.
+		\n
+		\n
+		Pokud už tyhle věci znáš můžeš stisknout ESC pokud jsi nejsi jistý pokračuj na další stránku.
+		</text>
+	</string>	
+	<string id="ui_npe_welcome_card_02_title">
+		<text>%c[d_cyan]Přístup do Nastavení modů</text>
+	</string>
+	<string id="ui_npe_welcome_card_02_description">
+		<text>Pokud si chceš upravit nastavení modů podle sebe.
+		\n
+		\n
+		Stiskni ESC a klikni na "Nastavení modů".
+		\n
+		\n
+		</text>
+	</string>	
+	<string id="ui_npe_welcome_card_03_title">
+		<text>%c[d_cyan]Vypnutí animací</text>
+	</string>
+	<string id="ui_npe_welcome_card_04_description">
+		<text>Pokud ti vadí jak zdlouhavé ty animace batohu jsou.
+		\n
+		\n
+		Zajdi do Nastavení Animací.
+		\n
+		\n
+		Poté si můžeš vypnout animace které ti vadí. 
+		\n
+		\n
+		Nezapomeň kliknout na použít!
+		</text>
+	</string>	
+</string_table>

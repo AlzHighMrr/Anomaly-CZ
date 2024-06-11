@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+<string id="ui_mcm_menu_npe">
+	<text>NPE</text>
+</string>
+<string id="ui_mcm_npe_general">
+	<text>Obecné</text>
+</string>		
+<string id="ui_mcm_npe_general_title">
+	<text>Obecná nastavení</text>
+</string>	
+<string id="ui_mcm_npe_general_enable">
+	<text>Povolit</text>
+</string>
+<string id="ui_mcm_npe_general_enable_desc">
+	<text>Povolit/zakázat všechny tutoriály</text>
+</string>	
+<string id="ui_mcm_npe_general_debug_logs">
+	<text>Debugovací logy</text>
+</string>
+<string id="ui_mcm_npe_general_debug_logs_desc">
+	<text>Loguje debugovací zprávy do konzole</text>
+</string>	
+<string id="ui_mcm_npe_general_play_loop">
+	<text>Interval mezi přehráváním tutoriálů</text>
+</string>
+<string id="ui_mcm_npe_general_play_loop_desc">
+	<text>Určuje minimální zpoždění (v sekundách) mezi aktivací kontextu tutoriálu a jeho zobrazením, nebo mezi tutoriály, pokud je jich ve frontě více</text>
+</string>	
+<string id="ui_mcm_npe_general_execution_loop">
+	<text>Interval mezi každým prováděním NPE</text>
+</string>
+<string id="ui_mcm_npe_general_execution_loop_desc">
+	<text>Frekvence, s jakou NPE spouští všechny registrované event handlery kontextů, aby se zkontrolovalo, zda se nějaký kontext stal aktivním</text>
+</string>	
+<string id="ui_mcm_npe_general_sounds_set">
+	<text>Zvuky</text>
+</string>
+<string id="ui_mcm_npe_general_sounds_set_desc">
+	<text>Vyberte sadu zvuků používanou oknem tutoriálu</text>
+</string>	
+<string id="ui_mcm_npe_general_pause_game">
+	<text>Pozastavit hru</text>
+</string>
+<string id="ui_mcm_npe_general_pause_game_desc">
+	<text>Pozastaví hru, když se přehraje tutoriál. Některé tutoriály mohou vynutit pozastavení hry bez ohledu na toto nastavení</text>
+</string>	
+<string id="ui_mcm_menu_npe_module">
+	<text>Moduly NPE</text>
+</string>	
+<string id="ui_mcm_menu_npe_module_title">
+	<text>Moduly zážitku nového hráče</text>
+</string>	
+<string id="ui_npe_dialog_set_title">
+	<text>Název karty</text>
+</string>	
+<string id="ui_npe_dialog_card_title">
+	<text>Nastavit název</text>
+</string>		
+<string id="ui_npe_dialog_card_description">
+	<text>Placeholder.
+	\n
+	</text>
+</string>
+	<string id="ui_npe_dialog_card_image">
+		<text>Obrázek karty</text>
+	</string>	
+	<string id="ui_npe_dialog_card_index">
+		<text>1/5</text>
+	</string>		
+	<string id="ui_npe_dialog_btn_close">
+		<text>Zavřít</text>
+	</string>	
+	<string id="ui_npe_dialog_btn_next">
+		<text>Další</text>
+	</string>	
+	<string id="ui_npe_dialog_btn_prev">
+		<text>Předchozí</text>
+	</string>						
+</string_table>
