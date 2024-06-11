@@ -1,0 +1,2879 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+----Stories from the Zone----
+
+---Butcher---
+
+-- Bellerophon
+<string id="butcher_bellerophon_0">
+		<text>Kdo je ten chlápek Nosorog na zemi?</text>
+	</string>
+	<string id="butcher_bellerophon_1">
+		<text>Bellerophon? Připojil se k nám před pár týdny - učím ho umění lovu a stal se v tom docela zdatným. No, už má nějaké zkušenosti, víš, technicky je z armády, ale hierarchie ho podělala. Nařídili mu zabít Chiméru - sám. Je to docela příběh, upřímně, hodný řecké dramatu.</text>
+	</string>
+	
+<string id="about_bellerophon_0">
+		<text>[Stolichnaya] Mám láhev, chceš mi ten příběh povyprávět?</text>
+	</string>
+	<string id="about_bellerophon_1">
+		<text>Jasně, kámo. Udělej si pohodlí a napij se. Tady. \n \nTak kde začít? Jsem Podplukovník... no byl jsem Podplukovník v SSO. Teď jsem jen Poručík... měl jsem být povýšen na Plukovníka za vynikající službu vlasti.
+			Ale před ceremoniálem byla každoroční oslava Starého Nového roku. Ne ta obyčejná pro základní Ivanovce, ale pro vyšší hodnosti. No, generál tam byl taky, a jeho žena. Musíš pochopit, ten chlápek má co? 60 let a jeho žena, no ta byla ve svých dvaceti.
+			Chápeš? Ne, nespal jsem s ní, ale k tomu se dostaneme. I když to nebyla akce pro Ivanovce, pořádně jsme se opili - normální, ne? Je to přece Starý Nový rok. Během večeře jsem viděl, jak na mě pořád kouká. A pochopil jsem "sakra, to je špatné znamení.".
+			</text>
+	</string>
+	<string id="about_bellerophon_2">
+		<text>Další sklenku?</text>
+	</string>
+	<string id="about_bellerophon_3">
+		<text>Příteli, čteš mi z očí.\n \nNo, tam jsem byl, ta holka mě doslova jedla očima. A musím přiznat, že byla přesně můj typ! Ale věděl jsem, že kdybych něco udělal, byl bych v háji, takže jsem se uchýlil k té staré zakázané technice.
+			Znáš ji? Vím, že je to riskantní, ale pokud se dokážeš dostatečně dlouho ovládat, vždy to funguje. Takže v podstatě se hodně opiješ - pak každá holka ztratí zájem.
+			Takže jsem pil jednoho panáka za druhým.\n \nPo pár hodinách byl můj plán skoro dokonalý - skoro. V nějakém okamžiku jsem šel na záchod a ona mě následovala. Když jsem vyšel, stála přede mnou a přilepila své rty na moje.
+			Potřeboval jsem chvíli, abych pochopil, co se děje - když jsem to pochopil, odstrčil jsem ji. Nepomohlo to, hned se vrhla zpět na moje ústa. Takže jsem udělal to nejlepší, co mě napadlo - dal jsem jí facku.</text>
+	</string>
+<string id="about_bellerophon_4">
+		<text>Sakra!</text>
+	</string>
+	<string id="about_bellerophon_5">
+		<text>Jo! Problém je, že v tu chvíli do chodby vešli dva další důstojníci. Ona se rychleji vzpamatovala, no taky byla méně opilá... no a začala křičet, že jsem se na ni pokusil vrhnout a když odmítla, pokusil jsem se ji přinutit.
+			Dokážeš si představit tu situaci! A vzhledem k tomu, že mluvíme o generálově ženě, i kdyby mi věřili, tohle nikdy nemohla být oficiální verze! Takže jsem byl souzen před vojenským soudem, ale místo toho, aby mě propustili a hodili do vězení, z nějakého důvodu mě poslali sem.
+			Dost zvláštní, že? No, ne že by tohle místo nemohlo být považováno za trest, ale přesto. Takže jsem dorazil a - hej, chceš další skleničku?</text>
+	</string>
+	<string id="about_bellerophon_6">
+		<text>Jasně.</text>
+	</string>
+	<string id="about_bellerophon_7">
+		<text>Takže jsem sem dorazil a chlapi byli pořádní chlapi - přivítali mě lahví a vyslechli mé trápení. Po pár dnech mě major Kuzněcov povolal k sobě a dal mi misi:
+			prý je někde v Jantaru Chiméra, která dělá problémy ekologům, a nařídil mi ji zabít - sám! Žádný tým, žádná podpora, mám to udělat sám! Příteli, nikdy jsem o takovém zvířeti neslyšel a když jsem se vrátil k chlapům, byli šokovaní!
+			Ukázalo se, že je to pravděpodobně nejnebezpečnější zvíře tady! No a tehdy mi darovali tuto zbroj - fajn chlapi, to ti povím! Ale to ještě nevyřešilo můj problém, a protože jsem neměl žádné zkušenosti s lovem mutantů, přišel jsem za Butcherem, abych se naučil, jak na to.</text>
+	</string>
+	<string id="about_bellerophon_8">
+		<text>Proč jsi ji ještě nezabil?</text>
+	</string>
+	<string id="about_bellerophon_9">
+		<text>Zkusil bych to, ale v průmyslových částech Jantaru je tohle psychické pole a já se nedokážu dostat dovnitř, aniž by se mi mozek roztavil jako láva.</text>
+	</string>
+	<string id="about_bellerophon_10">
+		<text>Nemůžou ti ekologové poskytnout ochrannou helmu?</text>
+	</string>
+	<string id="about_bellerophon_11">
+		<text>Zřejmě ne, říkají, že jim došly zásoby. No, je tu ten chlápek, myslím, že se jmenuje Spirit, který říká, že by měli mít nějaké zbylé, ale nevím, ten chlap byl viditelně opilý, když mi to říkal.</text>
+	</string>
+	<string id="about_bellerophon_12">
+		<text>Vypadá to, že tě chtějí mrtvého, kámo.</text>
+	</string>
+	<string id="about_bellerophon_13">
+		<text>Chlapi mi říkali to samé, ale to nemůže být pravda. Myslím, že jsem dobrý bojovník, proč by mě zabíjeli, když můžu být užitečný?</text>
+	</string>
+	<string id="about_bellerophon_14">
+		<text>Kuzněcov tě jasně chce mrtvého. Proč neutíkáš?</text>
+	</string>
+	<string id="about_bellerophon_15">
+		<text>Jsem voják, příteli. Neutíkám, plním svou misi. Kromě toho, kam bych měl utéct? Byl bych souzen za dezerci - to je rozsudek smrti.</text>
+	</string>
+	<string id="about_bellerophon_16">
+		<text>Víš co? Kašlu na Kuzněcova - líbíš se mi a pomůžu ti. Vypnu tu zatracenou mašinu a pak půjdeme lovit Chiméru spolu!</text>
+	</string>
+	<string id="about_bellerophon_17">
+		<text>Páni, to je super od tebe. Na zdraví, kámo!</text>
+	</string>
+<string id="bellerophon_5_1">
+		<text>Deaktivoval jsem tu zázračnou mašinu - můžeme jít lovit tvou Chiméru.</text>
+	</string>
+	<string id="bellerophon_5_2">
+		<text>To je skvělé, příteli! Ale nejdřív chci vyřešit ten problém se snorky pro Butchera. Dlužím mu to. Až to bude hotové, postaráme se o Chiméru.</text>
+	</string>
+	
+<string id="bellerophon_6_1">
+		<text>Ta zázračná mašina je vypnutá - můžeme jít lovit tvou Chiméru.</text>
+	</string>
+	<string id="bellerophon_6_2">
+		<text>Moc díky, příteli! Sejdeme se v bunkru v Jantaru, odtamtud vyrazíme v noci.</text>
+	</string>
+	
+<string id="bellerophon_7_1">
+		<text>Jsi připraven na lov?</text>
+	</string>
+	<string id="bellerophon_7_2">
+		<text>Jsem nervózní, ale jo, jsem připravený. Co ty?</text>
+	</string>
+	<string id="bellerophon_7_3">
+		<text>Jsem připravený. Můžeme vyrazit?</text>
+	</string>
+	<string id="bellerophon_7_4">
+		<text>Mám připravenou láhev Stoličnaja na potom. Vedeš, jsem hned za tebou.</text>
+	</string>
+	<string id="bellerophon_7_5">
+		<text>Jsem připravený. Můžeme vyrazit?</text>
+	</string>
+	<string id="bellerophon_7_6">
+		<text>Butcher mi řekl, že Chiméry jsou noční stvoření - měli bychom vyrazit v noci, abychom ji chytili venku.</text>
+	</string>
+	<string id="bellerophon_7_7">
+		<text>Ještě ne - musím udělat pár příprav.</text>
+	</string>
+	<string id="bellerophon_7_8">
+		<text>Dobře - najdi mě v noci, až budeš připravený.</text>
+	</string>
+	<string id="bellerophon_8_0">
+		<text>Zabili jsme tu bestii!</text>
+	</string>
+	<string id="bellerophon_8_1">
+		<text>Jo, to teda! Sakra, moje srdce bije jako šílené! Pojďme zpátky do laboratoře - pak se můžeme opít!</text>
+	</string>
+	
+<string id="bellerophon_9_0">
+		<text>Jsme zpátky!</text>
+	</string>
+	<string id="bellerophon_9_1">
+		<text>Jo, jsme! Vezmi si tohle, připijeme si na úspěšný lov!</text>
+	</string>
+	<string id="bellerophon_9_2">
+		<text>Co budeš teď dělat?</text>
+	</string>
+	<string id="bellerophon_9_3">
+		<text>Teď, když jsme zabili tu bestii, mám splněno! Půjdu zpátky a nahlásím to Kuzněcovovi... no, po tom, co se zotavím z kocoviny, hahaha. A pak uvidíme!</text>
+	</string>
+	<string id="bellerophon_9_4">
+		<text>Myslíš, že Kuzněcov bude spokojený? Jak chápu situaci, chtěl tě mrtvého?</text>
+	</string>
+	<string id="bellerophon_9_5">
+		<text>To se uvidí... ale splnil jsem svou misi, to by mělo něco znamenat, ne? \n \nPojď, příteli, další skleničku! Na přátelství! Kuzněcov ať je starostí až na zítřek!</text>
+	</string>
+--Quest1 now 3--
+	<string id="butcher_1_start_0">
+		<text>Říkal jsi, že se ztratila zásilka?</text>
+	</string>
+	<string id="butcher_1_start_1">
+		<text>Jo - vědec, Vybegallo, z Agropromu mě kontaktoval, protože se jeho objednávka ztratila v bažinách. Prý to byla značná zásilka jídla - zápach asi přilákal psy 
+		a doručovatel usoudil, že jeho život je důležitější než práce, a hodil jim tu zásilku, aby je odvrátil. Všechno se to stalo celkem rychle, takže si nepamatuje přesný počet těch psů, ale říkal, že jich bylo sakra hodně, takže myslím, že by jich mohlo být asi tucet.
+		\n \nMyslíš, že bys mohl získat ten balík zpět a doručit ho tomu vědci?</text>
+	</string>
+	<string id="butcher_1_start_2">
+		<text>Jasně, půjdu do toho.</text>
+	</string>
+	<string id="butcher_1_start_3">
+		<text>Díky, ale ještě nejsem připravený.</text>
+	</string>	
+	<string id="butcher_1_start_4">
+		<text>Dobře. Podle jeho zprávy ho přepadli poblíž starého staveniště. Prošel kolem Čerpací stanice, vlevo měl vesnici s vodárenskou věží a vpravo mechanikův dvůr. Tvým úkolem je získat ten balík zpět, na psy není vypsaná žádná odměna.
+		Když najdeš ten balík, doruč ho Vybegallovi, je někde v továrně Agroprom.</text>
+	</string>
+	<string id="butcher_1_start_5">
+		<text>Bez problému, přijdu později.</text>
+	</string>	
+
+<string id="butcher_1_time_0">
+		<text>O tvém ztraceném balíku.</text>
+	</string>	
+	<string id="butcher_1_time_1">
+		<text>Jo, jsi připravený?</text>
+	</string>
+
+<string id="butcher_1_done_0">
+		<text>Doručil jsem ten balík.</text>
+	</string>	
+	<string id="butcher_1_done_1">
+		<text>Dobrá práce! Nech si peníze za odměnu, zasloužíš si je. Pokud jsi připravený, problém se snorky vyžaduje další pozornost.</text>
+	</string>
+	
+-- Quest 2 --
+<string id="butcher_2_start_0">
+		<text>Máš pro mě nějaké speciální úkoly?</text>
+	</string>
+	<string id="butcher_2_start_1">
+		<text>Slyšel jsem o tvých činech, vypadáš schopně... \n \nVíš, Povinnost mi platí za to, abych udržoval cestu z Cordonu do Rostoku bez obzvláště nebezpečných mutantů – takových, se kterými si nováčci nedokážou poradit. Víš, dobré pro obchod a tak. Naštěstí jsou v těchto končinách opravdu nebezpeční mutanti spíše vzácní. 
+		\n \n Většinou jsou mé problémy spíše o tom, že se smečky zvířat rozrostou do hrozivého počtu - a přesně takový problém vznikl. Prase porodilo vrh selat před pár měsíci, počet se liší podle zpráv. Někteří říkají tři, jiní věří, že viděli šest. 
+		Ať je to jakkoli, potřebuji, abys je zlikvidoval, než z těch selat vyrostou dospělí kanci – nemusím ti říkat, jaký by to byl problém. Co říkáš?</text>
+	</string>
+	<string id="butcher_2_start_2">
+		<text>Považuj to za hotové.</text>
+	</string>
+	<string id="butcher_2_start_3">
+		<text>Potřebuji nějaký čas na přípravu.</text>
+	</string>	
+	<string id="butcher_2_start_4">
+		<text>Tak je to správně! Obývají malý lesík v jihovýchodním sektoru, za anomálií Čarodějnický rosol. Tady máš, tohle by se ti mohlo hodit! Až budou mrtví, přijď za mnou, dám ti stranou nějakou vodku.</text>
+	</string>
+	<string id="butcher_2_start_5">
+		<text>Bez problému, přijď za mnou, až budeš připravený!</text>
+	</string>		
+	
+<string id="butcher_2_time_0">
+		<text>Co se týče toho úkolu.</text>
+	</string>	
+	<string id="butcher_2_time_1">
+		<text>Jsi připravený na ty kance?</text>
+	</string>
+	
+<string id="butcher_2_done_0">
+		<text>Kanci už nejsou.</text>
+	</string>	
+<string id="butcher_2_done_1">
+		<text>Dobrá práce! Tady máš nějakou kořalku a něco k jídlu – na účet podniku! A samozřejmě, odměna za tvé úsilí. Odpočiň si a jestli chceš další práci – je tu něco naléhavého.</text>
+	</string>
+	
+	
+-- Quest 3 --
+<string id="butcher_3_start_0">
+		<text>Říkal jsi, že je tu naléhavý úkol?</text>
+	</string>
+	<string id="butcher_3_start_1">
+		<text>Přesně tak. \n \n Skupina snorků se ztratila a zatoulala sem z Agropromu. To se občas stává, ale v minulosti to vždy byli jeden nebo dva, kteří sem našli cestu - tentokrát se podle zpráv jedná o čtyři! Nemůžeme je tu nechat, představují příliš velké nebezpečí pro nováčky. Tak co říkáš?</text>
+	</string>
+	<string id="butcher_3_start_2">
+		<text>Jsou prakticky mrtví.</text>
+	</string>
+	<string id="butcher_3_start_3">
+		<text>Potřebuji nějaký čas na přípravu.</text>
+	</string>	
+	<string id="butcher_3_start_4">
+		<text>Dobře! Usadili se jihozápadně odsud, poblíž jižní cesty do Agropromu... Tady máš, tohle by se ti mohlo hodit! Až budou mrtví, přijď za mnou, připijeme si na tvé činy!</text>
+	</string>
+	<string id="butcher_3_start_5">
+		<text>Bez problému, přijď za mnou, až budeš připravený!</text>
+	</string>		
+	
+<string id="butcher_3_time_0">
+		<text>Ohledně toho úkolu.</text>
+	</string>	
+	<string id="butcher_3_time_1">
+		<text>Jsi připravený na ty snorky?</text>
+	</string>
+	
+<string id="butcher_3_done_0">
+		<text>Snorkové jsou mrtví.</text>
+	</string>	
+<string id="butcher_3_done_1">
+		<text>Dobrá práce! Tady máš něco k pití a jídlu. A tady máš cigáro. A samozřejmě, odměna za tvé úsilí. Odpočiň si a přijď za mnou – mám pro tebe úkol týkající se ztraceného nákladu v bažinách.</text>
+	</string>
+	
+	
+-- Quest 4 --
+
+<string id="butcher_4_start_0">
+		<text>Říkal jsi, že se mnou chceš mluvit o problému se snorky?</text>
+	</string>
+	<string id="butcher_4_start_1">
+		<text>Ano. \n \nVíš, tahle invaze snorků mě znepokojuje. Občas se to stalo i dříve, ale nikdy v takovém počtu! Přemýšlel jsem, že asi populace snorků v Agropromu příliš vzrostla a to je důvod, proč teď přicházejí ve větších počtech... Můžeš se na to podívat a pokud je má podezření správná - snížit jejich počet? </text>
+	</string>
+	<string id="butcher_4_start_2">
+		<text>Podívám se na to.</text>
+	</string>
+	<string id="butcher_4_start_3">
+		<text>Potřebuji nějaký čas na přípravu.</text>
+	</string>	
+	<string id="butcher_4_start_4">
+		<text>Dobře! Nechoď sám, Bellerophon tě doprovodí - neboj se, je to schopný bojovník. Vydej se do Agropromu, pokud mám pravdu, měli by být někde mezi jižní a severní cestou do Smetiště. 
+		Je tam kopec, je velká šance, že je tam najdeš. Tady máš, tohle budeš potřebovat. </text>
+	</string>
+	<string id="butcher_4_start_5">
+		<text>Bez problému, přijď za mnou, až budeš připravený!</text>
+	</string>			
+	<string id="butcher_4_time_0">
+	<text>Ohledně toho úkolu.</text>
+</string>	
+<string id="butcher_4_time_1">
+	<text>Jsi připravený snížit populaci snorků?</text>
+</string>
+
+	<string id="butcher_4_done_0">
+		<text>Snorci jsou mrtví.</text>
+	</string>	
+	<string id="butcher_4_done_1">
+		<text>Co za škoda! Velký muž opustil naše životy... Připijme si na něj! Byla ta situace se snorky tak vážná?</text>
+	</string>
+	<string id="butcher_4_done_2">
+		<text>Hrozné! Zabili jsme minimálně deset snorků! Byla to masakr...</text>
+	</string>		
+	<string id="butcher_4_done_3">
+		<text>Deset těchhle parchantů? K sakru... Dobře, že jsem vás poslal oba, abyste se postarali o ten problém... Budeme muset tuto situaci bedlivě sledovat - je to velmi divné.
+		\n \nDíky za pomoc! Odpočiň si a pokud se budeš cítit schopen zase něco udělat, zajdi za Aspirinem, lékařem z Povinnosti. Kontaktoval mě, zdá se, že potřebují nějakou diskrétní pomoc. </text>
+	</string>
+<string id="butcher_4_alt_done_0">
+		<text>Snorci jsou mrtví. Bohužel padl i Bellerophon během bitvy.</text>
+	</string>	
+	<string id="butcher_4_alt_done_1">
+		<text>Dobrá práce! Tady, dej si něco k pití a k zakousnutí. Tak mi pověz, jaká je situace se snorky tam?</text>
+	</string>
+	<string id="butcher_4_alt_done_2">
+		<text>Měl jsi pravdu, zabili jsme minimálně deset snorků! Byl to masakr, jsem rád, že jsme to přežili!</text>
+	</string>		
+	<string id="butcher_4_alt_done_3">
+		<text>Deset těchhle parchantů? K sakru... Měl jsem s vámi poslat víc mužů... Budeme muset tuto situaci bedlivě sledovat - je to velmi divné.
+		\n \nDíky za pomoc! Odpočiň si a pokud se budeš cítit schopen zase něco udělat, zajdi za Aspirinem, lékařem z Povinnosti. Kontaktoval mě, zdá se, že potřebují nějakou diskrétní pomoc. </text>
+	</string>
+---- Quest 5 ----
+<string id="st_butcher_5_help_info">
+		<text>Řezník: Můj příteli, potřebujeme tvou naléhavou pomoc. Bellerophon byl zraněn v Agropromu a druhý lovec, Orion, je nezvěstný. Prosím, pojď co nejdříve do Agropromu a najdi Bellerophona v továrně - on ti dá podrobnosti.</text>
+	</string>
+
+<string id="st_butcher_5_alt_help_info">
+		<text>Řezník: Můj příteli, potřebujeme tvou naléhavou pomoc. Sarpedon byl zraněn v Agropromu a druhý lovec, Orion, je nezvěstný. Prosím, pojď co nejdříve do Agropromu a najdi Sarpedona v továrně - on ti dá podrobnosti.</text>
+	</string>
+
+<string id="butcher_5_start_0">
+		<text>Dostal jsem tvou zprávu, co se děje?</text>
+	</string>
+	<string id="butcher_5_start_1">
+		<text>Dobře, že jsi tady - Bellerophon se vydal s dalším lovcem, Orionem, najít příčinu té invaze Snorků. Dokázali to vystopovat až k podzemí v Agropromu - 
+		zdá se, že něco tam vytlačuje Snorky ven. Oba se vydali na misi prozkoumat podzemí, ale Bellerophon byl zraněn. Vrátili se, ale Orion se znovu vydal... mladý pošetilec... to bylo včera a od té doby jsme o něm neslyšeli.
+		Vím, že toho je hodně, o co tě prosím, ale můžeš se tam jít podívat? Čekáme to nejhorší, ale nemůžeme bratra nechat za sebou. \n \nBudeš na takový úkol připravený?</text>
+	</string>
+	<string id="butcher_5_start_2">
+		<text>Ano, samozřejmě, půjdu tam ihned.</text>
+	</string>
+	<string id="butcher_5_start_3">
+		<text>Nevím, to zní velmi nebezpečně. Budu muset o tom přemýšlet.</text>
+	</string>
+	<string id="butcher_5_start_4">
+		<text>Skvělé! Najdi Bellerophona, zotavuje se ze svých zranění v Agropromu. A tady, vezmi si tohle - budeš to potřebovat.</text>
+	</string>
+	<string id="butcher_5_start_5">
+		<text>Rozumím - ale obávám se, že musím zdůraznit naléhavost této záležitosti. Jdi najít Bellerophona, pokud si myslíš, že jsi na to připravený.</text>
+	</string>
+
+<string id="butcher_5_alt_start_0">
+		<text>Dostal jsem tvou zprávu, co se děje?</text>
+	</string>
+	<string id="butcher_5_alt_start_1">
+		<text>Dobře, že jsi tady - Sarpedon se vydal s dalším lovcem, Orionem, najít příčinu té invaze Snorků. Dokázali to vystopovat až k podzemí v Agropromu - 
+		zdá se, že něco tam vytlačuje Snorky ven. Oba se vydali na misi prozkoumat podzemí, ale Sarpedon byl zraněn. Vrátili se, ale Orion se znovu vydal... mladý pošetilec... to bylo včera a od té doby jsme o něm neslyšeli.
+		Vím, že toho je hodně, o co tě prosím, ale můžeš se tam jít podívat? Čekáme to nejhorší, ale nemůžeme bratra nechat za sebou. \n \nBudeš na takový úkol připravený?</text>
+	</string>
+	<string id="butcher_5_alt_start_2">
+		<text>Ano, samozřejmě, půjdu tam ihned.</text>
+	</string>
+	<string id="butcher_5_alt_start_3">
+		<text>Nevím, to zní velmi nebezpečně. Budu muset o tom přemýšlet.</text>
+	</string>
+	<string id="butcher_5_alt_start_4">
+		<text>Skvělé! Najdi Sarpedona, zotavuje se ze svých zranění v Agropromu. A tady, vezmi si tohle - budeš to potřebovat.</text>
+	</string>
+	<string id="butcher_5_alt_start_5">
+		<text>Rozumím - ale obávám se, že musím zdůraznit naléhavost této záležitosti. Jdi najít Sarpedona, pokud si myslíš, že jsi na to připravený.</text>
+	</string>
+
+--- Bellerophon ---
+<string id="bellerophon_start_dialog_0">
+    <text>Ahoj Stalkere, jak vám mohu pomoci?</text>
+</string>
+<string id="bellerophon_start_dialog_1">
+    <text>Ahoj, kdo jsi?</text>
+</string>
+<string id="bellerophon_start_dialog_2">
+    <text>Jsem Bellerophon a trochu nový tady... no ne úplně, ale je to složité.</text>
+</string>
+<string id="bellerophon_start_dialog_3">
+    <text>Kde jsi sehnal toho Nosoroga?</text>
+</string>
+<string id="bellerophon_start_dialog_4">
+    <text>No technicky vzato jsem voják, takže... no nějací kamarádi mi ho dali, když jsem vyrazil na svoji misi.</text>
+</string>
+<string id="bellerophon_start_dialog_5">
+    <text>Jsi voják? Co tady děláš?</text>
+</string>
+<string id="bellerophon_start_dialog_6">
+    <text>No ano, ale nebojte se, nemám k vám žádnou animozitu. Proč jsem tady? No to je dlouhý příběh a zrovna můj oblíbený.</text>
+</string>
+<string id="bellerophon_start_dialog_7">
+    <text>Mám čas.</text>
+</string>
+<string id="bellerophon_start_dialog_8">
+    <text>V pořádku, nechci tě tlačit.</text>
+</string>
+<string id="bellerophon_start_dialog_9">
+    <text>Věřím, že k tomu budeme potřebovat trochu Stolya. Pokud najdete láhev, povím vám ten příběh.</text>
+</string>
+<string id="bellerophon_start_dialog_10">
+    <text>Ano, to je spíše příběh na vyprávění s láhví Stolya. Pokud někdy najdete jednu, mohu vám říct ten příběh.</text>
+</string>
+
+<string id="bellerophon_1_0">
+    <text>Jsi připraven loviti nějaké snorky?</text>
+</string>
+<string id="bellerophon_1_1">
+    <text>Ano, Butcher mi řekl, abych ti pomohl. Vedej cestu, jsem za tebou.</text>
+</string>
+
+<string id="bellerophon_2_0">
+    <text>To bylo brutální!</text>
+</string>
+<string id="bellerophon_2_1">
+    <text>Ano, nikdy jsem neviděl tolik Snorků na jednom místě! Tohle je velmi, velmi divné - budu muset prověřit. Moc díky za tvou pomoc - jsi v tomhle dost dobrý!</text>
+</string>
+
+<string id="bellerophon_3_0">
+    <text>Dostal jsem zprávu od Řezníka, co se děje?</text>
+</string>
+<string id="bellerophon_3_1">
+    <text>Dobře, že jsi tady - narazili jsme na problémy a jsem zraněn... Přežiji, neboj se, ale jsem vyřazen z provozu. Přišel jsem sem s dalším lovcem - Orionem, mladým chlapem, abychom zjistili příčinu té snorkové invaze. Všimli jsme si, že během noci zpod země vylézají ty parchanti v hojném počtu.
+        Tam dole je něco, co je vytlačuje ven - něco zlověstného... Sestoupili jsme dolů a bylo to brutální... začala nám bolet hlava a najednou jsme byli obklíčeni Snorky a jeden mě kousl do paže a nohy - naštěstí tam byl Orion, aby mě vytáhl ven! Ale... ten hlupák se vrátil! Prosil jsem ho, ať počká, ale byl nedočkavý, jak mladí lidé bývají!
+        K čertu, a teď jsem o něm neslyšel. Můj příteli, prosím, jdi dolů a najdi ho! Rád bych šel s tebou, ale moje noha mě nepodrží.</text>
+</string>
+<string id="bellerophon_3_2">
+    <text>Neboj se, najdu Oriona a přivedu ho sem zpět!</text>
+</string>
+<string id="bellerophon_3_3">
+    <text>Nevím, nejsem si jistý, že už jsem připraven se tam vydat!</text>
+</string>
+<string id="bellerophon_3_4">
+    <text>Věděl jsem, že na tebe mohu spoléhat! A tady, vezmi si tohle - bojím se, že bys to mohl potřebovat.</text>
+</string>
+<string id="bellerophon_3_5">
+    <text>Rozumím - ale prosím, pospěš si! A tady, vezmi si tohle - pokud jsi připraven jít dolů, obávám se, že bys to mohl potřebovat.</text>
+</string>
+
+<string id="bellerophon_4_0">
+    <text>Našel jsem Oriona...</text>
+</string>
+<string id="bellerophon_4_1">
+    <text>Rozumím... Co ho zabilo?</text>
+</string>
+<string id="bellerophon_4_2">
+    <text>Já... nejsem si jistý. Je tam obrovská místnost pod zemí, s nějakými stroji... a byl tam Kontrolor... a Bureři, kteří se ho snažili chránit!</text>
+</string>
+<string id="bellerophon_4_3">
+    <text>Kontrolor? To neříkáš... zabydlil se tam a vyhnal Snorky?</text>
+</string>
+<string id="bellerophon_4_4">
+    <text>Nevím, chlape... ale měl kolem sebe armádu.</text>
+</string>
+<string id="bellerophon_4_5">
+    <text>Toto místo mě nikdy nepřestane matlat. Víš co, je čas, abys mluvil s Lesníkem. Po tom, co jsi tady pro nás udělal, si zasloužíš stát se součástí naší gildy. Jsem si jistý, že i Řezník za tebou bude mluvit! Jdi za ním a pověz mu, co jsi viděl dole.
+        Zůstanu tady ještě chvíli, abych se zotavil a mohl situaci sledovat. Najdu tě později.</text>
+</string>
+<string id="bellerophon_4_6">
+    <text>Gilda?</text>
+</string>
+<string id="bellerophon_4_7">
+    <text>Ano, chlapče, gilda - nebo jak Lesník rád říká, bratrstvo. Jdi za ním, on ti to všechno vysvětlí mnohem lépe než já.</text>
+</string>
+
+
+
+
+
+--- Butcher Legendary ---
+<string id="butcher_legendary_0_0">
+    <text>Lesník mi vyprávěl o Kalýdonském divočákovi. Co o něm víte?</text>
+</string>
+<string id="butcher_legendary_0_1">
+    <text>Tak to mi řekl? A hádám, že ho chceš lovit?</text>
+</string>
+<string id="butcher_legendary_0_2">
+    <text>Možná.</text>
+</string>
+<string id="butcher_legendary_0_3">
+    <text>Lovit tohoto divočáka je nebezpečný úkol - mnohem více než cokoli, co jsi kdy lovil. Sebral životy mnoha lovců s velkou pověstí: Sigurd Jednooko, Boris Sečič a Železný Aslan, abych jmenoval alespoň několik. Ti, kteří přežili, to udělali tím, že utekli - jako já.</text>
+</string>
+<string id="butcher_legendary_0_4">
+    <text>Tak jste se s ním setkal? Jaká je vaše história?</text>
+</string>
+<string id="butcher_legendary_0_5">
+    <text>Za dobu, co jsem tady, jsem se věnoval mnoha různým činnostem, cokoli, co platilo peníze, abych byl upřímný - trochu jako ty, pokud se nemýlím. Z některých činností jsem pyšnější než z jiných.
+Po čase jsem zjistil, že ze všech možných prací v Zóně, lov byl tou, která mě nejvíce bavila. Vidíš, byl jsem v tom dobrý a lov mutantů nemá tendenci vám zde nepřátele. Rychle jsem si udělal jméno a - ve své pýše - jsem začal hledat mutany, kterým se "normální" lovci nebáli čelit.
+Jednoho večera jsem sdílel ohně s kluky z Jasná obloha, kteří mi řekli o zvěsti mezi jejich lovci, že v Bažinách je ochránce divočáků a že bych je neměl lovit, abych si nevysloužil jeho hněv.</text>
+</string>
+
+<string id="butcher_legendary_0_6">
+    <text>Kalýdonský divočák?</text>
+</string>
+<string id="butcher_legendary_0_7">
+    <text>Přesně tak - i když tehdy ještě nenáležel tomuto jménu. \n \nPovažoval jsem to za městskou legendu, ale o týden později jsem potkal stopaře, který přísahal, že to zvíře viděl! Vyprávěl mi, jak loví divočáky v srdci Bažin.
+     Poté, co zabil zvláště velkou smečku, jak sám tvrdil, začala se třást země a z keřů vyběhly čtyři obrovské divočáky a předvádějíc je hrozný jediný! Ten chlap byl moudrý, protože pochopil, že mu čelit znamená jeho zkázu. 
+     Takže utekl. \n \nSamozřejmě mě to zaujalo a začal jsem se vyptávat v bažinách. Našel jsem několik dalších přeživších a všichni mi vyprávěli stejný příběh.</text>
+</string>
+<string id="butcher_legendary_0_8">
+    <text>Tak jste ho hledal? Jak?</text>
+</string>
+<string id="butcher_legendary_0_9">
+    <text>Ukázalo se, že na rozdíl od městské legendy, Kalýdonský divočák chrání pouze svůj vlastní kmen! Obrovský kmen, to ano, ale pouze je. 
+     Takže jsem čekal, až bude spatřena abnormálně velká smečka a začal jsem je zabíjet. Samozřejmě, že se země náhle začala třást a vyběhly čtyři obrovské divočáky, s Kalýdonským v jejich čele! 
+     Co za pohled! Hrozný divočák! — Měl hořící, krvavé oči, které vypadaly jako živé ohně, hrubý krk, který byl uzlý se ztuhlými svaly, a hustě osazený chlupy jako ostré hroty. 
+     Z jeho hrozivých tlam se kypěl pěnou a jeho špičáky byly jako ty slona! 
+     Diskordantní řev se ozýval z jeho hrozných úst! Připadalo to jako blesk — vyvržený z jeho děsného hrdla — a popaloval zelenou půdu!</text>
+</string>
+
+<string id="butcher_legendary_0_10">
+    <text>Ach, jak děsivý obraz!</text>
+</string>
+<string id="butcher_legendary_0_11">
+    <text>Ano, byl to... stále se třesu při pouhé představě. \n \nPo mém prvním šoku jsem začal střílet se svou spolehlivou Saigou! Nabíjel zásobníky olovem do nich, zatímco jsem se vyhýbal jejich útokům! Jeho druhové padli v pořádku, i když mi připadalo, že na jejich místo přibíhali jiní divočáci.
+     Ale ten kalýdonský, můj bože, ten bestiální zvířák převzal vedení jako Bellerophon pije vodku - ani po dvanácti strelech se nezakolí. Pojmul jsem, že jsem přišel nepřipraven a utekl jsem rychleji než pes, který ukradl párek.</text>
+</string>
+<string id="butcher_legendary_0_12">
+    <text>Forester zmínil, že jste se s ním setkal dvakrát?</text>
+</string>
+<string id="butcher_legendary_0_13">
+    <text>Ano... mé hrdost byla poraněna, ale stále jsem měl dost, abych se slepil do reality tohoto divočáka. Poté, co jsem utekl, jsem myslel jen na to, jak toho ďábla zabít. Takže jsem sestavil tým - nakonec nás bylo čtyři. Peleus, Eurytion a Sigurd!
+     Bohužel, lov byl katastrofa! Sigurd padl první - divočák ho zasáhl z boku a byl zdechliněn, jeho chybějící oko znamenalo jeho zkázu. V následné zmatení Peleus udělal hroznou chybu a zastřelil Eurytiona, když se snažil ho krytovat! Hrozný osud nás postihl! \n \n
+    Spěchal jsem k Eurytionovi, abych ho zachránil, ale pustil jsem se. . . Zaslechl jsem hrozný křik a když jsem se otočil, viděl jsem, jak na mě útočí kalýdonský divočák!
+    Nepodařilo se mi včas vyhnout... cítilo se, jako by mi uřízl nohu, ale "jen" ji zploštily všechny kosti. Naštěstí Peleus dokázal zvíře rozptýlit a odnést mě k bezpečí.
+    Samozřejmě už nemohu normálně chodit - to je také důvod, proč již nevyhledávám lov a spokojím se s tím, že tu zůstanu.</text>
+</string>
+<string id="butcher_legendary_0_14">
+    <text>Ten divočák se zdá být opravdovou přírodní silou...</text>
+</string>
+<string id="butcher_legendary_0_15">
+    <text>Co se stalo s Peleem?</text>
+</string>
+
+	<string id="butcher_legendary_0_16">
+    <text>Jistěže... rozumíte, proč byste se měl zdržet jeho lovu?</text>
+</string>
+<string id="butcher_legendary_0_17">
+    <text>Byl zdrcen, že zabil Eurytiona... poté, co mě uzdravil a vrátil mě k životu, odešel na sever a zmizel. Jeho syn se vydal za ním, ale když dorazil, Peleus už našel svou smrt... Achilés našel pouze jeho tělo.</text>
+</string>
+<string id="butcher_legendary_0_18">
+    <text>Rozumím nebezpečí, ale chci pokračovat tam, kde jste skončil. Můžete mi říct, jak ho najít?</text>
+</string>
+<string id="butcher_legendary_0_19">
+    <text>Ano, možná ještě potřebuji nějaké zkušenosti, než se na něj vydám...</text>
+</string>
+<string id="butcher_legendary_0_20">
+    <text>Dobře. Musím přiznat, že máte docela talent na lov! A jste nebojácný jako kočka s devíti životy! Pošlu zprávu svým přátelům, aby se dívali po kmeni kalýdonského divočáka. Až najdou jeho smečku, napíši vám, ale to může trvat několik dní! Do té doby vám doporučuji přípravu - pamatujte, musíte být rychlí na nohou a musíte mít dostatek střeliva, abyste je mohli s ostatními zvířaty dostat k smrti! A pamatujte - útěk je vždy možností.</text>
+</string>
+<string id="butcher_legendary_0_21">
+    <text>Souhlasím! Nepospíchejte s tím! Existují jednodušší způsoby, jak zde vydělat peníze, než ho lovit.</text>
+</string>
+
+<string id="st_calydonian_boar_spawned_1">
+    <text>Země se třese a vzduch je plný rozzuřených vrčení. Kalýdonský divočák hledá odvetu za své padlé druhy.</text>
+</string>
+<string id="st_calydonian_boar_fleed_1">
+    <text>Nebyl jsem připraven na kalýdonského divočáka. Příště se vrátím s větší palnou silou. Měl bych mluvit s Řezníkem, aby měl ten bestii na očích.</text>
+</string>
+<string id="st_butcher_legendary_hunting_season_1">
+    <text>Řezník: Moji přátelé mi říkají, že je neobvyklé množství divokých prasat, která se potulují v srdci bažin. Je otevřena lovčí sezóna.</text>
+</string>
+<string id="st_butcher_legendary_hunting_season_2">
+    <text>Řezník: Najdete je mezi čerpací stanicí, zříceninami vesnice a strojním dvorem.</text>
+</string>
+<string id="st_butcher_legendary_hunting_season_3">
+    <text>Řezník: Jsou rozděleni do tří skupin.</text>
+</string>
+<string id="st_butcher_legendary_hunting_season_4">
+    <text>Řezník: Pamatujte si: on bude bojovat za ně, a oni budou bojovat za něj! Hodně štěstí!</text>
+</string>
+
+	<string id="butcher_legendary_1_0">
+    <text>O kalýdonském divočákovi.</text>
+</string>
+<string id="butcher_legendary_1_1">
+    <text>Ano?</text>
+</string>
+<string id="butcher_legendary_1_2">
+    <text>Rozhodl jsem se, že jsem připraven ho lovit.</text>
+</string>
+<string id="butcher_legendary_1_4">
+    <text>Můžete mi zopakovat příběh, jak jste čelil divočákovi?</text>
+</string>
+<string id="butcher_legendary_1_5">
+    <text>Máte nějaké rady pro jeho lovení?</text>
+</string>
+<string id="butcher_legendary_1_6">
+    <text>Vezměte si jen to nejnutnější pro boj! Musíte být schopni uniknout nejen jeho útokům, ale i těm jeho druhů! A budete potřebovat spoustu střeliva! A pamatujte - útěk je vždy možností.</text>
+</string>
+<string id="butcher_legendary_1_7">
+    <text>Povídejme o něčem jiném.</text>
+</string>
+<string id="butcher_legendary_1_8">
+    <text>Dobře.</text>
+</string>
+<string id="butcher_legendary_1_9">
+    <text>Chci to zkusit znovu. Tentokrát Kalýdonský divočák najde svůj konec.</text>
+</string>
+<string id="butcher_legendary_1_10">
+    <text>Dobře lovče! Dám vědět svým přátelům, aby dbali na kalýdonského divočáka a jeho smečku. V mezičase se připravte.</text>
+</string>
+
+<string id="butcher_legendary_2_0">
+    <text>Měl jsi pravdu, ten divočák byl příliš mocný. Musel jsem utéct!</text>
+</string>
+<string id="butcher_legendary_2_1">
+    <text>Udělal jsi správné rozhodnutí utéct. Můžeš to vždy zkusit později.</text>
+</string>
+
+<string id="butcher_legendary_3_0">
+    <text>Povedlo se mi! Zabil jsem tu bestii!</text>
+</string>
+<string id="butcher_legendary_3_1">
+    <text>Úžasná práce! Stalkerové budou dlouho vyprávět tvůj příběh! Pijme na to!</text>
+</string>
+<string id="butcher_legendary_3_2">
+    <text>Pijme!</text>
+</string>
+<string id="butcher_legendary_3_3">
+    <text>Musím přiznat, že jsem to nepovažoval za proveditelné! Ale tady jsi! Sakra, chlapče! Vezmi si tohle - už to nepotřebuji a myslím, že ty s tím budeš lépe zacházet. Moje stará lovecká puška, Kyklop!\n \nA samozřejmě!
+         Na tu prokletou divočáka je vyhlášena odměna, i když jen málo Stalkerů do ní vložilo peníze, protože věřili, že je to spíše legenda než pravda... no už tak či onak, tady jsou peníze!</text>
+</string>
+
+--- Hunter Duty ---	
+	<string id="bar_dolg_medic_hunter_0_0">
+    <text>Řezník mi řekl, že bys mohl mít pro mě práci.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_1">
+    <text>Aha, v pořádku! Díky, že jsi přišel.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_2">
+    <text>Žádný problém, jak ti mohu pomoci?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_3">
+    <text>Rád. Abych to zkrátil, chlapci tady mají nějaké problémy. Voronin nedávno odešel na jednání se Sakharovem a Kuzněcovem, aby projednali některé obecné záležitosti. Během toho jednání Sakharov požádal Voronina, aby jim pomohl vyčistit Vesnici krvavých savců, návrh, na který Kuzněcov údajně zasmál, říkaje, že Dutnáci to nezvládnou, a navrhl pomoc svých vojáků místo toho.
+         Voronin to vzal velmi špatně a začal se chlubit schopnostmi našich chlapců. Nic špatného na obraně čestnosti našich vojáků, ale ztratil každý kontakt s realitou a slíbil Sakharovovi, že pro ně vyčistí Vesnici krvavých savců. Problém je, že to chce udělat přes noc, aby se Ecologisté ráno objevili a našli bezpečnou vesnici... Přes noc! Dokážeš si to představit?
+        Chce se ukázat před vojenskými, rozumíš - a tomu hajzlovi je ukradené, že někteří z nich tu noc nepřežijí.
+        Samozřejmě chlapci nejsou nadšení z toho, že by ztratili své životy kvůli generálově egu, jsou přece vojáci, ne Spetsnaz.
+        Takže přišli ke mně a já slíbil, že se podívám, co s tím mohu udělat - pomyslel jsem si na Butchera a zeptal se, jestli by nám nemohl poslat zkušeného lovce, který je na to připraven. Samozřejmě musíš být diskrétní, Voronin nemůže vědět o ničem.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_4">
+    <text>Jsem jedno ucho.</text>
+</string>
+
+	<string id="bar_dolg_medic_hunter_0_5">
+    <text>Vyčistit Vesnici krvavých savců během noci? To je sebevražda!</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_6">
+    <text>"Není na nás se ptát proč, nýbrž pouze jednat a zemřít." Rozkazy jsou rozkazy, neschvaluji neposlušnost!</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_7">
+    <text>Mám radost, že to slyším, vždy je příjemné mluvit s profesionály. Samozřejmě neočekáváme, že to uděláš zadarmo, chlapci přispějí k odměně za tvou pomoc!
+         Dokonce se jim podařilo podplatit Manguna, aby jim dal zařízení na noční vidění - takže nebudeš muset jít do toho slepě jako krtek. Jsi v tom?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_8">
+    <text>Je to těžké, ale přemýšlej o tom - pokud to někdo dokáže, jsi to jistě ty! Butcher mi vyprávěl o tvých dovednostech při lovu mutantů - to je víc, než mohu říci o našich chlapcích. Samozřejmě neočekáváme, že to uděláš zadarmo, chlapci přispějí k odměně za tvou pomoc!
+         Dokonce se jim podařilo podplatit Manguna, aby jim dal zařízení na noční vidění - takže nebudeš muset jít do toho slepě jako krtek. Pomůžeš nám?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_9">
+    <text>Rozumím potřebě vojáka dodržovat rozkazy svých nadřízených, ale tohle je objektivně nezdravá mise! Tyhle jsou skuteční lidé, kteří jsou posíláni na misi, na kterou nebyli vycvičeni! Přemýšlej o tom! Ty na druhou stranu máš zkušenosti v těchto záležitostech,
+         alespoň mi to Butcher řekl, že jsi zběhlý v lovu mutantů. A samozřejmě neočekáváme, že to uděláš zadarmo, chlapci přispějí k odměně za tvou pomoc!
+         Dokonce se jim podařilo podplatit Manguna, aby jim dal zařízení na noční vidění - takže nebudeš muset jít do toho slepě jako krtek. Jsi v tom?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_10">
+    <text>Dobře, udělám to.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_11">
+    <text>Mohu to udělat, ale chci, aby Voronin věděl, že jsem to byl já!</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_12">
+    <text>Potřebuji nějaký čas, abych o tom přemýšlel.</text>
+</string>
+
+<string id="bar_dolg_medic_hunter_0_13">
+    <text>Není šance, že by to dokázali sami!</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_14">
+    <text>Bůh tě žehnej. Přijďte se mnou těsně před tím, než to uděláte, dám vám zařízení na noční vidění a upozorním chlapce, že by se měli tvářit, že odjedou na útok.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_15">
+    <text>To není možné, Voronin chce, aby to byli chlapi jmenovaní jím. Nemůžete to udělat za ně?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_16">
+    <text>Dobře, ale prosím, nečekejte příliš dlouho, Voronin ztrácí trpělivost.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_17">
+    <text>Jste si jisti? Přemýšlejte o tom, chlapci by to opravdu ocenili!</text>
+</string>
+
+<string id="bar_dolg_medic_hunter_0_time_0">
+    <text>O Vesnici Krvopijců.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_time_1">
+    <text>Ano? Jste na to?</text>
+</string>
+
+<string id="bar_dolg_medic_hunter_0_no_1">
+    <text>Ano? Rozmyslel jste si to?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_no_13">
+    <text>Rozhodl jsem se, že to určitě neudělám!</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_no_17">
+    <text>*Povzdech* Škoda, měl jsem vás vysoké naděje, ale dobře... Zeptám se Butchera, jestli mi může poslat někoho jiného...</text>
+</string>
+
+	<string id="bar_dolg_medic_hunter_0_yes_0">
+    <text>O Vesnici Upírů.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_yes_1">
+    <text>Ano, co s ní?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_yes_2">
+    <text>Jsem připraven.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_yes_3">
+    <text>Jsem připraven.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_yes_4">
+    <text>Jsem ještě nepřipraven.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_yes_5">
+    <text>Je skvělé to slyšet, přijďte ke mně tuto noc, než vyrazíte.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_yes_6">
+    <text>Skvělé. Tady je váš noční vidění - přibalil jsem i nějaké baterie, aby jste se nenacházeli uprostřed noci bez energie. Vezměte si také tyhle léky, doufejme, že je nebudete potřebovat, ale lepší představení než litování.
+    Musíte to dokončit před východem slunce! Před tím, než se vydají Ekologové! Dobré lovení Stalkere, a díky za pomoc!</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_yes_7">
+    <text>Dobře, přijďte ke mně, až budete připraveni.</text>
+</string>
+
+<string id="bar_dolg_medic_hunter_1_0">
+    <text>Úkol je splněn.</text>
+</string>
+<string id="bar_dolg_medic_hunter_1_1">
+    <text>Skvělá práce! Věděl jsem, že to zvládnete!</text>
+</string>
+
+<string id="bar_dolg_medic_hunter_2_0">
+    <text>Omlouvám se, nedokázal jsem úkol dokončit včas.</text>
+</string>
+<string id="bar_dolg_medic_hunter_2_1">
+    <text>Nevzrušujte se, Stalkere! Od Voronina sice dostaneme kritiku, ale aspoň nikdo nepřišel o život.</text>
+</string>
+
+<string id="bar_dolg_medic_hunter_0_snitch_0">
+    <text>Co se stalo ve Vesnici Krvopijců?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_snitch_1">
+    <text>Vyzradil jste nás, to se stalo. Proč?</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_snitch_2">
+    <text>Věřím v dodržování rozkazů.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_snitch_3">
+    <text>Chtěl jsem vidět, co se stane.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_snitch_4">
+    <text>Dělal jsem to kvůli penězům.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_snitch_5">
+    <text>Jsi parchant. Mohl jsi to jednoduše ignorovat, a najali bychom někoho jiného - místo toho jsou tři naši kluci mrtví a Artyom je ve vážném stavu.</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_snitch_6">
+    <text>Chtěl jsi vidět, co se stane? Tři mrtví - jeden zraněný - to se stane! Jsi parchant - zmiz!</text>
+</string>
+<string id="bar_dolg_medic_hunter_0_snitch_7">
+    <text>Pro peníze? Jsi parchant - tvá chamtivost stála život našich kluků!</text>
+</string>
+
+
+<string id="bar_dolg_medic_hunter_about_artyom_0">
+    <text>Co se stalo s chlapcem na zemi?</text>
+</string>
+<string id="bar_dolg_medic_hunter_about_artyom_1">
+    <text>Artyom - oběť tvého udání. Artyom je jediným přeživším - podařilo se mu utéct, když se všechno zvrtlo do průseru.</text>
+</string>
+<string id="bar_dolg_medic_hunter_about_artyom_2">
+    <text>Podaří se mu to?</text>
+</string>
+<string id="bar_dolg_medic_hunter_about_artyom_3">
+    <text>Pravděpodobně jo, podařilo se mi ho stabilizovat. Ale pořád trpí silnými bolestmi a zdá se, že je vážně traumatizovaný - má panické záchvaty a musím mu dávat morfin, aby se uklidnil.</text>
+</string>
+<string id="bar_dolg_medic_hunter_about_artyom_4">
+    <text>Lituji toho, co se stalo.</text>
+</string>
+<string id="bar_dolg_medic_hunter_about_artyom_5">
+    <text>Ha. Tvůj lítost nevrátí Vadima, Sášu a Sergeje, ale alespoň přiznáváš svoji vinu.</text>
+</string>
+<string id="bar_dolg_medic_hunter_about_artyom_6">
+    <text>Nepokus se to na mě svalit.</text>
+</string>
+<string id="bar_dolg_medic_hunter_about_artyom_7">
+    <text>Piš si, ty parchante. To je tvá chyba.</text>
+</string>
+
+<string id="voronin_bloodsucker_snitch_0">
+    <text>Musím ti něco říct.</text>
+</string>
+<string id="voronin_bloodsucker_snitch_1">
+    <text>Na co čekáš, mluv!</text>
+</string>
+<string id="voronin_bloodsucker_snitch_2">
+    <text>Tvoji muži se mě pokusili zaplatit, abych pro ně vyčistil Vesnici Krvopijců.</text>
+</string>
+<string id="voronin_bloodsucker_snitch_3">
+    <text>Nic.</text>
+</string>
+<string id="voronin_bloodsucker_snitch_4">
+    <text>Cože? Proč?</text>
+</string>
+<string id="voronin_bloodsucker_snitch_5">
+    <text>Tak přestaň plýtvat mým časem.</text>
+</string>
+<string id="voronin_bloodsucker_snitch_6">
+    <text>Bojí se to udělat - říkají, že nejsou vyškoleni na takovou noční misi.</text>
+</string>
+<string id="voronin_bloodsucker_snitch_7">
+    <text>Ti zbabělci... Naučím je statečnosti - díky, že jsi mi to řekl!</text>
+</string>
+<string id="voronin_bloodsucker_snitch_8">
+    <text>Já jsem to byl, kdo vyčistil Vesnici Krvopijců - tvoji muži mě zaplatili, abych udělal jejich práci za ně.</text>
+</string>
+<string id="voronin_bloodsucker_snitch_9">
+    <text>Cože? Proč?</text>
+</string>
+<string id="voronin_bloodsucker_snitch_10">
+    <text>Bojí se to udělat - říkají, že nejsou vyškoleni na takovou noční misi.</text>
+</string>
+<string id="voronin_bloodsucker_snitch_11">
+    <text>Ti zbabělci... Naučím je statečnosti - díky, že jsi mi to řekl! Tady máš "odměnu", abys držel hubu, nechceme, aby byla tahle ostuda známá v Zóně.</text>
+</string>
+
+<string id="voronin_bloodsucker_botched_0">
+    <text>Potřeboval jsi mě vidět?</text>
+</string>
+<string id="voronin_bloodsucker_botched_1">
+    <text>Ano... obávám se, že mise selhala. Ze čtyř mužů, které jsem poslal, se vrátil pouze jeden - těžce zraněný a ztracený rozumem. 
+			Jediné, co jsme od něj získali, je, že to šlo do háje okamžikem, kdy vkročili do té vesnice.</text>
+</string>
+<string id="voronin_bloodsucker_botched_2">
+    <text>Co se stalo?</text>
+</string>
+<string id="voronin_bloodsucker_botched_3">
+    <text>Artyom nedokázal podat úplnou zprávu... z toho, co jsem pochopil, nedodrželi protokol a oddělili se, což vedlo k selhání mise. 
+		Je s Aspirinem, možná z něj něco dostanete.</text>
+</string>
+<string id="voronin_bloodsucker_botched_4">
+    <text>Co od tebe očekávám ohledně této situace?</text>
+</string>
+<string id="voronin_bloodsucker_botched_5">
+    <text>Nikdo nesmí vědět o tomto selhání a moji muži odmítají vrátit se do té vesnice v noci. 
+			Potřebuji, aby někdo v noci vnikl do vesnice a vyměnil padlému muži odznaky od Duty za odznaky od najatých vojáků... </text>
+</string>
+<string id="voronin_bloodsucker_botched_6">
+    <text>Cože? Děláš si z nás srandu?</text>
+</string>
+<string id="voronin_bloodsucker_botched_7">
+    <text>Rozumím.</text>
+</string>
+<string id="voronin_bloodsucker_botched_8">
+    <text>Vůbec ne, toto je zásadní pro pověst Duty - nemůžeme si dovolit ukázat slabost!</text>
+</string>
+<string id="voronin_bloodsucker_botched_9">
+    <text>Jsem rád, že jsme na stejné vlně - pověst Duty je přece nejdůležitější.</text>
+</string>
+<string id="voronin_bloodsucker_botched_10">
+    <text>Nemůžete jednoduše získat jejich těla zpět?</text>
+</string>
+<string id="voronin_bloodsucker_botched_11">
+    <text>Mimo otázku! To by přitáhlo přílišnou pozornost k tomuto selhání - nemohu to dovolit!</text>
+</string>
+<string id="voronin_bloodsucker_botched_111">
+    <text>Ale tito muži zemřeli ve službě! Musíte je získat zpět!</text>
+</string>
+<string id="voronin_bloodsucker_botched_112">
+    <text>Tito muži věděli, na co se přihlásili. Navíc, pověst Duty je důležitější než paměť několika mužů.</text>
+</string>
+<string id="voronin_bloodsucker_botched_12">
+    <text>Proč odznaky od najatých vojáků?</text>
+</string>
+<string id="voronin_bloodsucker_botched_13">
+    <text>Není to zřejmé? Aby to vypadalo, že se nějací najatí vojáci přestrojili za vojáky od Duty, aby se vyhnuli pozornosti v Rostoku, ale uvízli ve Vesnici Krvopijců. </text>
+</string>
+<string id="voronin_bloodsucker_botched_14">
+    <text>Dobře, pomohu ti s úklidem důkazů.</text>
+</string>
+<string id="voronin_bloodsucker_botched_15">
+    <text>Musím o tom přemýšlet.</text>
+</string>
+<string id="voronin_bloodsucker_botched_16">
+    <text>Nechci být do toho zapleten.</text>
+</string>
+
+	
+<string id="voronin_bloodsucker_botched_17">
+    <text>Dobře. Připravte se na misi a přijďte se mnou v noci, než vyrazíte.</text>
+</string>
+<string id="voronin_bloodsucker_botched_18">
+    <text>Pak to udělejte rychle, čím více času uplyne, tím víc lidí si všimne.</text>
+</string>
+<string id="voronin_bloodsucker_botched_19">
+    <text>Jsi si jistý? Jsem připraven zaplatit za to dobrou cenu, řekněme 20 000 rublů?</text>
+</string>
+<string id="voronin_bloodsucker_botched_20">
+    <text>Za tu cenu to udělám.</text>
+</string>
+<string id="voronin_bloodsucker_botched_21">
+    <text>Ne, zapomeň na to.</text>
+</string>
+<string id="voronin_bloodsucker_botched_22">
+    <text>Dobře. Připravte se na misi a přijďte se mnou v noci, než vyrazíte.</text>
+</string>
+<string id="voronin_bloodsucker_botched_23">
+    <text>O tom přemýšlejte.</text>
+</string>
+
+<string id="voronin_bloodsucker_botched_1_0">
+    <text>O misi.</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_1">
+    <text>Ano?</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_2">
+    <text>Jsem připraven. Řekni mi o podrobnostech.</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_3">
+    <text>Skvělé. Mise je docela jednoduchá, najdeš těla Vadima, Sergeje a Sáši a nahradíš jejich odznaky od Duty těmito. Ale buď opatrný, abys dokončil práci před východem slunce, nemůžeme si dovolit, aby tě někdo viděl.</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_4">
+    <text>Potřebuji ještě trochu času.</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_5">
+    <text>Dobře, ale prosím, pospěš si.</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_6">
+    <text>Změnil jsem názor - budu vám pomáhat s vaším zástěrkou...</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_7">
+    <text>Dobře, skvělé to slyšet! Přijďte za mnou, až budete připraveni.</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_8">
+    <text>Nic.</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_9">
+    <text>Dobře...?</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_10">
+    <text>Jsem připraven, řekni mi o podrobnostech.</text>
+</string>
+<string id="voronin_bloodsucker_botched_1_11">
+    <text>Dobře, přijďte za mnou v noci před odjezdem.</text>
+</string>
+
+<string id="voronin_bloodsucker_botched_2_0">
+    <text>Je hotovo.</text>
+</string>
+<string id="voronin_bloodsucker_botched_2_1">
+    <text>Skvělá práce Stalkere - teď už nikdo nebude moci Duty nic připíchnout. Tady je tvá odměna - doufám, že mohu počítat s tvou diskrétností.</text>
+</string>
+
+<string id="voronin_bloodsucker_botched_3_0">
+    <text>Je hotovo.</text>
+</string>
+<string id="voronin_bloodsucker_botched_3_1">
+    <text>Myslel jsi, že jsi selhal - kolovaly zvěsti o Stalkerovi, který si hraje s těly od Duty ve vesnici Krvopijců. Tady je nějaké odškodnění, ale myslím, že je také v tvém zájmu udržet své selhání v tajnosti.</text>
+</string>  
+
+<string id="st_dolg_voronin_bloodsucker_news_0">
+    <text>Voronin: Stalkere, máme na rukou problém. Přijď se mnou co nejdříve!</text>
+</string>
+<string id="st_dolg_aspirin_bloodsucker_news_0">
+    <text>Aspirin: Stalkere, přijď za mnou - máme pro tebe pracovní nabídku.</text>
+</string>  
+<string id="st_dolg_aspirin_bloodsucker_news_1">
+    <text>Aspirin: Stalkere, přijď za mnou - máme problém, na který potřebujeme tvou pomoc.</text>
+</string>  
+<string id="st_freedom_voronin_bloodsucker_news_0">
+    <text>Hej, kluci, je tu Stalker, co... Duty vojáky? Mrtví Duty vojáci ve vesnici Krvopijců? Co tam dělají?</text>
+</string>  
+
+	
+<string id="bar_dolg_medic_hunter_3_0">
+    <text>Říkal jsi, že máš pracovní nabídku.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_1">
+    <text>Ano - kluci chtějí pomstít tyhle Krvopijce a vzhledem k tomu, že máš... zkušenosti s tou vesnicí, chtějí tě s sebou na jejich výpravu.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_2">
+    <text>Takže se nehádáš, že jsem řekl Voroninovi a přijal jeho nabídku?</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_3">
+    <text>No... zjevně to nebylo z tvé strany moc fér - mohli jsme najmout někoho jiného, kdo by to udělal místo tebe.
+    Ale... já - my chápeme, že Zóna není moc vhodná pro morálku a že lidi jako ty jsou tady kvůli... svým osobním zájmům.
+    Voda pod mostem, nezabil jsi Sášu, Sergeje a Vadima, ty zatracení Krvopijci to udělali... teď bychom tě chtěli najmout na odvetu.
+    Hodně peněz, Stalkere, kluci si nezadržovali peněženky, aby se mstili.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_4">
+    <text>Žádné špatné pocity kvůli Artyomovi?</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_5">
+    <text>Artyom, ano, to bylo - abych byl upřímný - docela hloupé dát mu tolik morfinu. Chudák Artyom... Nezasloužil si zemřít takhle. 
+    Ale život jde dál... nemluvme o Artyomovi, ano? Jeho smrt je pro mě stále velmi bolestná.</text>
+</string> 
+<string id="bar_dolg_medic_hunter_3_6">
+    <text>Jaký je plán? Není noční útok příliš nebezpečný?</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_7">
+    <text>Stalkere, žádný noční útok není potřeba, plán je úplně jiný. Koupili jsme všechny výbušniny, na které jsme mohli sáhnout, a rozmístíme je na různých místech vesnice, kde se pohybují Krvopijci.
+		Když vykouknou ven během noci, odpálíme je jako ohňostroj!</text>
+</string>
+
+	<string id="bar_dolg_medic_hunter_3_8">
+    <text>Dobře, jdu do toho.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_9">
+    <text>Musím o tom přemýšlet.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_10">
+    <text>Ne, myslím, že vám nepomohu.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_11">
+    <text>Radostně to slyšíme! Přijďte za mnou, až budete připraveni, a já vám řeknu podrobnosti!</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_12">
+    <text>Dobře, ale prosím, pospěšte si! Kluci jsou netrpěliví a čekají na svou pomstu.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_13">
+    <text>Jste si jistý? Je to spousta peněz a práce je docela snadná, pokud dovolím takový výraz.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_14">
+    <text>Nechám si to projít hlavou.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_15">
+    <text>Ne, moje odpověď je konečná.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_16">
+    <text>Dobře, vemte si čas.</text>
+</string>
+<string id="bar_dolg_medic_hunter_3_17">
+    <text>Prosím, zvažte nabídku práce! Budeme čekat, pokud si to rozmyslíte.</text>
+</string>
+
+	<string id="bar_dolg_medic_hunter_4_0">
+    <text>O mise pomsty.</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_1">
+    <text>Ano?</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_2">
+    <text>Jsem připraven. Řekněte mi o podrobnostech.</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_3">
+    <text>Dobře, velmi dobře. Kontaktní osobou je Ilya Kovalyov - setkáte se s ním ve vojenském skladu na farmě jižně od cesty sem. Počkejte tam na něj - on vám vysvětlí zbytek mise.</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_4">
+    <text>Potřebuji ještě chvíli času.</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_5">
+    <text>Dobře, ale prosím, pospěšte si.</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_6">
+    <text>Změnil jsem názor - budu vám pomáhat s pomstou na těchhle Krvopijcích.</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_7">
+    <text>Dobře, kluci budou rádi, že to slyší! Přijďte za mnou, až budete připraveni.</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_8">
+    <text>Nic.</text>
+</string>
+<string id="bar_dolg_medic_hunter_4_9">
+    <text>Dobře...?</text>
+</string>
+
+<string id="bar_dolg_medic_hunter_5_0">
+    <text>Ty parchante, podrazil jsi mě!</text>
+</string>
+<string id="bar_dolg_medic_hunter_5_1">
+    <text>Jdi do prdele, to sis zasloužil, parchante!</text>
+</string>
+<string id="bar_dolg_medic_hunter_5_2">
+    <text>Tvoji kamarádi se chystali zabít mě!</text>
+</string>
+<string id="bar_dolg_medic_hunter_5_3">
+    <text>Řekl jsem jim, aby tě jenom potrestali, ale nemohu je odsoudit, že tě nesnáší. Teď mi dej pokoj, parchante!</text>
+</string>
+
+
+<string id="dolg_ilya_bloodsucker_start_0">
+    <text>Dobrý den, parchante.</text>
+</string>
+<string id="dolg_ilya_bloodsucker_start_1">
+    <text>Co? Co je tvůj problém?</text>
+</string>
+<string id="dolg_ilya_bloodsucker_start_2">
+    <text>Nestačilo ti už, že jsi nás udal? Musel jsi přijmout Voroninovu žádost a nechat naše kluky opuštěné v té proklaté vesnici, zatímco se má každý tvářit, že jsou žoldáci?</text>
+</string>
+<string id="dolg_ilya_bloodsucker_start_3">
+    <text>Uklidni se, nebylo to osobní, jen obchodní záležitost.</text>
+</string>
+<string id="dolg_ilya_bloodsucker_start_4">
+    <text>Aspirin nám řekl, abychom ti pořádně natřeli, ale to si nezasloužíš. Tohle je pro kluky.</text>
+</string>
+<string id="dolg_ilya_bloodsucker_start_5">
+    <text>Co to jako děláš?</text>
+</string>
+<string id="dolg_ilya_bloodsucker_start_7">
+    <text>A co Artyom? Musel jsi zabít toho ubohého člověka? Jsi odpad!</text>
+</string>
+<string id="dolg_ilya_bloodsucker_start_8">
+    <text>To - to nebyla moje záměr!</text>
+</string>
+
+<string id="dolg_artyom_bloodsucker_start_dialog_0">
+    <text>Ah, to bolí... prosím, pomoz mi...</text>
+</string>
+
+<string id="dolg_artyom_bloodsucker_0_0">
+    <text>Artyome, musím tě na něco zeptat.</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_1">
+    <text>Ah, ah, ah...</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_2">
+    <text>Kde mohu najít těla ostatních vojáků?</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_3">
+    <text>Ah, ah, ah... moje noha, to bolí. Matko, prosím! Chci domů...</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_4">
+    <text>[Morfium] Tady, vezmi si to morfium, pomůže ti to s bolestí. Mohl bys si vzpomenout, co se stalo té noci?</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_5">
+    <text>Aaaah... sakra... Kde jsem, co se stalo?</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_6">
+    <text>Uklidni se, jsi zpátky v základně. Potřebuji, abys si vzpomněl, co se stalo během téhož útoku.</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_7">
+    <text>Co? Útok? ... Ano, útok ... \n \n ... \n \nsakra ten útok ... to byl masakr, nikdy jsme neměli jít do té vesnice. Vešli jsme z jihozápadu a všechno bylo klidné - dokonce jsme se dostali přes špinavou cestu bez incidentu...
+        Ale když jsme přiblížili k dřevěnému domu, všechno... všechno... ó můj bože, Vadime! Vadime! Aaaaah!!!</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_8">
+    <text>Uklidni se, Artyome, uklidni se! Co se stalo dál?</text>
+</string>
+
+<string id="dolg_artyom_bloodsucker_0_9">
+    <text>Věřím, že je to dost... odpočívej dobře, Artyome.</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_10">
+    <text>Vadime! Aaah to bolí... Vadime!!! Sergeji!!! Matko!!! POMOC!</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_11">
+    <text>[Morfium] Tady vezmi to morfium... Artyome, co se stalo poté, co zemřel Vadim?</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_12">
+    <text>Aaaaah... \n \n ... \n \nCo? Ah ano... po tom, co Vadima pobili Bloodsuckers, jsme se otočili a utekli o život... Sergej byl první... rychlejší než Sasha a já... vběhl do prvního domu, který uviděl... \n \n ... \n \n
+        Slyšeli jsme... slyšeli jsme hrozný výkřik... následovaný křikem! Dostali Sashu... dostali Sashu... ó můj bože, proč? Proč? Ohhhhhhh...</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_13">
+    <text>Artyome uklidni se! Už jsme skoro hotovi, Artyome! Co se stalo dál?</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_14">
+    <text>Aaaaah!!! Jsou všude! Pomoc! Prosím pomozte!</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_15">
+    <text>[Morfium] Tady je ještě trochu morfia... Artyome, skoro jsme hotovi, co se stalo poté, co zemřel Sergej?</text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_16">
+    <text>Oh... aaaaah... \n \n ... \n \n ano, ten útok... my... nesledovali jsme Sergeje do toho... domu. Sasha se totálně zbláznil... vyrazil směrem k srdci vesnice... Já... jsem nemyslel... následoval jsem ho... utekli jsme... až na sever od vesnice...
+        Tam jsme našli... dům... prázdný... odpočívali jsme... ano, odpočívali... jsem unaven... potřebuji odpočinout... </text>
+</string>
+<string id="dolg_artyom_bloodsucker_0_17">
+    <text>Artyome! Artyome!!! Nespíš!!! Artyome, probuď se!!!</text>
+</string>
+
+	
+------ Forester -------<string id="forester_mutanthammer_0">
+    <text>[Mutantní kladivo] Našel jsem tuhle zbraň na Orionovi.</text>
+</string>
+<string id="forester_mutanthammer_1">
+    <text>Ah ano, Mutantní kladivo. Pamatuji si na tuhle zbraň, to jsem ji upravil já!
+        Hlavně jsem žlábkovanou hlaveň a vyměnil některé její komponenty za lehčí materiál, abych snížil váhu. Samozřejmě to má taky svá negativa - zbraň se bude opotřebovávat rychleji než standardní Saiga.
+        Trvalo mi to chvíli, ale jsem z toho opravdu hrdý. Takže jsi novým majitelem - doufám, že ti bude dobře sloužit! Tady, nech mě ji vyčistit a opravit, aby byla zase jako nová.</text>
+</string>
+<string id="forester_mutanthammer_2">
+    <text>Děkuji!</text>
+</string>
+<string id="forester_mutanthammer_3">
+    <text>Žádný problém! \n \n...\n \n Tady, jako nová! Dobré lovení s ní!</text>
+</string>
+
+<string id="forester_legendary_0_0">
+    <text>Jaký je příběh za tou trofejí od Bloodsuckera?</text>
+</string>
+<string id="forester_legendary_0_1">
+    <text>To je Moloch - bratr Vlada a Drakula.</text>
+</string>
+<string id="forester_legendary_0_2">
+    <text>Moloch? Vlad? Drakul? Od kdy mají mutanti jména?</text>
+</string>
+<string id="forester_legendary_0_3">
+    <text>Od doby, kdy jsem těmto mutantům dal jméno. Samozřejmě, že nejsou obyčejní Bloodsuckeři - jsou to velmi starodávná bytost... jsou tu už od raných dnů Zóny - a tady, být starý znamená něco.</text>
+</string>
+<string id="forester_legendary_0_04">
+    <text>Vlad a Drakul? To nezní příliš originálně pro Bloodsuckery?</text>
+</string>
+<string id="forester_legendary_0_05">
+    <text>Nezajímá mě, jestli je to originální, pro mě je důležité, že se k nim hodí. Navíc, pokud si myslíš, že jsi kreativnější - najdi mutanta, který si zaslouží jméno, a prokaž to.</text>
+</string>
+<string id="forester_legendary_0_4">
+    <text>Bratři? Jak to víš?</text>
+</string>
+<string id="forester_legendary_0_5">
+    <text>To nevím - ale pro mě jsou bratři. Potkal jsem je společně - tady v tomto lese. Byli to první Bloodsuckeři, které jsem kdy viděl, nevěděl jsem, že takoví démoni mohou vůbec existovat... ale existují...</text>
+</string>
+<string id="forester_legendary_0_6">
+    <text>Jaký je příběh za nimi?</text>
+</string>
+
+<string id="forester_legendary_0_7">
+    <text>Kde začít? Od toho, odkud přišli - nevím... Ale stále si pamatuji, kdy jsem je poprvé potkal. Nebylo to dlouho po druhé velké explozi, té, která vytvořila toto peklo.
+        Zachytil jsem nouzový rozhlasový signál přeživších - vojenský průzkumný oddíl, který se ztratil v močálech Zatonu. Zdálo se, že jejich velitel vešel do Vortexu a s ním se roztrhal i jejich jediný plán. Představ si, že dáš celému oddílu jen jeden plán - ale zdá se, že některé věci se nezměnily od starých dob. Přesto jsem našel oba přeživší a slíbil jsem, že je dovedu zpět do jejich hlavní základny - v těch dnech měla vojenská základna stále přítomnost v Armádních skladech.
+        Dostali jsme se do tohoto lesa při soumraku - chtěl jsem přenocovat v této oblasti, ale tito chlapci toužili znovu se připojit ke své základně. Dnes by přechod lesa v noci znamenal jistou smrt, ale víš, že tehdy byla většina těchto mutantů docela vzácná a ještě nedosáhla jižních částí Zóny.
+        Tak jsme uzavřeli kompromis - měli jsme se odpočinout, něco sníst a pokračovat v cestě poté, co jsme si zahřáli břicha jídlem a duch vodkou. Vstoupili jsme do lesa, abychom sehnali dřevo a uvařili nějaké maso na mýtině. Nevím, co je přilákalo - zápach jídla nebo možná smích...
+        Opustil jsem ohniště, abych si šel na malou, zatímco se oba vojáci dál bavili. Když jsem se vrátil k ohni, viděl jsem, jak jeden z nich leží na zemi - asi se smál, myslel jsem si... ale až když jsem stál vedle něj, jsem si všiml krve vystupující z jeho krku. Podíval jsem se nahoru - ten druhý tam stál s rozšířenýma očima a za ním...
+        Nevím, který z bratrů to byl, ale to byl první Bloodsucker, kterého jsem v životě viděl. Nepochopil jsem to - jen jsem ztuhl. To je ten moment, kdy jsem ucítil chobotnice, které se mi omotaly kolem krku - silný a horký byl ten stisk! Nedomýšlel jsem - chytil jsem kus hořícího dřeva a udeřil jsem za sebe!
+        Bloodsucker mě okamžitě pustil a já se snažil pryč, běžet o život! Tak jsem se poprvé setkal s Moloch, Vladem a Drakulem!
+    </text>
+</string>
+
+	<string id="forester_legendary_0_8">
+    <text>Zatracení... ale podařilo se ti střelit Molocha? Jak to šlo?</text>
+</string>
+<string id="forester_legendary_0_9">
+    <text>Bratry jsem od té doby potkal mnohokrát! Nejprve jsem se této lesní oblasti vyhýbal, dokud jsem si neuvědomil, že jsou nočními tvory. Začal jsem je sledovat, shromažďovat informace o této nové hrozbě, která se skrývala ve mně. Pokusil jsem se jim nastavit pasti - první fungovala, ale nepodařilo se mi to využít, ale i bratři se poučili a začali jim vyhýbat.
+        Někdy se mi podařilo jednoho zranit - někdy se mi podařilo zranit se. Snažil jsem se najít jejich úkryt tím, že jsem sledoval jejich stopy - marně, nikdy jsem nenašel přesnou polohu. Pokračovalo to, až do jednoho dne, kdy se na mě pokusila zaútočit banda lupičů. Pokusili se mě vydírat - odmítl jsem. Situace eskalovala a skončili mrtví - kromě jednoho! Byl zraněný a bezvládný - krvácel do smrti.
+        Rozhodl jsem se nechat dobré tělo neztracené a odnesl jsem ho do lesa jako návnadu. Připoutal jsem ho k stromu a čekal na bratry v záloze. A jistě přišli - obkličující toho chudáka. Ano, nebylo správné, abych to udělal jinému člověku - vystavit ho takovým hrůzám bez možnosti boje... Ale tehdy jsem si myslel, že to byl dobrý nápad.
+        Zatímco se ládovali na svou snadnou kořist, zamířil jsem a trpělivě čekal na svůj výstřel. A vystřelil jsem - šel přímo skrz srdce Molocha. Vlad a Drakul se vyděsili a utekli - a já si odnesl svou trofej.
+        
+        Od té doby jsem je už nikdy neviděl, stáhli se hluboko do lesa a už z něj téměř nevychází - nechají většinu lovu svým jedinci.</text>
+</string>
+<string id="forester_legendary_0_10">
+    <text>Řekni mi, kde je najdu - budu je lovit!</text>
+</string>
+<string id="forester_legendary_0_11">
+    <text>Myslím, že to stačí - stále chci být schopen spát.</text>
+</string>
+<string id="forester_legendary_0_12">
+    <text>Pak jsi blázen! Jsou to jistá smrt - nedělej takové hloupé kroky, že si myslíš, že je zvládneš!</text>
+</string>
+<string id="forester_legendary_0_13">
+    <text>Jsou to mutanti, Lesník, opravdu si myslíš, že přestali zabíjet? Musí být zničeni - zejména pokud jsou tak nebezpeční, jak říkáš!</text>
+</string>
+<string id="forester_legendary_0_14">
+    <text>Máš pravdu - je zapotřebí trpělivosti. Musíme počkat na vhodnou chvíli.</text>
+</string>
+<string id="forester_legendary_0_15">
+    <text>Samozřejmě, že nevěřím, že přestali vraždit - ale není to tvá povinnost je zastavit! Možná jsem nebyl dost jasný - nejsou to vaši normální Bloodsuckeři, jsou mnohem horší. Jsou jako síla přírody - musíme s nimi žít.</text>
+</string>
+
+	<string id="forester_legendary_0_16">
+    <text>Protestuji - dokázal jsem se, jsem schopný lovec! Postavil jsem se a ovládl mnoho hrůz tady - dokážu to.</text>
+</string>
+<string id="forester_legendary_0_17">
+    <text>Vím - jsi statečný a tvé dovednosti jsou skvělé! Ale toto je řádově vyšší úroveň, se kterou jsi se ještě nesetkal - přeceňuješ svou vlastní sílu - jsi příliš netrpělivý a chceš spěchat, což tě činí náchylným k chybám.
+        Nedovol, abych byl vinen tvou smrtí - šetři svou sílu pro jiné mutanti, neplýtvej svým životem.</text>
+</string>
+<string id="forester_legendary_0_18">
+    <text>Lesníku, důvěřuj mladším lidem! V některém bodě musí být zastaveni, a naše šance jsou lepší, když bys mi pomohl místo toho, aby ses mě snažil chránit. Řekni mi, jak se připravit, a já udělám!</text>
+</string>
+<string id="forester_legendary_0_19">
+    <text>Ach, mladí lidé... tak přesvědčení o sobě. Nerozumíš - budete se nejenom s nimi setkat, ale i s jejich bratry!
+        Ale vidím to ve tvých očích, jsi rozhodnutý.
+        Řeknu ti co, přineste mi srdce pěti Bloodsuckerů, a já ti řeknu, jak je najít... alespoň budeš mít zkušenosti s těmito ďábly...</text>
+</string>
+<string id="forester_legendary_0_20">
+    <text>Nesklamu tě! Považ to za hotovo.</text>
+</string>
+<string id="forester_legendary_0_21">
+    <text>Buď opatrný tam venku, mladý Stalkere!</text>
+</string>
+<string id="forester_legendary_0_22">
+    <text>Ano, jsem rád, že se přikláníš k rozumu.</text>
+</string>
+<string id="forester_legendary_0_23">
+    <text>Dobře řečeno, pojďme se zaměřit na příjemnější věci.</text>
+</string>
+
+
+<string id="forester_legendary_1_0">
+    <text>O Vladovi a Drakulovi. </text>
+</string>
+<string id="forester_legendary_1_1">
+    <text>Co je?</text>
+</string>
+<string id="forester_legendary_1_2">
+    <text>Chci je lovit.</text>
+</string>
+<string id="forester_legendary_1_3">
+    <text>Řekni mi příběh, jak jsi je poprvé potkal.</text>
+</string>
+<string id="forester_legendary_1_4">
+    <text>Řekni mi příběh, jak jsi zastřelil Molocha.</text>
+</string>
+<string id="forester_legendary_1_5">
+    <text>Neuběhlo dlouho po druhé velké explozi, té, která vytvořila tohle peklo.
+        Chytil jsem nouzový rádiový signál od přeživších - skautský oddíl armády, který se ztratil v Zatonských bažinách. Zdálo se, že jejich velitel vkročil do Vortexu a s sebou se jim roztřískala jejich jediná mapa.
+        Představ si dát jenom jednu mapu pro celý oddíl - ale zdá se, že některé věci se nezměnily od starých dob. Nicméně, našel jsem dva přeživší a slíbil jsem jim, že je dovedu zpět do jejich hlavního stanu - tehdy měla Armáda ještě přítomnost v Armádních skladech.
+        Dosáhli jsme tohoto lesa za soumraku - chtěl jsem tu přenocovat, ale ti kluci se těšili, až se dostanou zpátky na základnu. V dnešní době by přechod lesa v noci znamenal jistou smrt, ale většina těchto mutantů byla tehdy poměrně vzácná a ještě nedosáhla jižních částí Zóny.
+        Tak jsme udělali kompromis - měli jsme si odpočinout a něco sníst a pokračovat v cestě poté, co jsme si zahřáli břicha jídlem a duch s vodkou. Vstoupili jsme do lesa, abychom sebral trochu dřeva a uvařili maso na mýtině. Nevím, co je přitáhlo - zápach jídla nebo možná smích...
+        Opustil jsem ohniště, abych se vydal na močení, zatímco oba vojáci pokračovali ve srandování. Když jsem se vrátil k ohni, viděl jsem jednoho z nich ležet na zemi - šeptající smíchem jsem si myslel... až když jsem stál vedle něj, jsem si všiml krve řinoucí se z jeho krku. Podíval jsem se nahoru - ten druhý tam stál s širokýma očima a za ním...
+        Nevím, který z bratrů to byl, ale to byl první Bloodsucker, kterého jsem v životě viděl. Nerozuměl jsem - jednoduše jsem ztuhl. To je, když jsem pocítil chapadla, která se mi snažila omotat kolem krku - silný a horký byl ten úchop! Nepřemýšlel jsem - chytl jsem kus hořícího dřeva a uhodil za sebe!
+        Bloodsucker mě okamžitě pustil a já se vyškrábal pryč, utíkaje o život! Tak jsem potkal Molocha, Vlada a Drakula!</text>
+</string>
+<string id="forester_legendary_1_6">
+    <text>Začal jsem sledovat bratry, shromažďovat informace o této nové hrozbě, která se skrývá v mém lese. Snažil jsem se kladné pasti - první fungovala, ale nebyl jsem schopen ji využít, ale bratři se také naučili a začali se jim vyhýbat.
+        Občas se mi podařilo jednoho zranit - občas se jim podařilo zranit mě. Snažil jsem se najít jejich úkryt tím, že jsem sledoval jejich stopy - marně, nikdy jsem nenašel přesné místo. To pokračovalo, až jednoho dne se na mě pokusili bandité. Snažili se mě vybírat - odmítl jsem. Situace eskalovala a skončili mrtví - kromě jednoho! Byl zraněný a bezvládný - krvácel na smrt.
+        Rozhodl jsem se nechat dobré tělo jít na plný odpis a odnesl jsem ho do lesa jako návnadu. Přivázal jsem ho ke stromu a čekal v úkrytu na bratry. A opravdu přišli - obklopili toho nešťastného chlapa. Ano, nebylo to správné, co jsem udělal jinému člověku - vystavil jsem ho takovým hrůzám, aniž bych mu dal šanci na boj... Ale tehdy jsem si myslel, že to byl dobrý nápad.
+        Zatímco se dvořili své snadné kořisti, mířil jsem a trpělivě čekal na svůj výstřel. A vystřelil jsem - projel přímo srdcem Molocha. Vlad a Drakul vyděšeně zaskřehotali a utekli - a já si odnesl svou trofej.</text>
+</string>
+<string id="forester_legendary_1_7">
+    <text>[Srdce Bloodsuckerů] Přinesl jsem důkaz, že jsem schopen lovit Bloodsuckery.</text>
+</string>
+<string id="forester_legendary_1_8">
+    <text>Zabil jsem Kalydonského kance! A Vlad a Drakul se setkají se stejným osudem, pokud mi řeknete, kde je najdu.</text>
+</string>
+
+<string id="forester_legendary_1_9">
+	<text>Impresivní... Mám zdráhání ti to říct, ale věřím, že slib je slib... Tak poslouchej pozorně - jejich úkryt je hluboko v lese na východ odtud - v blízkosti starého sovětského tanku. Přesně kde - nevím, ale to nevadí.
+	Budeš muset je vyprovokovat ven, a věřím, že vím jak na to, ale nebude ti to příjemné... Budeš si muset obléknout můj starý kabát - je to ten, který jsem měl, když jsem je lovíval v dávných dobách, bude na něm můj zápach a oni budou věřit, že jsem to já, kdo se odvážil setkat s nimi.
+	Je to staré - takže neočekávej dobrou ochranu... Udělal jsem pár oprav a přidal dva přezky, abys mohl použít dva příslušenství - tak si dobře vyber! A samozřejmě to budeš muset udělat v noci, když budou mít pocit jistoty, kterou temnota poskytuje - jinak se neodváží výzvat "mě"...
+	\n \nStále na to jdeš?</text>
+</string>
+
+<string id="forester_legendary_1_10">
+	<text>Impresivní... Možná jsem podcenil tvou zručnost a zkušenost! Mám zdráhání ti to říct, ale možná jsi připravený... Tak poslouchej pozorně - jejich úkryt je hluboko v lese na východ odtud - v blízkosti starého sovětského tanku. Přesně kde - nevím, ale to nevadí.
+	Budeš muset je vyprovokovat ven, a věřím, že vím jak na to, ale nebude ti to příjemné... Budeš si muset obléknout můj starý kabát - je to ten, který jsem měl, když jsem je lovíval v dávných dobách, bude na něm můj zápach a oni budou věřit, že jsem to já, kdo se odvážil setkat s nimi.
+	Je to staré - takže neočekávej dobrou ochranu... Udělal jsem pár oprav a přidal dva přezky, abys mohl použít dva příslušenství - tak si dobře vyber! A samozřejmě to budeš muset udělat v noci, když budou mít pocit jistoty, kterou temnota poskytuje - jinak se neodváží výzvat "mě"...
+	\n \nStále na to jdeš?</text>
+</string>
+
+<string id="forester_legendary_1_11">
+	<text>Věřím, že to stačí.</text>
+</string>
+
+<string id="forester_legendary_1_23">
+	<text>Ano, stále jsem.</text>
+</string>
+
+<string id="forester_legendary_1_24">
+	<text>Abych byl upřímný, musím o tom přemýšlet...</text>
+</string>
+
+<string id="forester_legendary_1_25">
+	<text>Dobře, pak přijď ke mně tu noc, kdy se chystáš vyrazit - krátce po západu slunce. Připrav se na dlouhý boj, je velmi pravděpodobné, že budeš muset čelit i jejich bratrům! Zásob se střelivem, léky a podobně. Nepodceňuj to.</text>
+</string>
+
+<string id="forester_legendary_1_26">
+	<text>Není ostuda bát se smrtelného nebezpečí! Dej si na to čas a přemýšlej o tom!</text>
+</string>
+
+<string id="forester_legendary_1_27">
+	<text>Dobře, pojďme mluvit o něčem jiném.</text>
+</string>
+	
+	
+<string id="forester_legendary_2_0">
+	<text>O honbě za Vladem a Drakulem.</text>
+</string>
+
+<string id="forester_legendary_2_1">
+	<text>O co jde?</text>
+</string>
+
+<string id="forester_legendary_2_2">
+	<text>Jsem připraven k lovu.</text>
+</string>
+
+<string id="forester_legendary_2_3">
+	<text>Jsem připraven k lovu.</text>
+</string>
+
+<string id="forester_legendary_2_4">
+	<text>Potřebuji více času.</text>
+</string>
+
+<string id="forester_legendary_2_5">
+	<text>Můžete mi znovu říct o plánu?</text>
+</string>
+
+<string id="forester_legendary_2_6">
+	<text>Jistě, poslouchej pozorně: Musíš to udělat v noci, když budou mít jistotu, kterou temnota poskytuje. Jejich úkryt je hluboko v lese na východ odtud - v blízkosti starého sovětského tanku. Přesně kde - nevím, ale to nevadí.
+	Budeš muset je vyprovokovat ven, a věřím, že vím jak na to, ale nebude ti to příjemné... Budeš si muset obléknout můj starý kabát - je to ten, který jsem měl, když jsem je lovíval v dávných dobách, bude na něm můj zápach a oni budou věřit, že jsem to já, kdo se odvážil setkat s nimi.
+	Je to staré - takže neočekávej dobrou ochranu... Udělal jsem pár oprav a přidal dva přezky, abys mohl použít dva příslušenství - tak si dobře vyber! A mám silný podezření, že se s nimi budeš muset vypořádat nejen s nimi, ale i s jejich bratry!</text>
+</string>
+
+<string id="forester_legendary_2_7">
+	<text>Dobře, vidím, že jsi neoblomný. Tady je kabát - nebudete ho muset nosit na cestě tam, ale zkuste si ho obléknout krátce před dosažením tanku. Pamatuješ si cestu? Je to hluboko v lese,
+	na východ odtud, ale abys se k němu dostal, musíš projít starým důlním tunelem trochu na jih. Po jeho přechodu se znovu otočíš na sever a půjdeš dost dlouho. Tank je skrytý za malým kopečkem - připrav se tam a přibližuj se k tanku opatrně.
+	Není jisté, jak zareagují, ale možná pošlou některého ze svých bratrů jako prvního, abys se unavil. Pamatuj - musíš to udělat v noci! Pokud vzejde slunce, budou ustupovat. Musíš vyrazit krátce po západu slunce...\n \nTeď hodně štěstí, mladý Stalker - ať je noc na tvé straně.</text>
+</string>
+<string id="forester_legendary_2_8">
+	<text>Velmi dobře. Přijď ke mně krátce po západu slunce - tehdy ti dám ten kabát.</text>
+</string>
+
+<string id="forester_legendary_2_9">
+	<text>Žádný problém - víš, že to nemusíš dělat. Pojďme mluvit o něčem jiném.</text>
+</string>
+
+<string id="forester_legendary_3_0">
+	<text>Jsou tu další pojmenovaní mutanti?</text>
+</string>
+
+<string id="forester_legendary_3_1">
+	<text>Ano, jsou... je tu Kalýdonský kanc. Řezník mu dal jméno, bída každého lovce v oblasti Velké bažiny. Pak je tu Moby Dick - bílý Pseudogigant. Gonta s ním má osobní zkušenost. Nakonec je tu Chyort - samec Chiméry.
+	Ustupující parchant - jediný známý přeživší je Pastýř.</text>
+</string>
+
+<string id="forester_legendary_3_2">
+	<text>Pověz mi více o Kalýdonském kanclu.</text>
+</string>
+
+<string id="forester_legendary_3_3">
+	<text>Pověz mi více o Moby Dickovi.</text>
+</string>
+
+<string id="forester_legendary_3_4">
+	<text>Pověz mi více o Chyortovi.</text>
+</string>
+
+<string id="forester_legendary_3_5">
+	<text>Děkuji za tyto informace.</text>
+</string>
+
+<string id="forester_legendary_3_6">
+	<text>Je patronem všech divokých prasat ve Velké bažině - mnoho lovců je známo, že zemřelo jeho kly, když lovili jeho bratry. Říká se, že jeho kůže je tak tlustá jako šupiny Zmei Gorynicha. Řezník se ho v minulosti pokusil lovit - podle něj se s tím bestiálním stvořením setkal dvakrát - a dvakrát ten kanc odbyl jeho střelby z brokovnice, jako by nic nebylo!</text>
+</string>
+
+<string id="forester_legendary_3_7">
+	<text>Moby Dick - Gontův nepřítel. Nese to jméno, protože je velký jako velryba - a albín! Ten Pseudogigant zabil jeho kamaráda z dětství a od té doby ho Gonta loví, a po letech mu únikl jeho pomsta.</text>
+</string>
+
+<string id="forester_legendary_3_8">
+	<text>Ano, Chyort... sám ďábel. Říkají, že by jediný úder byl stačil, aby i Sidoroviče rozťal napůl! Ne že bych kdy potkal Sidoroviče, ale podle pověstí to zní jako docela výkon! Nikdo neví, kde je jeho úkryt, ale někdy se vydává do různých oblastí buď jíst nebo se rozmnožovat!
+	Trapper říká, že silnější Chiméry jsou jeho potomci - s ohledem na množství silných chimér si dokážeš představit, že Chyortova touha po masu je překonána pouze jeho touhou po rozkoši.</text>
+</string>
+
+<string id="forester_legendary_3_10">
+	<text>Žádný problém, doufám, že to bude sloužit jako varovný příběh - nedotýkej se těchto mutantů!</text>
+</string>
+
+<string id="forester_legendary_4_0">
+	<text>Nepodařilo se mi zabít Krvopijce včas - nad ránem jsem na ně narazil.</text>
+</string>
+
+<string id="forester_legendary_4_1">
+	<text>Nezoufej, mladý Stalkere, nejdůležitější je, že jsi stále naživu! Budeš mít další šanci jindy v noci. Přijď ke mně, pokud si přeješ dát tomu další pokus.</text>
+</string>
+
+<string id="forester_legendary_5_0">
+	<text>Dobrá zpráva! Vlad a Drakul už nebudou tady lesy lovit!</text>
+</string>
+
+<string id="forester_legendary_5_1">
+	<text>Výborně! Skvělá práce! Vykonal jsi velký skutek dnes večer! Pojďme si připít na tvůj úspěch!</text>
+</string>
+
+	
+<string id="st_forester_legendary_1_info">
+	<text>Lesník: Přibližuješ se k jejich lovišti.</text>
+</string>
+
+<string id="st_forester_legendary_2_info">
+	<text>Lesník: Moje rány začínají zase bolet, Vlad a Drakul vycházejí ze svého úkrytu. Hodně štěstí, Stalkere!</text>
+</string>
+
+<string id="st_forester_legendary_3_info">
+	<text>Lesník: Podařilo se ti zabít mladší Krvopijce, ale slunce už vychází a Vlad a Drakul se neodváží bojovat během dne. Budeš muset zkusit jindy. Přijď za mnou.</text>
+</string>
+
+<string id="st_forester_legendary_4_info">
+	<text>Lesník: Pamatuj, že se musíš postavit bratrům na jejich vlastním území. Možná se budeš muset k tanku přiblížit znovu.</text>
+</string>
+
+	
+---- Doctor Alyosha Shyogolov ----	
+	<string id="st_shyogolov_trouble_1_info">
+	<text>Alyosha Shyogolov: Naléhavé! Žádám o pomoc jakéhokoli poblíž se nacházejícího Stalkera. Jsem doktor Alyosha Shyogolov - jsem obklopen hordou Snorků v tunelu Agropromské dráhy. Žádám o okamžitou záchrannou akci od jakéhokoli poblíž se nacházejícího Stalkera.</text>
+</string>
+
+<string id="st_shyogolov_trouble_2_info">
+	<text>Alyosha Shyogolov: Tohle je naléhavá situace! Žádám o okamžitou pomoc. Jsem doktor Alyosha Shyogolov - jsem obklopen hordou Snorků v tunelu Agropromské dráhy. Prosím, přibližují se stále blíže.</text>
+</string>
+
+<string id="st_shyogolov_trouble_3_info">
+	<text>Alyosha Shyogolov: Jsem doktor Alyosha Shyogolov - jsem obklopen hordou Snorků v tunelu Agropromské dráhy. Pospěšte si - uvězňují mě!</text>
+</string>
+<string id="alyosha_shyogolov_start_dialog_0">
+	<text>J-j-jdou už pryč?</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_1">
+	<text>Kdo?</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_2">
+	<text>Snorkové samozřejmě!</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_3">
+	<text>Asi ano - viděl jsem jen pár z nich u vchodu, ale nemám ani zdání, kam ti ostatní zmizeli.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_4">
+	<text>Ach, asi jsem je vyděsil! Není zač!</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_5">
+	<text>Tak... Ty jsi Alyosha?</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_6">
+	<text>Doktor Alyosha Shyogolov - pro tebe doktor Shyogolov - správná etiketa se musí dodržovat i v tak opuštěném místě jako je tohle.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_7">
+	<text>Dobře ... Doktore Shyogolov, co tady děláš?</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_8">
+	<text>Na co se mě týká, co tady děláš?</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_9">
+	<text>Byl jsem na expedici pro Sakharova ohledně získání velmi důležitého dokumentu pro naše výzkumy! Přece jsme vědci. Najednou jsem slyšel strašný skřek a otočil se - horda Snorků! Ihned jsem ustoupil do tunelu, abych se s nimi vyrovnal.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_10">
+	<text>Tyto familiárnosti ti dovolím, s ohledem na to, že jsme spolu bojovali a společně jsme spjali pouto krve. 
+	Byl jsem na expedici pro Sakharova ohledně získání velmi důležitého dokumentu pro naše výzkumy! Přece jsme vědci. Najednou jsem slyšel strašný skřek a otočil se - horda Snorků! Ihned jsem ustoupil do tunelu, abych se s nimi vyrovnal.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_11">
+	<text>Hmm, dobře. Co bys považoval za vhodnou odměnu za mé potíže?</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_12">
+	<text>Za tvé potíže? Právě jsi řekl, že venku nejsou žádní Snorci!</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_13">
+	<text>Aha, chápu. Tak půjdu, ztratil jsem s tebou dost času - hodně štěstí s tvými mutantními vzorky.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_14">
+	<text>Copak? Ty jsi prosil na kanálech o pomoc!</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_15">
+	<text>Počkej! S ohledem na tvou altruistickou - i když nevyžádanou - ochotu mi pomoci, vrátím ti laskavost!
+		Povezu tě zpátky do Závodů Agroprom!</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_16">
+	<text>Prosit o pomoc? Já? Protestuji: Doktor Alyosha Shyogolov nikdy nevolá o zálohu! Informoval jsem ostatní Stalkery, aby se nedostávali příliš blízko, aby se nenachytali do palby - jako by to udělal každý profesionál.
+		\n \nAle máš pravdu, s ohledem na tvou altruistickou - i když nevyžádanou - ochotu mi pomoci, vrátím ti laskavost!
+		Povezu tě zpátky do Závodů Agroprom!</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_17">
+	<text>Ehm, je to laskavé, ale nepotřebuji tam jít.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_18">
+	<text>Dobře, chtěl jsem tam jít každopádně.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_19">
+	<text>Trvám na tom! Zóna je tam venku nebezpečná - s mými spolehlivými Nosorožcem a Scarem jako společníky budeš v bezpečí.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_20">
+	<text>Chápu... tak pojďme, nemám celý den.</text>
+</string>
+
+<string id="alyosha_shyogolov_start_dialog_21">
+	<text>Výborně! Veď cestu!</text>
+</string>
+
+	
+	<string id="alyosha_shyogolov_0_0">
+	<text>Zdá se, že jsme dorazili.</text>
+</string>
+
+<string id="alyosha_shyogolov_0_1">
+	<text>Ano, nyní, když jsi dorazil do bezpečí, už mé pomoc nebude potřeba.</text>
+</string>
+
+<string id="alyosha_shyogolov_0_2">
+	<text>Správně... no, přeji ti hodně štěstí do budoucna.</text>
+</string>
+
+<string id="alyosha_shyogolov_0_3">
+	<text>Počkej! Právě jsem si všiml, že mé oblečení Nosorog bylo poškozeno během mého doprovodu sem! Ach, co za škoda, teď už nemohu pokračovat v plnění Sakharovova úkolu...</text>
+</string>
+
+<string id="alyosha_shyogolov_0_4">
+	<text>Skutečně? Jak se to stalo?</text>
+</string>
+
+<string id="alyosha_shyogolov_0_5">
+	<text>Netuším, pravděpodobně jeden ze Snorků poškodil hydraulickou pumpu, když jsem se s nimi snažil bojovat...</text>
+</string>
+
+<string id="alyosha_shyogolov_0_6">
+	<text>Hmm, já ale nevidím na tvém oblečení žádnou vadu...</text>
+</string>
+
+<string id="alyosha_shyogolov_0_7">
+	<text>No přesně, tohle přece není Primus! A co ty vlastně víš o Nosorozích?! Naštěstí mám vždy s sebou nástroje pro nouzovou opravu, ale to nějaký čas zabere... Víš co? 
+		Možná bys mohl zatím, co já budu provádět opravy, získat zpět ty dokumenty?</text>
+</string>
+
+<string id="alyosha_shyogolov_0_8">
+	<text>Budeš mi tentokrát platit?</text>
+</string>
+
+<string id="alyosha_shyogolov_0_9">
+	<text>Samozřejmě ti odvděčím za tvé potíže! Neměj obavy!</text>
+</string>
+
+<string id="alyosha_shyogolov_0_10">
+	<text>Dobře, kde mohu ty dokumenty najít?</text>
+</string>
+
+<string id="alyosha_shyogolov_0_11">
+	<text>V držení Mozgotlena... nebo toho, co z něj zbylo. Víš, byl členem expedice do Velkých Bažin, když nastala Emise. Ten chudák nedopadl na bezpečné místo a proměnil se v zombie. 
+		Škoda, že jsem tam nebyl já, za mého dozoru by nikdo nepotkal takový osud. Ale co s tím, nemohu být všude a zároveň, že? Nicméně, ten chlap se stal zombiem a odešel... s tím, co nesl. Budeš to muset získat zpět! Má safírový oblek, takže by měl být snadno rozpoznatelný!</text>
+</string>
+
+<string id="alyosha_shyogolov_0_12">
+	<text>Dobře, a kde ho mohu najít?</text>
+</string>
+
+<string id="alyosha_shyogolov_0_13">
+	<text>Aha, pravda, zapomněl jsem, že ne každý je tak zkušený stopař jako já. \n \nJeho PDA stále fungovalo a byli jsme schopni sledovat jeho pohyb z Velkých Bažin do tohoto sektoru, ale pak se PDA stala statickou. 
+		Doporučil bych ti zkontrolovat oblast mezi jižně odtud a Velkými Bažinami. Měl by tam být někde - a s ním i dokumenty. Neplaš se, můj příteli, cílení zombií je ještě horší než tvé! Rád bych ti ukázal, jak se to dělá, ale víš - má vůle je silná, ale mé brnění je slabé.</text>
+</string>
+
+<string id="alyosha_shyogolov_0_14">
+	<text>Bez ohledu na to, pokud je odměna v pořádku.</text>
+</string>
+
+<string id="alyosha_shyogolov_0_15">
+	<text>Odměna? Aha, myslíš odměnu. Neměj obavy, bude neocenitelná. Teď mi ale dovol, musím najít nějaké Stalkery, kterým mohu vyprávět své příběhy.</text>
+</string>
+
+
+<string id="alyosha_shyogolov_2_2">
+	<text>Ano, samozřejmě! Dovol mi dát ti neocenitelný vhled do mého vědění! Poslouchej: \n \nSebejistota je klíčovým nástrojem v arzenálu každého Stalkera. Sebejistota vede k příležitostem. Dělá z Stalkera toho, kdo podstoupí ten nemožný výstřel. Dělá nás ochotnými přijmout nejtěžší mise, dosáhnout dál do pole anomálií pro artefakty, nebo vyprovokovat rozzuřeného krvopije z doupěte.
+	Sebejistota mě přinutila vydat se na jednoduchou likvidaci banditů aniž bych musel mít na sobě Nosoroga. Dělá mi radost vyprávět o svých úspěších, zatímco sedím na trůnu svých nepřátel.</text>
+</string>
+
+<string id="alyosha_shyogolov_2_4">
+	<text>Poslouchám...</text>
+</string>
+
+<string id="alyosha_shyogolov_2_5">
+	<text>Copak to má být? Děláš si z nás srandu? Já chci peníze, ne povídky.</text>
+</string>
+
+<string id="alyosha_shyogolov_2_6">
+	<text>Stalkerové, kteří jsou spokojení s tím, že brání svůj malý kout Zóny, budou v bezpečí, ale zřídka se dostanou za hranice tohoto koutu. 
+	Odvážní Stalkerové mohou a budou dělat neuvěřitelné věci. Sám Strelok našel sílu vypořádat se s celou Zónou a porazit C-Vědomí, přestože trpěl následky trauma-indukované amnézie.
+	Samozřejmě, to by mohlo být zahájeno tím, že se podle zpráv Sidorovič údajně vyhrožoval zlomit Strelokovy kolena, protože mu nezaplatil rubly za zachránění života. Nikdy to nezjistíme.</text>
+</string>
+
+<string id="alyosha_shyogolov_2_7">
+	<text>Dobře, děkuji! To bylo velmi zajímavé.</text>
+</string>
+
+<string id="alyosha_shyogolov_2_8">
+	<text>Cože? Tohle není platba!</text>
+</string>
+
+<string id="alyosha_shyogolov_2_9">
+	<text>Pěkný příběh, ale kde jsou peníze?</text>
+</string>
+
+<string id="alyosha_shyogolov_2_10">
+	<text>Díky, plánuji si to někdy zapsat. Možná mu dám nějaký chytlavý název, jako "Testament Stalkera" nebo něco takového.</text>
+</string>
+
+<string id="alyosha_shyogolov_2_11">
+	<text>Můj žáčku, neuvědomuješ si to? Tato znalost je neocenitelná, je to víc než jenom peníze! Stalkerové by zabíjeli, jen aby se k ní dostali!
+		Možná jsi ještě příliš zelený, abys si uvědomil, jaký dar jsem ti právě udělil... neboj se, mám odpuštějící povahu, nebudu si na tebe dělat žádné křivdy!
+		\n \nAle bohužel musíme naše rozhovory ukončit - musím se připravit na svoji expedici zpátky do bunkru.</text>
+</string>
+
+	
+--- Vybegallo and the Scientists---
+
+--Quest 1--
+
+- Vybegallo-
+<string id="vybegallo_start_0">
+	<text>Co chcete? Jsem zaneprázdněný!</text>
+</string>
+
+<string id="vybegallo_start_1">
+	<text>Pozdravy, Vybegallo. Mám tvůj Tuňák tašku.</text>
+</string>
+
+<string id="vybegallo_start_2">
+	<text>Nic.</text>
+</string>
+
+<string id="vybegallo_start_3">
+	<text>Pak bych mohl požádat, abyste nestáli v cestě vědě?</text>
+</string>
+
+<string id="vybegallo_start_111">
+	<text>Ach, úžasné! Děkuji můj drahej! Věda nezapomene na tvůj přínos k pokroku! Věřím, že odměna je na místě.</text>
+</string>
+
+<string id="vybegallo_start_112">
+	<text>Díky. Proč je tolik tuňáka důležitého pro vědu?</text>
+</string>
+
+<string id="vybegallo_start_113">
+	<text>Díky. Takže budu pokračovat dál.</text>
+</string>
+
+<string id="vybegallo_start_114">
+	<text>To je jídlo pro mou sati... ne, to vás nezajímá, můj drahej. Ale ano... možná mi můžete pomoct? Pracujete s Řezníkem, že? Takže jste také lovcem, že?
+		Nuže, velmi dobře... umíte být diskrétní, že?</text>
+</string>
+
+	<string id="vybegallo_start_115">
+	<text>Ano, ano ... počkejte, počkejte mon cher! Možná mi můžete pomoci? Pracujete s Řezníkem, že? Takže jste také lovcem, že?
+		Dobře, dobře... umíte být diskrétní, že?</text>
+</string>
+
+<string id="vybegallo_start_4">
+	<text>Ah ano, takže pracujete s Řezníkem? Dobře, dobře... umíte být diskrétní, že?</text>
+</string>
+
+<string id="vybegallo_start_5">
+	<text>Ano samozřejmě.</text>
+</string>
+
+<string id="vybegallo_start_6">
+	<text>Nelíbí se mi, kam to směřuje. Co chcete?</text>	
+</string>
+
+<string id="vybegallo_start_7">
+	<text>Vynikající! Vidíte mon cher, potřebuji nějaké části mutantů - samozřejmě z vědeckých důvodů! Pro pokrok, mon cher. 
+		Potřeboval bych dvě zlomené ruce, jedno srdce krvavého sání a vzorek od Pseudogiganta, nezáleží na tom co, ruka, oko, jeho kůže. Přinesete mi to a odškodním vás za vaše starosti. Řekněme... 10 000 za všechno? Co říkáte?</text>
+</string>
+
+<string id="vybegallo_start_8">
+	<text>Mon cher, proč tahle přístup? Jsem vědec, muž oddaný vědě! Potřebuji nějaké části mutantů - striktně z vědeckých důvodů samozřejmě! Pro pokrok, mon cher. 
+		Potřeboval bych dvě zlomené ruce, jedno srdce krvavého sání a vzorek od Pseudogiganta, nezáleží na tom co, ruka, oko, jeho kůže. Přinesete mi to a odškodním vás za vaše starosti. Řekněme... 10 000 za všechno?</text>
+</string>
+
+<string id="vybegallo_start_9">
+	<text>Dobře, uvidím, co mohu udělat.</text>
+</string>
+
+<string id="vybegallo_start_10">
+	<text>Nejsem si jistý, musím o tom přemýšlet.</text>
+</string>
+
+<string id="vybegallo_start_11">
+	<text>Dokonalé!</text>
+</string>
+
+<string id="vybegallo_start_12">
+	<text>Přemýšlejte, ale nezdržujte se příliš dlouho, čas je pro mě zásadní!</text>
+</string>
+
+<string id="vybegallo_time_0">
+	<text>Pokud jde o tu práci.</text>
+</string>
+
+<string id="vybegallo_time_1">
+	<text>Ano mon cher, pomůžete vědě?</text>
+</string>
+
+<string id="vybegallo_2_0">
+	<text>O vašich mutantních částech.</text>
+</string>
+<string id="vybegallo_2_1">
+	<text>Oui mon cher? Našel jste něco?</text>
+</string>
+<string id="vybegallo_2_2">
+	<text>Nalezl jsem oko pseudogianta.</text>
+</string>
+<string id="vybegallo_2_3">
+	<text>Nalezl jsem ruku pseudogianta.</text>
+</string>
+<string id="vybegallo_2_4">
+	<text>Nalezl jsem kůži pseudogianta.</text>
+</string>
+<string id="vybegallo_2_41">
+	<text>Nalezl jsem zlomené ruce.</text>
+</string>
+<string id="vybegallo_2_42">
+	<text>Nalezl jsem srdce krvavého sajrajtu.</text>
+</string>
+<string id="vybegallo_2_5">
+	<text>Ne, musím se dál dívat.</text>
+</string>
+<string id="vybegallo_2_6">
+	<text>Na co čekáte?</text>
+</string>
+<string id="vybegallo_2_7">
+	<text>To je úžasné, mon cher! Vaše příspěvek k vědě nezapadne!</text>
+</string>
+<string id="vybegallo_2_71">
+	<text>Věřím, že to bylo všechno. Můžete mi podat odměnu?</text>
+</string>
+<string id="vybegallo_2_72">
+	<text>Samozřejmě, mon cher! Tady vezměte tohle, za vaše starosti!</text>
+</string>
+<string id="vybegallo_2_73">
+	<text>O dalších částech.</text>
+</string>
+
+<string id="vybegallo_2_8">
+	<text>Promluvil jsem s vašimi kolegy Vybegallo. Tento dopis je pro vás.</text>
+</string>
+<string id="vybegallo_2_9">
+	<text>Co-cože? Co jsi udělal? Co jsi jim řekl? Co je tohle??? \n \n...\n \nJak se odváží! Carská žandarmerie mě nevyleká a Sakharov mě nevyleká! \n \n A ty, ty zrádče!!! Ty kryso!!! Pryč mi z očí!!!</text>
+</string>
+
+	<string id="vybegallo_2_10">
+		<text>...</text>
+	</string>
+<string id="vybegallo_3_0">
+	<text>Chcete mě vidět?</text>
+</string>
+<string id="vybegallo_3_1">
+	<text>Ano, mon cher, máme... máme problém. Můj experiment byl na cestě k obrovskému úspěchu, ano mon cher, skutečná vědecká revoluce! Ale...</text>
+</string>
+<string id="vybegallo_3_2">
+	<text>...ale?</text>
+</string>
+<string id="vybegallo_3_3">
+	<text>Ale už tam není! Šel jsem dolů se na něj podívat a není tam!</text>
+</string>
+<string id="vybegallo_3_4">
+	<text>"On"?</text>
+</string>
+<string id="vybegallo_3_5">
+	<text>Co se stalo, někdo ukradl váš experiment?</text>
+</string>
+<string id="vybegallo_3_6">
+	<text>Ano, částečně spokojený muž - nezbytný prostředník k plně spokojenému muži! Ach, představte si muže, který je schopen uspokojit všechny své potřeby sám! 
+		Nebude to vědecký zázrak, mon cher? \n \n A teď je pryč!</text>
+</string>
+
+	<string id="vybegallo_3_7">
+	<text>Možnost, kterou nelze vyloučit, ale... spíše věřím, že utekl... Možná jsem mu nedal dostatek jídla?</text>
+</string>
+<string id="vybegallo_3_8">
+	<text>Utekl? Jak je to možné?</text>
+</string>
+<string id="vybegallo_3_9">
+	<text>Jak je to možné? Být obrovským vědeckým úspěchem, mon cher, tak je to možné!</text>
+</string>
+<string id="vybegallo_3_10">
+	<text>Je "on" nebezpečný?</text>
+</string>
+<string id="vybegallo_3_11">
+	<text>Jen stěží, mon cher, jen stěží. Ale nemůžeme mu dovolit, aby utekl, to by přitáhlo nechtěnou pozornost... n'est-ce pas?</text>
+</string>
+<string id="vybegallo_3_12">
+	<text>Celý výraz "on"?</text>
+</string>
+<string id="vybegallo_3_13">
+	<text>Částečně spokojený muž, mon cher! Měl byste si dávat pozor, když vám o tom vyprávím!</text>
+</string>
+
+<string id="vybegallo_3_14">
+    <text>Ne, myslím, co je on skutečně? Jak vypadá?</text>
+</string>
+<string id="vybegallo_3_15">
+    <text>Obtížné říct, nikdy jsem ho neviděl poté, co se vylíhl... Asi by měl připomínat mě, protože má část mé DNA? Ale to jsou detaily, můj milý, nezabývej se tím!</text>
+</string>
+<string id="vybegallo_3_16">
+    <text>Co od tebe chci, abys s tím udělal?</text>
+</string>
+<string id="vybegallo_3_17">
+    <text>Můj milý, s těžkým srdcem tě musím požádat, abys zlikvidoval můj experiment.
+        Co škoda, jaká ztráta pro vědu! Ale nemůžeme mu dovolit, aby utekl - to by jen přitahovalo zbytečnou pozornost k mým experimentům!
+        Neuvěřil bys, jak reakcionářští jsou někteří z mých kolegů. Ale alespoň bych měl být schopen shromáždit jeho pozůstatky, abych mohl provést další experimenty - pokrok nelze zastavit, n'est-ce pas, můj milý?</text>
+</string>
+<string id="vybegallo_3_18">
+    <text>Kde mohu "ho" najít?</text>
+</string>
+<string id="vybegallo_3_19">
+    <text>Měl by stále být někde v podzemí.</text>
+</string>
+<string id="vybegallo_3_20">
+    <text>Jaká je odměna?</text>
+</string>
+	<string id="vybegallo_3_21">
+    <text>Vždy tak hmotný! Ale ano, nestarej se o odměnu - bude to více než dost.</text>
+</string>
+<string id="vybegallo_3_22">
+    <text>Dobře, udělám to.</text>
+</string>
+<string id="vybegallo_3_23">
+    <text>Musím o tom přemýšlet.</text>
+</string>
+<string id="vybegallo_3_24">
+    <text>Výborně, můj milý, výborně! Udělej si přípravy a před odjezdem se mnou přijď!</text>
+</string>
+<string id="vybegallo_3_25">
+    <text>Tak pospěš si, můj milý, čas utíká!</text>
+</string>
+	
+<string id="vybegallo_4_0">
+    <text>O tvém "experimentu".</text>
+</string>
+<string id="vybegallo_4_1">
+    <text>Co to je, můj milý?</text>
+</string>
+<string id="vybegallo_4_2">
+    <text>Jsem připraven vyrazit.</text>
+</string>
+<string id="vybegallo_4_3">
+    <text>Potřebuji víc času.</text>
+</string>
+<string id="vybegallo_4_4">
+    <text>Výborně! Nechte ho netrpět!</text>
+</string>
+<string id="vybegallo_4_5">
+    <text>Tak pospěš si, můj milý, čas utíká!</text>
+</string>
+	<string id="vybegallo_5_0">
+    <text>Zabila jsem tvůj "experiment".</text>
+</string>
+<string id="vybegallo_5_1">
+    <text>Skvělá práce, vynikající, můj milý!</text>
+</string>
+<string id="vybegallo_5_2">
+    <text>Kurva, prokletý, neřekl jsi mi, že chováš zatraceného Pseudogiganta!</text>
+</string>
+<string id="vybegallo_5_3">
+    <text>Ah, velmi zajímavé, takže DNA Pseudogiganta převzala kontrolu? To je mimořádné! Mělo to pouze zlepšit jeho odolnost v tomto klimatu, ale Pseudogigant převzal úplně kontrolu?</text>
+</string>
+<string id="vybegallo_5_4">
+    <text>Co sakra děláš? V Zóně je dost nebezpečí - proč vytváříš nová?</text>
+</string>
+<string id="vybegallo_5_5">
+    <text>Můj milý, toto je vědecký pokrok! Některá rizika musí být přijata! Marie Curie podstoupila rizika pro lidstvo - Juri Gagarin také! Seznam je dlouhý, můj milý! Nyní víme víc a nebudeme opakovat chyby! Považuj to za vědecký úspěch!
+        Ale vidím, že jsi nový v vědecké metodě - a věřím, že ti dlužím odměnu. Vezmi si to!... Půjčil jsem si to z ústavu po neshodě. Je to prototyp - ale věřím, že by to mělo být docela užitečné pro... lidi s více praktickým směřováním. Velmi ti děkuji, můj milý!</text>
+</string>
+<string id="vybegallo_5_6">
+    <text>Ano, teď mi prosím dej peníze.</text>
+</string>
+<string id="vybegallo_5_7">
+    <text>Přímo k věci jako vždy. Dobře, tady jsou peníze. Užij si je - a děkuji ti, že jsi mi pomohl... zakrýt tuto událost!</text>
+</string>
+<string id="vybegallo_5_8">
+    <text>Jdi do prdele - nekontaktuj mě znovu.</text>
+</string>
+	<string id="vybegallo_5_9">
+		<text>...</text>
+	</string>		
+
+
+
+	
+-the others-<string id="sakharov_vybegallo_start_0">
+    <text>Znáš vědce jménem "Vybegallo"?</text>
+</string>
+<string id="sakharov_vybegallo_start_1">
+    <text>Vybegallo? Ano, znám ho... je s ním něco?</text>
+</string>
+<string id="sakharov_vybegallo_start_2">
+    <text>Ne, setkal jsem se s ním teprve nedávno.</text>
+</string>
+<string id="sakharov_vybegallo_start_3">
+    <text>OK... Řekl ti něco?</text>
+</string>
+<string id="sakharov_vybegallo_start_4">
+    <text>Ne, téměř jsme spolu nemluvili.</text>
+</string>
+<string id="sakharov_vybegallo_start_5">
+    <text>Dobře... Prosím, řekni mi, pokud víš něco o tom, co dělá. On sám není nebezpečný, ale jeho vědecký výzkum naopak... Můj tip pro tebe, nedávej se do jeho záležitostí.</text>
+</string>
+<string id="sakharov_vybegallo_start_6">
+    <text>Požádal mě, abych mu pomohl s jeho vědeckým experimentem.</text>
+</string>
+<string id="sakharov_vybegallo_start_7">
+    <text>Požádal tě o pomoc? Neurážej se, ale nevypadáš jako laboratorní asistent. Proč by Vybegallo potřeboval Stalkera?</text>
+</string>
+<string id="sakharov_vybegallo_start_8">
+    <text>Požádal mě, abych pro něj našel nějaký artefakt.</text>
+</string>
+<string id="sakharov_vybegallo_start_9">
+    <text>Artefakt? To se zdá neobvyklé pro něj, ale možná konečně našel normální téma výzkumu...</text>
+</string>
+<string id="sakharov_vybegallo_start_10">
+    <text>Požádal mě, abych pro něj našel nějaké části mutantů.</text>
+</string>
+
+	<string id="sakharov_vybegallo_start_101">
+		<text>Co... jaké zmutované části? </text>
+	</string>
+
+	<string id="sakharov_vybegallo_start_102">
+		<text>Části Fractury, Upíra a Pseudogianta. Proč? </text>
+	</string>
+	
+<string id="sakharov_vybegallo_start_11">
+    <text>Co? To je strašné!!! \n \n... \n \nVíš, před lety Vybegallo dostal do hlavy vytvořit "ideálního člověka" - nebo jak ho nazývá, "plně uspokojený člověk", ale jeho experimenty byly jedna katastrofa za druhou. Nemluvím ani ne o etických aspektech, můj bože, i když jsou dost špatné. Jeho první verze, plně nespokojený člověk, byl bídný tvor, který pomalu chřadl před našima očima... Ale Vybegallo se nenechal odradit a pokračoval ve svých experimentech.
+    \n \nPo jednom zvláště hrozném pokusu, který skoro stál život půlce jeho oddělení, ho jeho výzkumný ústav vyhodil. Ale Vybegallo nějakým způsobem vytáhl nějaké nitky a skončil tady! Obávám se, že na tomto experimentu se nevzdal... Kdo ví, co uvolní?  \n \nProsím tě, nepomáhej mu! \n \nAle to nestačí, tady, vezmi si toto nařízení k němu a dej mu najevo, že musí okamžitě přestat s jakýmikoli nebezpečnými experimenty. Nevím, kolik ti slíbil, nemohu momentálně moc nabídnout, ale najdu nějakou odměnu. \n\nPomůžeš nám?</text>
+</string>
+<string id="sakharov_vybegallo_start_12">
+    <text>Jistě, předám mu dopis a dále mu nepomůžu.</text>
+</string>
+<string id="sakharov_vybegallo_start_13">
+    <text>Bez dohody, ctím své smlouvy.</text>
+</string>
+<string id="sakharov_vybegallo_start_14">
+    <text>Díky, to si vážím.</text>
+</string>
+<string id="sakharov_vybegallo_start_15">
+    <text>Jsi pošetilý.</text>
+</string>
+	
+<string id="sakharov_vybegallo_2_0">
+    <text>Předal jsem Vybegallovi nařízení.</text>
+</string>
+<string id="sakharov_vybegallo_2_1">
+    <text>A co? Jak na to reagoval?</text>
+</string>
+<string id="sakharov_vybegallo_2_2">
+    <text>Ne moc dobře, křičel něco o carské žandarmerii a že ho nezalekneš.</text>
+</string>
+<string id="sakharov_vybegallo_2_3">
+    <text>Bojel jsem se toho... Nicméně díky za tvou pomoc, tady je tvá odměna: není toho moc, ale doufám, že ti to může pomoci venku.</text>
+</string>
+<string id="sakharov_vybegallo_2_4">
+    <text>Co uděláte s Vybegallem?</text>
+</string>
+<string id="sakharov_vybegallo_2_5">
+    <text>Nevím, musím se poradit s ředitelem... \n \nMezitím pošlu globální zprávu všem, že je Vybegallo pod sankcí a že kdokoli obchoduje s mutantními částmi s ním, bude vyloučen z jakéhokoli obchodu s námi.</text>
+</string>
+<string id="sakharov_vybegallo_2_6">
+    <text>Sankce? To funguje tady?</text>
+</string>
+<string id="sakharov_vybegallo_2_7">
+    <text>Upřímně řečeno, ne. Největší obchodníci možná budou zdrženliví v obchodování s ním, ale individuální Stalkeři si moc dávají na sankce. Ale musíme udělat něco, alespoň to donutí některé lidi dvakrát přemýšlet o tom, jestli s ním budou spolupracovat.</text>
+</string>
+
+<string id="st_sakharov_vybegallo_1_info">
+		<text>Pozor! Důležité oznámení: \n \nVědec Amvrosij Vybegallo je pod sankcí! \n \nKdo bude přistižen, jak s ním obchoduje s částmi mutantů, bude také sankcionován!</text>
+	</string>	
+	<string id="sakharov_vybegallo_3_0">
+    <text>Nalezl jsem to v základně žoldáků v Zatonu. [Objednávka částí Pseudogiganta]</text>
+</string>
+<string id="sakharov_vybegallo_3_1">
+    <text>Co to je? \n \n...\n \nTen parchant. \n \nPoslechni mě; to, co ti teď řeknu, je mimo záznam, nikdo to nepřizná: Mluvil jsem s ředitelem a souhlasí se mnou, Vybegallo musí být zastaven Za.Všechny.Možnosti! Nařídil sankci likvidace Vybegalla, pokud bude pokračovat ve svém nebezpečném experimentování. To je vše! 
+    Žádám tě - ne, trvám na tom: zabij Vybegalla. Nemůže pokračovat ve svých experimentech. \n \nChápu, že jsi Stalker a neuděláš to zadarmo. Mohu mobilizovat nějaké finanční prostředky na to a nechám ti k dispozici nějaká vysoce sofistikovaná zařízení. Tak co říkáš?</text>
+</string>
+<string id="sakharov_vybegallo_3_2">
+    <text>Amvrosij Vybegallo bude spát s dravci.</text>
+</string>
+<string id="sakharov_vybegallo_3_3">
+    <text>V žádném případě, nejsem vrah.</text>
+</string>
+<string id="sakharov_vybegallo_3_4">
+    <text>Děkuji. Paměť si, že jsme tuto konverzaci nikdy neměli.</text>
+</string>
+<string id="sakharov_vybegallo_3_5">
+    <text>Rozumím. Paměť si, že jsme tuto konverzaci nikdy neměli.</text>
+</string>
+
+<string id="sakharov_vybegallo_4_0">
+    <text>Vybegallo už není.</text>
+</string>
+<string id="sakharov_vybegallo_4_1">
+    <text>Nevím, o čem mluvíš.</text>
+</string>    
+
+<string id="st_vybegallo_help_satisfied_man_info">
+    <text>Vybegallo: Můj milý, možná máme problém... Můžeš přijít urgentně?</text>
+</string>
+	
+	
+	
+---- Sidorovich----
+<string id="sidorovich_railway_1_0">
+    <text>%c[0,250,250,0][Krvavý železniční most]%c[0,250,250,0]
+    Potřebuju trochu peněz, Sidoroviči, nemáš nějakou lépe placenou práci k nabídnutí?</text>
+</string>
+<string id="sidorovich_railway_1_1">
+    <text>Máš štěstí, právě nyní skutečně najímám pár zbraní navíc... Sestavuji tým, abychom získali zpět železniční most.</text>
+</string>
+<string id="sidorovich_railway_1_2">
+    <text>Co se stalo?</text>
+</string>
+<string id="sidorovich_railway_1_3">
+    <text>Bandité nedávno obsadili ten přechod pod mostem a žádají docela vysoký poplatek, aby nechali lidi projít - je to velmi špatné pro obchod.</text>
+</string>
+<string id="sidorovich_railway_1_4">
+    <text>Takže na ně zautočíme? Jaký je plán?</text>
+</string>
+<string id="sidorovich_railway_1_5">
+    <text>Dostaneme je do kleští. Můžeme poslat jednotku, aby pomohla, pod vedením určitého "Kastora", brzy by měli dorazit na severní farmu. Můj tým se shromáždí na mlýně pod vedením Fedora Razyjoviče. \n\nTy převezmeš roli posla - nejprve budeš muset obejít železniční most, abys navázal kontakt s Kastorem a zjistil, jestli jsou připraveni na útok. 
+    Pokud jsou připraveni, vrátíš se k výtahu, kde bude čekat Kastor. Pokud je všechno připraveno, řekneš Kastorovi, že útok může začít. \n\nMáš nějaké dotazy?</text>
+</string>
+<string id="sidorovich_railway_1_6">
+    <text>Proč musím navázat kontakt osobně? Nemůžeme použít posla na PDA k dorozumění s jednotkou  Jasné oblohy?</text>
+</string>
+<string id="sidorovich_railway_1_7">
+    <text>Jsi si vědom, že zabezpečení komunikace na PDA je složitý proces? Musel bys ručně vyměňovat šifrovací a dešifrovací klíče - velké trápení. 
+    Překvapení je primární v tomto útoku - PDA zůstane tiché až do samého okamžiku, kdy útok začne. \n\nMáš ještě nějaké otázky?</text>
+</string>
+<string id="sidorovich_railway_1_8">
+    <text>Jak obejdu železniční most, aniž by mě někdo zahlédl?</text>
+</string>
+<string id="sidorovich_railway_1_9">
+    <text>Jsi opravdu zelenáč... no, existuje malý průchod na západ od mostu a výtahu. Je to malé, špatně osvětlené a trochu nebezpečné, ale bude to perfektně vyhovovat našim potřebám. Vypadá to jako tunel! \n\nMáš ještě nějaké otázky?</text>
+</string>
+<string id="sidorovich_railway_1_10">
+    <text>Kolik jsi ochoten zaplatit?</text>
+</string>
+<string id="sidorovich_railway_1_11">
+    <text>Vzhledem k tomu, že jsi začátečník, dostaneš plat pro začátečníka. \n\nMáš ještě nějakou otázku?</text>
+</string>
+<string id="sidorovich_railway_1_12">
+    <text>O plánu.</text>
+</string>
+<string id="sidorovich_railway_1_13">
+    <text>Ano, máš nějaké dotazy?</text>
+</string>
+<string id="sidorovich_railway_1_14">
+    <text>Můžeš mi plán znovu říct?</text>
+</string>
+<string id="sidorovich_railway_1_15">
+    <text>A co auto park na východ od mostu? Nebudou bandité posílat posily?</text>
+</string>
+<string id="sidorovich_railway_1_16">
+    <text>To je velmi možné, a důvod, proč musí být útok co nejrychlejší. Pokud bandité pošlou posily, odrazíš je.</text>
+</string>
+<string id="sidorovich_railway_1_17">
+    <text>Nemůžeme udělat první útok na auto park?</text>
+</string>
+<string id="sidorovich_railway_1_18">
+    <text>Tahle myšlenka se mi líbí, ale nemáme dost lidí na takový útok. Plán zůstává - přemůžeme obranu mostu a pokud pošlou posily, uhájíme se.</text>
+</string>
+<string id="sidorovich_railway_1_19">
+    <text>A co kdybych se postaral sám o auto park?</text>
+</string>
+<string id="sidorovich_railway_1_20">
+    <text>Kámo, fakt sis příliš nevzal z těch filmů? Tohle není Rambo! Ale pokud se opravdu chceš ukázat, prosím, jdi do toho. \n\nMáš ještě nějaké otázky?</text>
+</string>
+<string id="sidorovich_railway_1_21">
+    <text>Žádné další otázky nemam.</text>
+</string>
+<string id="sidorovich_railway_1_22">
+    <text>Dobře, tak co říkáš? Jsi pro?</text>
+</string>
+<string id="sidorovich_railway_1_23">
+    <text>Jsem pro!</text>
+</string>
+<string id="sidorovich_railway_1_24">
+    <text>Potřebuju nějaký čas na rozmyšlenou.</text>
+</string>
+<string id="sidorovich_railway_1_25">
+    <text>Mám ještě další otázky.</text>
+</string>
+<string id="sidorovich_railway_1_26">
+    <text>Dobře, lepší teď než později. Ptej se.</text>
+</string>
+<string id="sidorovich_railway_1_27">
+    <text>Dobře! Připrav se a přijď za mnou, až budeš připravený!</text>
+</string>
+<string id="sidorovich_railway_1_28">
+    <text>Dobře. Rozmysli si to, ale pospěš si, Jasná obloha je na cestě.</text>
+</string>
+<string id="sidorovich_railway_2_0">
+    <text>O útoku na železniční most.</text>
+</string>
+<string id="sidorovich_railway_2_1">
+    <text>Ano, řekni mi?</text>
+</string>
+<string id="sidorovich_railway_2_2">
+    <text>Jsem připraven. Řekni mi, co mám dělat.</text>
+</string>
+<string id="sidorovich_railway_2_3">
+    <text>Jsem připraven. Budu se účastnit hlavního útoku.</text>
+</string>
+<string id="sidorovich_railway_2_4">
+    <text>Jsem připraven. Budu provádět odvrácený útok na vozový park.</text>
+</string>
+<string id="sidorovich_railway_2_5">
+    <text>Potřebuju víc času.</text>
+</string>
+<string id="sidorovich_railway_2_6">
+    <text>Dobře. Ať ti to nevypadne z hlavy. Máš obejít síly banditů a navázat kontakt s Kastorem, velitelem jednotek Jasné oblohy, na Prasečí farmě.
+    Pokud tam je, vrátíš se zpět na mlýn a ohlásíš to Fedorovi, mému chlapíkovi. Pokud je všechno připraveno, budeš se účastnit útoku. \n \nVšechno jasné?</text>
+</string>
+<string id="sidorovich_railway_2_7">
+    <text>Dobře. Ať ti to nevypadne z hlavy. Máš obejít síly banditů a navázat kontakt s Kastorem, velitelem jednotek Jasné oblohy, na Prasečí farmě.
+    Pokud tam je, vrátíš se zpět na mlýn a ohlásíš to Fedorovi, mému chlapíkovi. Pokud je všechno připraveno, budeš se účastnit útoku. \n \nVšechno jasné?</text>
+</string><string id="sidorovich_railway_2_8">
+    <text>Jsi si jistý? Pokud to tak chceš, buď vítán. Určitě to pomůže útoku. Řeknu Fedorovi, ať pošle někoho jiného navázat kontakt s Jasnou oblohou. Je všechno jasné?</text>
+</string>
+<string id="sidorovich_railway_2_9">
+    <text>Dobře, ale pojď do toho, nemáme moc času! Pamatuj, překvapení je klíčové!</text>
+</string>
+<string id="sidorovich_railway_2_10">
+    <text>Všechno jasné. Jdu.</text>
+</string>
+<string id="sidorovich_railway_2_11">
+    <text>Počkej! Rozmyslel jsem si to.</text>
+</string>
+<string id="sidorovich_railway_2_12">
+    <text>Lepší teď než později. Co je?</text>
+</string>
+<string id="sidorovich_railway_2_14">
+    <text>O plánu.</text>
+</string>
+<string id="sidorovich_railway_2_15">
+    <text>Co je?</text>
+</string>
+<string id="sidorovich_railway_3_0">
+    <text>Útok byl úspěšný, most je náš.</text>
+</string>
+<string id="sidorovich_railway_3_1">
+    <text>Skvělá práce! Tento kontrolní bod má obrovský význam pro naši bezpečnost a místní ekonomiku. Zasloužíš si odměnu, Stalkere! Tady máš!
+        Doporučuji ti ji utratit tady, abys podpořil místní podnikání. Mám pro tebe skvělé nabídky, podívej se!</text>
+</string>
+<string id="sidorovich_railway_4_0">
+    <text>Útok byl úspěšný, most je náš.</text>
+</string>
+<string id="sidorovich_railway_4_1">
+    <text>Skvělá práce! Tvůj odvrácený útok skutečně hodně pomohl! Nyní, když je kontrolní bod náš, jsou naše bezpečnost a místní ekonomika zajištěny. Zasloužíš si odměnu, Stalkere! Tady máš!
+        Doporučuji ti ji utratit tady, abys podpořil místní podnikání. Mám pro tebe skvělé nabídky, podívej se!</text>
+</string>
+
+
+
+<string id="st_assault_railway_info_1">
+		<text>Jdeme ty bandity pěkně vyjebat! URRRAAAAAAAA!!!!!</text>
+	</string>
+	<string id="st_assault_railway_info_2">
+		<text>URRRAAAAAAAA!!!!!</text>
+	</string>
+
+<string id="assault_csky_leader_esc_5_7_start_dialog_0">
+    <text>Dej si bacha, Stalkere, máme co dělat.</text>
+</string>
+<string id="assault_csky_leader_esc_5_7_start_dialog_1">
+    <text>Jste vy kluci, které poslal Mráz, aby přepadli železniční most?</text>
+</string>
+<string id="assault_csky_leader_esc_5_7_start_dialog_2">
+    <text>Ano, jsme - a ty jsi ten posel? Jak vidíš, jsme připraveni, doufám, že i vy. Tak mi řekni, můžeme začít, můžeme to ukončit?</text>
+</string>
+<string id="assault_csky_leader_esc_5_7_start_dialog_3">
+    <text>Ano, připojím se ke klukům na druhé straně a dáme signál.</text>
+</string>
+<string id="assault_csky_leader_esc_5_7_start_dialog_4">
+    <text>Dobře, budeme čekat.</text>
+</string>
+
+	<string id="assault_csky_leader_esc_5_7_1_0">
+    <text>Krutý boj, jsem rád, že jsi to zvládl!</text>
+</string>
+<string id="assault_csky_leader_esc_5_7_1_1">
+    <text>Ano, bylo to docela těžké. Díky za pomoc!</text>
+</string>
+<string id="assault_csky_leader_esc_5_7_1_2">
+    <text>Co budeš dělat dál?</text>
+</string>
+<string id="assault_csky_leader_esc_5_7_1_3">
+    <text>Mám rozkazy střežit tento kontrolní bod.</text>
+</string>
+
+<string id="assault_stalker_leader_esc_5_9_start_dialog_0">
+    <text>Kdo jsi?</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_1">
+    <text>Jsem ten chlap, kterého poslal Sidorovič jako posla.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_2">
+    <text>Dobře. Je četa Jasné oblohy na místě?</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_3">
+    <text>Jsou. Kdy dorazí zbytek našich lidí?</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_4">
+    <text>Tohle je vše. Sidorovič je obvykle "spořivý" při najímání.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_5">
+    <text>Kurva. Aspoň že kluci z Jasné oblohy jsou připravení...</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_6">
+    <text>Ano, ti kluci jsou spolehliví. Doufejme, že chytíme tyhle banditské parchanty nepřipraveené. Plán je jednoduchý; přiblížíme se - hodíme granáty a zaútočíme. Jsi připravený?</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_7">
+    <text>Ano, jsem připraven.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_8">
+    <text>Granáty? Nemám žádné...</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_9">
+    <text>Sranda kámo, kdo jde na útok bez granátů? Tady, vezmi tenhle - zaplať mi pití, až tyhle sračky přežijeme. \n\nNo, dost kecání, teď si musíme vydělat svoje peníze. Jsi připraven?</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_start_dialog_10">
+    <text>Jdeme!</text>
+</string>
+
+<string id="assault_stalker_leader_esc_5_9_1_0">
+    <text>To byla bitva! Zvládli jsme to!</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_1_1">
+    <text>Ano kámo, to bylo šílené! Jsem rád, že tě vidím v pořádku!</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_1_2">
+    <text>Ano chlap, jsem rád, že tě vidím taky! Co budeš dělat?</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_1_3">
+    <text>Zůstanu tady a budu střežit průchod.</text>
+</string>
+
+<string id="assault_stalker_leader_esc_5_9_2_0">
+    <text>Hele kámo, chtěl jsem ti poděkovat za granát, co jsi mi dal.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_2_1">
+    <text>Není zač, jsem si jistý, že bandité by s tím nesouhlasili.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_2_2">
+    <text>[Zóna Vodka] Tady, to je pro tebe.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_2_3">
+    <text>[Nemiroff] Tady, to je pro tebe.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_2_4">
+    <text>[Putinka] Tady, to je pro tebe.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_2_8">
+    <text>[Stoličná] Tady, to je pro tebe.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_2_5">
+    <text>Počkej, přinesu ti pití na poděkování!</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_2_6">
+    <text>To je fakt super, že sis na to vzpomněl, budu si to pamatovat.</text>
+</string>
+<string id="assault_stalker_leader_esc_5_9_2_7">
+    <text>Bez problémů, kámo.</text>
+</string>
+
+---- What a Night ----
+<string id="sasha_tolstoy_1_0">
+    <text>Hele kámo, jak se máš?</text>
+</string>
+<string id="sasha_tolstoy_1_1">
+    <text>Hrozně, hlava se mi rozpadá.</text>
+</string>
+
+
+<string id="sasha_tolstoy_2_0">
+    <text>Hele kámo, jak se máš?</text>
+</string>
+<string id="sasha_tolstoy_2_1">
+    <text>Mám se úžasně, kámo, máš zájem o panáka?</text>
+</string>
+<string id="sasha_tolstoy_2_2">
+    <text>Vypadáš, že jsi ve vysoké náladě, co se stalo?</text>
+</string>
+<string id="sasha_tolstoy_2_3">
+    <text>Bůh se na mě usmál, kámo, moje finanční starosti jsou pryč!</text>
+</string>
+<string id="sasha_tolstoy_2_4">
+    <text>Gratuluju!</text>
+</string>
+<string id="sasha_tolstoy_2_5">
+    <text>Tak si se mnou dáš drink!</text>
+</string>
+<string id="sasha_tolstoy_2_6">
+    <text>Jasně, nech to téct!</text>
+</string>
+<string id="sasha_tolstoy_2_7">
+    <text>Né, jsem v pohodě.</text>
+</string>
+<string id="sasha_tolstoy_2_8">
+    <text>Aaaah... \n \n No, mezi prvním a druhým je přestávka krátká!</text>
+</string>
+<string id="sasha_tolstoy_2_9">
+    <text>Nechceš, jak chceš.</text>
+</string>
+<string id="sasha_tolstoy_2_10">
+    <text>Jenom ti můžu přikývnout!</text>
+</string>
+<string id="sasha_tolstoy_2_11">
+    <text>Díky, ale nechci se opít.</text>
+</string>
+<string id="sasha_tolstoy_2_12">
+    <text>Tady, dej si nějaké maso, aby to pálilo méně.</text>
+</string>
+<string id="sasha_tolstoy_2_13">
+    <text>Díky. Tak mi řekni, co se stalo?</text>
+</string>
+
+<string id="sasha_tolstoy_2_14">
+    <text>Nevěříš tomu! Včera jsem píchal s klukama a hráli jsme karty. Moje štěstí se obrátilo k lepšímu a ztratil jsem všechny své peníze Andreyovi.
+    Takže dnes ráno jsem vyrazil, abych si své peníze zase zpátky vydělal - přemýšlel jsem, že kdybych dokázal ulovit nějakého Fleše nebo divočáka, mohl bych jejich části prodat za pěkné peníze. 
+    Vyrazil jsem trochu později ráno, ale slunce bylo těžké, takže jsem se rozhodl udělat si krátkou přestávku ve stínu starého kostela: měl jsem pár soust a několik doušků Vodky - 
+    abych potlačil bolest hlavy, rozumíš?
+    Najednou jsem slyšel nějaké chlapy za zdí mluvit, to slovní spojení, nemůžeš si to představit! K čertu, pomyslel jsem si, takové jazyky rostou jenom na těchhle Renegade Gopnících, 
+    takže jsem vzal nohy na ramena a utekl jsem na sever. Naštěstí mě neviděli, takže moje kůže byla v bezpečí... asi jsem ale zapomněl na svoji láhev, když si tak vzpomínám.
+    K čertu s tím! Obcházel jsem hřbitov a zamířil k rybníku - přemýšlel jsem, že bych možná mohl nějaké ty prasata nachytat při pití.
+    Aha, kamaráde, moje intuice byla správná, na břehu byly dva prasata. Připlížil jsem se a BÁM - vystřelil jsem a minul. Možná mi ruce ještě trochu třásly z včerejšího večera... ale to nevadí!
+    Obě prasata se zakňučela a vydala se směrem ke spálenému statečku. Vydal jsem se za nimi, ale způsobil jsem jim takový překvapení, že jedno z nich rovnou vletělo do plamenné anomálie!
+    Sloup plamene ho okamžitě pohltil a upeklo ho na místě. Zaklel jsem na nebesa, nemožné vydělat na tom hromadě popela, jsem si myslel. Ale pak jsem to zpozoroval... to prase asi koplo do Plamene,
+    když běželo skrz anomálii, a artefakt dopadl ven, připravený k sebrání! Dokážeš si to představit?</text>
+</string>
+
+	<string id="sasha_tolstoy_2_15">
+    <text>Neuvěřitelné! Jaké štěstí!</text>
+</string>
+<string id="sasha_tolstoy_2_16">
+    <text>Opravdu, opravdu! Pijme na to!</text>
+</string>
+<string id="sasha_tolstoy_2_17">
+    <text>Pijme!</text>
+</string>
+<string id="sasha_tolstoy_2_18">
+    <text>Ach, můj příteli, rád se s tebou opiji! Dáme si ještě jedno, na přátelství!</text>
+</string>
+<string id="sasha_tolstoy_2_19">
+    <text>Taky rád piju s tebou! Na přátelství!</text>
+</string>
+<string id="sasha_tolstoy_2_20">
+    <text>Tady, můj příteli, dej si sousto.</text>
+</string>
+<string id="sasha_tolstoy_2_21">
+    <text>Dobře, teď je na mně navrhnout přípitek!</text>
+</string>
+<string id="sasha_tolstoy_2_22">
+    <text>Nechť se to dozví!</text>
+</string>
+<string id="sasha_tolstoy_2_23">
+    <text>Naše vůle nesevře, pili jsme, pijeme a zase budeme pít!</text>
+</string>
+<string id="sasha_tolstoy_2_24">
+    <text>Na tebe, na nás, na xcvb!</text>
+</string>
+<string id="sasha_tolstoy_2_25">
+    <text>Bůh není hloupý, miluje pětky!</text>
+</string>
+
+<string id="sasha_tolstoy_3_0">
+    <text>Chlape, co se kurva stalo, co se stalo včera večer? Probudil jsem se v Khuyevo Kukuyevo!</text>
+</string>
+<string id="sasha_tolstoy_3_1">
+    <text>Ano, člověče, byl jsi v prdeli, hahaha! Pijácky jsme si pořádně užili, hahaha. Šel jsem zpátky do tábora pro ještě víc kořalky, ale když jsem se vrátil, tak jsi už nebyl.</text>
+</string>
+<string id="sasha_tolstoy_3_2">
+    <text>Tak co se stalo včera?</text>
+</string>
+<string id="sasha_tolstoy_3_3">
+    <text>Ach, to, můj příteli, ví jenom Pán Bůh. Budete muset počkat, až si vzpomene...</text>
+</string>
+
+<string id="barman_sektor_gaza_0_0">
+    <text>Tady máš svou CD.</text>
+</string>
+<string id="barman_sektor_gaza_0_1">
+    <text>Můj chlapíku!</text>
+</string>
+
+
+
+
+---- Rush to the North and Brainscorcher reactions ------
+	<string id="fanatic_north_0_0">
+    <text>Hej Fanatiku, jak se máš?</text>
+</string>
+<string id="fanatic_north_0_1">
+    <text>Upřímně řečeno, jsem přeplněn všemi těmi novými nováčky. Od té doby, co jsi vypnul Mozkomor, se do Zóny stále více a více lidí hrne.
+     To není míněno jako výčitka, udělal jsi dobře, že jsi to vypnul. Sidorovič je samozřejmě nadšený z nových obchodních příležitostí a levné pracovní síly, ale já se stále snažím je vychovat.
+     Jsou jich jen tolik a rychle ztrácí trpělivost a nechtějí čekat, až budu mít na ně čas.</text>
+</string>
+<string id="fanatic_north_0_2">
+    <text>Mohu ti pomoci, pokud chceš?</text>
+</string>
+<string id="fanatic_north_0_3">
+    <text>Skutečně? To by bylo skvělé! Znáš postup, že jo? Jdi střílet nějaké divočáky a pak jim ukáži, jak najít artefakty! A ehm, nepřinesl bys pro ně taky potřeby?
+     Není toho moc, asi 20 nábojů, detektor Echo, prázdný kontejner a láhev Nemiroffu?</text>
+</string>
+<string id="fanatic_north_0_4">
+    <text>Jistě Fanatiku, stejné jako ty jsi mi poskytl.</text>
+</string>
+<string id="fanatic_north_0_5">
+    <text>Děkuji moc! Tvůj učeň bude Iliaz, bydlí v cihlovém domě na druhé straně ulice.</text>
+</string>
+<string id="fanatic_north_0_6">
+    <text>Cože? Já nejsem charita.</text>
+</string>
+<string id="fanatic_north_0_7">
+    <text>Ehm, dobře... pak se neobtěžuj.</text>
+</string>
+
+<string id="fanatic_north_0_8">
+    <text>Zatracení, hodně štěstí s tím.</text>
+</string>
+<string id="fanatic_north_0_9">
+    <text>No, díky...</text>
+</string>
+
+<string id="nr_iliaz_1_0">
+    <text>Vidíš, divočáci na tebe zaútočí a musíš se jim vyhnout a střílet na ně.</text>
+</string>
+<string id="nr_iliaz_1_1">
+    <text>Rozumím. Co bude dál?</text>
+</string>
+<string id="nr_iliaz_1_2">
+    <text>Podíváme se na lov artefaktů. Není odsud daleko, trochu na severozápad od vesnice je anomálie.</text>
+</string>
+<string id="nr_iliaz_1_3">
+    <text>Dobře, jsem za tebou.</text>
+</string>
+
+<string id="nr_iliaz_2_0">
+    <text>Dorazili jsme. Tady je detektor, který ti ukáže přítomnost artefaktu. Čím rychleji pípá, tím blíž jsi.</text>
+</string>
+<string id="nr_iliaz_2_1">
+    <text>Okay.</text>
+</string>
+<string id="nr_iliaz_2_2">
+    <text>Máš hřeby, že jo? Hodíš je, abys viděl, jestli je před tebou anomálie.</text>
+</string>
+<string id="nr_iliaz_2_3">
+    <text>Jo, mám jich pár.</text>
+</string>
+<string id="nr_iliaz_2_4">
+    <text>Tady je trochu Vodky. Anomálie jsou často zamořené radiací, nebo ještě hůře. Až se vrátíš na moji pozici, tuhle láhev dopij. Pomáhá.</text>
+</string>
+<string id="nr_iliaz_2_5">
+    <text>Rozumím.</text>
+</string>
+<string id="nr_iliaz_2_6">
+    <text>Nakonec tu máš kontejner. Pokud najdeš artefakt, vložíš ho sem. To neutralizuje radiaci artefaktu.</text>
+</string>
+<string id="nr_iliaz_2_7">
+    <text>Dobře.</text>
+</string>
+<string id="nr_iliaz_2_8">
+    <text>Tak jdi a zkus to.</text>
+</string>
+<string id="nr_iliaz_2_9">
+    <text>Ano, ano Stalkere.</text>
+</string>
+
+<string id="nr_iliaz_3_0">
+    <text>Proč jsi nešel až do konce?</text>
+</string>
+<string id="nr_iliaz_3_1">
+    <text>Viděl jsem tam něco zářit pod tou kovovou konstrukcí! To není náhodou Artefakt?</text>
+</string>
+<string id="nr_iliaz_3_2">
+    <text>Cože? To je Kámenkvět! Ty šťastnej parchante! Buď to můžeš prodat Sidorovichovi pro rychlý cash, nebo si to podrž a prodáš to Ekologům, oni ti zaplatí mnohem lépe.</text>
+</string>
+<string id="nr_iliaz_3_3">
+    <text>Rozumím! Díky za tip!</text>
+</string>
+<string id="nr_iliaz_3_4">
+    <text>[Lež] Ach, žádné štěstí. Ten artefakt je nicotný. Ale protože jsi nový, vezmu ti ho za 1000 rublů.</text>
+</string>
+<string id="nr_iliaz_3_5">
+    <text>Dobře... Asi lepší než nic.</text>
+</string>
+<string id="nr_iliaz_3_6">
+    <text>Měli bychom se teď vrátit do vesnice.</text>
+</string>
+<string id="nr_iliaz_3_7">
+    <text>Dobře, půjdu za tebou.</text>
+</string>
+
+<string id="nr_iliaz_4_0">
+    <text>Jsme zpátky ve vesnici. Doufám, že jsem ti trochu pomohl!</text>
+</string>
+<string id="nr_iliaz_4_1">
+    <text>Velmi mi to pomohlo! Díky!</text>
+</string>
+
+
+
+---- Shlitzer
+<string id="bh_shlitzer_greeting">
+    <text>A co Stalker, jsi spokojený se svou odměnou?</text>
+</string>
+
+<string id="bh_shlitzer_start_0">
+    <text>Podvedl tě ten chlap v bunkru, Stalkere?</text>
+</string>
+<string id="bh_shlitzer_start_1">
+    <text>Poslal mě na útok jen za 2 000 rublů.</text>
+</string>
+<string id="bh_shlitzer_start_2">
+    <text>Ne, zaplatil mi dobře.</text>
+</string>
+<string id="bh_shlitzer_start_3">
+    <text>Ha! Samozřejmě že ano. Sidorovič využívá začínající Stalkery jako jsi ty, příběh tak starý jako Zóna sama. Ale víš, ne všichni tady platí tak lakomě. 
+    Můžu mít pro tebe návrh, pokud máš zájem.</text>
+</string>
+<string id="bh_shlitzer_start_4">
+    <text>To by bylo poprvé, kdyby někomu zaplatil dobře. Možná ještě neznáš hodnotu své práce... 
+        Pokud chceš zjistit, mohl bych pro tebe mít návrh.</text>
+</string>
+<string id="bh_shlitzer_start_5">
+    <text>Vždy mě zajímá nějaká práce.</text>
+</string>
+<string id="bh_shlitzer_start_6">
+    <text>Nejsem si jistý/jistá.</text>
+</string>
+<string id="bh_shlitzer_start_7">
+    <text>Dobrá, dobře. Ale nebudeme tady mluvit. Jdi za mnou.</text>
+</string>
+<string id="bh_shlitzer_start_8">
+    <text>Pokud se rozhodneš, najdeš mě tam vlevo.</text>
+</string>
+	<string id="bh_shlitzer_start_9">
+		<text>...</text>
+	</string>
+	<string id="bh_shlitzer_0_0">
+    <text>Jaký druh práce navrhuješ?</text>
+</string>
+<string id="bh_shlitzer_0_1">
+    <text>Takový citlivý - bude nutná diskrétnost. Ale zaplatím odpovídajícím způsobem. Dokážeš být diskrétní?</text>
+</string>
+<string id="bh_shlitzer_0_2">
+    <text>Záleží. Co je to, co chceš, abych udělal(a)?</text>
+</string>
+<string id="bh_shlitzer_0_3">
+    <text>Znám jednoho vojáka na jižním kontrolním stanovišti, přezdívá si Bezek. Občas si navzájem pomáháme, a nedávno se mu podařilo získat nějaké zbraně a střelivo - chci, abys se s ním setkal(a) a převzal(a) zboží.
+    Má noční směnu tento týden, takže to musí být během následujících dní.</text>
+</string>
+<string id="bh_shlitzer_0_4">
+    <text>Proč je k tomu potřeba diskrétnost?</text>
+</string>
+<string id="bh_shlitzer_0_5">
+    <text>Protože Sidorovič nesnáší obchodování s armádou na zádech. Má tam několik přátel mezi důstojníky, kteří také rádi vezmou svůj díl - zbytečné výdaje.
+    Ale já rád vynechávám prostředníky - je to výnosnější.</text>
+</string>
+<string id="bh_shlitzer_0_6">
+    <text>Proč to neuděláš sám(a)?</text>
+</string>
+<string id="bh_shlitzer_0_7">
+    <text>Protože je to nebezpečné! Pokud tě uvidí nějaký jiný strážce, začnou střílet! Ale neboj se, kompenzuji ti rizika, která podstupuješ. A navíc, pokud se držíš plánu, by nemělo hrozit žádné reálné nebezpečí.</text>
+</string>
+<string id="bh_shlitzer_0_8">
+    <text>Jaký je plán?</text>
+</string>
+
+	<string id="bh_shlitzer_0_9">
+    <text>Plán je poměrně jednoduchý, ale vyžaduje mít nějaké koule. Jak jsem řekl, můj kontakt má strážní službu od půlnoci do 4 hodin ráno a nemůže opustit svou pozici kromě močení, což udělá, když mu dáš signál.
+    Na silnici vedoucí k kontrolnímu stanovišti uvidíš vrak džípu - až k němu dojdeš, musíš třikrát rychle za sebou blesknout svítilnou! Neboj se, když to zkazíš, počkej chvilku a udělej to znovu.
+    Strážce bude vyhlížet takový signál a když ho uvidí, sestoupí dolů a setká se s tebou na nejzápadnější části plotu, vpravo od kontrolního stanoviště. 
+    Buď ale opatrný(á) při přiblížení - v okolí by se mohli nacházet nějací vojáci. Hodí ti balíček a ty se s ním vrátíš, a já ti dám 8 000 rublů - tak jednoduché to je! \n \nCo na to říkáš?</text>
+</string>
+<string id="bh_shlitzer_0_10">
+    <text>Dobře, zní to dobře.</text>
+</string>
+<string id="bh_shlitzer_0_11">
+    <text>Skvělé! Pamatuj si, máš na to pět dní.</text>
+</string>
+<string id="bh_shlitzer_0_12">
+    <text>Zní to spíše riskantně... Musím o tom přemýšlet.</text>
+</string>
+<string id="bh_shlitzer_0_13">
+    <text>Dobře, ale čas ti utíká. Nepříliš dlouho váhej.</text>
+</string>
+
+<string id="bh_shlitzer_3_0">
+    <text>O tvé práci.</text>
+</string>
+<string id="bh_shlitzer_3_100">
+    <text>Ano?</text>
+</string>
+<string id="bh_shlitzer_3_1">
+    <text>Udělám to.</text>
+</string>
+<string id="bh_shlitzer_3_2">
+    <text>Skvělé! Ale musí to být brzy, jinak můj chlap už nebude mít strážní službu.</text>
+</string>
+<string id="bh_shlitzer_3_3">
+    <text>Udělám to.</text>
+</string>
+<string id="bh_shlitzer_3_4">
+    <text>Ty hlupáku, musel jsem najít někoho jiného, nebo by můj chlap už neměl strážní službu! \n \nAle pokud hledáš práci, mám další úkol, kde bych potřeboval tvou pomoc.
+        Potřebuji někoho, kdo by přinesl zásilku kupujícímu - zní to jako něco, co bys dokázal(a) udělat?</text>
+</string>
+<string id="bh_shlitzer_3_5">
+    <text>Dobře, mohu to udělat teď.</text>
+</string>
+<string id="bh_shlitzer_3_6">
+    <text>Musím o tom přemýšlet.</text>
+</string>
+<string id="bh_shlitzer_3_7">
+    <text>Dobře. Tady, vezmi si tašku a přineste ji chlapovi jménem "Maksim Ironchain" - neboj se toho jména, pokud se držíš dohody, nemáš se čeho bát. Najdeš ho na opuštěném statku, východně od farmy.
+        Dá ti kufr, který přineseš zpět ke mně. </text>
+</string>
+<string id="bh_shlitzer_3_8">
+    <text>Tak přemýšlej rychle, nebo si budu muset najít někoho jiného, kdo to udělá.</text>
+</string>
+<string id="bh_shlitzer_3_9">
+    <text>Můžeš mi znovu připomenout plán?</text>
+</string>
+
+	
+<string id="bh_shlitzer_3_10">
+    <text>Plán je docela jednoduchý, ale vyžaduje trochu odvahy. Jak jsem řekl, Badger má strážní službu od půlnoci do 4 hodin ráno a jako takový nemůže opustit svou pozici, kromě toho, aby si odběhl močit, což udělá, když mu dáš signál.
+        Na cestě vedoucí k kontrolnímu stanovišti uvidíš vrak jeepu - až k němu dojdeš, budeš muset rychle třikrát blesknout svou baterkou! Nevadí, pokud to zkazíš, počkej chvilku a udělej to znovu.
+        Stráž bude hledět po takovém signálu a až ho uvidí, sestoupí dolů a setká se s tebou na nejzápadnější části plotu, napravo od kontrolního stanoviště. 
+        Ale buď opatrný, když se k němu přiblížíš - v okolí by se mohli pohybovat nějací vojáci. Hodí ti balíček a ty se s ním vrátíš, já ti dám 8 000 rublů - jednoduché jako facka!</text>
+</string>
+<string id="bh_shlitzer_3_11">
+    <text>To je vše.</text>
+</string>
+<string id="bh_shlitzer_3_12">
+    <text>Dobře.</text>
+</string>
+
+<string id="st_bh_badger_start_0">
+    <text>Jsi přítel Shlitze? Tady - chyť tašku!</text>
+</string>
+<string id="st_bh_badger_start_1">
+    <text>Připomeň mu, ať mi zaplatí rychle - tady se musí pálit nějaké dlaně, už začínají být netrpěliví.</text>
+</string>
+<string id="st_bh_badger_start_2">
+    <text>A teď běž - rychle!</text>
+</string>
+
+
+<string id="bh_shlitzer_1_0">
+    <text>Tady je tvůj balíček.</text>
+</string>
+<string id="bh_shlitzer_1_1">
+    <text>Skvělé! Tvé peníze, Stalkere! Rád s tebou obchoduji.</text>
+</string>
+<string id="bh_shlitzer_1_2">
+    <text>Badger tě připomíná, ať mu zaplatíš v příštích dnech - tady se musí pálit nějaké dlaně.</text>
+</string>
+<string id="bh_shlitzer_1_3">
+    <text>Ano, samozřejmě! Ale nejprve musíme prodat tyhle věci, abychom získali potřebnou hotovost. Možná budu potřebovat tvou pomoc - samozřejmě budeš placen! Trochu si odpočiň a přijď, až budeš připraven.</text>
+</string>
+
+<string id="bh_shlitzer_2_0">
+    <text>Řekl jste, že máte ještě jedno práci?</text>
+</string>
+<string id="bh_shlitzer_2_1">
+    <text>Ano! Potřebuji, abys tu tašku přinesl kupci! Chlap se jmenuje "Maksim Ironchain" - neblafni na to jméno, pokud se držíš dohody, nemáš se čeho bát. Najdeš ho na opuštěném statku na východ od farmy.
+        Dá ti kufr, který mi pak přineseš zpět. Je to tak snadné, jak to zní! Můžeš to udělat?</text>
+</string>
+<string id="bh_shlitzer_2_2">
+    <text>Dobře, mohu to udělat teď.</text>
+</string>
+<string id="bh_shlitzer_2_3">
+    <text>Musím o tom přemýšlet.</text>
+</string>
+<string id="bh_shlitzer_2_4">
+    <text>Perfektní. Vezmi tu tašku a přines mi zpět ten kufr!</text>
+</string>
+<string id="bh_shlitzer_2_5">
+    <text>Pak přemýšlej rychle, nebo si budu muset najít někoho jiného, kdo to udělá.</text>
+</string>
+
+<string id="bh_ironchain_start_0">
+    <text>Jsi chlap od Shlitze? Máš tu tašku?</text>
+</string>
+<string id="bh_ironchain_start_1">
+    <text>Ano. Máš ten kufr?</text>
+</string>
+<string id="bh_ironchain_start_2">
+    <text>Samozřejmě. Tak na co čekáme? Děláme to?</text>
+</string>
+<string id="bh_ironchain_start_3">
+    <text>Jistě. Dělejme to.</text>
+</string>
+<string id="bh_ironchain_start_4">
+    <text>Nemyslím si.</text>
+</string>
+<string id="bh_ironchain_start_5">
+    <text>Vidíš! To bylo docela snadné hahaha. Nebylo důvod se tak napínat. \n \nMoment Stalkere, zdá se, že jsi mi povědomý. Nejsi jedním z těch Stalkerů, kteří vzali zpět železniční most?</text>
+</string>
+<string id="bh_ironchain_start_6">
+    <text>Nebuď blázen. Nezaváháme tě zastřelit.</text>
+</string>
+<string id="bh_ironchain_start_7">
+    <text>Ne, pletete si mě s někým jiným.</text>
+</string>
+<string id="bh_ironchain_start_8">
+    <text>Co s tím? Máš s tím problém?</text>
+</string>
+<string id="bh_ironchain_start_9">
+    <text>Jsi si jistý? ... Nedělej si z toho starosti - teď zatím sbohem Stalkere, možná příště!</text>
+</string>
+<string id="bh_ironchain_start_10">
+    <text>Uklidni se Stalkere hahaha. Udělal jsi mi velký kousek - vyřadil jsi moji konkurenci! Tady, jako projev mého ocenění! Teď zatím sbohem Stalkere, možná příště!</text>
+</string>
+<string id="bh_ironchain_start_11">
+    <text>Jen jsem si dělal srandu. Tady, chyť tu tašku. Teď mi dej ten kufr!</text>
+</string>
+<string id="bh_ironchain_start_12">
+    <text>Do háje!</text>
+</string>
+<string id="bh_ironchain_start_13">
+    <text>Máš divný smysl pro humor Stalkere...\n \nMoment, zdá se, že jsi mi povědomý. Nejsi jedním z těch Stalkerů, kteří vzali zpět železniční most?</text>
+</string>
+<string id="bh_ironchain_start_14">
+    <text>Ale... vy chlapi jste bandité!</text>
+</string>
+<string id="bh_ironchain_start_15">
+    <text>A co s tím? Nedělej mi, že si stříkáš do kalhot hahaha! Teď už to udělejme, nemáme celý den.</text>
+</string>
+<string id="bh_ironchain_start_16">
+    <text>Co uděláte s těmi zbraněmi?</text>
+</string>
+<string id="bh_ironchain_start_17">
+    <text>Jaká hloupá otázka. Nevyužívej mou trpělivost Stalkere, děláme tu obchod nebo ne?</text>
+</string>
+
+<string id="st_bh_ironchain_deal_gone_wrong">
+    <text>Kam se sakra máš namířeno? Zabij ho!</text>
+</string>
+
+<string id="bh_shlitzer_4_0">
+    <text>Dostal jsem tvou </text>
+</string>
+
+<string id="st_bh_shlitzer_stalker_0">
+    <text>Co??? Co sakra??? Kdo je ten blbec, kdo to udělal?</text>
+</string>
+<string id="st_bh_shlitzer_stalker_1">
+    <text>Sakra! Žádné mozkové buňky, ale spousta odvahy...</text>
+</string>
+<string id="st_bh_shlitzer_stalker_2">
+    <text>Kurva! Teď jsme tady uvízli?</text>
+</string>
+<string id="st_bh_shlitzer_stalker_3">
+    <text>Vypadá to tak... Lepší je na chvíli ustoupit do ústraní...</text>
+</string>
+<string id="st_bh_shlitzer_stalker_4">
+    <text>Kurva! </text>
+</string>
+<string id="st_bh_shlitzer_stalker_5">
+    <text>Co??? Co sakra??? Kdo je ten blbec, kdo to udělal?</text>
+</string>
+
+<string id="st_bh_shlitzer_sidorovich_0">
+    <text>Sidorovič: %s !!!! Okamžitě do mé kanceláře!!! HNED!!!!!</text>
+</string>
+
+	
+
+
+--- Like Rats in a Trap
+ <string id="st_bh_like_rats_in_trap_0">
+    <text>Pozor, Stalkere! Tam dole jsou uvězněni banditi!</text>
+</string>
+<string id="st_bh_like_rats_in_trap_1">
+    <text>Pokud chceš vědět víc, jdi za naším vůdcem Naručníkem.</text>
+</string>
+<string id="st_bh_like_rats_in_trap_2">
+    <text>Chceme vyjednávat, Stalkere!</text>
+</string>
+<string id="st_bh_like_rats_in_trap_3">
+    <text>Schovej zbraň, nebo vystřelíme!</text>
+</string>
+
+
+
+
+	
+	
+	
+	
+	
+</string_table>

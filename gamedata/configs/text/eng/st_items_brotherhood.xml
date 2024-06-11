@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Stories from the Zone items
+-->
+
+<string_table>
+
+--- Hunters
+
+	<string id="quest_package_vybegallo_name">
+    <text>Sáček tuňákových konzerv</text>
+</string>
+<string id="quest_package_vybegallo_desc">
+    <text>Těžká taška plná tuňákových konzerv. Vybegallo bude spokojený.</text>
+</string>
+
+<string id="st_wpn_saiga12s_mutanthammer_name">
+    <text>Saiga-12S "Mutantní kladivo"</text>
+</string>
+<string id="st_wpn_saiga12s_mutanthammer_descr">
+    <text>Upravená verze Saiga-12S. Někdo vyryl "Mutantní kladivo" na stranu.\n \n
+    %c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+    %c[d_purple] • %c[ui_gray_2] Měřící kolimátor EKP-8-02 Kobra, 1P29, PSO-1\n
+    %c[d_purple] • %c[ui_gray_2] Ozvěna PBS-1\n \n</text>
+</string>
+
+	
+--- Strange Kolbosa ---<string id="st_kolbasa_strange">
+    <text>Balíček neobvyklého masa</text>
+</string>
+<string id="st_kolbasa_strange_descr">
+    <text>Balení obsahující něco, co vypadá jako obvyklý balíček starého masa: starý chléb a nějaké páchnoucí maso neznámého původu zabalené do popsaného papíru. Nepoznáváš vzhled ani vůni...\n \n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_red] • %c[ui_gray_2] nízká kvalita\n</text>
+</string>
+
+<string id="st_kolbasa_strange_unpacked">
+    <text>Neobvyklé maso</text>
+</string>
+<string id="st_kolbasa_strange_unpacked_description">
+    <text>Páchnoucí maso neznámého původu. Nepoznáváš vzhled ani vůni...\n \n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_red] • %c[ui_gray_2] nízká kvalita\n</text>
+</string>
+
+<string id="st_kolbasa_strange_paper_name">
+    <text>Popsaný papír</text>
+</string>
+<string id="st_kolbasa_strange_paper_descr">
+    <text>Zapáchající papír, který byl obalen kolem neobvyklého masa. Něco bylo na něj napsáno, ale nepoznáváš moc. </text>
+</string>
+
+<string id="st_bullet_yak">
+    <text>Kulka v těle Yaka</text>
+</string>
+<string id="st_bullet_yak_descr">
+    <text>Nalezl jsem tuto kulku v těle Yaka. Zdá se, že byl zavražděn.</text>
+</string>
+
+<string id="st_bullet_yak_identify">
+    <text>Kulka v těle Yaka</text>
+</string>
+<string id="st_bullet_yak_identify_descr">
+    <text>Nalezl jsem tuto kulku v těle Yaka. Zdá se, že byl zavražděn. Nitro ji identifikoval jako kuličku ráže 7.62x51.</text>
+</string>
+
+	
+	
+	
+---- Market Share	
+	
+<string id="st_itm_usb_mercenary_1_name">
+    <text>USB dešifrovací klíč</text>
+</string>
+<string id="st_itm_usb_mercenary_1_descr">
+    <text>Šifrovací a dešifrovací klíč pro novou šifrovací komunikaci námezdních žoldáků.</text>
+</string>
+
+<string id="st_pda_mercenary_1_name">
+    <text>PDA poručíka Haralda Virtanena</text>
+</string>
+<string id="st_pda_mercenary_1_descr">
+    <text>PDA poručíka Haralda Virtanena s dešifrovacím klíčem pro komunikaci námezdníků.\n \nBude brzy zastaralé.</text>
+</string>
+
+<string id="st_sakharov_order_vybegallo_descr">
+    <text>Důrazně formulovaný rozkaz od Sakharova, ve kterém žádá Vybegalla, aby okamžitě zastavil své experimenty.</text>
+</string>
+<string id="st_sakharov_order_vybegallo_name">
+    <text>Sakharův rozkaz Vybegallovi o zastavení činnosti</text>
+</string>
+
+<string id="st_vybegallo_order_mercenary_name">
+    <text>Popis mise</text>
+</string>
+<string id="st_vybegallo_order_mercenary_descr">
+    <text>Vědec nás nedávno kontaktoval s naléhavým rozkazem ohledně některých částí Pseudogiganta. Organizuj lovčí skupinu a pošli části Dushmanovi - zajímá se o úspěch mise, takže to nesmíš zkazit! Vezmi si s sebou zkušené lidi! A o tom nemluv, diskrétnost je zásadní.</text>
+</string>
+
+	
+<string id="st_af_grid_prototype_name">
+    <text>Prototyp Titanové Mřížky</text>
+</string>
+<string id="st_af_grid_prototype_descr">
+    <text>Prototyp verze titanové mřížky. \nNamísto jednoduchého nošení batohu upevněného pár popruhůmi přes ramena, lze ho připevnit k obleku pomocí titanové mřížky, která optimalizuje vaše nosící schopnosti. Prototypová mřížka je vyrobena z titanu, který je materiálem volby díky své lehkosti a vysoké odolnosti, a některé vnější prvky jsou vyrobeny z plastu, aby se dosáhlo požadované flexibility při běhu. Celá konstrukce je vybavena systémem popruhů a síťování pro poskytnutí vysoké míry nastavitelnosti. Tento kvalitní design umožňuje nastavit popruhy nahoru nebo dolů tak, aby nošení batohu bylo pohodlné bez ohledu na velikost trupu. Jedna mřížka nahrazuje pouze hlavní rámování batohu, ale je možné použít více mřížek k dalšímu zlepšení vašich nosících schopností. Mřížky jsou vytvářeny z velmi kvalitního titanu, takže rozložená mřížka může být použita jako účinný bojový oblek nebo doplněk k opravě helmy.\n \n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] každodenní položka\n
+    %c[d_cyan] • %c[ui_gray_2] vysoká kvalita\n
+    %c[d_cyan] • %c[ui_gray_2] účinnost více jednotek se sčítá\n</text>
+</string>
+
+<string id="st_ms_owl_documents_1_name">
+    <text>[Dokumenty pro Hejkala]</text>
+</string>
+<string id="st_ms_owl_documents_1_desc">
+    <text>[bude provedeno: správný název a popis]</text>
+</string>
+
+<string id="st_trenchcoat_green_outfit_brotherhood_forester_name">
+    <text>Starý lesníkový trenčkot</text>
+</string>
+<string id="st_trenchcoat_green_outfit_brotherhood_forester_descr">
+    <text>Starý lesníkový trenčkot. Podle lesníka trenčkot nikdy nebyl vyprán a měl by silně vonět po něm (ve skutečnosti by se dalo říct, že smrdí). \n \n 
+    S trenčkotem bych měl být schopen přilákat Vlada a Drakula.</text>
+</string>
+
+
+
+<string id="st_quest_package_mercenary_name">
+    <text>Zásobovací úkryt</text>
+</string>
+<string id="st_quest_package_mercenary_desc">
+    <text>Schránka s dodávkami od žoldáků. Chris bude nadšený, že se dostane ke všem těm zbraním a střelivu.</text>
+</string>
+
+<string id="quest_chimera_bait_brotherhood_name">
+    <text>Návnada na Chiméru od Trappera</text>
+</string>
+<string id="quest_chimera_bait_brotherhood_desc">
+    <text>Taška plná divočáčkovského masa a rádia, které hraje zvuky prasat. To by mělo přilákat Chiméru.</text>
+</string>
+<string id="st_radio_micro_quest">
+    <text>Trapperův záznamový přístroj</text>
+</string>
+<string id="st_radio_micro_quest_descr">
+    <text>Rádio má vestavěný mikrofon. Pracuje tak, že se položí na zem.</text>
+</string>
+
+<string id="quest_package_shlitzer_name">
+    <text>Shlitzerova taška</text>
+</string>
+<string id="quest_package_shlitzer_desc">
+    <text>Taška plná zbraní a střeliva.</text>
+</string>
+
+<string id="st_quest_package_shlitzer_2_name">
+    <text>Kufřík Ironchaina</text>
+</string>
+<string id="st_quest_package_shlitzer_2_desc">
+    <text>Těžký - uzavřený kufřík. Měl bych ho přinést Shlitzerovi.</text>
+</string>
+
+
+<string id="st_nr_starik_murdered_diary_name">
+    <text>Deník Ded Tryasiny</text>
+</string>
+<string id="st_nr_starik_murdered_diary_descr">
+    <text>Poslední záznam: \n \nVčera byl úspěch. Nějaký chudák Stalker byl napaden psy a měl u sebe zajímavé věci. 
+    Bohužel jsem nemohl vzít všechno s sebou a zbytek jsem schoval. Zdá se to vhodné, že mrtví hlídají věci mrtvého muže.</text>
+</string>
+
+<string id="st_wpn_svd_cyclops_name">
+    <text>SVD 'Kyklop'</text>
+</string>
+<string id="st_wpn_svd_cyclops_descr">
+    <text>Stará lovecká puška řezníka - upravená verze SVD. \n \n
+    %c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+    %c[d_purple] • %c[ui_gray_2] Měřící kolimátor EKP-8-02 Kobra, 1P29, PSO-1\n
+    %c[d_purple] • %c[ui_gray_2] tlumič KZRZP (po modifikaci)\n \n</text>
+</string>
+
+<string id="st_bh_mozgotlen_documents_name">
+    <text>Měření teploty</text>
+</string>
+<string id="st_bh_mozgotlen_documents_descr">
+    <text>Grafy zaznamenávající různé teploty anomálie. Je to ten dokument, o kterém mluvil Alyoša?</text>
+</string>
+
+
+
+</string_table>
