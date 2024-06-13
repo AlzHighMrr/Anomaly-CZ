@@ -7,7 +7,7 @@
 <
 <	Made by: Catilina
 <	Last revised: wip
-<
+<   100% uprava textù
 <===========================================================-->
 
 <string_table>
@@ -53,44 +53,44 @@
 		<text>Ztraceno pøi pøepravì</text>
 	</string>
 	<string id="give_task_kill_pack_dogs_1_descr">
-		<text>Musím získat balíèek ztracený smeèkou psù. Mìl by být ve Velké bažinì, poblíž staré staveništì. 
-		Doruèovatel se dostal kolem èerpací stanice a pokraèoval s vesnicí s vodárenskou vìží nalevo a vesnicí, kterou nìkdy používá vojsko, napravo.</text>
+		<text>Musím získat balíèek ztracený díky smeèce psù. Mìl by být ve Velké bažinì, poblíž staré staveništì. 
+		Kurýr se dostal kolem èerpací stanice a pokraèoval s vesnicí s vodárenskou vìží nalevo a vesnicí napravo, kterou nìkdy používá obèas použivá armáda.</text>
 	</string>
 	<string id="give_task_kill_pack_dogs_2_descr">
-		<text>Nalezl jsem balíèek. Mìl bych ho pøinést Vybegallovi v Agropromu, nìkde v továrnì.</text>
+		<text>Nalezl jsem balíèek. Mìl bych ho pøinést Profesorovi Vybegallovi v Agropromu, nìkde v opuštené továrnì.</text>
 	</string>
 	<string id="give_task_kill_pack_dogs_3_descr">
-		<text>Balíèek jsem doruèil. Mìl bych se vrátit k Øezníkovi a oznámit mu.</text>
+		<text>Balíèek jsem doruèil. Mìl bych se vrátit k Øezníkovi a oznámit mu to.</text>
 	</string>
 	
 	<string id="give_task_kill_pack_boars_1_name">
-		<text>Žádná budoucnost pro divokého kance</text>
+		<text>Žádná budoucnost pro divoèáka</text>
 	</string>
 	<string id="give_task_kill_pack_boars_1_descr">
-		<text>V lese za anomálií Vìštecký želé na jihovýchodì sektoru je smeèka divokých kancù. Øezník je chce mrtvé.</text>
+		<text>V lese za anomálií èarodejnické želé na jihovýchodì smetištì je smeèka divokých kancù. Øezník je chce všechny mrtvé.</text>
 	</string>
 	<string id="give_task_kill_pack_boars_2_descr">
-		<text>Mìl bych se vrátit k Øezníkovi a sdìlit mu, že jeho problém je vyøešen.</text>
+		<text>Mìl bych se vrátit k Øezníkovi a sdìlit mu, že jeho starosti jsou vyøešené.</text>
 	</string>
 	
 	<string id="give_task_kill_pack_snorks_1_name">
-		<text>Ztracení snorkové</text>
+		<text>Zatracení Snorkové</text>
 	</string>
 	<string id="give_task_kill_pack_snorks_1_descr">
 		<text>Nachází se zde skupina snorkù na jihozápad od vlakového hangáru blízko jižní cesty do Agropromu. Øezník je chce mrtvé.</text>
 	</string>
 	<string id="give_task_kill_pack_snorks_2_descr">
-		<text>Mìl bych se vrátit k Øezníkovi a sdìlit mu, že jeho problém je vyøešen.</text>
+		<text>Mìl bych se vrátit k Øezníkovi a sdìlit mu, že jeho problém se Snorky je vyøešen.</text>
 	</string>
 	
 	<string id="give_task_kill_pack_snorks_2_name">
-		<text>Velké vyèištìní</text>
+		<text>Velké èištìní</text>
 	</string>
 	<string id="give_task_kill_pack_snorks_2_1_descr">
-		<text>Øezník chce, abych zkontroloval, zda se populace snorkù v Agropromu na hranici se Smetištìm pøíliš nezvìtšila. Øekl mi, abych si s sebou vzal Bellerophona. Snorkové by mohli být na kopci mezi dvìma prùchody do Odpadu.</text>
+		<text>Øezník chce, abych zkontroloval, zda se populace Snorkù v Agropromu na hranici se Smetištìm pøíliš nezvìtšila. Øekl mi, abych si s sebou vzal Bellerophona. Snorkové by mohli být na kopci mezi dvìma prùchody na Smetištì.</text>
 	</string>
 	<string id="give_task_kill_pack_snorks_2_2_descr">
-		<text>Snorkové jsou mrtví - mìl bych se vrátit s Bellerophonem do vlakového hangáru a promluvit s ním.</text>
+		<text>Snorci jsou mrtví - mìl bych se vrátit s Bellerophonem do vlakového hangáru a promluvit s ním.</text>
 	</string>
 	<string id="give_task_kill_pack_snorks_2_3_descr">
 		<text>Mìl bych se vrátit k Øezníkovi a sdìlit mu, že snorkové by nemìli být už problém.</text>
@@ -100,19 +100,19 @@
 		<text>Ztracen bìhem lovu</text>
 	</string>
 	<string id="give_rescue_orion_quest_1_descr">
-		<text>Dostal jsem naléhavou žádost o pomoc od Øezníka - lovec jménem "Orion" je ztracen a Bellerophon je zranìný a èeká v Agropromské továrnì. Mìl bych jít jim pomoci.</text>
+		<text>Dostal jsem naléhavou žádost o pomoc od Øezníka - lovec jménem "Orion" je ztracen a Bellerophon je zranìný a èeká v Agropromské továrnì. Mìl bych jim nejspíš pomoci.</text>
 	</string>
 	<string id="give_rescue_orion_quest_1_alt_descr">
-		<text>Dostal jsem naléhavou žádost o pomoc od Øezníka - lovec jménem "Orion" je ztracen a Sarpedon je zranìný a èeká v Agropromské továrnì. Mìl bych jít jim pomoci.</text>
+		<text>Dostal jsem naléhavou žádost o pomoc od Øezníka - lovec jménem "Orion" je ztracen a Sarpedon je zranìný a èeká v Agropromské továrnì. Mìl bych jim nejspíš pomoci.</text>
 	</string>
 	<string id="give_rescue_orion_quest_2_descr">
 		<text>Orion je ztracen nìkde v Agropromských podzemích. Mìl bych jít najít ho a zabít, co zpùsobuje všechny tyto problémy.</text>
 	</string>
 	<string id="give_rescue_orion_quest_3_descr">
-		<text>Zabil jsem Kontroléra, který byl za invazi Snorkù. Bohužel Orion je mrtev. Mìl bych se vrátit k Bellerophonovi.</text>
+		<text>Zabil jsem Kontroléra, který byl za invazí Snorkù. Bohužel Orion je mrtev. Mìl bych se vrátit k Bellerophonovi.</text>
 	</string>
 	<string id="give_rescue_orion_quest_3_alt_descr">
-		<text>Zabil jsem Kontroléra, který byl za invazi Snorkù. Bohužel Orion je mrtev. Mìl bych se vrátit k Sarpedonovi.</text>
+		<text>Zabil jsem Kontroléra, který byl za invazí Snorkù. Bohužel Orion je mrtev. Mìl bych se vrátit k Sarpedonovi.</text>
 	</string>
 
 	
@@ -127,14 +127,14 @@
 	</string>
 
 <string id="give_meet_aspirin_quest_2_name">
-		<text>Pøijïte se mnou setkat: Aspirin</text>
+		<text>Stav se za mnou: Aspirin</text>
 	</string>
 	<string id="give_meet_aspirin_quest_2_descr">
 		<text>Aspirin mi napsal, že by pro mì mohl mít práci. Mìl bych jít se na nìj podívat.</text>
 	</string>
 
 <string id="give_meet_voronin_quest_1_name">
-		<text>Pøijïte se mnou setkat: Voronin</text>
+		<text>Stav se za mnou: Voronin</text>
 	</string>
 	<string id="give_meet_voronin_quest_1_descr">
 		<text>Voronin mi napsal, že má problém. Mìl bych jít se na nìj podívat.</text>
@@ -144,23 +144,23 @@
 		<text>Vystìhování nájemníkù</text>
 	</string>
 	<string id="give_dolg_bloodsucker_village_1_1_descr">
-		<text>Aspirin chce, abych zabil všechny Krvavé pijavice ve vesnici Krvavých pijavù. Musím to udìlat pøed východem slunce.</text>
+		<text>Aspirin chce, abych zabil všechny Upíry ve vesnici Upírù v Armádních skladech. Musím to udìlat pøed východem slunce.</text>
 	</string>
 	<string id="give_dolg_bloodsucker_village_1_2_descr">
-		<text>Vìøil jsem, že jsem zabil všechny Krvavé pijavice. Mìl bych se vrátit k Aspirinovi.</text>
+		<text>Vìøim, že jsem zabil všechny Upíry. Mìl bych se vrátit k Aspirinovi.</text>
 	</string>
 	<string id="give_dolg_bloodsucker_village_1_3_descr">
-		<text>Vìøil jsem, že jsem zabil všechny Krvavé pijavice, ale slunce už vychází.</text>
+		<text>Vìøim, že jsem zabil všechny Upíry, ale slunce už vychází.</text>
 	</string>
 
 
 
 
-<string id="give_dolg_bloodsucker_village_2_name">
+    <string id="give_dolg_bloodsucker_village_2_name">
 		<text>Èištìní</text>
 	</string>
 	<string id="give_dolg_bloodsucker_village_2_1_descr">
-		<text>Voronin chce, abych na mrtvých vojácích ve vesnici Krvavých pijav nahradil odznaky Dole. za odznaky žoldákù.</text>
+		<text>Voronin chce, abych na mrtvých vojácích ve vesnici Upírù nahradil odznaky Dole. za odznaky žoldákù.</text>
 	</string>
 	<string id="give_dolg_bloodsucker_village_2_2_descr">
 		<text>Nahradil jsem všechny odznaky Dole odznaky žoldákù. Mìl bych se vrátit k Voroninovi.</text>
@@ -169,24 +169,24 @@
 		<text>Nahradil jsem všechny odznaky Dole odznaky žoldákù, ale nedokázal jsem to udìlat pøed východem slunce. Mìl bych se vrátit k Voroninovi.</text>
 	</string>
 	
-<string id="give_dolg_bloodsucker_village_3_name">
-		<text>Vyrovnaná úèet!</text>
+    <string id="give_dolg_bloodsucker_village_3_name">
+		<text>Vyrovnání úètù!</text>
 	</string>
 	<string id="give_dolg_bloodsucker_village_3_1_descr">
-		<text>Vojáci Duty chtìjí pomstít se na Krvavých pijavicích. Mìl bych se setkat se svou skupinou ve Skladišti armády na statek na jihu od cesty do Rostoku.</text>
+		<text>Vojáci Povinnosti chtìjí pomstít se na Upírech. Mìl bych se setkat se svou skupinou v Armádních skladištích na statku na jihu od cesty k Rostoku.</text>
 	</string>
 
 
 ----- Bellerophon ----
 
 <string id="give_task_bellerophon_chimera_1_name">
-		<text>Bellerophon: Bestie v noci</text>
+		<text>Bellerophon: Noèní bestie</text>
 	</string>
 	<string id="give_task_bellerophon_chimera_1_1_descr">
-		<text>Bellerophon mi øekl, abych se s ním setkal v bunkru v Yantar. Odtud se vydáme zabít jeho Chiméru.</text>
+		<text>Bellerophon mi øekl, abych se s ním setkal v bunkru v Yantaru. Odtud se vydáme zabít jeho vyhlídnutou Chiméru.</text>
 	</string>
 	<string id="give_task_bellerophon_chimera_1_2_descr">
-		<text>Musíme najít Chiméru. Mìla by se skrývat nìkde na severu mezi prùmyslovými èástmi Yantar.</text>
+		<text>Musíme najít Chiméru. Mìla by se skrývat nìkde na severu mezi prùmyslovými èástmi Yantaru.</text>
 	</string>
 	<string id="give_task_bellerophon_chimera_1_3_descr">
 		<text>Zabili jsme Chiméru. Mìl bych vést Bellerophona zpìt do bunkru.</text>
@@ -199,27 +199,29 @@
 		<text>Nespravedlivá soutìž</text>
 	</string>
 	<string id="give_task_trapper_chimera_1_1_descr">
-		<text>Trapper mì požádal, abych sebral 6 kotlet prasete, aby mohl vyrobit návnadu pro Chiméru.</text>
+		<text>Lovec mì požádal, abych získal 6 praseèích kotlet, aby mohl pøichystat návnadu na Chiméru.</text>
 	</string>
 	<string id="give_task_trapper_chimera_1_2_descr">
-		<text>Trapper mì požádal, abych pro nìj zabil Chiméru. Musím pøipravit návnadu na sever od chladicí vìže, uvnitø ohrady pøed branou. Mìl bych místo poznat.</text>
+		<text>Lovec mì požádal, abych pro nìj zabil Chiméru. Musím pøipravit návnadu na sever od chladicí vìže, uvnitø ohrady pøed branou. Mìl bych to místo poznat.</text>
 	</string>
 	<string id="give_task_trapper_chimera_1_3_descr">
 		<text>Návnada je pøipravena. Teï musím jen èekat a doufat.</text>
 	</string>
 	<string id="give_task_trapper_chimera_1_4_descr">
-		<text>Chiméra je mrtvá. Mìl bych o tom informovat Trappera.</text>
+		<text>Chiméra je mrtvá. Mìl bych o tom informovat Lovce.</text>
 	</string>
 
-<string id="nr_trapper_chimera_1_info">
-		<text>Tohle je místo, které mi Trapper øekl. Mìl bych sem položit návnadu.</text>
+    <string id="nr_trapper_chimera_1_info">
+		<text>Tohle je to místo, o které mi Lovec øekl. Mìl bych sem položit návnadu.</text>
 	</string>
 	<string id="nr_trapper_chimera_2_info">
-		<text>Tohle je místo, které mi Trapper øekl, ale není noc.</text>
+		<text>Tohle je to místo, o které mi Lovec øekl. Ale ještì není noc.</text>
 	</string>
 
-<string id="give_task_trapper_chimera_2_name">
-		<text>Záznam pro televizi Discovery</text>
+
+
+    <string id="give_task_trapper_chimera_2_name">
+		<text>Nahrávka pro televizi Discovery</text>
 	</string>
 	<string id="give_task_trapper_chimera_2_1_descr">
 		<text>Chiméra se usídlila ve Volkhovském komplexu. Musím použít návnadu, abych ji vyprovokoval ven, a pak se vloudit dovnitø a nainstalovat nahrávací zaøízení.
@@ -229,19 +231,19 @@
 		<text>Návnada je pøipravena! Nemám moc èasu - zaøízení na nahrávání musí být umístìno.</text>
 	</string>
 	<string id="give_task_trapper_chimera_2_3_descr">
-		<text>Zaøízení na nahrávání je na svém místì. Mìl bych o tom informovat Trappera.</text>
+		<text>Zaøízení na nahrávání je na svém místì. Mìl bych o tom informovat Lovce.</text>
 	</string>
 	<string id="give_task_trapper_chimera_2_4_descr">
-		<text>Teï èekáme, až Chiméra naplní pásku.</text>
+		<text>Teï èekáme, až se Chiméra poøádnì nahraje.</text>
 	</string>
 	<string id="give_task_trapper_chimera_2_5_descr">
-		<text>Mohu získat pásku. Chiméra nepotøebuje pøežít.</text>
+		<text>Mohu získat nahrávku. Chiméra nepotøebuje pøežít.</text>
 	</string>
 	<string id="give_task_trapper_chimera_2_6_descr">
-		<text>Chiméru jsem omylem zabil. Mìl bych o tom øíct Trapperovi.</text>
+		<text>Chiméru jsem omylem zabil. Mìl kontaktovat Lovce.</text>
 	</string>
 	<string id="give_task_trapper_chimera_2_7_descr">
-		<text>Zdá se, že ve Volkhovském komplexu je opìt Chiméra. Mise mùže pokraèovat. Musím nastavit novou návnadu. Návnadu bych mìl umístit na východní vstup do komplexu, vedle kontrolního bodu. Mìl bych místo poznat. A Chiméra musí zùstat naživu!</text>
+		<text>Zdá se, že ve Volkhovském komplexu je opìt Chiméra. Mise mùže pokraèovat. Musím nastavit novou návnadu. Návnadu bych mìl umístit na východní vstup do komplexu, vedle kontrolního bodu. Mìl bych to místo poznat. A Chiméra musí zùstat naživu!</text>
 	</string>
 
 	
@@ -251,11 +253,11 @@
 		<text>Velký lov: Od soumraku do úsvitu</text>
 	</string>
 	<string id="give_forester_hunt_vlad_drakul_1_descr">
-		<text>Pøipravuji se na lov Vladu a Drakulovi - bratrùm Krvavých pijav. Budou se mnou bojovat pouze v noci a já musím nosit starý kabát Lesníka. 
-		Ich skrýš je nìkde poblíž starého tanku. Nejdøív musím projít starým dolem a potom na severovýchod, hluboko do lesa.</text>
+		<text>Pøipravuji se na lov Vladu a Drakulovi - bratrùm Upírù. Budou se mnou bojovat pouze v noci a já musím nosit starý kabát Lesníka. 
+		 Jejich skrýš je nìkde poblíž starého tanku. Nejdøív musím projít starým dolem a potom se vydat na severovýchod, hluboko do lesa.</text>
 	</string>
 	<string id="give_forester_hunt_vlad_drakul_2_descr">
-		<text>Vlad a Drakul jsou mrtví. Mìl bych jít k Lesníkovi a pøinést mu zprávy.</text>
+		<text>Vlad a Drakul jsou mrtví. Mìl bych jít k Lesníkovi a øíct mu to.</text>
 	</string>
 	<string id="give_forester_hunt_vlad_drakul_3_descr"> 
 		<text>Slunce vzešlo a dnes se mi nepodaøilo zabít Vlada a Drakula. Mìl bych se vrátit k Lesníkovi.</text>
@@ -273,7 +275,8 @@
 	</string>
 
 	
----- Alyosha Shyogolov----<string id="give_alyosha_shyogolov_trouble_1_name">
+---- Alyosha Shyogolov----
+<string id="give_alyosha_shyogolov_trouble_1_name">
 		<text>Výkøik o pomoc</text>
 	</string>
 	<string id="give_alyosha_shyogolov_trouble_1_1_descr">
@@ -283,30 +286,30 @@
 		<text>Doprovodit Alyosha Shyogolova do továrny v Agropromu.</text>
 	</string>
 	<string id="give_alyosha_shyogolov_trouble_1_3_descr">
-		<text>Øeknìte Alyoshovi Shyogolovovi, že jste dorazili.</text>
+		<text>Øekni Alyoshovi Shyogolovovi, že jsi dorazil.</text>
 	</string>
 	
 <string id="give_alyosha_shyogolov_trouble_2_name">
 		<text>Záležitost zpìtného získání</text>
 	</string>
 	<string id="give_alyosha_shyogolov_trouble_2_1_descr">
-		<text>Alyosha Shyogolov mì povìøil, abych získal dùležité dokumenty od ekologa promìnìného v zombie. Mìl by být nìkde na jihu Agropromu nebo na severu Velkých Bažin.</text>
+		<text>Alyosha Shyogolov mì povìøil, abych získal dùležité dokumenty od Ekologa promìnìného v zombie. Mìl by být nìkde na jihu Agropromu nebo na severu Velkých Bažin.</text>
 	</string>
 	<string id="give_alyosha_shyogolov_trouble_2_2_descr">
 		<text>Myslím, že jsem našel dokumenty. Mìl bych je pøinést Alyoshovi do Agropromu.</text>
 	</string>
 
 <string id="give_alyosha_shyogolov_trouble_3_name">
-		<text>Alyosha Shygolov: Zpùsobování potíží</text>
+		<text>Alyosha Shygolov: Zpùsobovaèi potíží</text>
 	</string>
 	<string id="give_alyosha_shyogolov_trouble_3_1_descr">
-		<text>Alyosha Shyogolov má potíže s nìkterými bandity. Øekl jim, aby se s ním setkali na jihu stanice Yanov. Mìl bych se tam rychle zasáhnout.</text>
+		<text>Alyosha Shyogolov má potíže s nìkterými Bandity. Øekl jim, aby se s ním setkali na jihu stanice Yanov. Mìl bych se tam rychle zasáhnout.</text>
 	</string>	
 	<string id="give_alyosha_shyogolov_trouble_3_2_descr">
-		<text>Musím odrazit bandity, se kterými si Alyosha vybral konflikt.</text>
+		<text>Musím se postarat o Bandity, se kterými si Alyosha vybral konflikt.</text>
 	</string>
 	<string id="give_alyosha_shyogolov_trouble_3_3_descr">
-		<text>Bojoval jsem s bandity. Mìl bych najít Alyosha na stanici.</text>
+		<text>Zabil jsem Bandity. Mìl bych najít Alyoshu na stanici.</text>
 	</string>
 
 
@@ -323,33 +326,35 @@
 		<text>Vìda se osvobozuje</text>
 	</string>
 	<string id="give_vybegallo_satisfied_man_1_descr">
-		<text>Experiment Vybegalla unikl a èíhá nìkde v podzemí Agropromu. Najdìte ho a likvidujte "ho".</text>
+		<text>Experiment Vybegalla unikl a èíhá nìkde v podzemí Agropromu. Najdi ho a zlikviduj ho.</text>
 	</string>	
 	<string id="give_vybegallo_satisfied_man_2_descr">
-		<text>Experiment Vybegalla je mrtvý. Mìl bych se za ním vydat.</text>
+		<text>Experiment Vybegalla je mrtvý. Mìl bych se za ním vydat zpìt.</text>
 	</string>	
 	
+
 <string id="bring_pseudogiant_vybegallo_name">
 		<text>Vybegallo: pro vìdu!</text>
 	</string>
 	<string id="bring_part_vybegallo_descr">
-		<text>Vybegallo potøebuje, abych mu sehnal nìkteré èásti mutantù: dvì zlomené ruce, jedno srdce Bloodsuckera a èást tìla pseudogianta: buï oko, ruku nebo jeho kùži</text>
+		<text>Vybegallo potøebuje, abych mu sehnal nìkteré èásti mutantù: dvì zlomené ruce, jedno srdce Upíra a èást tìla pseudogianta: buï oko, ruku nebo jeho kùži</text>
 	</string>
 
 <string id="give_sakharov_order_vybegallo_quest_name">
 		<text>Vybegallo: pro vìdu?</text>
 	</string>
 	<string id="give_sakharov_order_vybegallo_quest_1_descr">
-		<text>Sakharov mi vysvìtlil nebezpeèí Vybegallových experimentù a chce, abych mu pøinesl rozkaz k zastavení.</text>
+		<text>Sakharov mi vysvìtlil nebezpeèí Vybegallových experimentù a chce, abych mu pøinesl rozkaz k zastavení jeho výzkumu.</text>
 	</string>	
 	<string id="give_sakharov_order_vybegallo_quest_2_descr">
-		<text>Pøinesl jsem Vybegallovi rozkaz, který nevzal lehce. Mìl bych se vydat za Sakharovem.</text>
+		<text>Pøinesl jsem Vybegallovi rozkaz, který nevzal lehce. Mìl bych se vydat za zpìt Sakharovem.</text>
 	</string>	
+
 <string id="give_vybegallo_must_die_name">
 		<text>Tu quoque mon cher?</text>
 	</string>
 	<string id="give_vybegallo_must_die_1_descr">
-		<text>Sakharov chce Vybegalla mrtvého. Tato mise není oficiální, musím být opatrný.</text>
+		<text>Sakharov chce Vybegalla mrtvého. Tato mise není oficiální, musím být diskrétní a opatrný.</text>
 	</string>	
 	<string id="give_vybegallo_must_die_2_descr">
 		<text>Vybegallo je mrtvý, mìl bych to nahlásit Sakharovovi.</text>
@@ -357,7 +362,8 @@
 
 
 
------ Market Share-----<string id="give_meet_marlo_chris_quest_1_name">
+----- Market Share-----
+<string id="give_meet_marlo_chris_quest_1_name">
 		<text>Pozvánka</text>
 	</string>
 	<string id="give_meet_marlo_chris_quest_1_descr">
@@ -388,7 +394,7 @@
 		<text>Harald Virtanen je mrtvý. Teï musím vyzvednout jeho PDA.</text>
 	</string>
 	<string id="bring_pda_marlo_1_descr">
-		<text>Chris chce, abych zabil žoldáka jménem "Harald Virtanen" v stanici na zpracování odpadu. \n \nPravdìpodobnì rád pozdì v noci uniká na sklenièku nìkde kolem garáží na východnì-jižní èásti komplexu.</text>
+		<text>Chris chce, abych zabil Žoldáka jménem "Harald Virtanen" v stanici na zpracování odpadu v Zatonu. \n \nPravdìpodobnì rád pozdì v noci uniká na sklenièku nìkde kolem garáží na východnì-jižní èásti komplexu.</text>
 	</string>
 
 <string id="give_intercept_courrier_1_name">
@@ -398,7 +404,7 @@
 		<text>Získal jsem USB. Teï bych je mìl pøinést Chrisovi.</text>
 	</string>
 	<string id="bring_usb_marlo_1_descr">
-		<text>Chris chce, abych zachytil kurýra žoldákù. Budou hledat útoèištì nìkde v jihozápadní èásti Yanova - mìl bych tam hledat budovy nebo stavby.</text>
+		<text>Chris chce, abych zachytil kurýra Žoldákù. Budou hledat útoèištì nìkde v jihozápadní èásti Yanova - mìl bych tam hledat budovy nebo stavby.</text>
 	</string>
 
 <string id="give_intercept_courrier_2_name">
@@ -408,7 +414,7 @@
 		<text>Musím se vydávat za žoldáka, infiltrovat jejich základnu v Zatonu a doruèit USB dùstojníkovi jménem "Aivar Kuusk".</text>
 	</string>
 	<string id="bring_usb_marlo_2_2_descr">
-		<text>Podaøilo se mi oklamat žoldáky. Mìl bych se vrátit k Chrisovi a øíct mu, že vše jde podle plánu.</text>
+		<text>Podaøilo se mi oklamat Žoldáky. Mìl bych se vrátit k Chrisovi a øíct mu, že vše jde podle plánu.</text>
 	</string>
 	
 <string id="give_intercept_delivery_1_name">
@@ -428,33 +434,33 @@
 		<text>Padìlek</text>
 	</string>
 	<string id="give_sidorovich_fake_artifact_1_descr">
-		<text>Sidoroviè se nechal napálit - zjisti, kdo padìlal falešný [Artifact].</text>
+		<text>Sidoroviè se nechal napálit - zjisti, kdo vytvoøil falešný artefakt.</text>
 	</string>
 
 <string id="give_tambov_debt_1_name">
 		<text>Nezaplacený dluh</text>
 	</string>
 	<string id="give_tambov_debt_1_descr">
-		<text>Uzavøi úèet s bandity, kterým Tambov dluží peníze. Èekají na nìho na prasatní farmì, na jihozápadním konci Temného údolí.</text>
+		<text>Uzavøi úèet s bandity, kterým Tambov dluží peníze. Èekají na nìho na farmì, na jihozápadním konci Temného údolí.</text>
 	</string>
 
 <string id="give_tambov_debt_2_name">
 		<text>Nezaplacený dluh</text>
 	</string>
 	<string id="give_tambov_debt_2_1_descr">
-		<text>Uzavøi úèet s bandity, kterým Tambov dluží peníze. Èekají na nìho na prasatní farmì, na jihozápadním konci Temného údolí.</text>
+		<text>Uzavøi úèet s bandity, kterým Tambov dluží peníze. Èekají na nìho na farmì, na jihozápadním konci Temného údolí.</text>
 	</string>
 	<string id="give_tambov_debt_2_2_descr">
-		<text>Bandité jsou mrtví - musím se vrátit k Tambovovi pro svoje peníze.</text>
+		<text>Banditi jsou mrtví - musím se vrátit k Tambovovi pro svoji odmìnu.</text>
 	</string>
 
 
 ----- What a Night -----
 <string id="give_what_a_night_name">
-	<text>Co za noc - co se stalo?</text>
+	<text>Co se to v noci stalo?</text>
 </string>
 <string id="give_what_a_night_descr">
-	<text>Probudil jsem se v prdeli - co se stalo vèera v noci?</text>
+	<text>Probudil jsem se v nìkde prdeli - co se stalo vèera v noci?</text>
 </string>
 
 ----- Rush to the North
@@ -462,7 +468,7 @@
 	<text>Výcvik nováèkù</text>
 </string>
 <string id="give_task_fanat_rookie_training_1_1_descr">
-	<text>Fanat mi øekl, abych vyškolil nováèka jménem Iliaz. Je v cihlovém domì naproti Fanatic. Mìl bych mu pøinést 20 brokù, jednu Nemiroffku, jednu Echovou detektoru a kontejner na artefakty.</text>
+	<text>Fanatik mi øekl, abych vyškolil nováèka jménem Iliaz. Je v cihlovém domì naproti Fanatika. Mìl bych mu pøinést 20 brokù, jednu Nemiroffku, jednu Echovou detektoru a kontejner na artefakty.</text>
 </string>
 <string id="give_task_fanat_rookie_training_1_2_descr">
 	<text>Nejprve mu ukážu, jak lovit. Na východ od vesnice jsou divoèáci.</text>
@@ -494,20 +500,20 @@
 </string>
 
 <string id="give_task_join_scamlok_1_name">
-	<text>Sbírání týmu</text>
+	<text>Skládaní týmu</text>
 </string>
 <string id="give_task_join_scamlok_1_1_descr">
-	<text>Strelok sbírá tým. První test je dostat se do stanice Yanov a najít ho tam.</text>
+	<text>Støelec dává do kupy tým. První test je dostat se do stanice Yanov a najít ho tam.</text>
 </string>
 <string id="give_task_join_scamlok_1_2_descr">
-	<text>Dorazil jsem na stanici Yanov. Mìl bych se pokusit najít Streloka.</text>
+	<text>Dorazil jsem na stanici Yanov. Mìl bych se pokusit najít Støelce.</text>
 </string>
 
 <string id="give_task_bezsonik_1_name">
 	<text>Vytí v noci</text>
 </string>
 <string id="give_task_bezsonik_1_1_descr">
-	<text>Bezsonik chce, abych zabil smeèku psù. Mìli by být na západì od základny, blízko cesty ke Høbitovu vozidel.</text>
+	<text>Bezsonik chce, abych zabil smeèku psù. Mìli by být na západì od základny, blízko cesty na Høbitov vozidel.</text>
 </string>
 <string id="give_task_bezsonik_1_2_descr">
 	<text>Zabil jsem psy. Mìl bych se vrátit k Bezsonikovi.</text>
@@ -517,7 +523,7 @@
 	<text>Zvláštní maso</text>
 </string>	
 <string id="give_task_nr_strange_meat_1_descr">
-	<text>Havaj chce, abych našel viníka za zvláštní maso. Budu si muset poøídit vlastní poznámky.</text>
+	<text>Hawajec chce, abych našel viníka co donesl zvláštní maso. Budu si muset poøídit vlastní informace.</text>
 </string>
 
 <string id="give_shlitzer_smuggling_1_name">
@@ -537,7 +543,7 @@
 	<text>To je jeden.</text>
 </string>
 <string id="st_bh_shlitzer_smuggling_2">
-	<text>To je dva.</text>
+	<text>To jsou dva.</text>
 </string>
 <string id="st_bh_shlitzer_smuggling_3">
 	<text>Tøi - to mìl být signál.</text>
@@ -554,20 +560,20 @@
 	<text>Ztracený bìhem lovu: Seryoga Lesun</text>
 </string>
 <string id="give_task_trapper_missing_hunter_1_1_descr">
-	<text>Pomáhám Trapperovi najít lovce, kteøí zemøeli bìhem lovu, a likvidovat jejich vrahy. Seryoga šel do Cementárny - mìl bych prohledat okolí.</text>
+	<text>Pomáhám Lovcovi najít lovce, kteøí zemøeli bìhem lovu, a zlikvidovat jejich vrahy. Seryoga šel do Cementárny - mìl bych prohledat okolí.</text>
 </string>
 <string id="give_task_trapper_missing_hunter_1_2_descr">
 	<text>Nalezl jsem Seryogovo tìlo. Teï musím eliminovat jeho vraha.</text>
 </string>
 <string id="give_task_trapper_missing_hunter_1_3_descr">
-	<text>Nalezl jsem tìlo Seryogy a likvidoval jeho vrahy. Mìl bych se vrátit k Trapperovi.</text>
+	<text>Nalezl jsem tìlo Seryogy a zlikvidoval jeho vrahy. Mìl bych se vrátit k Lovcovi.</text>
 </string>
 
 <string id="give_task_trapper_missing_hunter_2_name">
 	<text>Ztracený bìhem lovu: Fasan Bedovy</text>
 </string>
 <string id="give_task_trapper_missing_hunter_2_1_descr">
-	<text>Pomáhám Trapperovi najít lovce, kteøí zemøeli bìhem lovu, a likvidovat jejich vrahy. Fasan šel do Východních tunelù - mìl bych prohledat okolí.</text>
+	<text>Pomáhám Lovcovi najít lovce, kteøí zemøeli bìhem lovu, a zlikvidovat jejich vrahy. Fasan šel do Východních tunelù - mìl bych prohledat okolí.</text>
 </string>
 <string id="give_task_trapper_missing_hunter_2_2_descr">
 	<text>Nalezl jsem Fasanovo tìlo. Teï musím eliminovat jeho vraha.</text>
@@ -576,20 +582,20 @@
 	<text>Likvidoval jsem Fasanovy vrahy. Teï musím najít jeho tìlo.</text>
 </string>
 <string id="give_task_trapper_missing_hunter_2_4_descr">
-	<text>Nalezl jsem Fasanovo tìlo a likvidoval jeho vrahy. Mìl bych se vrátit k Trapperovi.</text>	
+	<text>Nalezl jsem Fasanovo tìlo a likvidoval jeho vrahy. Mìl bych se vrátit k Lovcovi.</text>	
 </string>
 
 <string id="give_task_trapper_missing_hunter_3_name">
 	<text>Ztracený bìhem lovu: Andrey Lopast</text>
 </string>
 <string id="give_task_trapper_missing_hunter_3_1_descr">
-	<text>Pomáhám Trapperovi najít lovce, kteøí zemøeli bìhem lovu, a likvidovat jejich vrahy. Andrey šel do Kopachy - mìl bych prohledat okolí.</text>
+	<text>Pomáhám Lovcovi najít lovce, kteøí zemøeli bìhem lovu, a likvidovat jejich vrahy. Andrey šel do Kopachy - mìl bych prohledat okolí.</text>
 </string>
 <string id="give_task_trapper_missing_hunter_3_2_descr">
 	<text>Nalezl jsem Andreyovo tìlo. Teï musím eliminovat jeho vraha.</text>
 </string>
 <string id="give_task_trapper_missing_hunter_3_3_descr">
-	<text>Nalezl jsem tìlo Andreya a likvidoval jeho vrahy. Mìl bych se vrátit k Trapperovi.</text>
+	<text>Nalezl jsem tìlo Andreya a likvidoval jeho vrahy. Mìl bych se vrátit k Lovcovi.</text>
 </string>
 	
 <string id="give_task_bh_gutalin_1_name">
@@ -613,7 +619,7 @@
 ----- Atomic Crusader ----	
 --------------------------
 <string id="give_task_father_charon_quest_1_name">
-    <text>Setkej se svým otcem</text>
+    <text>Setkej se s otcem</text>
 </string>    
 <string id="give_task_father_charon_quest_1_descr">
     <text>Mìl bych se dostavit k otci Charonovi.</text>

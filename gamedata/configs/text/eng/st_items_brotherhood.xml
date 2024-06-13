@@ -26,7 +26,8 @@
 </string>
 
 	
---- Strange Kolbosa ---<string id="st_kolbasa_strange">
+--- Strange Kolbosa ---
+<string id="st_kolbasa_strange">
     <text>Balíèek neobvyklého masa</text>
 </string>
 <string id="st_kolbasa_strange_descr">
@@ -181,7 +182,7 @@
 </string>
 
 <string id="st_bh_mozgotlen_documents_name">
-    <text>Mìøení teploty</text>
+    <text>Mìøiè teploty</text>
 </string>
 <string id="st_bh_mozgotlen_documents_descr">
     <text>Grafy zaznamenávající rùzné teploty anomálie. Je to ten dokument, o kterém mluvil Alyoša?</text>

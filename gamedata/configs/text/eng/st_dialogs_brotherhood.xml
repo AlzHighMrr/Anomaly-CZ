@@ -6,19 +6,19 @@
 
 -- Bellerophon
 <string id="butcher_bellerophon_0">
-		<text>Kdo je ten chlápek Nosorog na zemi?</text>
+		<text>Kdo je ten chlápek s Nosorogem?</text>
 	</string>
 	<string id="butcher_bellerophon_1">
-		<text>Bellerophon? Pøipojil se k nám pøed pár týdny - uèím ho umìní lovu a stal se v tom docela zdatným. No, už má nìjaké zkušenosti, víš, technicky je z armády, ale hierarchie ho podìlala. Naøídili mu zabít Chiméru - sám. Je to docela pøíbìh, upøímnì, hodný øecké dramatu.</text>
+		<text>Bellerophon? Pøipojil se k nám pøed pár týdny - uèím ho umìní lovu a stal se v tom docela zdatným. No, už má nìjaké zkušenosti, víš, technicky je z Armády, ale hierarchie ho podìlala. Naøídili mu zabít Chiméru - sámotného. Je to docela pøíbìh, upøímnì, hodný øecké dramatu.</text>
 	</string>
 	
 <string id="about_bellerophon_0">
-		<text>[Stolichnaya] Mám láhev, chceš mi ten pøíbìh povyprávìt?</text>
+		<text>[Stolichnaya vodka] Mám láhev, chceš mi ten pøíbìh povyprávìt?</text>
 	</string>
 	<string id="about_bellerophon_1">
 		<text>Jasnì, kámo. Udìlej si pohodlí a napij se. Tady. \n \nTak kde zaèít? Jsem Podplukovník... no byl jsem Podplukovník v SSO. Teï jsem jen Poruèík... mìl jsem být povýšen na Plukovníka za vynikající službu vlasti.
-			Ale pøed ceremoniálem byla každoroèní oslava Starého Nového roku. Ne ta obyèejná pro základní Ivanovce, ale pro vyšší hodnosti. No, generál tam byl taky, a jeho žena. Musíš pochopit, ten chlápek má co? 60 let a jeho žena, no ta byla ve svých dvaceti.
-			Chápeš? Ne, nespal jsem s ní, ale k tomu se dostaneme. I když to nebyla akce pro Ivanovce, poøádnì jsme se opili - normální, ne? Je to pøece Starý Nový rok. Bìhem veèeøe jsem vidìl, jak na mì poøád kouká. A pochopil jsem "sakra, to je špatné znamení.".
+			Ale pøed ceremoniálem byla každoroèní oslava nového roku. Ne ta obyèejná pro základní Ivanovce, ale pro vyšší hodnosti. No, generál tam byl taky, a jeho žena. Musíš pochopit, ten chlápek má co? 60 let a jeho žena, no ta byla ve svých dvaceti.
+			Chápeš? Ne, nespal jsem s ní, ale k tomu se dostaneme. I když to nebyla akce pro Ivanovce, poøádnì jsme se opili - normální, ne? Je to pøece staro nový rok. Bìhem veèeøe jsem vidìl, jak na mì poøád kouká. A pochopil jsem "sakra, to je špatné znamení.".
 			</text>
 	</string>
 	<string id="about_bellerophon_2">
