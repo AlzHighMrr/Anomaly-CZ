@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 	<string id="st_game_over">
-		<text>Ztracen v Zóně</text>
+		<text>Zóna tě zkonzumovala</text>
 	</string>
 	<string id="st_game_over_press_jump">
 		<text>Stiskni cokoliv</text>
