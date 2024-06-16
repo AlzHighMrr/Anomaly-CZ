@@ -181,35 +181,39 @@
 	</string>
 	
 	<string id="ui_mcm_menu_exo">
-		<text>Napájení exoskeletù</text>
+		<text>Nastavení napájení exoskeletù</text>
 	</string>
 	<string id="ui_mcm_exo_title">
-		<text>Napájení exoskeletù</text>
+		<text>Nastavení napájení exoskeletù</text>
 	</string>
+	
 	<string id="ui_mcm_exo_drain">
 		<text>Vyèerpání energie exoskeletù</text>
 	</string>
 	<string id="ui_mcm_exo_sprint_drain">
 		<text>Exoskeleton Sprint - Vyèerpávání energie</text>
 	</string>
-	<string id="ui_mcm_exo_debug">
-		<text>Zapnout protokoly debug</text>
-	</string>
+
+
 	<string id="ui_mcm_exo_drain_desc">
-		<text>Násobitel odbìru energie pro exoskelety.</text>
+		<text>Násobitel ztráty energie.</text>
 	</string>
 	<string id="ui_mcm_exo_sprint_drain_desc">
-		<text>Násobitel odbìru energie pøi sprintu.</text>
-	</string>
-	<string id="ui_mcm_exo_battery_chance">
-		<text>Šance na loot baterie v mrtvolách</text>
+		<text>Násobitel ztráty energie pøi sprintu.</text>
 	</string>
 
+	<string id="ui_mcm_exo_battery_chance">
+		<text>Šance na získaní baterií z mrtvol</text>
+	</string>
 	<string id="ui_mcm_exo_battery_chance_desc">
 		<text>Šance, že stalkerùm v exoskeletu vypadnou baterie.</text>
 	</string>
+
+	<string id="ui_mcm_exo_debug">
+		<text>Zapnout debug logy</text>
+	</string>
 	<string id="ui_mcm_exo_debug_desc">
-		<text>Zapnout debug protokolù v konzoli</text>
+		<text>Zapnout debug logy v konzoli</text>
 	</string>
 
 	<string id="ui_mcm_menu_exo_power">

@@ -1,40 +1,41 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
-	<string id="ui_mcm_exo_servo_sounds_title">
-		<text>Exo servo sounds</text>
-	</string>
-	<string id="ui_mcm_menu_exo_servo_sounds">
-		<text>Exo servo sounds</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_volume_walk">
-		<text>Volume (walk)</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_volume_walk_desc">
-		<text>Volume of walking</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_volume_land">
-		<text>Volume (land)</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_volume_land_desc">
-		<text>Volume of landing</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_volume_jump">
-		<text>Volume (jumping)</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_volume_jump_desc">
-		<text>Volume of jumping</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_discharge">
-		<text>Discharge</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_discharge_desc">
-		<text>Amount of charge lost after getting hit by electro anomaly</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_scale_freq">
-		<text>Frequency scaling</text>
-	</string>
-	<string id="ui_mcm_exo_servo_sounds_scale_freq_desc">
-		<text>Scaling of sound frequency based on the state (walking, crawling, sprinting etc.)</text>
-	</string>
+<string id="ui_mcm_exo_servo_sounds_title">
+  <text>Nastavenн zvukщ exoskeletu</text>
+</string>
+<string id="ui_mcm_menu_exo_servo_sounds">
+  <text>Nastavenн zvukщ exoskeletu</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_volume_walk">
+  <text>Hlasitost (chщze)</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_volume_walk_desc">
+  <text>Hlasitost pшi chщzi</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_volume_land">
+  <text>Hlasitost (dopad)</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_volume_land_desc">
+  <text>Hlasitost pшi dopadu</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_volume_jump">
+  <text>Hlasitost (skok)</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_volume_jump_desc">
+  <text>Hlasitost pшi skбkбnн</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_discharge">
+  <text>Vэboj</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_discharge_desc">
+  <text>Mnoћstvн ztracenй energie po zбsahu elektrickou anomбliн</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_scale_freq">
+  <text>Љkбlovбnн frekvence</text>
+</string>
+<string id="ui_mcm_exo_servo_sounds_scale_freq_desc">
+  <text>Љkбlovбnн frekvence zvuku na zбkladм stavu (chщze, plнћenн, bмh atd.)</text>
+</string>
+
 </string_table>
