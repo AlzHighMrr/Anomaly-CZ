@@ -3,10 +3,10 @@
 <string_table>
 	
 	<string id="ui_mcm_perk_based_artefacts_title">
-		<text>Artefakty s perky</text>
+		<text>Artefakty s perky (Perk Based Artefacts)</text>
 	</string>
 	<string id="ui_mcm_menu_perk_based_artefacts">
-		<text>Artefakty s perky</text>
+		<text>Nastavení PBA</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_debug_mode">
 		<text>Reim debug</text>

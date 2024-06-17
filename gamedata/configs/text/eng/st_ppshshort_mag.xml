@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	Strings for "Dead Air Knives"
+-->
+
+
+<string_table>
+
+	<string id="st_mag_ppsh_short">
+		<text>Zásobník na 35 nábojů ráže 7,62x25</text>
+	</string>
+	<string id="st_mag_ppsh_short_descr">
+		<text>Zásobník 7,62x25 na 35 nábojů pro munici 7,62x25 </text>.
+	</string>
+	
+</string_table>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="st_wpn_uzi_sk2">
+		<text>UZI Woodstock </text>
+	</string>
+	<string id="st_wpn_uzi_sk2_descr">
+		<text>Uzi je rodina izraelských samopalů a kulometů s otevřeným závěrem a zpětným rázem, které poprvé zkonstruoval major Uziel "Uzi" Gal koncem 40. let 20. století, krátce po vzniku státu Izrael. Jedná se o jednu z prvních zbraní s teleskopickým závěrem, který umožňuje umístit zásobník do pistolové rukojeti a zkrátit tak zbraň.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] - %c[ui_gray_2] ŽÁDNÁ\n</text>
+	</string>
+
+
+</string_table>

@@ -1,21 +1,23 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
 
 <string id="ui_mcm_menu_aoldri_axe_sounds">
-	<text>Melee Hit Stop</text>
+	<text>Nastavenн Zpomalenн иasu</text>
 </string>
 
 <string id="ui_mcm_aoldri_axe_sounds_title">
-	<text>Melee Slowmo on Death</text>
+	<text>Zpomalenн иasu pшi zabitн (Noћe,Sekery,Kladiva,Lopaty)</text>
 </string>
 
 <string id="ui_mcm_aoldri_axe_sounds_resume_time">
-	<text>Slowdown Length</text>
+	<text>Dйlka zpomalenн</text>
 </string>
 
 <string id="ui_mcm_aoldri_axe_sounds_time_factor">
-	<text>Slowdown Time Factor (Affects Slowdown Length)</text>
+	<text>Faktor dйlky zpomalenн</text>
 </string>
+
+
 
 </string_table>

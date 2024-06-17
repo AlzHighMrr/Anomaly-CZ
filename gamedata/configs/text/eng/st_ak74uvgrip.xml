@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="st_wpn_ak74uvgrip">
+		<text>AK-74U VGRIP </text>
+	</string>
+	<string id="st_wpn_ak74uvgrip_descr">
+		<text>Stejně jako její mateřská puška Kalaš (AK-74M) střílí AKSU na náboj 5,45x39 mm. Její popis je zavádějící, protože AKSU je přesně tak přesná jako Kalaš. [Zdroj] AKSU má o něco vyšší rychlost střelby a kratší dobu míření, což z ní činí účinnou zbraň pro nouzové situace, kdy čelíte nepřátelům na krátkou vzdálenost.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] - %c[ui_gray_2] ZAměřovač : EOT2\n
+		%c[d_purple] - %c[ui_gray_2] Tlumič : NATO \n</text>
+	</string>
+
+</string_table>

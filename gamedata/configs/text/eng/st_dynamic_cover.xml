@@ -1,0 +1,82 @@
+<string_table>
+<string id="ui_mcm_dynamic_cover_title">
+    <text>Nastavení dynamického krytu</text>
+</string>
+
+<string id="ui_mcm_menu_dynamic_cover">
+    <text>Dynamický kryt pøed emisí</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_distance_factor">
+    <text>Faktor požadovaného krytu</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_distance_factor_desc">
+    <text>Vyšší hodnota èiní hledání kryti obtížnìjší</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_north_cover_bonus">
+    <text>Bonus na severu</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_north_cover_bonus_desc">
+    <text>Kryt na severu je bìhem emise úèinnìjší</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_show_cover_bar">
+    <text>Zobrazit ukazatel krytu</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_show_cover_bar_desc">
+    <text>Ukazuje pruhový indikátor, který ukazuje množství vašeho krytí bìhem výstupù\nSkrytý pøi zastøešení</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_cover_range">
+    <text>Dynamický rozsah krytu</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_cover_range_desc">
+    <text>Rozsah, který mod kontroluje pro platné krytí kolem vás</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_rays_per_update">
+    <text>Paprsky pro kontrolu krytí za snímek</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_rays_per_update_desc">
+    <text>Snížit pro problémy s FPS\nZvýšit pro rychlejší a konzistentnìjší kontrolu krytí</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_debug_mode">
+    <text>Režim debug</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_debug_mode_desc">
+    <text>Pro úèely testování!\nToto povolí kontrolu krytí mimo emise (vèetnì bonusu za severní krytí) a vytvoøí èástice na koncových bodech paprskù používaných pro kontrolu krytí</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_protect_companions">
+    <text>Ochrana spoleèníkù v dynamickém krytí</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_protect_companions_desc">
+    <text>Pøi dynamickém krytí jsou spoleèníci v této vzdálenosti (metry) také chránìni\nNastavte na 0 pro vypnutí</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_grace_period">
+    <text>Období ochrany krytí</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_grace_period_desc">
+    <text>Poèet sekund, po které jste chránìni po opuštìní dynamického krytí</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_hud_show_delay">
+    <text>Zpoždìní ukazatele pruhu</text>
+</string>
+
+<string id="ui_mcm_dynamic_cover_hud_show_delay_desc">
+    <text>Zpoždìní pøi zobrazení indikátoru pruhu</text>
+</string>
+
+</string_table>
