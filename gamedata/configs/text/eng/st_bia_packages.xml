@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_bia_package1">
+    <text>Základní balíček.</text>
+</string>
+<string id="st_bia_package1_descr">
+    <text>Základní balíček. Sotva obsahuje něco, co by stačilo na přežití den v zóně. \n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nižší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Nemá střelivo\n
+    </text>
+</string>
+
+<string id="st_bia_package2">
+    <text>Základní balíček (WP střelivo).</text>
+</string>
+<string id="st_bia_package2_descr">
+    <text>Základní balíček. Sotva obsahuje něco, co by stačilo na přežití den v zóně, ale alespoň obsahuje trochu střeliva. \n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nižší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Základní množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package3">
+    <text>Základní balíček (NATO střelivo).</text>
+</string>
+<string id="st_bia_package3_descr">
+    <text>Základní balíček. Sotva obsahuje něco, co by stačilo na přežití den v zóně, ale alespoň obsahuje trochu střeliva a lepší cigarety. \n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nižší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Základní množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package4">
+    <text>Denní balíček přežití.</text>
+</string>
+<string id="st_bia_package4_descr">
+    <text>Denní balíček přežití poskytovaný všem členům. Obsahuje základní zásoby pro přežití klidného dne v zóně. \n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nižší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Nemá střelivo\n
+    </text>
+</string>
+
+	
+<string id="st_bia_package5">
+    <text>Denní balíček přežití (WP střelivo)</text>
+</string>
+<string id="st_bia_package5_descr">
+    <text>Denní balíček přežití poskytovaný všem členům. Obsahuje základní zásoby pro přežití klidného dne v zóně a pro lov několika těláků, pokud zaútočí hlad. \n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nižší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Základní množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package6">
+    <text>Denní balíček přežití (NATO střelivo)</text>
+</string>
+<string id="st_bia_package6_descr">
+    <text>Denní balíček přežití poskytovaný všem členům. Obsahuje základní zásoby pro přežití klidného dne v zóně a pro lov několika těláků, pokud zaútočí hlad. Stále obsahuje lepší cigarety. \n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nižší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Základní množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package7">
+    <text>Balíček pro polní operace</text>
+</string>
+<string id="st_bia_package7_descr">
+    <text>Balíček pro polní operace. Obsahuje dostatek zásob pro přežití malého střetu nebo na jeden den mimo základnu.\n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka střední úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Nemá střelivo\n
+    </text>
+</string>
+
+	<string id="st_bia_package8">
+    <text>Balíček pro polní operace (WP střelivo)</text>
+</string>
+<string id="st_bia_package8_descr">
+    <text>Balíček pro polní operace. Obsahuje dostatek zásob pro přežití malého střetu nebo na jeden den mimo základnu. Obsahuje střelivo lepší kvality.\n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka střední úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Lepší množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package9">
+    <text>Balíček pro polní operace (NATO střelivo)</text>
+</string>
+<string id="st_bia_package9_descr">
+    <text>Balíček pro polní operace. Obsahuje dostatek zásob pro přežití malého střetu nebo na jeden den mimo základnu. Obsahuje střelivo lepší kvality.\n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka střední úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Lepší množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package10">
+    <text>Balíček na přežití v zóně pro hluboké operace.</text>
+</string>
+<string id="st_bia_package10_descr">
+    <text>Balíček na přežití, který obsahuje dostatek zásob pro přežití hluboké operace v zóně. Udělován pouze těm, kteří se osvědčili.\n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka střední úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Nemá střelivo\n
+    </text>
+</string>
+
+<string id="st_bia_package11">
+    <text>Balíček na přežití v zóně pro hluboké operace (WP střelivo)</text>
+</string>
+<string id="st_bia_package11_descr">
+    <text>Balíček na přežití, který obsahuje dostatek zásob pro přežití hluboké operace v zóně. Udělován pouze těm, kteří se osvědčili. Obsahuje střelivo nejvyšší kvality. \n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka střední úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Lepší množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package12">
+    <text>Balíček na přežití v zóně pro hluboké operace (NATO střelivo)</text>
+</string>
+<string id="st_bia_package12_descr">
+    <text>Balíček na přežití, který obsahuje dostatek zásob pro přežití hluboké operace v zóně. Udělován pouze těm, kteří se osvědčili. Obsahuje střelivo nejvyšší kvality, včetně několika nábojů Lapua Magnum.\n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka střední úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Lepší množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package13">
+    <text>Survival balíček VIP stalkera</text>
+</string>
+<string id="st_bia_package13_descr">
+    <text>Velký balíček poskytovaný těm nejlepším stalkerům, kteří prokázali věrnost frakci. Tyto balíčky jsou jako první baleny, což znamená, že obsahují zásoby nejvyšší kvality. \n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nejvyšší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Nemá střelivo\n
+    </text>
+</string>
+<string id="st_bia_package14">
+    <text>Balíček na přežití VIP stalkera (WP střelivo)</text>
+</string>
+<string id="st_bia_package14_descr">
+    <text>Velký balíček poskytovaný těm nejlepším stalkerům, kteří prokázali věrnost frakci. Tyto balíčky jsou jako první baleny, což znamená, že obsahují zásoby nejvyšší kvality a střelivo.\n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nejvyšší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Velké množství střeliva\n
+    </text>
+</string>
+
+<string id="st_bia_package15">
+    <text>Balíček na přežití VIP stalkera (NATO střelivo)</text>
+</string>
+<string id="st_bia_package15_descr">
+    <text>Velký balíček poskytovaný těm nejlepším stalkerům, kteří prokázali věrnost frakci. Tyto balíčky jsou jako první baleny, což znamená, že obsahují zásoby nejvyšší kvality a střelivo, včetně více nábojů .338 Lapua.\n \n
+    %c[ui_gray_2]BALÍČEK:\n
+    %c[d_cyan] • %c[ui_gray_2] Zásobovací položka nejvyšší úrovně\n
+    %c[d_cyan] • %c[ui_gray_2] Velké množství střeliva\n
+    </text>
+</string>
+
+</string_table>

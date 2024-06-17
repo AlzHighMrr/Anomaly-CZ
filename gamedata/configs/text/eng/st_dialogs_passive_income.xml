@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="windows-1250" standalone="yes" ?>
+
+<string_table>
+
+    <string id="passinc_ask_for_employment_default">
+        <text>Slyšel jsem, že hledáš lidi, kteří by pro tebe pracovali na smlouvu.</text>
+    </string> 
+
+    <!-- MERCS FACTION -->
+  <string id="passinc_ask_for_employment_killer"> <!-- PLAYER -->
+    <text>Slyšel jsem, že hledáte lidi, kteří by pro vás pracovali.</text>
+</string>
+<string id="passinc_salary_preview_killer"> <!-- NPC -->
+    <text>Ano, slyšel jsi správně. Tohle můžu nabídnout: Zaplatím ti základní denní plat %s rublů a přidám %s rublů za každou dokončenou práci, %s za každého zabitého mutanta a %s za každého nepřítele naší frakce. Snaž se být každý den zaneprázdněný a vyděláš si víc, jinak se s naší smlouvou můžeš rozloučit a budeš muset začít od začátku. Přijď za mnou, když budeš chtít své peníze.</text>
+</string>
+<string id="passinc_employment_confirm_killer"> <!-- PLAYER -->
+    <text>Jo, platí.</text>
+</string>
+<string id="passinc_ask_for_salary_killer"> <!-- PLAYER -->
+    <text>Jsem tady pro své peníze.</text>
+</string>
+<string id="passinc_show_salary_killer"> <!-- NPC -->
+    <text>Jasně, mám je tady, tvoje celková mzda činí</text>
+</string>
+<string id="passinc_show_salary_bonus_killer"> <!-- NPC -->
+    <text>Jasně, mám je tady, tvoje celková mzda činí %s rublů, také jsem přidal malý bonus za skvělou práci, jen tak dál.</text>
+</string>
+<string id="passinc_get_salary_killer"> <!-- PLAYER -->
+    <text>Dobře, děkuji pane.</text>
+</string>
+<string id="passinc_not_share_salary_killer"> <!-- PLAYER -->
+    <text>Perfektní, vezmu si to všechno pro sebe.</text>
+</string>
+<string id="passinc_share_salary_killer"> <!-- PLAYER -->
+    <text>Dobře, rozdělím se s ostatními členy týmu.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_killer"> <!-- PLAYER -->
+    <text>Přemýšlel jsem o tom a chci ukončit svou platovou smlouvu.</text>
+</string>
+<string id="passinc_stop_employment_available_killer"> <!-- NPC -->
+    <text>Jsi si tím jistý, agente?</text>
+</string>
+<string id="passinc_stop_employment_confirm_killer"> <!-- PLAYER -->
+    <text>Ano, potřebuji přestávku.</text>
+</string>
+<string id="passinc_stop_employment_end_killer"> <!-- NPC -->
+    <text>Žádný problém! Pokud si to rozmyslíš, přijď zítra a probereme novou smlouvu.</text>
+</string>
+<string id="passinc_employment_back_killer"> <!-- PLAYER -->
+    <text>Po druhé úvaze, to nevadí.</text>
+</string>
+
+
+    <!-- MILITARY FACTION -->
+   <string id="passinc_ask_for_employment_army"> <!-- PLAYER -->
+    <text>Slyšel jsem, že hledáte vojáky, kteří by pro vás pracovali.</text>
+</string>
+<string id="passinc_salary_preview_army"> <!-- NPC -->
+    <text>Skutečně, poslouchej. Poskytnu ti denní základní plat %s rublů. Navíc vyděláš %s rublů za každou dokončenou úlohu, %s za každého eliminovaného mutanta a %s za každého nepřítele naší frakce. Zůstaň aktivní, jinak naše smlouva končí. Přijď za mnou, až budeš připraven na svou výplatu.</text>
+</string>
+<string id="passinc_employment_confirm_army"> <!-- PLAYER -->
+    <text>Rozumím, platí.</text>
+</string>
+<string id="passinc_ask_for_salary_army"> <!-- PLAYER -->
+    <text>Jsem tady, abych vybral svůj výdělek.</text>
+</string>
+<string id="passinc_show_salary_army"> <!-- NPC -->
+    <text>Potvrzuji, mám to tady. Tvá celková mzda je</text>
+</string>
+<string id="passinc_show_salary_bonus_army"> <!-- NPC -->
+    <text>Potvrzuji, mám to tady, tvá celková mzda činí %s rublů, také jsem přidal bonus za skvělou práci, vojáku.</text>
+</string>
+<string id="passinc_get_salary_army"> <!-- PLAYER -->
+    <text>To je dobře, děkuji pane.</text>
+</string>
+<string id="passinc_not_share_salary_army"> <!-- PLAYER -->
+    <text>Výborně, nechám si to všechno pro sebe.</text>
+</string>
+<string id="passinc_share_salary_army"> <!-- PLAYER -->
+    <text>Dobře, rozdělím se s ostatními členy týmu.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_army"> <!-- PLAYER -->
+    <text>Přehodnotil jsem to, chci ukončit svou smlouvu.</text>
+</string>
+<string id="passinc_stop_employment_available_army"> <!-- NPC -->
+    <text>Jsi si tím jistý, agente?</text>
+</string>
+<string id="passinc_stop_employment_confirm_army"> <!-- PLAYER -->
+    <text>Potvrzuji, potřebuji přestávku.</text>
+</string>
+<string id="passinc_stop_employment_end_army"> <!-- NPC -->
+    <text>Žádný problém. Pokud si to rozmyslíš, vrať se zítra a můžeme probrat nový úkol!</text>
+</string>
+<string id="passinc_employment_back_army"> <!-- PLAYER -->
+    <text>To nevadí, pane.</text>
+</string>
+
+
+    <!-- DUTY FACTION -->
+ <string id="passinc_ask_for_employment_dolg"> <!-- PLAYER -->
+    <text>Slyšel jsem, že hledáte stalkery, kteří by se připojili k platovému programu.</text>
+</string>
+<string id="passinc_salary_preview_dolg"> <!-- NPC -->
+    <text>Slyšel jsi správně, tady je dohoda: Dostaneš denní základní plat %s rublů. Navíc vyděláš %s za každou dokončenou úlohu, %s za každého neutralizovaného mutanta a %s za každého nepřítele frakce Duty, kterého se zbavíš. Zůstaň aktivní, jinak naše smlouva končí. Přijď za mnou, když budeš chtít své vydělané peníze.</text>
+</string>
+<string id="passinc_employment_confirm_dolg"> <!-- PLAYER -->
+    <text>Potvrzuji, platí.</text>
+</string>
+<string id="passinc_ask_for_salary_dolg"> <!-- PLAYER -->
+    <text>Jsem tady, abych vybral svůj výdělek.</text>
+</string>
+<string id="passinc_show_salary_dolg"> <!-- NPC -->
+    <text>Potvrzuji, mám to tady. Tvá celková mzda činí</text>
+</string>
+<string id="passinc_show_salary_bonus_dolg"> <!-- NPC -->
+    <text>Potvrzuji, mám to tady, tvá celková mzda činí %s rublů. Díky skvělé práci, kterou jsi odvedl, máš také nárok na bonusový balíček.</text>
+</string>
+<string id="passinc_get_salary_dolg"> <!-- PLAYER -->
+    <text>Fajn, děkuji pane.</text>
+</string>
+<string id="passinc_not_share_salary_dolg"> <!-- PLAYER -->
+    <text>Perfektní, nechám si to všechno pro sebe.</text>
+</string>
+<string id="passinc_share_salary_dolg"> <!-- PLAYER -->
+    <text>Dobře, rozdělím se s ostatními členy týmu.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_dolg"> <!-- PLAYER -->
+    <text>Přemýšlel jsem o tom, chci ukončit svou smlouvu.</text>
+</string>
+<string id="passinc_stop_employment_available_dolg"> <!-- NPC -->
+    <text>Jsi si tím jistý, vojáku?</text>
+</string>
+<string id="passinc_stop_employment_confirm_dolg"> <!-- PLAYER -->
+    <text>Ano, potřebuji přestávku.</text>
+</string>
+<string id="passinc_stop_employment_end_dolg"> <!-- NPC -->
+    <text>To je v pořádku. Pokud si to rozmyslíš, vrať se zítra a probereme novou smlouvu.</text>
+</string>
+<string id="passinc_employment_back_dolg"> <!-- PLAYER -->
+    <text>Po druhé úvaze, to nevadí.</text>
+</string>
+
+ 
+    <!-- ECOLOGISTS FACTION -->
+  <string id="passinc_ask_for_employment_ecolog"> <!-- PLAYER -->
+    <text>Slyšel jsem, že nabízíte plat stalkerům, kteří vám pomáhají ve výzkumu.</text>
+</string>
+<string id="passinc_salary_preview_ecolog"> <!-- NPC -->
+    <text>Skutečně, slyšel jsi správně. Tady je dohoda: Dostaneš denní základní plat %s rublů. Navíc vyděláš %s za každou dokončenou úlohu, %s za každého neutralizovaného mutanta a %s za každého nepřítele naší frakce. Zůstaň zapojený, jinak naše smlouva končí. Přijď za mnou, když budeš chtít své vydělané peníze.</text>
+</string>
+<string id="passinc_employment_confirm_ecolog"> <!-- PLAYER -->
+    <text>Potvrzuji, platí.</text>
+</string>
+<string id="passinc_ask_for_salary_ecolog"> <!-- PLAYER -->
+    <text>Jsem tady, abych vybral svůj výdělek.</text>
+</string>
+<string id="passinc_show_salary_ecolog"> <!-- NPC -->
+    <text>Ano, mám to tady. Tvá celková mzda činí</text>
+</string>
+<string id="passinc_show_salary_bonus_ecolog"> <!-- NPC -->
+    <text>Ano, mám to tady. Tvá celková mzda činí %s rublů, také jsem přidal malý bonus za dobrou práci, kolego.</text>
+</string>
+<string id="passinc_get_salary_ecolog"> <!-- PLAYER -->
+    <text>Dobře, děkuji profesore.</text>
+</string>
+<string id="passinc_not_share_salary_ecolog"> <!-- PLAYER -->
+    <text>Perfektní, nechám si to všechno pro sebe.</text>
+</string>
+<string id="passinc_share_salary_ecolog"> <!-- PLAYER -->
+    <text>Dobře, rozdělím se se svým týmem.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_ecolog"> <!-- PLAYER -->
+    <text>Přemýšlel jsem o tom, chci ukončit svou smlouvu.</text>
+</string>
+<string id="passinc_stop_employment_available_ecolog"> <!-- NPC -->
+    <text>Jsi si tím jistý, kolego?</text>
+</string>
+<string id="passinc_stop_employment_confirm_ecolog"> <!-- PLAYER -->
+    <text>Ano, potřebuji přestávku.</text>
+</string>
+<string id="passinc_stop_employment_end_ecolog"> <!-- NPC -->
+    <text>Žádné starosti! Pokud si to rozmyslíš, přijď zítra a probereme novou smlouvu.</text>
+</string>
+<string id="passinc_employment_back_ecolog"> <!-- PLAYER -->
+    <text>Po druhé úvaze, to nevadí.</text>
+</string>
+
+    <!-- FREEDOM FACTION -->
+   <string id="passinc_ask_for_employment_freedom"> <!-- PLAYER -->
+    <text>Slyšel jsem, že hledáte stalkery, kteří by pro vás pracovali. Je to pravda?</text>
+</string>
+<string id="passinc_salary_preview_freedom"> <!-- NPC -->
+    <text>Jo, slyšel jsi správně. Tady je dohoda: Dostaneš denní základní plat %s rublů. Navíc dostaneš %s za každou dokončenou úlohu, %s za každého mutanta, kterého zabiješ, a %s za každého nepřítele naší frakce, kterého zlikviduješ. Zůstaň aktivní, nebo naše dohoda padne. Přijď, až budeš chtít své těžce vydělané peníze.</text>
+</string>
+<string id="passinc_employment_confirm_freedom"> <!-- PLAYER -->
+    <text>Platí. Jsme domluveni.</text>
+</string>
+<string id="passinc_ask_for_salary_freedom"> <!-- PLAYER -->
+    <text>Jsem tady, abych vybral peníze.</text>
+</string>
+<string id="passinc_show_salary_freedom"> <!-- NPC -->
+    <text>Samozřejmě, mám to tady. Tvá celková mzda činí</text>
+</string>
+<string id="passinc_show_salary_bonus_freedom"> <!-- NPC -->
+    <text>Samozřejmě, mám to tady. Tvá celková mzda činí %s rublů, také jsem přidal malý bonus za skvělou práci, jen tak dál.</text>
+</string>
+<string id="passinc_get_salary_freedom"> <!-- PLAYER -->
+    <text>Dobře, vezmu si to.</text>
+</string>
+<string id="passinc_not_share_salary_freedom"> <!-- PLAYER -->
+    <text>Perfektní, nechám si to všechno pro sebe.</text>
+</string>
+<string id="passinc_share_salary_freedom"> <!-- PLAYER -->
+    <text>Dobře, rozdělím se se svými spolubojovníky.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_freedom"> <!-- PLAYER -->
+    <text>Přemýšlel jsem a jsem připraven ukončit naši smlouvu.</text>
+</string>
+<string id="passinc_stop_employment_available_freedom"> <!-- NPC -->
+    <text>Jsi si tím jistý, stalkere?</text>
+</string>
+<string id="passinc_stop_employment_confirm_freedom"> <!-- PLAYER -->
+    <text>Jo, potřebuji pauzu.</text>
+</string>
+<string id="passinc_stop_employment_end_freedom"> <!-- NPC -->
+    <text>Žádný problém! Pokud si to rozmyslíš, přijď zítra a můžeme probrat novou smlouvu!</text>
+</string>
+<string id="passinc_employment_back_freedom"> <!-- PLAYER -->
+    <text>Po druhé úvaze, to nevadí.</text>
+</string>
+
+
+    <!-- UNISG FACTION (IDENTICAL TO ECOLOGISTS ASIDE FROM "passinc_get_salary_isg") -->
+   <string id="passinc_ask_for_employment_isg"> <!-- PLAYER -->
+    <text>Slyšel jsem, že nabízíte plat stalkerům, kteří vám pomáhají ve výzkumu.</text>
+</string>
+<string id="passinc_salary_preview_isg"> <!-- NPC -->
+    <text>Skutečně, slyšel jsi správně. Tady je dohoda: Dostaneš denní základní plat %s rublů. Navíc vyděláš %s za každou dokončenou úlohu, %s za každého neutralizovaného mutanta a %s za každého nepřítele naší frakce. Zůstaň zapojený, jinak naše smlouva končí. Přijď za mnou, když budeš chtít své vydělané peníze.</text>
+</string>
+<string id="passinc_employment_confirm_isg"> <!-- PLAYER -->
+    <text>Potvrzuji, platí.</text>
+</string>
+<string id="passinc_ask_for_salary_isg"> <!-- PLAYER -->
+    <text>Jsem tady, abych vybral svůj výdělek.</text>
+</string>
+<string id="passinc_show_salary_isg"> <!-- NPC -->
+    <text>Ano, mám to tady. Tvá celková mzda činí</text>
+</string>
+<string id="passinc_show_salary_bonus_isg"> <!-- NPC -->
+    <text>Ano, mám to tady. Tvá celková mzda činí %s rublů, také jsem přidal malý bonus za skvělou práci. Jen tak dál, agente.</text>
+</string>
+<string id="passinc_get_salary_isg"> <!-- PLAYER -->
+    <text>Dobře, děkuji pane.</text>
+</string>
+<string id="passinc_not_share_salary_isg"> <!-- PLAYER -->
+    <text>Perfektní, nechám si to všechno pro sebe.</text>
+</string>
+<string id="passinc_share_salary_isg"> <!-- PLAYER -->
+    <text>Dobře, rozdělím se se svým týmem.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_isg"> <!-- PLAYER -->
+    <text>Přemýšlel jsem o tom, chci ukončit svou smlouvu.</text>
+</string>
+<string id="passinc_stop_employment_available_isg"> <!-- NPC -->
+    <text>Jsi si tím jistý, agente?</text>
+</string>
+<string id="passinc_stop_employment_confirm_isg"> <!-- PLAYER -->
+    <text>Ano, potřebuji přestávku.</text>
+</string>
+<string id="passinc_stop_employment_end_isg"> <!-- NPC -->
+    <text>Žádné starosti! Pokud si to rozmyslíš, přijď zítra a probereme novou smlouvu.</text>
+</string>
+<string id="passinc_employment_back_isg"> <!-- PLAYER -->
+    <text>Po druhé úvaze, to nevadí.</text>
+</string>
+
+
+    <!-- UNORG FACTIONS -->
+
+    <!-- LONERS (Sidorovich and Butcher) -->
+ <string id="passinc_ask_for_employment_stalker"> <!-- PLAYER -->
+    <text>Slyšel jsem, že hledáš stalkery, kteří by pro tebe pracovali.</text>
+</string>
+<string id="passinc_salary_preview_stalker"> <!-- NPC -->
+    <text>Takže chceš být můj malý asistent, co? Slyšel jsi správně, tady je dohoda: Pokud pro mě každý den dokončíš alespoň jednu práci, usnadním ti život tím, že ti každý den dám nějaké zásoby. Za každých %s dokončených prací dostaneš bonus. Pracuj pro mě dost dlouho a dostaneš lepší a více zásob. Začni moc blbnout a můžeš se s naší dohodou rozloučit. Co říkáš?</text>
+</string>
+<string id="passinc_employment_confirm_stalker"> <!-- PLAYER -->
+    <text>Jdeme na to.</text>
+</string>
+<string id="passinc_ask_for_salary_stalker"> <!-- PLAYER -->
+    <text>Jsem tady, abych vyzvedl své zásoby.</text>
+</string>
+<string id="passinc_show_salary_stalker"> <!-- NPC -->
+    <text>Kdo se to vrátil! Ano, ano, podle tvé práce ti mohu dát tento počet zásobních balíčků: %s</text>
+</string>
+<string id="passinc_show_salary_bonus_stalker"> <!-- NPC -->
+    <text>Kdo se to vrátil! Ano, ano, podle tvé práce ti mohu dát tento počet zásobních balíčků: %s. Také jsem přidal %s rublů za výjimečnou práci.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_stalker"> <!-- PLAYER -->
+    <text>Hej, poslouchej, chtěl jsem ukončit naši pracovní dohodu.</text>
+</string>
+<string id="passinc_stop_employment_available_stalker"> <!-- NPC -->
+    <text>Jsi si jistý, stalkere? Byla ta práce pro tebe příliš těžká?</text>
+</string>
+<string id="passinc_stop_employment_confirm_stalker"> <!-- PLAYER -->
+    <text>No, jen jsem potřeboval pauzu, to je vše.</text>
+</string>
+<string id="passinc_stop_employment_end_stalker"> <!-- NPC -->
+    <text>Dobře, pokud si to někdy rozmyslíš, přijď za mnou.</text>
+</string>
+<string id="passinc_get_salary_stalker"> <!-- PLAYER -->
+    <text>Dobře, díky.</text>
+</string>
+<string id="passinc_employment_back_stalker"> <!-- PLAYER -->
+    <text>Zapomeň na to.</text>
+</string>
+
+
+    <!-- BANDITS (Sultan) -->
+  <string id="passinc_ask_for_employment_bandit"> <!-- PLAYER -->
+    <text>Slyšel jsem, že hledáš stalkery na špinavou práci.</text>
+</string>
+<string id="passinc_salary_preview_bandit"> <!-- NPC -->
+    <text>Takže chceš být můj malý asistent, co? Nebudeš se bát umazat si ruce. Tady je dohoda: Pokud dokážeš každý den udělat alespoň jednu práci pro mě, hodím ti nějaké zásoby. Když dokončíš %s prací, přidám ti k tomu ještě bonus. Drž se se mnou, a kvalita i množství těch zásob bude lepší. Začneš se flákat, a naše dohoda je fuč. Co na to říkáš?</text>
+</string>
+<string id="passinc_employment_confirm_bandit"> <!-- PLAYER -->
+    <text>Jdem na to.</text>
+</string>
+<string id="passinc_ask_for_salary_bandit"> <!-- PLAYER -->
+    <text>Jsem tu pro svoje loupež.</text>
+</string>
+<string id="passinc_show_salary_bandit"> <!-- NPC -->
+    <text>Tak kdo se tu vrátil! Podle tvého úsilí ti můžu dát tohle množství zásobních balíčků: %s</text>
+</string>
+<string id="passinc_show_salary_bonus_bandit"> <!-- NPC -->
+    <text>Tak kdo se tu vrátil! Podle tvého úsilí ti můžu dát tohle množství zásobních balíčků: %s. Také jsem přihodil %s rublů za vynikající práci.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_bandit"> <!-- PLAYER -->
+    <text>Hele, myslím, že je čas ukončit naše malé dohody.</text>
+</string>
+<string id="passinc_stop_employment_available_bandit"> <!-- NPC -->
+    <text>Jsi si jistý, stalkere? Práce se ti příliš nezdařila?</text>
+</string>
+<string id="passinc_stop_employment_confirm_bandit"> <!-- PLAYER -->
+    <text>No, jen jsem potřeboval oddech, to je vše.</text>
+</string>
+<string id="passinc_stop_employment_end_bandit"> <!-- NPC -->
+    <text>Dobře, pokud si to někdy rozmyslíš, přijď za mnou. Vždycky se najde práce pro někoho jako ty.</text>
+</string>
+<string id="passinc_get_salary_bandit"> <!-- PLAYER -->
+    <text>Dobře, díky.</text>
+</string>
+<string id="passinc_employment_back_bandit"> <!-- PLAYER -->
+    <text>Nic se neděje.</text>
+</string>
+
+
+    <!-- CLEAR SKY (Librarian) -->
+  <string id="passinc_ask_for_employment_csky"> <!-- PLAYER -->
+    <text>Slyšel jsem, že hledáš stalkery na práci pro tebe.</text>
+</string>
+<string id="passinc_salary_preview_csky"> <!-- NPC -->
+    <text>No tak, chceš být můj praváček, co? Chytl jsi to, že jo? Tady je info: Když každý den uděláš aspoň jednu práci pro mě, udržím tě naživu a budeš mít nějaké zásoby. Když nasbíráš %s úspěšných prací, přihodím ti k tomu trošku bonusu. Drž se mě, dokáž svou hodnotu a budeš plavat v lepších a víc kořisti. Začneš zlobit, a naše dohoda může jít k čertu. Jak to vidíš, stalkere?</text>
+</string>
+<string id="passinc_employment_confirm_csky"> <!-- PLAYER -->
+    <text>Jdem na to.</text>
+</string>
+<string id="passinc_ask_for_salary_csky"> <!-- PLAYER -->
+    <text>Jsem tu pro svoje zásoby.</text>
+</string>
+<string id="passinc_show_salary_csky"> <!-- NPC -->
+    <text>Zase tu jsi, co? Podle tvého nasazení si zasloužíš tohle množství zásobních balíčků: %s</text>
+</string>
+<string id="passinc_show_salary_bonus_csky"> <!-- NPC -->
+    <text>Zase tu jsi, co? Podle tvého nasazení si zasloužíš tohle množství zásobních balíčků: %s. Přihodil jsem ti taky %s rublů za vynikající práci.</text>
+</string>
+<string id="passinc_ask_for_stop_employment_csky"> <!-- PLAYER -->
+    <text>Poslechni, myslím, že je čas naši spolupráci ukončit.</text>
+</string>
+<string id="passinc_stop_employment_available_csky"> <!-- NPC -->
+    <text>Jsi si jistý, stalkere? Práce ti příliš přerostla přes hlavu?</text>
+</string>
+<string id="passinc_stop_employment_confirm_csky"> <!-- PLAYER -->
+    <text>No, jen potřebuju chvilku na oddech, to je vše.</text>
+</string>
+<string id="passinc_stop_employment_end_csky"> <!-- NPC -->
+    <text>Rozumím. Pokud si to někdy rozmyslíš, zastav se. Zóna vždycky potřebuje víc oddaných lidí jako ty.</text>
+</string>
+<string id="passinc_get_salary_csky"> <!-- PLAYER -->
+    <text>Dobře, díky.</text> 
+</string>
+<string id="passinc_employment_back_csky"> <!-- PLAYER -->
+    <text>Nic se neděje.</text>
+</string>
+
+
+</string_table>

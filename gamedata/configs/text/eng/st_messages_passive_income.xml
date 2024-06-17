@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1250" standalone="yes" ?>
+
+<string_table>
+
+    <string id="passinc_salary_started">
+        <text>Začal jsi novou smlouvu.</text>
+    </string>
+
+    <string id="passinc_salary_stopped_basic">
+        <text>Smlouva se pozastavila, musíš počkat jeden den, abys mohl vzít novou.</text>
+    </string>
+
+    <string id="passinc_salary_ready">
+        <text>Tvoje výplatní páska z %s je nyní k vyzvednutí.</text>
+    </string>
+
+    <string id="passinc_salary_stopped_lazy">
+        <text>Příliš ses flákal a tvůj zaměstnavatel už toho má dost, smlouva byla ukončena.</text>
+    </string>
+
+
+    <string id="passinc_lazy_warning_1">
+        <text>Ahoj! Co se týče tvého výkonu, dnes jsi toho moc neudělal, pokud v tom budeš pokračovat, bude ti ukončen plat.</text>
+    </string>
+
+    <string id="passinc_lazy_warning_2">
+        <text>Pokud si chceš zachovat svůj plat, musíš toho opravdu udělat více. No tak.</text>
+    </string>
+
+    <string id="passinc_lazy_warning_3">
+        <text>Toto je poslední varování. Když nebudeš dál nic dělat, zítra nebudeš mít žádný plat.</text>
+    </string>
+
+    <string id="passinc_promotion">
+        <text>Obdržel jsi povýšení! Podívej se do svého PDA, kde najdeš další podrobnosti.</text>
+    </string>
+    
+    <string id="passinc_gfcmod_salary_share">
+        <text>Sdílíš plat se svými společníky. Reputace a přátelství se zvýšily.</text>
+    </string>
+
+    <string id="passinc_salary_share">
+        <text>Sdílel jsi plat se svými společníky. Reputace se zvýšila.</text>
+    </string>
+
+    <string id="passinc_accumulate_complete_task">
+        <text>\nÚkoly splněny: %s</text>
+    </string>
+
+    <string id="passinc_accumulate_monster_killed">
+        <text>\nZabiti mutanti: %s</text>
+    </string>
+
+    <string id="passinc_accumulate_npc_killed">
+        <text>\nZabiti nepřátelé: %s</text>
+    </string>
+
+    <string id="passinc_accumulate_money">
+        <text>\nPeníze vydělané za den: %s</text>
+    </string>
+
+
+</string_table>

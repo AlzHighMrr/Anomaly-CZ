@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1250" standalone="yes" ?>
+
+<string_table>
+
+    <string id="passinc_task_title">
+        <text>Zaměstnání aktivní</text>
+    </string>
+
+    <string id="passinc_task_descr">
+        <text>Jsi zaměstnán.</text>
+    </string>
+
+    <string id="passinc_employer_community_ecolog">
+        <text>Ekologové</text>
+    </string>
+    <string id="passinc_employer_community_isg">
+        <text>UNISG</text>
+    </string>
+    <string id="passinc_employer_community_army">
+        <text>Armáda</text>
+    </string>
+       <string id="passinc_employer_community_dolg">
+        <text>Povinnost</text>
+    </string>
+    <string id="passinc_employer_community_killer">
+        <text>Žoldáci</text>
+    </string>
+ <string id="passinc_employer_community_freedom">
+        <text>Svoboda</text>
+    </string>
+
+
+    <string id="passinc_employer_name">
+        <text>Máš smlouvu s %s</text>
+    </string>
+
+    <string id="passinc_descr_middle">
+        <text>\nKaždý den si vyděláš:</text>
+    </string>
+
+    <string id="passinc_descr_base">
+        <text>\nZákladní plat ve výši %s.</text>
+    </string>
+
+    <string id="passinc_descr_complete_task">
+        <text>\n%s za každý splněný úkol.</text>
+    </string>
+
+    <string id="passinc_descr_monster_killed">
+        <text>\n%s za každého zabitého mutanta.</text>
+    </string>
+
+    <string id="passinc_descr_npc_killed">
+        <text>\n%s za každého zabitého nepřítele frakce.</text>
+    </string>
+    
+    <string id="passinc_descr_employment_stage">
+        <text>\nStupeň zaměstnání:</text>
+    </string>
+    
+    <string id="passinc_unorg_descr_stage_zaměstnání">
+        <text>\nDůvěra zaměstnavatele:</text>
+    </string>
+
+    
+    <string id="passinc_unorg_descr_middle">
+        <text>\nKaždý den dokončete alespoň jednu úlohu pro %s, aby byla smlouva aktivní.</text>
+    </string>
+
+    <string id="passinc_unorg_complete_task">
+        <text>\nDnes jste dokončili %s úloh pro %s</text>
+    </string>
+    
+    <string id="passinc_unorg_descr_bonus">
+        <text>\nBonusový balíček za každých %s dokončených úloh</text>
+    </string>
+
+    <string id="passinc_task_title_fallback">
+        <text>Aktivní smlouva</text>
+    </string>
+
+    <string id="passinc_task_title_functor">
+        <text>Aktivní smlouvaí (%s)</text>
+    </string>
+
+
+
+</string_table>
