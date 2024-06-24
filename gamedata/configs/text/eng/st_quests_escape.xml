@@ -209,7 +209,7 @@
 </string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Nimble (Samotarsky obchodnik) Ukol najit zbran -->
+	<!-- Šikula  Ukol najit zbran -->
 
 <string id="esc_2_12_stalker_nimble_task_1_name">
     <text>Najdi %s</text>
@@ -228,7 +228,7 @@
 </string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Šikula (Samotarsky obchodnik) Ziskat dynamicky ukol PDA -->
+	<!-- Šikula  Ziskat dynamicky ukol PDA -->
 
 <string id="esc_2_12_stalker_nimble_task_2_name">
     <text>Vyzvednutí PDA pro Šikulu</text>
