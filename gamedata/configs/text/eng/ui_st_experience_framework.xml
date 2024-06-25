@@ -8,16 +8,16 @@
 
 -->
 	<string id="ui_mcm_menu_experience_framework">
-		<text>Experience Framework</text>
+		<text>Nastavení Dovedností</text>
 	</string>
 	<string id="ui_mcm_experience_framework_DISPLAY_UI">
-		<text>Experience Menu</text>
+		<text>Menu Dovedností</text>
 	</string>
 	<string id="ui_mcm_experience_framework_DISPLAY_UI_desc">
-		<text>Experience Framework Menu Keybindy</text>
+		<text>Keybindy</text>
 	</string>
 	<string id="ui_mcm_experience_framework_KEY_MODIFIER">
-		<text>Dodateèný bind</text>
+		<text>Dodateèný keybind</text>
 	</string>
 <string id="ui_mcm_lst_experience_framework_KEY_MODIFIER_none">
     <text>Žádný</text>

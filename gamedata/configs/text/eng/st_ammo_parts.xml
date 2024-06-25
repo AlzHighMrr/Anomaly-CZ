@@ -1,101 +1,202 @@
-<?xml version="1.0" encoding="st_windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 
-	<!-- Jamming -->
-<string id="st_casing_pistol">
-<text>Plášt, pistole</text>
+	<!-- Jammin --><string id="st_casing_pistol">
+    <text>Nábojnice, ruèní zbraò</text>
 </string>
 <string id="st_casing_pistol_desc">
-<text>Malé mosazné pláštì s iniciátory pro støelivo ruèních pistolí. Tyto náboje lze pøeformovat na libovolnou velikost od 7,62x25 a po .357 Magnum.</text>
+    <text>Malé mosazné nábojnice s zápalkami, pouívané k vırobì pistolové munice. \n \n</text>
 </string>
 <string id="st_casing_shotgun">
-<text>Plášt, brokovnice</text>
+    <text>Nábojnice, brokovnice</text>
 </string>
 <string id="st_casing_shotgun_desc">
-<text>Prázdné nábojnice s mosaznımi iniciátory pouívané k vırobì brokovnicové munice.</text>
+    <text>Plastové nábojnice s mosaznımi zápalkami, pouívané k vırobì brokové munice. \n \n</text>
 </string>
 <string id="st_casing_r5">
-<text>Plášt, maloráová puška</text>
+    <text>Nábojnice, malá puška</text>
 </string>
 <string id="st_casing_r5_desc">
-<text>Støednì velké mosazné pláštì s iniciátory pro náboje pušek. Tyto náboje lze pøeformovat na libovolnou velikost pro pouití støel o délce 39 mm nebo 45 mm.</text>
+    <text>Støednì velké mosazné nábojnice s zápalkami pro mezistupòové puškové náboje. \n \n</text>
 </string>
 <string id="st_casing_r7">
-<text>Plášt, velkoráová puška</text>
+    <text>Nábojnice, velká puška</text>
 </string>
 <string id="st_casing_r7_desc">
-<text>Velké mosazné pláštì s iniciátory pro náboje plnohodnotnıch pušek.</text>
+    <text>Velké mosazné nábojnice s zápalkami pro plnoráové puškové náboje. \n \n</text>
 </string>
 <string id="st_powder_pistol">
-<text>Støelnı prach, pistole/brokovnice</text>
+    <text>Prach, pistole/brokovnice</text>
 </string>
 <string id="st_powder_pistol_desc">
-<text>Rychle hoøící dvouslokovı Støelnı prach urèená pro pouití ve brokovnicích a malıch ruèních nábojích. Tato varianta bezdımného støelného prachu produkuje menší celkovou energii ne pomalejší prachy, ale hoøí èistìji a rychleji.</text>
+    <text>Rychle hoøící dvoukomponentní prach pro pouití v brokovnicích a malıch pistolovıch nábojích. Tento typ bezdımného prachu produkuje ménì energie ne pomalejší prachy, ale hoøí èistìji a rychleji. \n \n</text>
 </string>
 <string id="st_powder_rifle">
-<text>Støelnı prach, maloráová puška</text>
+    <text>Prach, malá puška</text>
 </string>
 <string id="st_powder_rifle_desc">
-<text>IMR Støelnı prach pro lehké náboje pušek a nìkteré tìké ruèní náboje. Tento prach hoøí støední rychlostí a produkuje dostateèné mnoství energie. Nelze pouít v samoèinnıch ruèních zbraních a brokovnicích, protoe nedostateènı tlak zpùsobí neúplné hoøení a zanesení.</text>
+    <text>IMR prach pro lehké puškové náboje a nìkteré tìké pistolové náboje. Tento prach hoøí støednì rychle a produkuje znaèné mnoství energie. Nelze pouít v ruèních zbraních s blowback mechanismem a brokovnicích, protoe nedostateèné tlaky povedou k neúplnému spalování a zpùsobí zanášení. \n \n</text>
 </string>
 <string id="st_powder_mag">
-<text>Støelnı prach, puška</text>
+    <text>Prach, velká puška</text>
 </string>
 <string id="st_powder_mag_desc">
-<text>Vınosnı pomalu hoøící kulovı prach urèenı pro velké puškové náboje. Tento prach poskytuje nejvíce energie a hoøí nejpomaleji, proto je vhodnı pouze pro pouití v puškové munici velkého kalibru vystøelované z dlouhohlavòovıch zbraní.</text>
+    <text>Vysoce vıkonnı, pomalu hoøící kulièkovı prach pro velkoráové puškové náboje. Tento prach produkuje nejvìtší mnoství energie a hoøí nejpomaleji, a proto je vhodnı pouze pro velkoráovou puškovou munici støílenou z dlouhıch hlavní. \n \n</text>
 </string>
 <string id="st_handgun_rounds">
-<text>Pláštì pro ruèní pistole</text>
+    <text>Pistolové støely</text>
 </string>
 <string id="st_handgun_rounds_desc">
-<text>Rùznì velké náboje pro ruèní pistole získané z munice. Budou uiteèné pøi vırobì nové munice.</text>
+    <text>Rùznì velké pistolové støely získané z munice. Tyto støely budou uiteèné pøi vırobì nové munice. \n \n</text>
 </string>
+
 <string id="st_handgun_ap_rounds">
-<text>Pláštì pro ruèní pistole, prùbojné</text>
+    <text>Pistolové støely, prùbojné</text>
 </string>
 <string id="st_handgun_ap_rounds_desc">
-<text>Rùznì velké náboje pro ruèní pistole získané z munice. Tyto náboje obsahují slitinové prùbojníky zasazené do nábojnice. Ruèní náboje jsou obvykle pøíliš pomalé na prùnik pancíøem, i kdy jsou vybaveny prùbojníky, pokud se nepouije náplò s pøetlakovım nábojem nebo pokud støela není speciálnì navrena pro prùboj pancíøem, jako napøíklad støela 5.7x28.</text>
+    <text>Rùznì velké pistolové støely získané z munice. Tyto støely mají v projektilu zabudované slitiny prùbojníkù. Pistolové náboje jsou obvykle pøíliš pomalé na to, aby prorazily pancíø, i s prùbojníky, pokud nejsou pouity nadlimitní náboje. \n \n</text>
 </string>
 <string id="st_shotgun_rounds">
-<text>Olovìné broky</text>
+    <text>Olovìné broky</text>
 </string>
 <string id="st_shotgun_rounds_desc">
-<text>Malé olovìné brokové kulièky pouívané ve loveckıch brokovnicích. Tyto lze také roztavit a odlít velké brokové projektily.</text>
+    <text>Broky velikosti #00 pouívané v loveckıch brokovnicích. Tyto broky lze také roztavit a odlévat do velkıch støel.</text>
 </string>
 <string id="st_shotgun_ap_rounds">
-<text>Probíjecí šipka</text>
+    <text>Šípové støely s podkaliberními støelami</text>
 </string>
 <string id="st_shotgun_ap_rounds_desc">
-<text>Zakalenı ocelovı šípovitı projekt se zabudovanou sabótu. Tyto jsou navreny tak, aby byly vystøelovány z policejních brokovnic a poškozovaly motorové bloky, ale docela dobøe si vedou i proti tìlesné zbroji.</text>
+    <text>Ocelové šípové støely zpevnìné v podkaliberní støele. Tyto støely jsou navreny pro støelbu z policejních brokovnic k deaktivaci motorovıch blokù, ale také dobøe fungují proti tìlesnému pancíøi. \n \n</text>
 </string>
 <string id="st_rifle5_rounds">
-<text>Maloráové puškové nábojnice</text>
+    <text>Maloráové puškové støely</text>
 </string>
 <string id="st_rifle5_rounds_desc">
-<text>Rùznì velké maloráové puškové nábojnice pouívané v útoènıch puškách. Vojensky vyrábìné a pokryté celometalovım pláštìm, optimalizované pro pøesnost.</text>
+    <text>Rùznì velké maloráové puškové støely pouívané v útoènıch puškách. Vojensky vyrábìné a potaené celoplášem, optimalizované pro pøesnost.</text>
 </string>
 <string id="st_rifle5_ap_rounds">
-<text>Maloráové puškové nábojnice, prùbojné</text>
+    <text>Maloráové puškové støely, prùbojné</text>
 </string>
 <string id="st_rifle5_ap_rounds_desc">
-<text>Rùznì velké maloráové puškové nábojnice s slitinovımi prùbojníky pouívané v útoènıch puškách. Jedná se o speciální náboje urèené k prùniku pancíøem na standardních vzdálenostech, za cenu niší úèinnosti proti tìlu.</text>
+    <text>Rùznì velké maloráové puškové støely s prùbojníky ze slitiny, pouívané v útoènıch puškách. Tyto speciální náboje jsou navreny k proráení pancíøe na standardní vzdálenosti støetnutí, ale následnì se v tìle netøíští ani neotáèí. \n \n</text>
 </string>
 
 <string id="st_rifle7_rounds">
-	<text>Puškové nábojnice</text>
+    <text>Velkoráové puškové støely</text>
 </string>
 <string id="st_rifle7_rounds_desc">
-	<text>Plnohodnotné puškové nábojnice pokryté kovovım pláštìm. Tyto jsou bìnì pouívány pro nabíjení nábojù pro lov a vojenské ostøelování.</text>
+    <text>Plnoráové puškové støely pokryté kovovım pláštìm. Tyto støely se bìnì pouívají k nabíjení nábojù pro lov a vojenské odstøelování. \n \n</text>
 </string>
 <string id="st_rifle7_ap_rounds">
-	<text>Puškové støely, prùbojné</text>
+    <text>Velkoráové puškové støely, prùbojné</text>
 </string>
 <string id="st_rifle7_ap_rounds_desc">
-	<text>Plnohodnotné puškové støely s vloenımi slitinovımi prùbojníky. Tyto se nacházejí v nábojích urèenıch pro vojenské a speciální jednotky, které mají za cíl pøekonat tìlesnou zbroj z velké vzdálenosti.</text>
+    <text>Plnoráové puškové støely s zabudovanımi prùbojníky ze slitiny. Tyto støely se nacházejí ve speciálních nábojích pouívanıch vojenskımi a speciálními jednotkami k proráení lehkého pancíøe vozidel na dlouhou vzdálenost. \n \n</text>
+</string>
+
+
+	
+  <string id="ui_mcm_menu_ammomaker">
+    <text>Vıroba munice</text>
+</string>
+<string id="ui_mcm_ammomaker_title">
+    <text>Vıroba munice</text>
+</string>
+<string id="ui_mcm_ammomaker_old_salvage">
+    <text>Šance na získání munice</text>
+</string>
+<string id="ui_mcm_ammomaker_old_salvage_desc">
+    <text>Násobitel šance na získání bìné munice. Tento násobitel se pøièítá k jednotlivım šancím na získání komponentù. Napøíklad, pokud máte 50% šanci na získání nábojnic a tento posuvník je nastaven na 60%, vaše koneèná šance je (0,5 * 0,6) = 0,3, tedy 30% šance na získání nábojnic.
+    </text>
+</string>
+<string id="ui_mcm_ammomaker_old_salvage">
+    <text>Násobitel šance na získání munice</text>
+</string>
+<string id="ui_mcm_ammomaker_old_salvage_desc">
+    <text>Násobitel šance na získání bìné munice. Tento násobitel se pøièítá k jednotlivım šancím na získání komponentù. Napøíklad, pokud máte 50% šanci na získání nábojnic a tento posuvník je nastaven na 60%, vaše koneèná šance je (0,5 * 0,6) = 0,3, tedy 30% šance na získání nábojnic.
+    </text>
+</string>
+<string id="ui_mcm_ammomaker_new_salvage">
+    <text>Násobitel šance na získání kvalitní munice</text>
+</string>
+<string id="ui_mcm_ammomaker_new_salvage_desc">
+    <text>Násobitel šance na získání kvalitní munice (za pøedpokladu pouití Anomaly Ballistic Framework). Tento násobitel se pøièítá k jednotlivım šancím na získání komponentù. Napøíklad, pokud máte 50% šanci na získání nábojnic a tento posuvník je nastaven na 60%, vaše koneèná šance je (0,5 * 0,6) = 0,3, tedy 30% šance na získání nábojnic.
+    </text>
+</string>
+<string id="ui_mcm_ammomaker_powder">
+    <text>Šance na získání støelného prachu</text>
+</string>
+<string id="ui_mcm_ammomaker_powder_desc">
+    <text>Šance na získání støelného prachu pøi rozebírání munice.
+    </text>
+</string>
+<string id="ui_mcm_ammomaker_casing">
+    <text>Šance na získání nábojnic</text>
+</string>
+<string id="ui_mcm_ammomaker_casing_desc">
+    <text>Šance na získání nábojnic pøi rozebírání munice.
+    </text>
+</string>
+<string id="ui_mcm_ammomaker_bullet">
+    <text>Šance na získání støel</text>
+</string>
+<string id="ui_mcm_ammomaker_old_salvage_desc">
+    <text>Šance na získání støel pøi rozebírání munice.
+    </text>
+</string>
+
+	<!-- new mats -->
+	
+<string id="st_powder_fireball">
+    <text>Fragmenty termálních artefaktù</text>
+</string>
+<string id="st_powder_fireball_desc">
+    <text>Rozemleté zbytky termálnì aktivních artefaktù, pouívané pøi vırobì urèitıch druhù munice. Lze je míchat do pomalu hoøících prachù pro zvıšení jejich úèinnosti nebo pouít pøi vırobì zápalné munice. Nádoba je pøíjemnì teplá na dotek.\n \n</text>
+</string>
+<string id="st_powder_nightstar">
+    <text>Fragmenty nestabilních artefaktù</text>
+</string>
+<string id="st_powder_nightstar_desc">
+    <text>Rozemleté zbytky nestabilních artefaktù, pouívané pøi vırobì urèitıch druhù munice. Ve tmì mírnì záøí a v nádobì vibrují. \n \n</text>
+</string>
+<string id="st_powder_blood">
+    <text>Fragmenty chemickıch artefaktù</text>
+</string>
+<string id="st_powder_blood_desc">
+    <text>Rozemleté zbytky chemicky aktivních artefaktù, pouívané pøi vırobì urèitıch druhù munice. Uvolnìné toxické chemikálie vyadují opatrnost pøi manipulaci. \n \n</text>
+</string>
+<string id="st_powder_gravi">
+    <text>Fragmenty gravitaèních artefaktù</text>
+</string>
+<string id="st_powder_gravi_desc">
+    <text>Rozemleté zbytky artefaktù, které vytváøejí gravitaèní pole, pouívané pøi vırobì urèitıch druhù munice. Neustále chrastí v nádobì. \n \n</text>
+</string>
+<string id="st_powder_medusa">
+    <text>Fragmenty medúzy</text>
+</string>
+<string id="st_powder_medusa_desc">
+    <text>Tato poloka byla zrušena. Pokud ji máte, omlouváme se! Prosím, prodejte ji.</text>
+</string>
+<string id="st_powder_battery">
+    <text>Fragmenty elektrickıch artefaktù</text>
+</string>
+<string id="st_powder_battery_desc">
+    <text>Rozemleté zbytky elektricky aktivních artefaktù. Drení nádoby zpùsobuje, e se vám postaví vlasy na hlavì. \n \n </text>
+</string>
+
+<string id="st_powder_fire">
+    <text>Zápalnı prach</text>
+</string>
+<string id="st_powder_fire_desc">
+    <text>Plechnovka obsahující zápalnou smìs sloenou z hoøèíku, hliníku a dusiènanu barnatého. Obvykle se nakupuje ve velkém, tento prach se nachází v malém mnoství v nìkterıch typech prùbojné zápalné munice. Lze také syntetizovat z fragmentù artefaktù.\n \n </text>
+</string>
+
+<string id="st_crush">
+    <text>Rozdrtit na fragmenty</text>
 </string>
 
 <string id="st_batch_breakdown">
-	<text>Hromadná demontá[!]</text>
+    <text>Hromadná demontá [!]</text>
 </string>
-	
+
 </string_table>
