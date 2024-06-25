@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	
+<!-- Průvodce Hříchu -->
+<string id="red_greh_guide_start_dialog_1">
+    <text>Vítej, můj bratře. Předpokládám, že potřebuješ nějakou pomoc.</text>
+</string>
+
+<string id="meet_red_greh_guide_0">
+    <text>Myslím, že se neznáme.</text>
+</string>
+<string id="meet_red_greh_guide_1">
+    <text>Pak mi dovol, abych tě osvětlil, bratře. Jsem Hors - průvodce a zvěd Hříchu. Mohu tě zavést na mnoho míst, pokud si budeš přát. Jmenovitě na most do Limansku, Dům kultury v Pripyati a Jubilejní servisní centrum na Předměstí. Nicméně, budu vyžadovat malý poplatek za své služby - aby byla zajištěna dokončení tvé práce ve vizi Mistra.</text>
+</string>
+
+<string id="meet_red_greh_guide_list_0">
+    <text>Připomeň mi, kam mě můžeš zavést.</text>
+</string>
+<string id="meet_red_greh_guide_list_1">
+    <text>Mohu tě zavést k mostu do Limansku za pět set rublů, do Domu kultury v Pripyati za tři tisíce rublů a do Jubilejního servisního centra na Předměstí za čtyři tisíce rublů.</text>
+</string>
+
+<string id="travel_red_greh_guide_0">
+    <text>Musím se vydat na cestu.</text>
+</string>
+<string id="travel_red_greh_guide_1">
+    <text>Kam musíš jít, bratře?</text>
+</string>
+<string id="travel_red_greh_guide_2">
+    <text>Na most do Limansku. %c[d_orange][500 RU]</text>
+</string>
+<string id="travel_red_greh_guide_3">
+    <text>Dům kultury. %c[d_orange][3000 RU]</text>
+</string>
+<string id="travel_red_greh_guide_4">
+    <text>Jubilejní servisní centrum. %c[d_orange][4000 RU]</text>
+</string>
+<string id="travel_red_greh_guide_5">
+    <text>Rozmyslel jsem si to.</text>
+</string>
+
+<string id="red_greh_guide_background_1">
+    <text>Není moc co říct. Začal jsem jako obyčejný stalker. A pak jsem si uvědomil chybu své chamtivosti a marnost tohoto hříšného světa.</text>
+</string>
+<string id="red_greh_guide_background_2">
+    <text>Ale jak ses přidal k naší věci?</text>
+</string>
+<string id="red_greh_guide_background_3">
+    <text>Moje poslední úkol - když jsem byl ještě obyčejný stalker - nešel podle plánu. Skončil jsem ztracený, zmatený a vystrašený, běžící temným lesem jako zatoulané zvíře. Pak mě obklopila smečka pseudopsů. Myslel jsem, že už nevydržím ani chvilku, ale pak se z hustého křoví objevili členové Hříchu. Jejich přítomnost uklidnila mutanty, kteří ustoupili ode mě. Jeden z Hříšníků ke mně přistoupil. Řekl, že ví, kdo jsem, a že mě může zachránit, a pak mi podal láhev. Řekl mi, abych z ní vypil. Další věc, kterou si pamatuji, je, že jsem se probudil v jeskyni. Byly mi dány zásoby: nášivka, vesta a puška. Byl jsem představen Dazhbogovi a Jednomu. Všechno mi vysvětlili. Stal jsem se osvíceným, a teď sloužím Mistrům. Mohu sloužit i tobě, bratře. Stačí jen požádat.</text>
+</string>
+<string id="red_greh_guide_background_4">
+    <text>Budu to mít na paměti. Děkuji, bratře.</text>
+</string>
+
+
+</string_table>

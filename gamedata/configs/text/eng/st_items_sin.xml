@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Předměty frakce Hřích
+-->
+
+<string_table>
+
+<string id="helm_induction">
+    <text>Maska indukce</text>
+</string>
+<string id="helm_induction_descr">
+    <text>%c[ui_gray_1]Tato plynová maska, založená na modelu GP-10, byla navržena pro iniciáty Sin. Když ji nosíte, cítíte se podivně uklidněni... spása konečně přichází!\n \n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_blue] • %c[ui_gray_2] pasivní léčivý efekt\n
+    </text>
+</string>
+
+<string id="st_yellow_herb">
+    <text>Bylina čistoty</text>
+</string>
+<string id="st_yellow_herb_descr">
+    <text>Speciální žluté bylinné doplňky vyvinuté alchymisty Sin. Schopné úplně očistit tělo od toxinů, ačkoliv za to zaplatíte, jak říkají kněží Sin: "Nejprve přijde bolest. Pak přijde tma."\n \n
+    %c[d_red]VAROVÁNÍ:\n \n%c[default]Ujistěte se, že jste v dobrém zdravotním stavu před použitím. Pokud je vaše vůle slabá, zemřete.\n \n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_blue] • %c[ui_gray_2] lék\n
+    %c[d_blue] • %c[ui_gray_2] posvátný předmět\n
+    %c[d_blue] • %c[ui_gray_2] rychlé použití (bylina)\n
+    %c[d_red] • %c[ui_gray_2] způsobuje nesmírnou bolest při konzumaci\n
+    %c[d_red] • %c[ui_gray_2] prodloužená doba zotavení těla\n
+    </text>
+</string>
+
+<string id="st_green_herb">
+    <text>Bylina existence</text>
+</string>
+<string id="st_green_herb_descr">
+    <text>Speciální zelené bylinné doplňky. Používají je členové Sin v terénu pro lékařské účely. Říká se, že rychle regenerují poškozené tkáně neznámým radioaktivním procesem.\n \n
+    %c[ui_gray_3]LÉČENÍ:\n
+    %c[d_red] • %c[ui_gray_2] Obnovuje 2%hp/s, celkem 100%\n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_blue] • %c[ui_gray_2] lék\n
+    %c[d_blue] • %c[ui_gray_2] cenný\n
+    %c[d_blue] • %c[ui_gray_2] posvátný předmět\n
+    %c[d_blue] • %c[ui_gray_2] rychlé použití (bylina)\n
+    %c[d_red] • %c[ui_gray_2] prodloužená doba zotavení těla\n
+    </text>
+</string>
+
+
+<string id="st_red_herb">
+    <text>Bylina krve</text>
+</string>
+<string id="st_red_herb_descr">
+    <text>Byliny rozdrcené do tabletové formy. Ošetřeny neznámými prostředky alchymistů Sinu. Zvyšuje metabolismus a koncentraci, což vede k lepšímu výkonu během dlouhých bojů a cestování. Údajně vyvolává pocit klidu a jasnosti.\n \n
+    %c[ui_gray_3]HOJENÍ:\n
+    %c[d_red] • %c[ui_gray_2] Obnovuje 0.04% zdraví/s, celkem 100%\n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_blue] • %c[ui_gray_2] lék\n
+    %c[d_blue] • %c[ui_gray_2] posvátný předmět\n
+    %c[d_blue] • %c[ui_gray_2] rychlé použití (bylina)\n
+    %c[d_blue] • %c[ui_gray_2] dlouhodobé účinky\n
+    %c[d_red] • %c[ui_gray_2] může vyvolat dočasný pocit nemoci u některých jedinců\n
+    </text>
+</string>
+
+<string id="st_holy_bandage">
+    <text>Požehnaný obvaz</text>
+</string>
+<string id="st_holy_bandage_descr">
+    <text>Elastický obvaz používaný k zastavení krvácení a prevenci infekce ran. Byl lehce pokryt speciální látkou pro očištění místa zranění.\n \n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_blue] • %c[ui_gray_2] první pomoc\n
+    %c[d_blue] • %c[ui_gray_2] rychlé použití (lepící náplast)\n
+    %c[d_blue] • %c[ui_gray_2] posvátný předmět\n
+    %c[d_red] • %c[ui_gray_2] mírně alkoholický\n
+    </text>
+</string>
+
+<string id="mutant_god_hand">
+    <text>Ruka Boží</text>
+</string>
+<string id="mutant_god_hand_description">
+    <text>Severovaná ruka. Mezi členy Sinu se věří, že přináší štěstí.\n \n
+    %c[ui_gray_2]VLASTNOSTI:\n
+    %c[d_cyan] • %c[ui_gray_2] mutovaná část těla\n
+    %c[d_cyan] • %c[ui_gray_2] posvátný předmět\n</text>
+</string>
+
+	
+	<string id="st_elixir_sleep">
+    <text>Elixír spánku</text>
+</string>
+<string id="st_elixir_sleep_descr">
+    <text>Elixír spánku je nápoj, který zlepšuje spojení s Vševědomím a indukuje stav hlubokého klidu.\n \n
+    %c[ui_gray_3]POZNÁMKA:\n \n
+    %c[ui_gray_1]Tento nápoj je vyráběn Sinem, ale nemá žádné škodlivé účinky na nečleny Sinu.\n \n
+    %c[ui_gray_3]HOJENÍ:\n
+    %c[d_red] • %c[ui_gray_2] Obnovuje 1% zdraví/s, celkem 100%\n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_blue] • %c[ui_gray_2] nápoj\n
+    %c[d_blue] • %c[ui_gray_2] sedativum\n
+    %c[d_blue] • %c[ui_gray_2] lék\n
+    %c[d_blue] • %c[ui_gray_2] posvátný předmět\n
+    %c[d_red] • %c[ui_gray_2] velmi silná látka\n
+    </text>
+</string>
+
+<string id="st_elixir_small">
+    <text>Elixír inicianta</text>
+</string>
+<string id="st_elixir_small_descr">
+    <text>Elixír je nápoj, který očišťuje duši a poskytuje výživu a sílu těm, které bůh považuje za hodné. Tento lahvičku jsi obdržel jako iniciant Sinu a jak praví velcí volchevéové, "Připrav se přijmout tuto božskou dar."\n \n
+    %c[ui_gray_3]POZNÁMKA:\n \n
+    %c[ui_gray_1]Vytvoření tohoto nápoje je extrémně složité a pouze alchymisté Sinu na nejvyšší úrovni jsou schopni mít šanci jej správně vyrobit. Pokud je proces vytváření elixíru jakýmkoli způsobem chybný, výsledkem je velmi toxická a nebezpečná látka, schopná mutovat jedince daleko za bod návratu, pomalu a bolestivě je zabíjet.\n \n
+    %c[ui_gray_3]HOJENÍ:\n
+    %c[d_red] • %c[ui_gray_2] Obnovuje 1.8% zdraví/s, celkem 60%\n
+    %c[ui_gray_3]VLASTNOSTI:\n
+    %c[d_blue] • %c[ui_gray_2] nápoj\n
+    %c[d_blue] • %c[ui_gray_2] stimulant\n
+    %c[d_blue] • %c[ui_gray_2] lék\n
+    %c[d_blue] • %c[ui_gray_2] posvátný předmět\n
+    </text>
+</string>
+
+
+	<string id="st_elixir">
+		<text>Elixír</text>
+	</string>
+	<string id="st_elixir_descr">
+		<text>Sílí tvé odhodlání.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] drink\n
+		%c[d_blue] - %c[ui_gray_2] medicína\n
+		%c[d_blue] - %c[ui_gray_2] posvátný předmět\n
+		%c[d_red] - %c[ui_gray_2] velmi silná látka\n
+		%c[d_red] - %c[ui_gray_2] způsobuje krátkodobý zákal vědomí\n
+		</text>
+	</string>
+
+	<string id="st_elixir_bad">
+		<text>Skvrnitý elixír</text>
+	</string>
+	<string id="st_elixir_bad_descr">
+		<text>Elixír je nápoj, který podle Hříchu "očišťuje duši a poskytuje výživu a sílu těm, které bůh uzná za hodné". Pro normální lidské bytosti je nesmírně nebezpečný a toxický, nemluvě o jeho použití při vymývání mozků nevinných stalkerů, kteří se přidávají k tomu strašlivému kultu.\n \n
+		%c[d_red]VAROVÁNÍ:\n \n%c[default]Obsahuje sloučeniny, které vás zcela jistě zabijí. Raději ho nepijte.\n \n
+		%c[ui_gray_3]POZNÁMKA:\n \n
+		%c[ui_gray_1]Tento nápoj se často nachází u mrtvých členů hříchu. I když je tento exemplář zkažený, stále se dá prodat za slušnou cenu ekologům a členům Čistého nebe.\n \n
+		%c[ui_gray_3]VLASTNOSTI:\n
+		%c[d_blue] - %c[ui_gray_2] drink\n
+		%c[d_red] - %c[ui_gray_2] velmi silná látka\n
+		%c[d_red] - %c[ui_gray_2] způsobuje dlouhodobé zakalení vědomí\n
+		%c[d_red] - %c[ui_gray_2] extrémně smrtící\n
+		</text>
+	</string>
+
+
+</string_table>
