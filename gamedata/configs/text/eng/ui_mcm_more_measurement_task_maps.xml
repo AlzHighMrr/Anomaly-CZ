@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+
+<string id="ui_mcm_menu_more_measurement_task_maps">
+    <text>Více lokací pro měřicí úkoly</text>
+</string>
+
+<string id="ui_mcm_more_measurement_task_maps_title">
+    <text>Více lokací pro měřicí úkoly</text>
+</string>
+
+<string id="ui_mcm_more_measurement_task_maps_title_desc">
+    <text>Tento mod umožňuje používat aktuální a sousední mapy při měřicích úkolech.\nTaké umožňuje zakázat použití konkrétních map, které jsou na černé listině.</text>
+</string>
+
+<string id="ui_mcm_more_measurement_task_maps_allow_more_southern_maps">
+    <text>Povolit více jižních map</text>
+</string>
+<string id="ui_mcm_more_measurement_task_maps_allow_more_southern_maps_desc">
+    <text>Povolit Kordon, Rostok a Smetiště pro použití v měřicích úkolech.</text>
+</string>
+
+<string id="ui_mcm_more_measurement_task_maps_allow_more_northern_maps">
+    <text>Povolit více severních map</text>
+</string>
+<string id="ui_mcm_more_measurement_task_maps_allow_more_northern_maps_desc">
+    <text>Povolit Pripyat, Nemocnici a Radar pro použití v měřicích úkolech.</text>
+</string>
+
+<string id="ui_mcm_more_measurement_task_maps_allow_very_northern_maps">
+    <text>Povolit velmi severní mapy</text>
+</string>
+<string id="ui_mcm_more_measurement_task_maps_allow_very_northern_maps_desc">
+    <text>Povolit Generatory, Chornobyl(Jih) a Chornobyl(Sever) pro použití v měřicích úkolech.</text>
+</string>
+
+<string id="ui_mcm_more_measurement_task_maps_allow_underground_maps">
+    <text>Povolit podzemní mapy</text>
+</string>
+<string id="ui_mcm_more_measurement_task_maps_allow_underground_maps_desc">
+    <text>Povolit použití podzemních map v měřicích úkolech.\n
+    Agropromské podzemí, X16 a X18, pokud je povolené také více jižních map.\n
+    Jupiterké podzemí, Vypalovač mozku a X8, pokud je povolené také více severních map.\n
+    Řídicí centrum Monolitu, Sarkofág a Válečná laboratoř Monolitu, pokud je povoleno také použití velmi severních map.</text>
+</string>
+
+</string_table>

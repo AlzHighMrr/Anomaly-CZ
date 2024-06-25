@@ -82,10 +82,10 @@
 </string>
 
 <string id="st_flask">
-    <text>Kantýna (Vyèištìná voda)</text>
+    <text>Èutora (Vyèištìná voda)</text>
 </string>
 <string id="st_flask_descr">
-    <text>Kantýna naplnìna vyèištìnou vodou.\n \n
+    <text>Èutora naplnìna vyèištìnou vodou.\n \n
     %c[0,255,255,255]VLASTNOSTI:\n
     %c[d_cyan] • %c[ui_gray_2] Nápoj\n
     </text>

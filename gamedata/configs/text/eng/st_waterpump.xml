@@ -5,7 +5,7 @@
 	</string>
 
 	<string id="st_water_pump_fill">
-		<text>Naplnìní èutory ($$ACTION_USE$$)</text>
+		<text>Napumpovat vodu ($$ACTION_USE$$)</text>
 	</string>
 
 	<string id="st_water_pump_no_canteen">
