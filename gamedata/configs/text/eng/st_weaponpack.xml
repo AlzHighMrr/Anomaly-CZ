@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<string_table>
+	<string id="st_wpn_uzi_sk2">
+		<text>UZI Woodstock </text>
+	</string>
+	<string id="st_wpn_uzi_sk2_descr">
+		<text>Uzi je rodina izraelských samopalů a kulometů s otevřeným závěrem a zpětným rázem, které poprvé zkonstruoval major Uziel "Uzi" Gal koncem 40. let 20. století, krátce po vzniku státu Izrael. Jedná se o jednu z prvních zbraní s teleskopickým závěrem, který umožňuje umístit zásobník do pistolové rukojeti a zkrátit tak zbraň.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] - %c[ui_gray_2] ŽÁDNÉ\n</text>
+	</string>
+
+		<string id="st_wpn_scorpion">
+		<text>Scorpion EVO SMG </text>
+	</string>
+	<string id="st_wpn_scorpion_descr">
+		<text>Scorpion EVO 3 je karabina ráže 9 mm vyráběná Českou zbrojovkou Uherský Brod, varianta samopalu s výběrovou střelbou je označována jako A1 a poloautomatická varianta jako S1. Označení EVO 3 značí, že zbraň je třetí generací řady malých samopalů CZ, kterou zahájil samopal Skorpion vz. 61, který s ní mechanicky nesouvisí.\n \n
+		%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n
+		%c[d_purple] - %c[ui_gray_2] ŽÁDNÉ\n</text>
+	</string>
+
+	<string id="st_wpn_ppsh_short">
+		<text>PPSH Short </text>
+	</string>
+	<string id="st_wpn_ppsh_short_descr">
+		<text>PPSh-41 je samopal se selektivní střelbou, otevřeným závěrem a blowbackem, který střílí náboj 7,62?25 mm Tokarev. Byl zkonstruován Georgiem Špaginem ze Sovětského svazu jako levnější a zjednodušená alternativa k PPD-40.\n \n
+		%c[ui_gray_2]%c[ui_gray_2]PŘÍSLUŠENSTVÍ: \n: \n
+		%c[d_purple] - %c[ui_gray_2] ŽÁDNÉ\n</text>
+	</string>
+
+	<string id="st_mag_ppsh_short">
+		<text>Zásobník na 35 nábojů</text>
+	</string>
+	<string id="st_mag_ppsh_short_descr">
+		<text>Zásobník 7,62x25 na 35 nábojů pro munici 7,62x25 </text>.
+	</string>
+
+</string_table>
