@@ -11,7 +11,7 @@
 <!-- ================================================================================================================-->
 <string_table>
 
-    <!-- Western goods trader encyclopedia entry -->
+    <!-- Encyklopedický záznam o Williams "Popel" Heades -->
    <string id="encyclopedia_characters_western_goods_ashes">
     <text>Williams "Popel" Heades</text>
 </string>
@@ -28,7 +28,7 @@
 </string>
 
 
-    <!-- GPS locator encyclopedia entry -->
+    <!-- Encyklopedický záznam o GPS lokátoru -->
    <string id="encyclopedia_items_western_goods_gps">
     <text>GPS Lokátor</text>
 </string>
@@ -44,7 +44,7 @@
 </string>
 
 
-    <!-- Flea Market encyclopedia entry -->
+    <!-- Encyklopedický záznam o Bleším trhu -->
  <string id="encyclopedia_features_western_goods_flea">
     <text>Bleší trh</text>
 </string>
@@ -63,7 +63,7 @@
 </string>
 
 
-    <!-- Oleksandr Chernenko encyclopedia entry -->
+    <!-- Encyklopedický záznam o Oleksandr Chernenko y -->
    <string id="encyclopedia_characters_western_goods_oleksandr">
     <text>Kapitán Oleksandr Èernìnko</text>
 </string>
@@ -81,7 +81,7 @@
 </string>
 
 
-    <!-- Hand drawn map encyclopedia entry -->
+    <!-- Encyklopedický záznam o kreslené mapì -->
     <string id="encyclopedia__notes_western_goods_hand_drawn_map">
         <text>Ruènì kreslená mapa</text>
     </string>
@@ -89,5 +89,72 @@
     <string id="encyclopedia__notes_western_goods_hand_drawn_map_text">
         <text>\n</text>
     </string>
+
+      <!-- Encyklopedický záznam o zapalovaèi -->
+  <string id="encyclopedia_items_western_goods_bic_lighter">
+    <text>Zapalovaè</text>
+</string>
+
+<string id="encyclopedia_items_western_goods_bic_lighter_text">
+    <text>
+        %c[pda_white]Zapalovaè%c[ui_gray_1] malý a jednorázový zapalovaè, který lze použít k osvìtlení vašeho okolí, ale také k zapálení rùzných vìcí.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nZapalovaèe jsou mnohými stalkery považovány za jedno z nezbytností k pøežití v Zónì. Èasto se používají k zapálení cigaret, ale nejen to - jsou dostateènì silné na zapálení táborákù (vybavte se a vytáhnìte zapalovaè, abyste tak uèinili).\n
+        \nPoskytuje také malé svìtlo, které lze použít k osvìtlení vašeho bezprostøedního okolí, zatímco zùstáváte ponìkud diskrétní, zejména v noci.
+    </text>
+</string>
+
+<!-- Encyklopedický záznam o zapalovaèi Zippo -->
+<string id="encyclopedia_items_western_goods_zippo_lighter">
+    <text>Zippo zapalovaè</text>
+</string>
+
+<string id="encyclopedia_items_western_goods_zippo_lighter_text">
+    <text>
+        %c[pda_white]Zippo zapalovaè%c[ui_gray_1] je odolný, vìtruodolný zapalovaè, který je spolehlivým zdrojem ohnì v Zónì.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nZapalovaèe Zippo jsou známé svou robustností a spolehlivostí. Jsou vìtruodolné a mohou být znovu naplnìny, což z nich èiní dlouhotrvající nástroj v Zónì. Stalkeøi je èasto používají k zapalování cigaret, táborákù nebo dokonce k osvìtlení ve tmì.\n
+        \nJejich pevná kovová konstrukce a schopnost udržet plamen zapálený bez nutnosti držet tlaèítko z nich èiní oblíbenou volbu mezi mnoha stalkery. Navzdory své mírnì vyšší hmotnosti ve srovnání s jednorázovými zapalovaèi je jejich odolnost a spolehlivost èiní cenným pomocníkem v drsných podmínkách Zóny.
+    </text>
+</string>
+
+
+        <!--Encyklopedický záznam o SigSauer KILO5K  -->
+  <string id="encyclopedia_items_western_goods_rangefinder">
+    <text>SigSauer KILO5K</text>
+</string>
+
+<string id="encyclopedia_items_western_goods_rangefinder_text">
+    <text>
+        %c[pda_white]SigSauer KILO5K%c[ui_gray_1] je laserový dálkomìr, který lze použít k mìøení vzdálenosti k cíli.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nTento kompaktní a robustní dálkomìr je výkonný nástroj pro mìøení vzdálenosti k rùzným cílùm.\n
+        \nMìøí:
+        \n• vzdálenost na pøímé viditelnosti (LOS), tedy pøímou linii od dálkomìru k cíli;
+        \n• horizontální složku vzdálenosti (HCD), což je dvourozmìrná vzdálenost (nezahrnující výšku) od dálkomìru k cíli.\n
+        \nPro zajištìní pohodlí pøi používání má dálkomìr dva barevné režimy, èervený (optimální bìhem dne) a zelený (optimální v noci pøi používání noèního vidìní).
+    </text>
+</string>
+
+<!-- Encyklopedický záznam o Garmin eTrex 10 -->
+<string id="encyclopedia_items_western_goods_compass">
+    <text>Garmin eTrex 10</text>
+</string>
+
+<string id="encyclopedia_items_western_goods_compass_text">
+    <text>
+        %c[pda_white]Garmin eTrex 10%c[ui_gray_1] je zaøízení, které lze použít k získání rùzných informací o svém uživateli.\n
+        \n%c[pda_green]Informace%c[ui_gray_1]\n
+        \nToto kompaktní zaøízení nabízí mnoho funkcí. Je velmi dobrým nástrojem pro orientaci v Zónì díky své vysoké spolehlivosti proti psi-emisím.\n
+        \nFunkce:
+        \n• %c[pda_white]Kompas%c[ui_gray_1] : ukazuje smìr uživatele;
+        \n• %c[pda_white]Rychlost%c[ui_gray_1] : aktuální rychlost (v %c[pda_white]km/h%c[ui_gray_1]) uživatele;
+        \n• %c[pda_white]Vzdálenost k dalšímu%c[ui_gray_1] : vzdálenost (v %c[pda_white]km%c[ui_gray_1]) k dalšímu bodu;
+        \n• %c[pda_white]ETA na cíl%c[ui_gray_1] : èas (%c[pda_white]24h%c[ui_gray_1] formát) pøíjezdu uživatele k bodu;
+        \n• %c[pda_white]Èas k dalšímu%c[ui_gray_1] : èas potøebný (v %c[pda_white]HH:mm%c[ui_gray_1], nebo %c[pda_white]mm:ss%c[ui_gray_1] pokud ménì než hodina) k dosažení bodu.\n
+        \nVe výchozím nastavení je kurzor kompasu fixován a jeho pozadí ukazuje smìr. Lze jej však zmìnit tak, aby zamykal sever a kurzor se otáèel místo pozadí.
+    </text>
+</string>
+
 
 </string_table>
