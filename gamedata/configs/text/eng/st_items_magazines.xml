@@ -30,10 +30,10 @@
 	<!-- MCM -->
 	
 <string id="ui_mcm_menu_magazines">
-  <text>Nastavení zásobníkù</text>
+  <text>Nastavení Zásobníkù</text>
 </string>
 <string id="ui_mcm_menu_mgmt">
-  <text>Nastavení zásobníkù</text>
+  <text>Nastavení Zásobníkù</text>
 </string>
 <string id="ui_mcm_menu_hud">
   <text>Zobrazení Zásobníkù</text>
@@ -42,7 +42,7 @@
   <text>Možnosti Hry</text>
 </string>
 <string id="ui_mcm_magazines_mgmtitle">
-  <text>Nastavení zásobníkù</text>
+  <text>Nastavení Zásobníkù</text>
 </string>
 <string id="ui_mcm_magazines_hudtitle">
   <text>Možnosti Zobrazení</text>

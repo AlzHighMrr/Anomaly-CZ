@@ -3,10 +3,10 @@
 <string_table>
 	
 	<string id="ui_mcm_better_stats_bars_title">
-		<text>Lepší pruhy statistik</text>
+		<text>Better Stats Bars</text>
 	</string>
 	<string id="ui_mcm_menu_better_stats_bars">
-		<text>Lepší pruhy statistik</text>
+		<text>Nastavení B.S.B</text>
 	</string>
 
 <string id="ui_mcm_better_stats_bars_positive_color_help">
@@ -26,7 +26,7 @@
 </string>
 
 <string id="ui_mcm_better_stats_bars_negative_color_help">
-    <text>Barva sníženého pruhu statistik</text>
+    <text>Barva sníženého pruhu</text>
 </string>
 <string id="ui_mcm_better_stats_bars_negative_color_a">
     <text>Prùhlednost</text>
@@ -42,7 +42,7 @@
 </string>
 
 <string id="ui_mcm_better_stats_bars_neutral_color_help">
-    <text>Barva nezmìnìného pruhu statistik</text>
+    <text>Barva nezmìnìného pruhu</text>
 </string>
 <string id="ui_mcm_better_stats_bars_neutral_color_a">
     <text>Prùhlednost</text>
@@ -132,10 +132,10 @@
 
 
 	<string id="ui_mcm_better_stats_bars_acid_bar_fix">
-    <text>Alternativní Zobrazení Kyselinového Pruhu</text>
+    <text>Alternativní Zobrazení ACID Pruhu</text>
 </string>
 <string id="ui_mcm_better_stats_bars_acid_bar_fix_desc">
-    <text>V režimu "Použít Herní Hodnoty Max" zvyšuje použitelnost kyselinového pruhu s vìtším pokrytím tím, že umìle snižuje sílu zásahù min za cenu pøesnosti zobrazení</text>
+    <text>V režimu "Použít herní hodnoty na max" zvyšuje použitelnost ACID pruhu s vìtším pokrytím tím, že umìle snižuje sílu zásahù min za cenu pøesnosti zobrazení</text>
 </string>
 
 		

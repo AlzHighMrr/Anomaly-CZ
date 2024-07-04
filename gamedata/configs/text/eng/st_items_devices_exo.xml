@@ -115,7 +115,7 @@
 	</string>
 	
 	<string id="st_power">
-		<text>Úroveò síly:</text>
+		<text>Úroveò energie:</text>
 	</string>
 	<string id="st_equipped_supply">
 		<text>Vybavený zdroj napájení:</text>
@@ -177,14 +177,14 @@
 	</string>
 
 	<string id="st_low_power">
-		<text>[SYSCTL] WARN: NÍZKÝ STAV BATERIE</text>
+		<text>[SYSCTL] VAROVÁNÍ: NÍZKÝ STAV BATERIE</text>
 	</string>
 	
 	<string id="ui_mcm_menu_exo">
-		<text>Nastavení napájení exoskeletù</text>
+		<text>Nastavení Exoskeletù (Napájení)</text>
 	</string>
 	<string id="ui_mcm_exo_title">
-		<text>Nastavení napájení exoskeletù</text>
+		<text>Nastavení Exoskeletù (Napájení)</text>
 	</string>
 	
 	<string id="ui_mcm_exo_drain">

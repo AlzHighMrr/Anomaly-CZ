@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 
 <!-- 
 	MCM
@@ -7,73 +7,208 @@
 
 
 	<string id="ui_mcm_body_health_system_title">
-		<text>Body Health System</text>
+		<text>Nastavenн BHS</text>
 	</string>
 	<string id="ui_mcm_menu_body_health_system">
-		<text>BHS</text>
+		<text>Nastavenн BHS</text>
 	</string>
 
-	<string id="ui_mcm_body_health_system_TEXT_BASED_PATCH">
-		<text>Text HUD Replacer</text>
-	</string>
-	<string id="ui_mcm_body_health_system_TEXT_BASED_PATCH_desc">
-		<text>(Reloading required) Text version of HUD.</text>
-	</string>
 
-	<string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE">
-		<text>New Limb Penalties feature</text>
-	</string>
-	<string id="ui_mcm_body_health_system_NEW_LIMB_PENALTIES_FEATURE_desc">
-		<text>(Reloading required) Enabling this activates new penalties feature. Disabling returns old BHS penalties.</text>
-	</string>
-	<string id="ui_mcm_body_health_system_new_voice_sounds">
-		<text>New voice for penalties</text>
-	</string>
-	<string id="ui_mcm_body_health_system_new_voice_sounds_desc">
-		<text>Enabling this activates new voice during sprint with damaged legs. Disabling returns voice from original mod.</text>
-	</string>
-	<string id="ui_mcm_body_health_system_leg_penalty_minimum_hp">
-		<text>Minimum Leg HP for camera sway penalty</text>
-	</string>
-	<string id="ui_mcm_body_health_system_leg_penalty_minimum_hp_desc">
-		<text>HP of at least one leg must be below this value to play effects. Default slider value of 5 means that effects will play at 4 or less HP. (Movement speed penalty will still be there, for now)</text>
-	</string>
-	<string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp">
-		<text>Minimum Leg HP for damage during sprint</text>
-	</string>
-	<string id="ui_mcm_body_health_system_leg_limping_damage_minimum_hp_desc">
-		<text>Sprint with damaged leg has a chance to deal damage. This slider sets the minimum amount of leg HP needed to play this effect, i.e. if slider is 4 and leg HP is 4 then effect will be active. (Value of -1 disables the feature)</text>
-	</string>
-	<string id="ui_mcm_body_health_system_leg_animation_power">
-		<text>Legs Camera Effects Power</text>
-	</string>
-	<string id="ui_mcm_body_health_system_leg_animation_power_desc">
-		<text>Multiplier of legs penalty for camera effect. Default: 1.0.</text>
-	</string>
-	<string id="ui_mcm_body_health_system_arm_penalty_minimum_hp">
-		<text>Minimum Arms HP for penalties</text>
-	</string>
-	<string id="ui_mcm_body_health_system_arm_penalty_minimum_hp_desc">
-		<text>Summary Arms HP must be below this value to play effects. Default slider value of 10 means that effects will play if both arms have 9 or less HP.</text>
-	</string>
-	<string id="ui_mcm_body_health_system_arm_animation_power">
-		<text>Arms Effects Power</text>
-	</string>
-	<string id="ui_mcm_body_health_system_arm_animation_power_desc">
-		<text>Multiplier for arms penalty effect power. Default: 1.0.</text>
-	</string>
-	<string id="ui_mcm_body_health_system_head_penalty_minimum_hp">
-		<text>Minimum Head Damage for penalties</text>
-	</string>
-	<string id="ui_mcm_body_health_system_head_penalty_minimum_hp_desc">
-		<text>Damage needed to play effects. For example, default slider value of 2 means that each headshot damage must be for 2 or more HP.</text>
-	</string>
-	<string id="ui_mcm_body_health_system_head_animation_power">
-		<text>Head Effects Power</text>
-	</string>
-	<string id="ui_mcm_body_health_system_head_animation_power_desc">
-		<text>Multiplier for head penalty effect power. Default: 1.0.</text>
-	</string>
+	<!-- HUD --><string id="ui_mcm_body_health_system_header_hud">
+	<text>HUD</text>
+</string>
+
+<string id="ui_mcm_body_health_system_hud_type">
+	<text>Typ HUD</text>
+</string>
+<string id="ui_mcm_lst_bhs_default">
+	<text>Vэchozн</text>
+</string>
+<string id="ui_mcm_lst_bhs_eft">
+	<text>EFT</text>
+</string>
+<string id="ui_mcm_lst_bhs_liz">
+	<text>Vlastnн</text>
+</string>
+<string id="ui_mcm_lst_bhs_text">
+	<text>Text</text>
+</string>
+
+<string id="ui_mcm_body_health_system_alt_mode_health">
+	<text>(Pouze textovэ HUD) Povolit zdravн/vэdrћ/psi</text>
+</string>
+
+<string id="ui_mcm_body_health_system_position_x">
+	<text>Pozice HUD X</text>
+</string>
+<string id="ui_mcm_body_health_system_position_y">
+	<text>Pozice HUD Y</text>
+</string>
+
+<string id="ui_mcm_body_health_system_vanilla_bars">
+	<text>Povolit pщvodnн ukazatele (nutnй znovunaиtenн)</text>
+</string>
+<string id="ui_mcm_body_health_system_vanilla_bars_desc">
+	<text>Pro kompatibilitu s jinэmi UI doplтky, kterй pouћнvajн pщvodnн ukazatele zdravн/vэdrћe/psi.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_custom_colors">
+	<text>Vlastnн barvy HUD</text>
+</string>
+<string id="ui_mcm_body_health_system_custom_colors_desc">
+	<text>Pouze netextovй HUD.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_clr_main_r">
+	<text>Hlavnн R</text>
+</string>
+<string id="ui_mcm_body_health_system_clr_main_g">
+	<text>Hlavnн G</text>
+</string>
+<string id="ui_mcm_body_health_system_clr_main_b">
+	<text>Hlavnн B</text>
+</string>
+<string id="ui_mcm_body_health_system_clr_timed_r">
+	<text>Иasovм omezenй zdravн R</text>
+</string>
+<string id="ui_mcm_body_health_system_clr_timed_g">
+	<text>Иasovм omezenй zdravн G</text>
+</string>
+<string id="ui_mcm_body_health_system_clr_timed_b">
+	<text>Иasovм omezenй zdravн B</text>
+</string>
+
+
+
+	<!-- General --><string id="ui_mcm_body_health_system_header_general">
+	<text>Obecnй</text>
+</string>
+
+<string id="ui_mcm_body_health_system_regen">
+	<text>Regenerace konиetin (hernн minuty)</text>
+</string>
+<string id="ui_mcm_body_health_system_regen_desc">
+	<text>Po uplynutн tмchto hernнch minut se nбhodnм vybranб konиetina vylйин o 1 hp (mщћe se sинtat, pokud uplynulo vнce иasu). Jakйkoliv zmмny hernнho иasu a spбnek jsou zahrnuty. "0" zakбћe automatickou regeneraci.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_damage_scale">
+	<text>Nбsobitel poљkozenн konиetin</text>
+</string>
+
+<string id="ui_mcm_body_health_system_enable_display">
+	<text>(Pшedmмty) Povolit popis BHS</text>
+</string>
+<string id="ui_mcm_body_health_system_enable_display_desc">
+	<text>Zakбzat, pokud jinй doplтky pouћнvajн vlastnн popis pro BHS.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_numeric_at">
+	<text>(Pшedmмty) Zobrazit инselnou hodnotu pшi</text>
+</string>
+<string id="ui_mcm_body_health_system_numeric_at_desc">
+	<text>Lйиenн konиetin v popisu pшedmмtu bude zobrazeno jako инslo, kdyћ pшekroин tuto hodnotu.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_numeric_always">
+	<text>(Pшedmмty) Vћdy zobrazн инselnou hodnotu</text>
+</string>
+
+
+
+	<!-- Arms --><string id="ui_mcm_body_health_system_header_arms">
+	<text>Ruce</text>
+</string>
+
+<string id="ui_mcm_body_health_system_arm_opt">
+	<text>Postihy rukou</text>
+</string>
+
+<string id="ui_mcm_body_health_system_arm_pen_min_hp">
+	<text>Minimбlnн HP rukou (v %) pro postihy</text>
+</string>
+<string id="ui_mcm_body_health_system_arm_pen_min_hp_desc">
+	<text>Souhrnnй HP rukou musн bэt pod touto hodnotou, aby se projevily efekty. Vэchozн hodnota posuvnнku 100 znamenб, ћe efekty se projevн, pokud obм ruce majн souhrnnй HP 99 % nebo mйnм.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_arm_anm_pwr">
+	<text>Sнla efektщ</text>
+</string>
+<string id="ui_mcm_body_health_system_arm_anm_pwr_desc">
+	<text>Nбsobitel sнly efektu postihщ rukou. Vэchozн: 1,0.</text>
+</string>
+
+
+
+	<!-- Legs --><string id="ui_mcm_body_health_system_header_legs">
+	<text>Nohy</text>
+</string>
+
+<string id="ui_mcm_body_health_system_leg_opt">
+	<text>Postihy nohou</text>
+</string>
+
+<string id="ui_mcm_body_health_system_leg_pen_min_hp">
+	<text>Minimбlnн HP nohou (v %) pro postihy</text>
+</string>
+<string id="ui_mcm_body_health_system_leg_pen_min_hp_desc">
+	<text>Souhrnnй HP nohou musн bэt pod touto hodnotou, aby se projevily efekty (rychlost a kulhбnн). Vэchozн hodnota posuvnнku 100 znamenб, ћe efekty se projevн, pokud obм nohy majн souhrnnй HP 99 % nebo mйnм.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_leg_anm_pwr">
+	<text>Sнla efektщ kamery</text>
+</string>
+<string id="ui_mcm_body_health_system_leg_anm_pwr_desc">
+	<text>Nбsobitel postihщ nohou pro efekt kamery. Vэchozн: 1,0.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_leg_dmg_min_hp">
+	<text>Minimбlnн HP nohou pro poљkozenн pшi sprintu (v %)</text>
+</string>
+<string id="ui_mcm_body_health_system_leg_dmg_min_hp_desc">
+	<text>HP nohou musн bэt pod touto hodnotou, aby doљlo k poљkozenн bмhem sprintu. Vэchozн hodnota 60 znamenб, ћe existuje љance na poљkozenн, pokud mб alespoт jedna noha mйnм neћ 60 % HP.</text>
+</string>
+
+<string id="ui_mcm_body_health_system_new_voice_sounds">
+	<text>Novэ hlas pro postihy</text>
+</string>
+<string id="ui_mcm_body_health_system_new_voice_sounds_desc">
+	<text>Zapnutн aktivuje novэ hlas bмhem sprintu s poљkozenэmi nohami. Vypnutн vrбtн hlas z pщvodnнho modu.</text>
+</string>
+
+
+
+	<!-- Torso --><string id="ui_mcm_body_health_system_header_torso">
+	<text>Trup</text>
+</string>
+
+<string id="ui_mcm_body_health_system_torso_opt">
+	<text>Postihy trupu</text>
+</string>
+<string id="ui_mcm_body_health_system_torso_opt_desc">
+	<text>Obecnэ limit HP zaloћenэ na zdravн trupu.</text>
+</string>
+
+<!-- Head -->
+<string id="ui_mcm_body_health_system_header_head">
+	<text>Hlava</text>
+</string>
+
+<string id="ui_mcm_body_health_system_head_opt">
+	<text>Postihy hlavy</text>
+</string>
+<string id="ui_mcm_body_health_system_head_pen_min_hp">
+	<text>Minimбlnн poљkozenн hlavy pro postihy</text>
+</string>
+
+<string id="ui_mcm_body_health_system_head_pen_min_hp_desc">
+	<text>Poљkozenн potшebnй k aktivaci efektщ. Napшнklad vэchozн hodnota posuvnнku 2 znamenб, ћe kaћdй poљkozenн hlavy musн bэt 2 nebo vнce HP.</text>
+</string>
+<string id="ui_mcm_body_health_system_head_anm_pwr">
+	<text>Sнla efektщ</text>
+</string>
+<string id="ui_mcm_body_health_system_head_anm_pwr_desc">
+	<text>Nбsobitel sнly efektu postihщ hlavy. Vэchozн: 0,5.</text>
+</string>
 
 
 </string_table>

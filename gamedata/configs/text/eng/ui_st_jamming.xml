@@ -85,13 +85,13 @@
 
 	<!-- MCM -->
 <string id="ui_mcm_menu_wpo">
-    <text>WPO</text>
+    <text>Nastavení Weapon Parts Overhaul</text>
 </string>
 <string id="ui_mcm_wpo_title">
     <text>Revize souèástí zbraní</text>
 </string>
 <string id="ui_mcm_wpo_wpojam">
-    <text>Možnosti zaseknutí zbranì</text>
+    <text>Nastavení zaseknutí zbranì</text>
 </string>
 <string id="ui_mcm_wpo_wpoecon">
     <text>Ekonomické možnosti</text>
@@ -100,24 +100,24 @@
     <text>Rùzné možnosti</text>
 </string>
 <string id="ui_mcm_menu_wpojam">
-    <text>WPO Zaseknutí</text>
+    <text>Zaseknutí zbranì</text>
 </string>
 <string id="ui_mcm_menu_wpoecon">
-    <text>WPO Ekonomika</text>
+    <text>Ekonomika</text>
 </string>
 <string id="ui_mcm_menu_wpomisc">
-    <text>WPO Rùzné</text>
+    <text>Rùzné</text>
 </string>
 
 
 	<string id="ui_mcm_wpo_wpojam_keybind">
-    <text>Klávesová zkratka pro odseknutí</text>
+    <text>Klávesa pro vyndání zaseknuté kulky</text>
 </string>
 <string id="ui_mcm_wpo_wpojam_jamchance">
-    <text>Multiplikátor šance na zaseknutí</text>
+    <text>Násobitel šance na zaseknutí</text>
 </string>
 <string id="ui_mcm_wpo_wpojam_jamchance_desc">
-    <text>Multiplikátor pro vaše zbranì, aby se zasekly novým zpùsobem. Tažením dolù, pokud</text>
+    <text>Násobitel pro vaše zbranì, aby se zasekly novým zpùsobem. Tažením dolù, pokud</text>
 </string>
 <string id="ui_mcm_wpo_wpojam_superjam">
     <text>Povolit super zaseknutí</text>
@@ -178,19 +178,19 @@
     <text>Náklady na servis:</text>
 </string>
 <string id="st_wpn_service_hint">
-    <text>Udržovat souèásti</text>
+    <text>Udržba souèástkek</text>
 </string>
 <string id="st_wpn_service_dropdown">
     <text>Otevøít menu údržby souèástí</text>
 </string>
 <string id="ui_mcm_wpo_wpoecon_altroll">
-    <text>Váhové stavy zbraní</text>
+    <text>Váhový stav zbraní</text>
 </string>
 <string id="ui_mcm_wpo_wpoecon_altroll_desc">
     <text>Stavy zbraní se hodnotí na základì Lagrangeovy interpolace. Celkovì snižuje kvalitu padlých pøedmìtù, což je dobré, pokud rádi sbíráte suroviny, a dobøe se kombinuje s následujícím položkou.</text>
 </string>
 <string id="ui_mcm_wpo_wpoecon_altpartroll">
-    <text>Váhové stavy souèástí</text>
+    <text>Váhový stav souèástí</text>
 </string>
 <string id="ui_mcm_wpo_wpoecon_altpartroll_desc">
     <text>Používá nový vzorec pro padání souèástí zbraní, kde stav zbranì urèuje, zda jsou souèásti hodnoceny jako dobré nebo špatné. Zlepšuje kvalitu padlých pøedmìtù v nižších úrovních a snižuje kvalitu padlých pøedmìtù ve vyšších úrovních.</text>
@@ -268,10 +268,10 @@
     <text>Svoboda</text>
 </string>
 <string id="ui_mcm_wpo_wpomisc_debug">
-    <text>Ladìní</text>
+    <text>Debug</text>
 </string>
 <string id="ui_mcm_wpo_wpomisc_debug_desc">
-    <text>Ladìní, povoluje celou øadu dalších informací v konzolovém záznamu.</text>
+    <text>Debug, povoluje celou øadu dalších informací v konzolovém záznamu.</text>
 </string>
 
 

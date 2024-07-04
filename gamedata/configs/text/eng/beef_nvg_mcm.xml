@@ -6,7 +6,7 @@
 <string_table>
 
 	<string id="ui_mcm_beef_nvg_title">
-		<text>Nastavení noèního vidìní (Beefs NVGs)</text>
+		<text>Nastavení Noèního vidìní (Beefs NVGs)</text>
 	</string>	
 	
 	<string id="ui_mcm_beef_nvg_title_2">
@@ -14,7 +14,7 @@
 	</string>	
 	
 	<string id="ui_mcm_menu_beef_nvg">
-		<text>Noèní vidìní</text>
+		<text>Nastavení Noèního vidìní</text>
 	</string>
 
 

@@ -2,10 +2,10 @@
 
 <string_table>
 <string id="ui_mcm_exo_servo_sounds_title">
-  <text>Nastavení zvukù exoskeletu</text>
+  <text>Nastavení Exoskeletù (Zvuk)</text>
 </string>
 <string id="ui_mcm_menu_exo_servo_sounds">
-  <text>Nastavení zvukù exoskeletu</text>
+  <text>Nastavení Exoskeletù (Zvuk)</text>
 </string>
 <string id="ui_mcm_exo_servo_sounds_volume_walk">
   <text>Hlasitost (chùze)</text>

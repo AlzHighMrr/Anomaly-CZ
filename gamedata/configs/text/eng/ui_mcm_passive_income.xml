@@ -2,10 +2,10 @@
 
 <string_table>
     <string id="ui_mcm_menu_passive_income">
-		<text>Nastavení Pasivních pøíjmù Zóny </text>
+		<text>Nastavení Pasivních pøíjmù</text>
 	</string>
 	<string id="ui_mcm_passinc_title">
-		<text>Nastavení Pasivních pøíjmù Zóny</text>
+		<text>Nastavení Pasivních pøíjmù</text>
 	</string>
 	<string id="ui_mcm_passive_income_salary_mult">
 		<text>Násobitel platu</text>

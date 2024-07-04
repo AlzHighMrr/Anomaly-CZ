@@ -3,10 +3,10 @@
 <string_table>
 	
 	<string id="ui_mcm_weapon_cover_tilt_title">
-		<text>Naklápìní zbranì  (Weapon cover tilt)</text>
+		<text>Nastavení Weapon cover tilt</text>
 	</string>
 	<string id="ui_mcm_menu_weapon_cover_tilt">
-		<text>Naklápìní zbranì</text>
+		<text>Weapon cover tilt</text>
 	</string>
 
 	<string id="ui_mcm_weapon_cover_tilt_enabled">

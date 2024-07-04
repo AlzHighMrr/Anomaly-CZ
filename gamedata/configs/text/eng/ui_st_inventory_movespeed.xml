@@ -9,7 +9,7 @@
 <!-- MCM -->
 
 <string id="ui_mcm_menu_speed">
-    <text>Rychlost</text>
+    <text>Nastavení Rychlosti</text>
 </string>
 <string id="ui_mcm_menu_speed_title">
     <text>Odìvy/zbranì ovlivòují rychlost pohybu</text>
