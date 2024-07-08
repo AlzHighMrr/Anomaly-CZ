@@ -16,16 +16,16 @@
 </string>
 
 <string id="st_fft_guidetext_marsh_post_guid">
-    <text>pozorovací stanovištì</text>
+    <text>Pozorovací stanovištì</text>
 </string>
 <string id="st_fft_guidetext_marsh_pump_water_guid">
-    <text>èerpací stanice</text>
+    <text>Èerpací stanice</text>
 </string>
 <string id="st_fft_guidetext_marsh_old_church_guid">
-    <text>starı kostel</text>
+    <text>Starı kostel</text>
 </string>
 <string id="st_fft_guidetext_marsh_tech_yard_guid">
-    <text>strojovı dvùr</text>
+    <text>Strojovı dvùr</text>
 </string>
 <string id="st_fft_guidetext_escape_village_guid">
     <text>Nováèkovská vesnice v Kordonu</text>
@@ -43,7 +43,7 @@
     <text>Smetištì</text>
 </string>
 <string id="st_fft_guidetext_military_guid">
-    <text>Vojenské sklady</text>
+    <text>Armádní sklady</text>
 </string>
 <string id="st_fft_guidetext_radar_guid">
     <text>Radar</text>
@@ -79,10 +79,10 @@
     <text>Rudı les</text>
 </string>
 <string id="st_fft_guidetext_pripyat_guid">
-    <text>Pøedmìstí Pripyatu</text>
+    <text>Pøedmìstí Pripyati</text>
 </string>
 <string id="st_fft_guidetext_pripyat_guid_mon">
-    <text>Pøedmìstí Pripyatu</text>
+    <text>Pøedmìstí Pripyati</text>
 </string>
 <string id="st_fft_guidetext_jupiter_underground_2_guid">
     <text>Podzemí Jupiteru</text>
@@ -97,48 +97,65 @@
     <text>Jsem pøipraven, vrame se do Mrtvého Mìsta.</text>
 </string>
 <string id="st_fft_guidetext_trucks_cemetery_guid">
-    <text>Kamionovı høbitov</text>
+    <text>Høbitov aut</text>
 </string>
 <string id="st_fft_guidetext_jup_guid_bandit_cont">
-    <text>sklad kontejnerù v Jupiteru</text>
+    <text>Sklad kontejnerù v Jupiteru</text>
 </string>
 <string id="st_fft_guidetext_agroprom_guid_military">
-    <text>vojenská základna v Agropromu</text>
+    <text>Armádní základna v Agropromu</text>
 </string>
 <string id="st_fft_guidetext_darkscape_guid_military">
-    <text>benzínová stanice v Temné kotlinì</text>
+    <text>Benzínka v Temné kotlinì</text>
 </string>
 <string id="st_fft_guidetext_mil_to_yant_on_heli">
-    <text>mobilní laboratoø v Yantaru</text>
+    <text>Mobilní laboratoø v Yantaru</text>
 </string>
 <string id="st_fft_guidetext_stancia_guid">
     <text>Èernobylská jaderná elektrárna</text>
 </string>
 <string id="st_fft_guidetext_travel_to_jup_depo">
-    <text>Dobøe</text>
+    <text>Dobøe.</text>
 </string>
 <string id="st_fft_guidetext_travel_to_outskirts">
-    <text>Dobøe</text>
+    <text>Fajn vyrazíme.</text>
 </string>
 <string id="st_fft_guidetext_travel_to_escape_guid_military">
     <text>kontrolní stanovištì v Kordonu</text>
 </string>
 <string id="st_fft_guidetext_killer_guide_main_base_list">
-    <text>Vaší jedinou moností je zpracovatelná stanice odpadkù na jihovıchodì Zatonu. Bude vás to stát $fare rublù.</text>
+    <text>Vaší jedinou moností je zpracovatelná stanice na odpadky na jihovıchodì Zatonu. Bude tì to stát $clr_gld$fareval$clr_ui8. rublù.</text>
 </string>
 <string id="travel_ds_killer_guide_main_base_1">
     <text>Jsi si jistı? Naše jediná monost je na sever - pøijdeme k stanici zpracování odpadù na jihu Zatonu.</text>
 </string>
 <string id="st_fft_guidetext_zaton_killer_guide_station_list">
-    <text>Prošli jste Skrèitelem na cestì sem? Je zde pouze jedna trasa. Do Mrtvého Mìsta, a stojí to $fare.</text>
+    <text>Prošel jsi kolem vypalovaèe na cestì sem? Je zde pouze jedna trasa. Do Mrtvého Mìsta, a stojí to $clr_gld$fareval$clr_ui8..</text>
 </string>
 
 <string id="st_fft_guidetext_cordon_army_airlift_list">
-    <text>Na naši základnu v Agropromu za %s rublù, stejnì jako na benzínovou stanici v Temné kotlinì za %s a na mobilní laboratoø u jezera Yantar za %s.</text>
+    <text>Na naši základnu v Agropromu za $clr_gld%s$clr_ui8 rublù, stejnì jako na benzínovou stanici v Temné kotlinì za $clr_gld%s$clr_ui8 a na mobilní laboratoø u jezera Yantar za $clr_gld%s$clr_ui8.</text>
 </string>
 
 <string id="st_fft_guidetext_agro_army_airlift_list">
-    <text>Na naše kontrolní stanovištì v Kordonu za %s rublù, stejnì jako na základnu v Yantaru za %s.</text>
+    <text>Na naše kontrolní stanovištì v Kordonu za $clr_gld%s$clr_ui8 rublù, stejnì jako na základnu v Yantaru za $clr_gld%s$clr_ui8.</text>
+</string>
+
+<!-- Added in 2.7 -->
+
+<string id="st_fft_northgate_pream">
+    <text>Nìkteré z mıch obvyklıch destinací jsou nyní nepøístupné kvùli nebezpeènım psychickım emisím od Vypalovaèe, ale na podrobnosti bys ses musel zeptat vìdcù v Yantaru. Zatím zde jsou trasy, které pouívám, a jejich ceny:</text>
+</string>
+
+<string id="st_fft_northgate_text">
+    <text>(zablokováno psy-polem)</text>
+</string>
+
+
+<!-- Added in 2.8 -->
+
+<string id="st_fft_tourist_intro">
+    <text>Jo, øíkají mi Turista. Rád se potuluju po špatnì zmapovanıch oblastech a hledám tajné cesty, o kterıch ostatní stalkeøi nevìdí. Kadopádnì, tady jsou místa, kam tì mohu vzít:</text>
 </string>
 
 </string_table>

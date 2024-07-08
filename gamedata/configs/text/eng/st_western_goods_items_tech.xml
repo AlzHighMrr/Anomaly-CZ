@@ -133,46 +133,82 @@
 	</text>
 </string>
 
+
+
 <string id="st_wg_lighter_bic">
-	<text>Zapalovaè</text>
+    <text>Zapalovaè</text>
 </string>
-
 <string id="st_wg_lighter_bic_s">
-	<text>Zapalovaè</text>
+    <text>Zapalovaè</text>
 </string>
-
 <string id="st_wg_lighter_bic_descr">
-	<text>
-		Standardní zapalovaè BIC. V Zónì bìžnì nenalezený, tento zapalovaè je snadno dostupný v západních evropských zemích. Plný zapalovaè obvykle dokáže zapálit 20 cigaret.\n
-		\n
-		%c[ui_gray_1]VLASTNOSTI:\n
-		%c[d_blue] • %c[ui_gray_2] technologická položka\n
-		%c[d_blue] • %c[ui_gray_2] každodenní položka\n
-		%c[d_blue] • %c[ui_gray_2] importováno\n
-		%c[d_orange] • %c[ui_gray_2] použitelné\n
-	</text>
+    <text>
+        Standardní BIC zapalovaè. V Zónì se èasto nevyskytuje, tento zapalovaè je snadno dostupný v západoevropských zemích. Plný zapalovaè obvykle zapálí 20 cigaret.\n
+        \n
+        %c[ui_gray_1]VLASTNOSTI:\n
+        %c[d_blue] • %c[ui_gray_2] technologický pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] každodenní pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] importovaný\n
+        %c[d_orange] • %c[ui_gray_2] použitelný\n
+    </text>
 </string>
 
-
-	<string id="st_wg_rangefinder">
-	<text>SigSauer KILO5K Laserový dálkomìr</text>
+<string id="st_wg_lighter_zippo">
+    <text>Zippo zapalovaè</text>
+</string>
+<string id="st_wg_lighter_zippo_s">
+    <text>Zippo zapalovaè</text>
+</string>
+<string id="st_wg_lighter_zippo_descr">
+    <text>
+        Klasický Zippo zapalovaè. Známý svou odolností a vìtruodolným designem, tento zapalovaè je oblíbený u mnohých. Je znovu naplnitelný, což znamená, že mùže vydržet celý život pøi správné péèi. Jeho plamen je také nastavitelný, což ho èiní univerzálním pro rùzné použití. Tento konkrétní model se zdá být importovaný mimo Zónu.\n
+        \n
+        %c[ui_gray_1]VLASTNOSTI:\n
+        %c[d_blue] • %c[ui_gray_2] technologický pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] každodenní pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] importovaný\n
+        %c[d_orange] • %c[ui_gray_2] použitelný\n
+    </text>
 </string>
 
+<string id="st_wg_rangefinder">
+    <text>SigSauer KILO5K</text>
+</string>
 <string id="st_wg_rangefinder_s">
-	<text>KILO5K Dálkomìr</text>
+    <text>SigSauer KILO5K</text>
+</string>
+<string id="st_wg_rangefinder_descr">
+    <text>
+        Sig Sauer KILO5K 7x25mm laserový dálkomìr poskytuje pøesné mìøení vzdálenosti v kompaktním balení. Tento dálkomìr je vybaven okulárem ve stylu dalekohledu a dioptrickou korekcí. Maximální dosah na reflexní cíl je 5000 yardù a maximální dosah na jelena je 2000 yardù.\n
+        \n
+        %c[ui_gray_1]VLASTNOSTI:\n
+        %c[d_blue] • %c[ui_gray_2] technologický pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] vojenský pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] importovaný\n
+        %c[d_cyan] • %c[ui_gray_2] cenný\n
+        %c[d_orange] • %c[ui_gray_2] použitelný\n
+    </text>
 </string>
 
-<string id="st_wg_rangefinder_descr">
-	<text>
-		Laserový dálkomìr Sig Sauer KILO5K 7x25 mm poskytuje pøesné možnosti dálkového mìøení v kompaktním provedení. Tento dálkomìr má oèní gumový závìs a nastavení dioptrie. Maximální dosah na odražený cíl je 5 000 yardù a maximální dosah na jelení zvìø je 2 000 yardù.\n
-		\n
-		%c[ui_gray_1]VLASTNOSTI:\n
-		%c[d_blue] • %c[ui_gray_2] technologická položka\n
-		%c[d_blue] • %c[ui_gray_2] vojenská položka\n
-		%c[d_blue] • %c[ui_gray_2] importováno\n
-		%c[d_cyan] • %c[ui_gray_2] cenné\n
-		%c[d_orange] • %c[ui_gray_2] použitelné\n
-	</text>
+<string id="st_wg_compass">
+    <text>Garmin eTrex 10</text>
 </string>
+<string id="st_wg_compass_s">
+    <text>Garmin eTrex 10</text>
+</string>
+<string id="st_wg_compass_descr">
+    <text>
+        Garmin eTrex 10 je ruèní GPS zaøízení. Série eTrex je známá svou robustní konstrukcí, cenovou dostupností a dlouhou výdrží baterie. eTrex 10 je vybaven 2,2" displejem, který je snadno èitelný za jakéhokoli osvìtlení. V prùmìru mùže být v provozu 25 hodin s 2 AA bateriemi.\n
+        \n
+        %c[ui_gray_1]VLASTNOSTI:\n
+        %c[d_blue] • %c[ui_gray_2] technologický pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] importovaný\n
+        %c[d_cyan] • %c[ui_gray_2] cenný\n
+        %c[d_orange] • %c[ui_gray_2] použitelný\n
+    </text>
+</string>
+
+
+
 
 </string_table>

@@ -7,7 +7,7 @@
 
 <string_table>
 	<string id="ui_mcm_menu_fftd">
-    <text>Spravedlivé Rychlé Cestování</text>
+    <text>Nastavení Rychlého cestování</text>
 </string>
 
 <string id="st_fftd_mapspot_estdur">
@@ -35,11 +35,11 @@
 </string>
 
 <string id="ui_mcm_fftd_gen_skillsystem_enabled">
-    <text>Povolit integraci dovednostního systému Haruka</text>
+    <text>Povolit integraci skill systému</text>
 </string>
 
 <string id="ui_mcm_fftd_gen_haruka_enabled_desc">
-    <text>Pokud je nainstalován mod Harukova dovednostního systému a tato možnost je povolena, FFTD vezme násobitel rychlosti pohybu z vaší dovednosti Výdrž a upraví èasy cestování odpovídajícím zpùsobem, napø. násobitel pohybu 1,15 by snížil všechny èasy rychlého cestování pøibližnì o 15 %.\n\nPokud není nainstalován dovednostní systém, tato nastavení nemají žádný vliv.</text>
+    <text>Pokud je nainstalován mod Haruka skill system a tato možnost je povolena, FFTD vezme násobitel rychlosti pohybu z vaší dovednosti Výdrž a upraví èasy cestování odpovídajícím zpùsobem, napø. násobitel pohybu 1,15 by snížil všechny èasy rychlého cestování pøibližnì o 15 %.\n\nPokud není nainstalován dovednostní systém, tato nastavení nemají žádný vliv.</text>
 </string>
 
 <string id="ui_mcm_fftd_usedisguisefix">
@@ -75,11 +75,11 @@
 </string>
 
 <string id="ui_mcm_header_loc_travel">
-    <text>Cestování ve stejné mapì</text>
+    <text>Cestování ve stejné lokaci</text>
 </string>
 
 <string id="ui_mcm_header_map_travel">
-    <text>Cestování na jinou mapu</text>
+    <text>Cestování na jinou lokaci</text>
 </string>
 
 <string id="st_fftd_rub">
@@ -87,7 +87,7 @@
 </string>
 
 <string id="st_fftd_toopoor">
-    <text>Nemáte peníze na zaplacení prùchodu</text>
+    <text>Nemáš peníze na zaplacení prùchodu</text>
 </string>
 
 <string id="st_fftd_mapspot_guideto">
@@ -95,11 +95,11 @@
 </string>
 
 <string id="st_fftd_farepaid_guide">
-    <text>Zavolali jste nedalekého zkušeného prùvodce a zaplatili mu %s, aby vás dovezl na místo urèení.</text>
+    <text>Zavolal jsi nedalekého zkušeného prùvodce a zaplatil mu %s, aby tì dovezl na místo urèení.</text>
 </string>
 
 <string id="st_fftd_guides_ignored">
-    <text>Žádní prùvodci nejsou ochotní pøijít na takovéto místo jenom kvùli vás</text>
+    <text>Žádní prùvodci nejsou ochotní pøijít na takovéto místo jenom kvùli tobì</text>
 </string>
 
 <string id="ui_mcm_menu_gtcfg">
@@ -107,7 +107,7 @@
 </string>
 
 <string id="ui_mcm_fftd_cost_coef">
-    <text>Náklady v rublech za ujetý metr</text>
+    <text>Náklady v rublech za metr</text>
 </string>
 
 <string id="ui_mcm_fftd_pause_stats">
@@ -159,7 +159,7 @@
 </string>
 
 <string id="st_fftd_enemy_guides">
-    <text>Jediní prùvodci v okolí jsou nepøáteli vaší souèasné frakce</text>
+    <text>Jediní prùvodci v okolí jsou nepøáteli tvé souèasné frakce</text>
 </string>
 
 <string id="st_fftd_guides_none">
@@ -236,7 +236,7 @@
 </string>
 
 <string id="ui_mcm_fftd_gen_debuglogs_enabled">
-    <text>Povolit ladící záznamy</text>
+    <text>Povolit Debug logy</text>
 </string>
 
 <string id="ui_mcm_fftd_gen_allow_debug_travel">
@@ -469,5 +469,173 @@
 <string id="ui_mcm_fftd_gen_nice_round_numbers_desc">
     <text>Pokud je povoleno, ceny, které FFT generuje, budou zaokrouhlovány dolù na nejbližší 100, aby se podobaly èistìjšímu vzhledu bìžných cen.</text>
 </string>
+
+
+<!-- Added in 2.7 -->
+
+<string id="st_fftd_mapspot_kilometers">
+    <text>km</text>
+</string>
+
+<string id="st_fft_travel_psyblocked">
+    <text>Silné psy pole zabraòuje cestování na toto místo</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_northgate">
+    <text>Pøístup zablokován kvùli Vypalovaèi mozku</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_northgate_desc">
+    <text>Pokud je tato možnost povolena, psy-pole Vypalovaèe mozku zablokuje veškeré rychlé cestování mezi severem a jihem mapy, dokud nebude deaktivováno, vèetnì cestování s prùvodcem. Toto nastavení nemá žádný úèinek, pokud není povolen pøíbìhový režim.</text>
+</string>
+
+<string id="ui_mcm_header_gameplay">
+    <text>Nastavení hry</text>
+</string>
+
+<string id="ui_mcm_header_ui">
+    <text>Nastavení rozhraní a vzhledu</text>
+</string>
+
+<string id="ui_mcm_header_debug">
+    <text>Øešení problémù a kompatibilita</text>
+</string>    
+
+<string id="ui_mcm_fftd_gen_show_distdur">
+    <text>Zobrazit vzdálenost a èas v kontextovém menu</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_show_distdur_desc">
+    <text>Pokud je tato možnost povolena, všechny možnosti rychlého cestování zobrazí vzdálenost a èas v kontextovém menu na mapì PDA. Zakázání této možnosti odstraní tyto užiteèné informace, èímž se menu bude více podobat pùvodní verzi.</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_verbose_enabled">
+    <text>Podrobný výpis do logu je povolen</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_verbose_enabled_desc">
+    <text>"Podrobný" je programátorský termín pro "velmi zahlcující". Tato možnost zapisuje do logu maximální množství informací a musí být povolena, pokud hlásíte problém.</text>
+</string>
+
+<string id="pol_smart_terrain_1_1">
+    <text>Rozcestí (Louka)</text>
+</string>
+
+<string id="pol_smart_terrain_1_3">
+    <text>Kemp banditù (Louka)</text>
+</string>
+
+
+<!-- Added in 2.8 -->
+
+	<string id="st_fft_travel_zoneblocked_1">
+    <text>Cestování lze zahájit pouze ze základny vlastnìných pøátelskou frakcí</text>
+</string>
+
+<string id="st_fft_travel_zoneblocked_2">
+    <text>Cestování lze zahájit pouze ze základny vlastní frakce</text>
+</string>
+
+<string id="ui_mcm_fft_zone_mode">
+    <text>Povolit cestování pouze ze základny frakcí</text>
+</string>
+
+<string id="ui_mcm_fft_zone_mode_desc">
+    <text>Volitelnì omezení, odkud hráè mùže zahájit cestování:\n
+        Zakázáno: cestování lze zahájit odkudkoli, stejnì jako v pùvodní verzi.\n
+        Pøátelské: cestování lze zahájit pouze v pøípadì, že hráè je v hranicích základny pøátelské frakce. Doporuèeno pro vìtšinu hráèù.\n
+        Vlastní frakce: cestování lze zahájit pouze v pøípadì, že hráè je v hranicích základny vlastní frakce. Toto bude mít vliv na nìkteré frakce více než na jiné.
+    </text>
+</string>
+
+<string id="ui_mcm_lst_fft_zonetravel_any">
+    <text>Zakázáno</text>
+</string>
+
+<string id="ui_mcm_lst_fft_zonetravel_friend">
+    <text>Pøátelské</text>
+</string>
+
+<string id="ui_mcm_lst_fft_zonetravel_ally">
+    <text>Vlastní frakce</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_zones_use_disguises">
+    <text>Lze použít základny nepøátelské frakce pøi pøestrojení</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_zones_use_disguises_desc">
+    <text>Pokud je povolena volba "cestování pouze ze základny frakcí", povolením této možnosti bude hráèùm v pøíslušném pøestrojení umožnìno rychle cestovat i ze základen nepøátelských frakcí. Bez této možnosti nebude mít pøestrojení žádný vliv na povolení rychlého cestování.</text>
+</string>
+
+
+<!-- Added in 2.9 -->
+
+<string id="st_fft_costfree">
+    <text>Zdarma</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_show_zone_status_icon">
+    <text>Zobrazit ikonu stavu pøi cestování v zónì</text>
+</string>
+
+<string id="ui_mcm_fftd_gen_show_zone_status_icon_desc">
+    <text>Pokud je povoleno, v oblasti obvyklého indikátoru stavu se zobrazí unikátní ikona, když se hráè nachází v zónì rychlého cestování, která je pro nìj platná. Toto nastavení je bezvýznamné, pokud neomezujete zahájení cestování na základny frakcí nebo táboráky.\n
+    Mùžete si vybrat jeden ze tøí stylù – jeden pùvodní a dva, které odpovídají stylu sady Alternativní ikony (èernobílý a barevný).</text>
+</string>
+
+<string id="ui_mcm_fft_campfire_base">
+    <text>Táboráky poèítat jako základny frakcí</text>
+</string>
+
+<string id="ui_mcm_fft_campfire_base_desc">
+    <text>Pokud je povoleno, pobyt do 5 metrù od zapáleného táboráku se poèítá jako pobyt v základnì frakce pro úèely rychlého cestování.</text>
+</string>
+
+<string id="ui_mcm_lst_fft_travelicon_disabled">
+    <text>Zakázáno</text>
+</string>
+
+<string id="ui_mcm_lst_fft_travelicon_vanilla">
+    <text>Pùvodní</text>
+</string>
+
+<string id="ui_mcm_lst_fft_travelicon_altbw">
+    <text>Alticons Black White</text>
+</string>
+
+<string id="ui_mcm_lst_fft_travelicon_altcolor">
+    <text>Alticons Barevné</text>
+</string>
+
+<string id="ui_mcm_fft_camp_mode">
+    <text>Táboráky jsou destinace pro rychlé cestování</text>
+</string>
+
+<string id="ui_mcm_fft_camp_mode_desc">
+    <text>Pokud je povoleno, umožòuje táboráky použít jako destinace pro rychlé cestování:\n
+        Jakýkoli: jakýkoli známý táborák je platná destinace pro rychlé cestování.\n
+        Zapálený: táborák musí být zapálený, aby mohl být použit jako destinace pro rychlé cestování.\n
+        Táboráky nejsou v pùvodní verzi zobrazeny na mapì, takže jejich použití jako destinací pro rychlé cestování vyžaduje doplnìk, jako je Haruka's Display Campfires on Map (zahrnuto v GAMMA):\n
+        https://www.moddb.com/mods/stalker-anomaly/addons/displaycampfiresonmap
+    </text>
+</string>
+
+<string id="ui_mcm_lst_fft_campmode_dis">
+    <text>Zakázáno</text>
+</string>
+
+<string id="ui_mcm_lst_fft_campmode_any">
+    <text>Jakýkoli</text>
+</string>
+
+<string id="ui_mcm_lst_fft_campmode_lit">
+    <text>Zapálený</text>
+</string>
+
+<string id="st_fft_campfire">
+    <text>Táborák</text>
+</string>
+
 
 </string_table>
