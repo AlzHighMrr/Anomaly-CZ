@@ -13,11 +13,9 @@
 	<string id="st_wg_laptop">
 	<text>ASUS Laptop</text>
 </string>
-
 <string id="st_wg_laptop_s">
 	<text>Laptop</text>
 </string>
-
 <string id="st_wg_laptop_descr">
 	<text>
 		ZenBook 13 je laptop z rodiny ultraportables. Vyrobený firmou ASUS, jistì byl do Zóny pøinesen žoldáky. Zdá se, že byl mírnì poškozen, což ho èiní nepoužitelným. I když jsou jeho komponenty hodny majlantu, obchodník za nì mùže získat krásnou sumu.\n
@@ -30,14 +28,14 @@
 	</text>
 </string>
 
+
+
 <string id="st_wg_computer">
 	<text>Poèítaèová bedna</text>
 </string>
-
 <string id="st_wg_computer_s">
 	<text>Poèítaè</text>
 </string>
-
 <string id="st_wg_computer_descr">
 	<text>
 		Èerná poèítaèová bedna s komponenty, které vypadají jako nedávné. Rozhodnì to není starý sovìtský poèítaè ponechaný po "Druhé katastrofì" v roce 2006. Získání pøístupu k elektøinì v Zónì není pro každého, takže ho bude tìžké rozbìhnout. Vždy ho lze prodat obchodníkùm, moderní poèítaèové komponenty jsou v tìchto dnech vzácným pohledem.\n
@@ -49,14 +47,14 @@
 	</text>
 </string>
 
+
+
 <string id="st_wg_keyboard">
 	<text>Logitech klávesnice</text>
 </string>
-
 <string id="st_wg_keyboard_s">
 	<text>Klávesnice</text>
 </string>
-
 <string id="st_wg_keyboard_descr">
 	<text>
 		Poškozená klávesnice Logitech. Není to žádná ta vychytávka pro videohry, ale prostì jen jednoduchá klávesnice. Zdá se, že je pøíliš poškozená na to, aby byla použitelná, aèkoli je stále dobrým zdrojem elektronických komponent.\n
@@ -73,11 +71,9 @@
 	<string id="st_wg_gps">
 	<text>GPS lokátor</text>
 </string>
-
 <string id="st_wg_gps_s">
 	<text>GPS</text>
 </string>
-
 <string id="st_wg_gps_descr">
 	<text>
 		Skuteènì vzácný kus vybavení v Zónì. Zdá se, že jde o vojenský GPS lokátor, obvykle používaný zemìmi NATO. Pravdìpodobnì se dostal do Zóny, když byla ještì kolem ISG. Ukazuje jméno a vzdálenost k nejbližší oblasti. Také ukazuje název oblasti Zóny, ve které se uživatel nachází. Nicménì jeho databáze vypadá zastarale. Chybí nìkteré oblasti, které jsou stalkerùm dobøe známy.\n
@@ -94,11 +90,9 @@
 <string id="st_wg_military_decoder">
 	<text>Armádní dekoder</text>
 </string>
-
 <string id="st_wg_military_decoder_s">
 	<text>Armádní dekoder</text>
 </string>
-
 <string id="st_wg_military_decoder_descr">
 	<text>
 		Zdá se, že se jedná o pokroèilý vojenský dekodér. Má po celém povrchu anglické nápisy, takže pravdìpodobnì pochází zvenèí Zóny. Pro každodenního stalkera to není skuteènì k nièemu, ale obchodníci èasto hledají tyto vzácné zaøízení.\n
@@ -142,6 +136,17 @@
     <text>Zapalovaè</text>
 </string>
 <string id="st_wg_lighter_bic_descr">
+    <text>
+        Standardní BIC zapalovaè. V Zónì se èasto nevyskytuje, tento zapalovaè je snadno dostupný v západoevropských zemích. Plný zapalovaè obvykle zapálí 20 cigaret.\n
+        \n
+        %c[ui_gray_1]VLASTNOSTI:\n
+        %c[d_blue] • %c[ui_gray_2] technologický pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] každodenní pøedmìt\n
+        %c[d_blue] • %c[ui_gray_2] importovaný\n
+        %c[d_orange] • %c[ui_gray_2] použitelný\n
+    </text>
+</string>
+<string id="st_wg_lighter_header">
     <text>
         Standardní BIC zapalovaè. V Zónì se èasto nevyskytuje, tento zapalovaè je snadno dostupný v západoevropských zemích. Plný zapalovaè obvykle zapálí 20 cigaret.\n
         \n

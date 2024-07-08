@@ -30,6 +30,10 @@
     </string>
 
 
+    <string id="passinc_descr_employment_stage">
+        <text>\nFáze:</text>
+    </string>
+
     <string id="passinc_employer_name">
         <text>Máš smlouvu s %s</text>
     </string>
@@ -54,21 +58,18 @@
         <text>\n%s za každého zabitého nepøítele frakce.</text>
     </string>
     
-    <string id="passinc_descr_employment_stage">
-        <text>\nStupeò zamìstnání:</text>
-    </string>
-    
-    <string id="passinc_unorg_descr_stage_zamìstnání">
+
+        <string id="passinc_unorg_descr_employment_stage">
         <text>\nDùvìra zamìstnavatele:</text>
     </string>
 
     
     <string id="passinc_unorg_descr_middle">
-        <text>\nKaždý den dokonèete alespoò jednu úlohu pro %s, aby byla smlouva aktivní.</text>
+        <text>\nKaždý den dokonèi alespoò jednu úlohu pro %s, aby byla smlouva aktivní.</text>
     </string>
 
     <string id="passinc_unorg_complete_task">
-        <text>\nDnes jste dokonèili %s úloh pro %s</text>
+        <text>\nDnes jsi dokonèil %s úloh pro %s</text>
     </string>
     
     <string id="passinc_unorg_descr_bonus">
@@ -80,7 +81,7 @@
     </string>
 
     <string id="passinc_task_title_functor">
-        <text>Aktivní smlouvaí (%s)</text>
+        <text>Aktivní smlouva (%s)</text>
     </string>
 
 
