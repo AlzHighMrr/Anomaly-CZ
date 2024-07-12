@@ -274,7 +274,7 @@
 	
 <!-- RF source - caught a signal by accident -->
    <string id="st_msg_rf_title_1_1">
-    <text>Radiové signály!</text>
+    <text>Radiový signál!</text>
 </string>
 <string id="st_msg_rf_title_1_2">
     <text>Máš nìjakou pøedstavu o tom?</text>

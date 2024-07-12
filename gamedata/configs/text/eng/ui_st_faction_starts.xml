@@ -13,7 +13,7 @@
 	</string>
 
 <string id="ui_st_abandoned_sawmill">
-	<text>Zpustlá pila (Zatón)</text>
+	<text>Zpustlá pila (Zaton)</text>
 </string>
 <string id="ui_st_abandoned_school">
 	<text>Zpustlá škola (Mrtvé mìsto)</text>
@@ -25,7 +25,7 @@
 	<text>Vypalovaè mozku (Radar)</text>
 </string>
 <string id="ui_st_car_park">
-	<text>Automobilový park (Kordon)</text>
+	<text>Parkovištì (Kordon)</text>
 </string>
 <string id="ui_st_construction_site">
 	<text>Staveništì (Divoká oblast)</text>
@@ -34,7 +34,7 @@
 	<text>Skladištì kontejnerù (Jupiter)</text>
 </string>
 <string id="ui_st_cultural_center">
-	<text>Palác kultury (Pripjat)</text>
+	<text>Palác kultury (Pripyat)</text>
 </string>
 
 	
@@ -57,7 +57,7 @@
 	<text>Dùm k pøenocování (Rostok)</text>
 </string>
 <string id="ui_st_makeshift_barracks">
-	<text>Makeshift Barracks (Rostok)</text>
+	<text>Provizorní kasárna (Rostok)</text>
 </string>
 <string id="ui_st_military_base">
 	<text>Vojenská základna (Armádní skladištì)</text>
@@ -75,10 +75,10 @@
 	<text>Výzkumný ústav (Agroprom)</text>
 </string>
 <string id="ui_st_sakharovs_bunker">
-	<text>Sacharovùv bunkr (Jantar)</text>
+	<text>Sacharovùv bunkr (Yantar)</text>
 </string>
 <string id="ui_st_skadovsk_vrak lodi">
-	<text>Vrak lodí Skadovsk (Zatón)</text>
+	<text>Vrak lodí Skadovsk (Zaton)</text>
 </string>
 <string id="ui_st_southern_checkpoint">
 	<text>Jižní kontrolní bod (Kordon)</text>
@@ -93,7 +93,7 @@
 	<text>Útoèištì v tunelu (Agr. podzemí)</text>
 </string>
 <string id="ui_st_tuzla_outpost">
-	<text>Tuzla Outpost (Velké bažiny)</text>
+	<text>Základna Tuzla (Velké bažiny)</text>
 </string>
 <string id="ui_st_yanov_station">
 	<text>Stanice Yanov (Jupiter)</text>
@@ -120,7 +120,7 @@
 	<text>Kemp u jeøábu (Èernobylská JE)</text>
 </string>
 <string id="ui_st_camp_on_a_hillock">
-	<text>Tábor na kopci (Truck Cemetery)</text>
+	<text>Tábor na kopci (Høbitov aut)</text>
 </string>
 <string id="ui_st_check_point">
 	<text>Kontrolní bod (Jupiter)</text>
@@ -129,7 +129,7 @@
 	<text>Køižovatka (høbitov nákladních aut)</text>
 </string>
 <string id="ui_st_curve_beam">
-	<text>Strž (Armadní sklady)</text>
+	<text>Strž (Armádní sklady)</text>
 </string>
 <string id="ui_st_deadlock_of_a_tunnel">
 	<text>Tunel (Agroprom)</text>
@@ -141,7 +141,7 @@
 	<text>Východní kontrolní bod (Høbitov nákladních aut)</text>
 </string>
 <string id="ui_st_fallen_helicopter">
-	<text>Havarováný vrtulník (Armadní sklady)</text>
+	<text>Havarováný vrtulník (Armádní sklady)</text>
 </string>
 <string id="ui_st_farm_base_neytral">
 	<text>Farma (Kordon)</text>
@@ -159,13 +159,13 @@
 	<text>Halt (Høbitov nákladních aut)</text>
 </string>
 <string id="ui_st_hideout">
-	<text>Hideout (Pøedmìstí)</text>
+	<text>Úkryt (Pøedmìstí)</text>
 </string>
 <string id="ui_st_house_on_the_hill">
 	<text>Dùm na kopci</text>
 </string>
 <string id="ui_st_kbo_monolit">
-	<text>Servisní støedisko Yubileiny (Pøedmìstí)</text>
+	<text>Støedisko Yubileiny (Pøedmìstí)</text>
 </string>
 <string id="ui_st_machine_yard">
 	<text>Strojní dvùr (Velké bažiny)</text>
@@ -195,7 +195,7 @@
 	<text>Khutorok (Louka)</text>
 </string>
 <string id="ui_st_post_of_mercenaries">
-	<text>Kontrolní stanovištì zlodìjù (Armadní sklady)</text>
+	<text>Kontrolní stanovištì zlodìjù (Armádní sklady)</text>
 </string>
 <string id="ui_st_power_station">
 	<text>Vnìjší dvùr (Èernobylská JE)</text>
@@ -210,7 +210,7 @@
 	<text>Stanice na zpracování odpadu (Zaton)</text>
 </string>
 <string id="ui_st_ruins">
-	<text>Ruins (Opuštìná nemocnice)</text>
+	<text>Ruiny (Opuštìná nemocnice)</text>
 </string>
 <string id="ui_st_store_books_a18">
 	<text>Knihkupectví (Pøedmìstí)</text>

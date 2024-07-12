@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 
 <!-- 
 	MCM
@@ -13,25 +13,15 @@
 		<text>Semi-radiant AI</text>
 	</string>
 
-	<string id="ui_mcm_rad_ai_trader_sleep">
-		<text>Sleeping traders</text>
-	</string>
+	<string id="ui_mcm_rad_ai_trader_sleep"> <text>Spнcн obchodnнci</text> </string>
 
-	<string id="ui_mcm_rad_ai_mechanic_sleep">
-		<text>Sleeping mechanics</text>
-	</string>
+	<string id="ui_mcm_rad_ai_mechanic_sleep"> <text>Spнcн mechanici</text> </string>
 
-	<string id="ui_mcm_rad_ai_medic_sleep">
-		<text>Sleeping medics</text>
-	</string>
+	<string id="ui_mcm_rad_ai_medic_sleep"> <text>Spнcн doktoшi</text> </string>
 
-	<string id="ui_mcm_rad_ai_sleep_from">
-		<text>Traders sleep from</text>
-	</string>
+	<string id="ui_mcm_rad_ai_sleep_from"> <text>Spнcн obchodnнci</text> </string>
 
-	<string id="ui_mcm_rad_ai_sleep_to">
-		<text>Traders sleep to</text>
-	</string>
+	<string id="ui_mcm_rad_ai_sleep_to"> <text>Obchodnнci spн do</text> </string>
 
 
 </string_table>
