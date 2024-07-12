@@ -7,11 +7,17 @@
 	<string id="st_ammo_recipe_ru1_desc">
 		<text>Klasifikované dokumenty ukradené z ruského výzkumného centra a doèasnì se pøestìhovaly do zóny. Obsahuje specifikace souèasných a experimentálních ruských kol a také empirických testovacích údajù o výkonu kulatého. Svazek 1 zvažuje pouze standardní a zvláštní kola pro vojenskou a policejní práci, vèetnì kontroly davu. Pokud jde o záležitosti zabezpeèení informací, schémata munice z brnìní se pøesunula do dokumentu s vyšší bezpeènosti.</text>
 	</string>
+			<string id="encyclopedia__notes_recipe_ammo_ru1_text">
+		<text>Klasifikované dokumenty ukradené z ruského výzkumného centra a doèasnì se pøestìhovaly do zóny. Obsahuje specifikace souèasných a experimentálních ruských kol a také empirických testovacích údajù o výkonu kulatého. Svazek 1 zvažuje pouze standardní a zvláštní kola pro vojenskou a policejní práci, vèetnì kontroly davu. Pokud jde o záležitosti zabezpeèení informací, schémata munice z brnìní se pøesunula do dokumentu s vyšší bezpeènosti.</text>
+	</string>
     
 	<string id="st_ammo_recipe_ru2">
 		<text>Pøíruèka o zbraních Varšavského paktu, svazek 2</text>
 	</string>
 	<string id="st_ammo_recipe_ru2_desc">
+		<text>Klasifikované dokumenty ukradené z ruského výzkumného centra a doèasnì se pøestìhovaly do zóny. Obsahuje specifikace experimentálních ruských kol pro piercingové zbroje rùzných kalibrù a empirických testovacích údajù o výkonu kulatého výkonu. Tento svazek je vìnován kol pro piercing brnìní, vèetnì analýzy materiálu na jádrech penetratoru a podrobností o rùzných mechanismech, aby se maximalizovala poškození po porážce brnìní. Stránky týkající se kol pro piercingové zbroje jsou záhadnì vytrženy.</text>
+	</string>
+			<string id="encyclopedia__notes_recipe_ammo_ru2_text">
 		<text>Klasifikované dokumenty ukradené z ruského výzkumného centra a doèasnì se pøestìhovaly do zóny. Obsahuje specifikace experimentálních ruských kol pro piercingové zbroje rùzných kalibrù a empirických testovacích údajù o výkonu kulatého výkonu. Tento svazek je vìnován kol pro piercing brnìní, vèetnì analýzy materiálu na jádrech penetratoru a podrobností o rùzných mechanismech, aby se maximalizovala poškození po porážce brnìní. Stránky týkající se kol pro piercingové zbroje jsou záhadnì vytrženy.</text>
 	</string>
     
@@ -21,6 +27,9 @@
 	<string id="st_ammo_recipe_pistol_desc">
 		<text>Amerièan produkoval knihu s podrobnostmi o rùzných jemných detailech pøi zamìstnávání pistolí pro osobní ochranu. Jsou pokryty rùzné bìžné pistole a jejich typy munice, od nízkých 0,32 AKT až po stále nepraktiètìjší magnum zatížení. V knize jsou rozptýleny v rozporu s velmi pochybnými „úèty z první ruky“, pravdìpodobnì napsané lidmi, kteøí nikdy nemuseli tahat zbranì na cíle, které by støílely zpìt nebo kously.</text>
 	</string>
+		<string id="encyclopedia__notes_recipe_ammo_pistol_text">
+		<text>Amerièan produkoval knihu s podrobnostmi o rùzných jemných detailech pøi zamìstnávání pistolí pro osobní ochranu. Jsou pokryty rùzné bìžné pistole a jejich typy munice, od nízkých 0,32 AKT až po stále nepraktiètìjší magnum zatížení. V knize jsou rozptýleny v rozporu s velmi pochybnými „úèty z první ruky“, pravdìpodobnì napsané lidmi, kteøí nikdy nemuseli tahat zbranì na cíle, které by støílely zpìt nebo kously.</text>
+	</string>
     
 	<string id="st_ammo_recipe_shotgun">
 		<text>Pøíruèka brokovnic</text>
@@ -28,7 +37,9 @@
 	<string id="st_ammo_recipe_shotgun_desc">
 		<text>Podrobná kniha týkající se sportu støelby a lovu velkých zvíøat. Podrobné jsou rùzné typy munice a jejich úèely spolu s podrobnými grafy výkonu a terminální balistiky v rùzných podmínkách. Je také pøítomna anatomie nìkolika velkých herních zvíøat, s poznámkami o tom, kde vytváøet efektivní Killshots - bohužel žádný z tìchto normálních tvorù není pøítomen v zónì.</text>
 	</string>
-
+		<string id="encyclopedia__notes_recipe_ammo_shotgun_text">
+		<text>Podrobná kniha týkající se sportu støelby a lovu velkých zvíøat. Podrobné jsou rùzné typy munice a jejich úèely spolu s podrobnými grafy výkonu a terminální balistiky v rùzných podmínkách. Je také pøítomna anatomie nìkolika velkých herních zvíøat, s poznámkami o tom, kde vytváøet efektivní Killshots - bohužel žádný z tìchto normálních tvorù není pøítomen v zónì.</text>
+	</string>
 
 	<string id="st_ammo_recipe_nato">
 		<text>Pøiruèka munice NATO svazek 1</text>
@@ -36,11 +47,17 @@
 	<string id="st_ammo_recipe_nato_desc">
 		<text>Široký technický dokument, který zahrnuje všechny specifikace a rozmìry munice moderních ruèních zbraní v rámci sady NATO standardù. Kvùli úplnosti jsou pokryty rùzné esoterické kalibry, stejnì jako krátké Blurbs o jejich historii a komentáøích od operátorù Quartermasters a Special Forces.</text>
 	</string>
-    
+    		<string id="encyclopedia__notes_recipe_ammo_nato_text">
+		<text>Široký technický dokument, který zahrnuje všechny specifikace a rozmìry munice moderních ruèních zbraní v rámci sady NATO standardù. Kvùli úplnosti jsou pokryty rùzné esoterické kalibry, stejnì jako krátké Blurbs o jejich historii a komentáøích od operátorù Quartermasters a Special Forces.</text>
+	</string>
+
 	<string id="st_ammo_recipe_nato2">
 		<text>Pøiruèka munice NATO svazek 2</text>
 	</string>
 	<string id="st_ammo_recipe_nato2_desc">
+		<text>Široký technický dokument, který zahrnuje všechny specifikace a rozmìry munice moderních ruèních zbraní v rámci sady NATO standardù. Kvùli úplnosti jsou pokryty rùzné esoterické kalibry, stejnì jako krátké Blurbs o jejich historii a komentáøích od operátorù Quartermasters a Special Forces.</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_ammo_nato2_text">
 		<text>Široký technický dokument, který zahrnuje všechny specifikace a rozmìry munice moderních ruèních zbraní v rámci sady NATO standardù. Kvùli úplnosti jsou pokryty rùzné esoterické kalibry, stejnì jako krátké Blurbs o jejich historii a komentáøích od operátorù Quartermasters a Special Forces.</text>
 	</string>
 
@@ -50,11 +67,19 @@
 	<string id="st_ammo_recipe_arty1_desc">
 		<text>Výzkumná práce produkovaná ministerstvem vìdy pomocí rùzných skupin stalker. Je uvedeno více než dvacet rùzných typù experimentu, z nichž vìtšina skonèila selháním rùzných katastrofických úrovní.</text>
 	</string>
+		<string id="encyclopedia__notes_recipe_arty1_text">
+		<text>Výzkumná práce produkovaná ministerstvem vìdy pomocí rùzných skupin stalker. Je uvedeno více než dvacet rùzných typù experimentu, z nichž vìtšina skonèila selháním rùzných katastrofických úrovní.</text>
+	</string>
+
+
 
 	<string id="st_ammo_recipe_arty2">
 		<text>Kniha ritualù Høíchu</text>
 	</string>
 	<string id="st_ammo_recipe_arty2_desc">
+		<text>Tajemná kniha, která se zdá být konstruována z nìkolika ruènì psaných listù papíru, bez autorù nebo identifikaèních znaèek. Informace uvnitø jsou pøekvapivì dùkladné a užiteèné, témìø jako ètení prùvodce divoèiny. Znaèné údaje jsou pøítomny v mnoha „dárcích“ zónì - rozdìleny mezi mutantní anatomii, strukturu anomálie a vlastnosti artefaktù. Mezi informacemi jsou rozptýleny rùzné užiteèné aplikace odmìn zóny: jaké èásti masa mohou být extrahovány napøíklad pro sérum pro obnovení krve, nebo jak lze anomálii ovoce punèové použít k velmi peèlivému odstranìní skvrn z odìvu.</text>
+	</string>
+			<string id="encyclopedia__notes_recipe_arty2_text">
 		<text>Tajemná kniha, která se zdá být konstruována z nìkolika ruènì psaných listù papíru, bez autorù nebo identifikaèních znaèek. Informace uvnitø jsou pøekvapivì dùkladné a užiteèné, témìø jako ètení prùvodce divoèiny. Znaèné údaje jsou pøítomny v mnoha „dárcích“ zónì - rozdìleny mezi mutantní anatomii, strukturu anomálie a vlastnosti artefaktù. Mezi informacemi jsou rozptýleny rùzné užiteèné aplikace odmìn zóny: jaké èásti masa mohou být extrahovány napøíklad pro sérum pro obnovení krve, nebo jak lze anomálii ovoce punèové použít k velmi peèlivému odstranìní skvrn z odìvu.</text>
 	</string>
     
@@ -64,6 +89,10 @@
 	<string id="st_ammo_recipe_fire_desc">
 		<text>Otevøený notebook pokrytý jemnými stopami popela. Informace uvnitø se týkají pouze informací o vìcech souvisejících s anomáliemi hoøákù - hoøákù, artefakty ohnì, zápalné munice a granáty. Dláždìné z rùzných zdrojù, nìkteré tištìné, nìkteré ruènì psané.</text>
 	</string>
+	<string id="encyclopedia__notes_recipe_fire_text">
+		<text>Otevøený notebook pokrytý jemnými stopami popela. Informace uvnitø se týkají pouze informací o vìcech souvisejících s anomáliemi hoøákù - hoøákù, artefakty ohnì, zápalné munice a granáty. Dláždìné z rùzných zdrojù, nìkteré tištìné, nìkteré ruènì psané.</text>
+	</string>
+
 
 
 	<string id="st_ammo_recipe_powder">
@@ -72,12 +101,18 @@
 	<string id="st_ammo_recipe_powder_desc">
 		<text>Vìdecké notebooky podrobnì popisované experimenty s artefakty. Zejména existuje nìkolik pokusù s použitím malých fragmentù rozbitých artefaktù ke zmìnì vlastností hoølavých materiálù. Protokoly experimentu podrobnì popisují techniku, která umožòuje spolehlivé a opakovatelné jemné nastavení spalování bezdýmného prášku pomocí jinak bezcenných kusù fragmentù tepelného artefaktu, jakož i chaotické a nestabilní reakce s kapalným palivem.</text>
 	</string>
+		<string id="encyclopedia__notes_recipe_ammo_powder_text">
+		<text>Vìdecké notebooky podrobnì popisované experimenty s artefakty. Zejména existuje nìkolik pokusù s použitím malých fragmentù rozbitých artefaktù ke zmìnì vlastností hoølavých materiálù. Protokoly experimentu podrobnì popisují techniku, která umožòuje spolehlivé a opakovatelné jemné nastavení spalování bezdýmného prášku pomocí jinak bezcenných kusù fragmentù tepelného artefaktu, jakož i chaotické a nestabilní reakce s kapalným palivem.</text>
+	</string>
 	
 
 	<string id="st_ammo_recipe_bullet">
 		<text>Artefaktovy experimentální pokusy #67</text>
 	</string>
 	<string id="st_ammo_recipe_bullet_desc">
+		<text>Vìdecké notebooky podrobnì popisované experimenty s artefakty. Velmi rozsáhlý dokument zamìøený na pokus o pøemìnu kovù na zlato a støíbro. Z velké èásti tyto experimenty skonèily rùznými formami selhání, ale dochází k dokumentovanému pøenosu úspìchu do výraznì tvrdších kovù, jako je wolfram.</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_ammo_bullet_text">
 		<text>Vìdecké notebooky podrobnì popisované experimenty s artefakty. Velmi rozsáhlý dokument zamìøený na pokus o pøemìnu kovù na zlato a støíbro. Z velké èásti tyto experimenty skonèily rùznými formami selhání, ale dochází k dokumentovanému pøenosu úspìchu do výraznì tvrdších kovù, jako je wolfram.</text>
 	</string>
 </string_table>

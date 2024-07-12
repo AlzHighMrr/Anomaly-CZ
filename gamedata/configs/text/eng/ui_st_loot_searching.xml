@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!-- 
+	MCM
+-->
+<string_table>
+
+<string id="ui_mcm_loot_searching_title">
+    <text>Nastavení Prohledávání</text>
+</string>
+
+<string id="ui_mcm_menu_loot_searching">
+    <text>Nastavení Prohledávání</text>
+</string>
+
+<!-- ČAS -->
+<string id="ui_mcm_loot_searching_header_time">
+    <text>Čas \n 
+            random(time_min, time_max) - weight - (icon_x * icon_y)</text>
+</string>
+
+<string id="ui_mcm_loot_searching_time_min">
+    <text>Minimální čas</text>
+</string>
+
+<string id="ui_mcm_loot_searching_time_min_desc">
+    <text>Výchozí: 5</text>
+</string>
+
+<string id="ui_mcm_loot_searching_time_max">
+    <text>Maximální čas</text>
+</string>
+
+<string id="ui_mcm_loot_searching_time_max_desc">
+    <text>Výchozí: 15</text>
+</string>
+
+<!-- HUD -->
+<string id="ui_mcm_loot_searching_header_hud">
+    <text>Indikátor kořisti</text>
+</string>
+
+<string id="ui_mcm_loot_searching_hud_enable">
+    <text>Povolit indikátor kořisti</text>
+</string>
+
+<string id="ui_mcm_loot_searching_hud_enable_desc">
+    <text>Zobrazuje se, když stále prohledáváš tělo.</text>
+</string>
+
+<string id="ui_mcm_loot_searching_hud_icon">
+    <text>Typ indikátoru (nutné znovu načíst)</text>
+</string>
+
+<string id="ui_mcm_loot_searching_hud_icon_desc">
+    <text>Longreed hodně pomohl s tímto doplňkem, takže na oplátku nechám texturu, kterou původně poslal, jako volitelnou.</text>
+</string>
+
+<!-- ZVUK -->
+<string id="ui_mcm_loot_searching_header_sound">
+    <text>Zvuk</text>
+</string>
+
+<string id="ui_mcm_loot_searching_sound_enable">
+    <text>Zvuk předmětů</text>
+</string>
+
+<string id="ui_mcm_loot_searching_sound_enable_desc">
+    <text>Zvuk předmětů, když se objeví.</text>
+</string>
+
+<string id="ui_mcm_loot_searching_sound_enable_vol">
+    <text>Hlasitost zvuku předmětů</text>
+</string>
+
+<string id="ui_mcm_loot_searching_sound_bg_enable">
+    <text>Zvuk na pozadí</text>
+</string>
+
+<string id="ui_mcm_loot_searching_sound_bg_enable_desc">
+    <text>Zvuk na pozadí při prohledávání těla.</text>
+</string>
+
+<string id="ui_mcm_loot_searching_sound_bg_enable_vol">
+    <text>Hlasitost zvuku na pozadí</text>
+</string>
+
+<!-- DEBUG -->
+<string id="ui_mcm_loot_searching_header_debug">
+    <text>Debug</text>
+</string>
+
+<string id="ui_mcm_loot_searching_debugx">
+    <text>Debug</text>
+</string>
+
+<string id="ui_mcm_loot_searching_debugx_desc">
+    <text>Zobrazuje užitečné informace v konzoli.</text>
+</string>
+
+<!-- non-mcm -->
+<string id="st_xcvb_looting">
+    <text>Prohledávání</text>
+</string>
+
+
+</string_table>
