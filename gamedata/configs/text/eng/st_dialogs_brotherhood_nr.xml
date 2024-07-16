@@ -1421,7 +1421,7 @@ Rád bych doporuèil dlouhou zbraò s tlumièem. Na druhou stranu, musíte bıt také r
     <text>Nìkdo: Prosím pomozte! Jsem uvnitø budovy!</text>
 </string>
 <string id="nr_primakov_help_2">
-    <text>Nìkdo: Stalkeru, prosím, pomozte mi! Trpím hroznımi bolestmi!</text>
+    <text>Nìkdo: Stalkere, prosím, pomozte mi! Trpím hroznımi bolestmi!</text>
 </string>
 <string id="nr_primakov_help_3">
     <text>Nìkdo: Prosím, prosím, pøijïte mi pomoci!</text>
@@ -1541,21 +1541,25 @@ Rád bych doporuèil dlouhou zbraò s tlumièem. Na druhou stranu, musíte bıt také r
 </string>
 
 --- Gutalin
+
 <string id="meet_gutalin_info_1">
-    <text>Stalker: Stalker! Turn back! Save yourself from this sinful lands!</text>
+    <text>Stalker: Stalkere! Vra se! Zachraò se pøed tìmito høíšnımi zemìmi!</text>
 </string>
 
 <string id="meet_gutalin_info_2">
-    <text>Gutalin: For the white steed is saddled and his rider has put his foot in the stirrup. And the prayers of those who have sold themselves to Satan are in vain.</text>
+    <text>Gutalin: Bílı kùò je osedlán a jeho jezdec si dal nohu do tømenu. A modlitby tìch, kteøí se prodali Satanovi, jsou marné.</text>
 </string>
+
 <string id="meet_gutalin_info_3">
-    <text>Gutalin: You, children of man who were seduced by the devil, who play with the devil’s toys, who dig up Satan’s treasures -- I say unto you: you are blind!</text>
+    <text>Gutalin: Vy, dìti èlovìka, kteøí jste byli svedeni ïáblem, kteøí si hrajete s ïáblovımi hraèkami, kteøí vykopáváte Satanovy poklady -- øíkám vám: jste slepí!</text>
 </string>
+
 <string id="meet_gutalin_info_4">
-    <text>Gutalin: Awake, you bastards, before it’s too late! Trample the devil’s trinkets!</text>
+    <text>Gutalin: Probuïte se, bastardi, ne bude pozdì! Pošlapejte ïáblovy cetky!</text>
 </string>
+
 <string id="meet_gutalin_info_5">
-    <text>Gutalin: Awake, blind ones, you’re falling into the pit and taking others with you.</text>
+    <text>Gutalin: Probuïte se, slepí, padáte do jámy a berete s sebou i ostatní.</text>
 </string>
 
 <string id="bh_gutalin_start_dialog_0">

@@ -89,10 +89,10 @@
 
 <!-- Prùvodce -->
 <string id="meet_guid_marsh_csky_0">
-    <text>Hej, proè tam stojíš?</text>
+    <text>Hej, proè tady tak stojíš?</text>
 </string>
 <string id="meet_guid_marsh_csky_1">
-    <text>Jestli tam chci stát, tak je to moje vìc... Dìlám si legraci. Musím být neustále na oèích, protože jsem místní prùvodce. A prosím, nezírej na mé vybavení - bude to tak pro mì jednodušší. Jestli chceš, mùžu tì vzít na pár míst, konkrétnì na pozorovatelnu tady v bažinì, dále k èerpací stanici, ke starému kostelu a do strojovny. Nabízím také výlety do vesnice nováèku v Kordonu, stejnì jako do Agropromu a Baru. To vše tì bude nìco stát.</text>
+    <text>Jestli tady chci stát, tak je to moje vìc ne? Dìlám si prdel stalkere. Musím být neustále na oèích, protože jsem místní prùvodce. A prosím, nezírej na mé vybavení - bude to tak pro mì jednodušší. Jestli chceš, mùžu tì vzít na pár míst, konkrétnì na pozorovatelnu tady v bažinì, dále k èerpací stanici, ke starému kostelu a do strojovny. Nabízím také výlety do vesnice nováèku v Kordonu, stejnì jako do Agropromu a Baru. To vše tì bude nìco stát.</text>
 </string>
 
 <string id="meet_guid_marsh_csky_list_0">
@@ -118,7 +118,7 @@
     <text>Starý kostel. %c[d_orange][500 RU]</text>
 </string>
 <string id="travel_guid_marsh_csky_5">
-    <text>Strojní dvùr. %c[d_orange][800 RU]</text>
+    <text>Strojový dvùr. %c[d_orange][800 RU]</text>
 </string>
 <string id="travel_guid_marsh_csky_6">
     <text>Vesnice pro Nováèky v Kordonu. %c[d_orange][1500 RU]</text>
@@ -127,7 +127,7 @@
     <text>Agroprom. %c[d_orange][2000 RU]</text>
 </string>
 <string id="travel_guid_marsh_csky_8">
-    <text>Bar. %c[d_orange][4000 RU]</text>
+    <text>Bar v Rostoku. %c[d_orange][4000 RU]</text>
 </string>
 <string id="travel_guid_marsh_csky_9">
     <text>Zmìnil jsem názor.</text>

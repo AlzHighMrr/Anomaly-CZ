@@ -11,6 +11,10 @@
     <text>za</text>
 </string>
 
+<string id="st_currency_ruble">
+    <text>rublù</text>
+</string>
+
 <string id="st_fft_route_preamble_default">
     <text>Toto jsou trasy, které používám, a jejich pøibližné ceny:</text>
 </string>
