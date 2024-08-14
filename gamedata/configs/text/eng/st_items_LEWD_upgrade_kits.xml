@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+   
+<string id="st_addon_kit_lewd_operator">
+	<text>Snipex kit "Operátor" </text>
+</string>
+<string id="st_addon_kit_lewd_operator_descr">
+	<text>
+Tento taktický zbraňový kit vylepší základní zbraň pomocí výkonových částí a optik, čímž zvýší její připravenost pro speciální operace.
+	</text>
+</string>
+
+<string id="st_addon_kit_lewd_specialist">
+	<text>Snipex kit "Specialista" </text>
+</string>
+<string id="st_addon_kit_lewd_specialist_descr">
+	<text>
+Tento specializovaný zbraňový kit vylepší základní zbraň pomocí vybraných částí a optik, aby vynikala v roli specialisty, jako je například infiltrátor.
+	</text>
+</string>
+
+<string id="st_addon_kit_lewd_marksman">
+	<text>Snipex kit "Střelec" </text>
+</string>
+<string id="st_addon_kit_lewd_marksman_descr">
+	<text>
+Tento precizní zbraňový kit vylepší základní zbraň pomocí jemně doladěných částí a optik, aby významně zvýšil její schopnosti pro střelbu na dlouhé vzdálenosti a odstřelování.
+	</text>
+</string>
+
+<string id="st_addon_kit_lewd_warmonger">
+	<text>Snipex kit "Válečník" </text>
+</string>
+<string id="st_addon_kit_lewd_warmonger_descr">
+	<text>
+Tento brutální zbraňový kit vylepší základní zbraň pomocí zesílených částí a optik, aby zlepšil udržitelnost rychlé střelby a maximalizoval poměr zabití v těsném boji.
+	</text>
+</string>
+
+
+</string_table>
