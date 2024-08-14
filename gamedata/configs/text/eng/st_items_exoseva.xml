@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+
+
+
+<!-- Exoseva suits -->
+
+	<string id="exoseva_outfit_name">
+	<text>Exo-seva oblek</text>
+</string>
+
+<string id="exoseva_outfit_description">
+	<text>%c[ui_gray_1]Exoskelet s uzavřeným dýchacím systémem Exo-seva je nejnovějším výsledkem stále rostoucí poptávky po exoskeletech a ochranných oblecích navržených tak, aby odolaly nejnáročnějším podmínkám Zóny. Podobně jako obleky třídy SEVA a SSP je nositel izolován od vnějších podmínek vrstvami odolnými proti anomáliím a vnitřními systémy filtrace vzduchu. Vnější plášť, založený na těžké exoskeletové zbroji, poskytuje vynikající ochranu před střelami, výbuchy a trhlinami. Výslednou váhu podporuje nová generace exoskeletů, což umožňuje uživateli se pohybovat a běhat bez omezení. Exo-seva oblek je stejně vzácný jako drahý, proto si ho mohou dovolit pouze nejbohatší a dobře propojení veteráni Zóny.\n \n</text>
+</string>
+
+<string id="dolg_exoseva_outfit_name">
+	<text>PSZ-12b</text>
+</string>
+
+<string id="dolg_exoseva_outfit_description">
+	<text>%c[ui_gray_1]Verze Exo-seva obleku požadovaná frakcí Povinnosti. Exoskelet s uzavřeným dýchacím systémem Exo-seva je nejnovějším výsledkem stále rostoucí poptávky po exoskeletech a ochranných oblecích navržených tak, aby odolaly nejnáročnějším podmínkám Zóny. Podobně jako obleky třídy SEVA a SSP je nositel izolován od vnějších podmínek vrstvami odolnými proti anomáliím a vnitřními systémy filtrace vzduchu. Vnější plášť, založený na těžké exoskeletové zbroji, poskytuje vynikající ochranu před střelami, výbuchy a trhlinami. Výslednou váhu podporuje nová generace exoskeletů, což umožňuje uživateli se pohybovat a běhat bez omezení. Exo-seva oblek je stejně vzácný jako drahý, proto si ho mohou dovolit pouze nejbohatší a dobře propojení veteráni Zóny. Verze obleku pro Povinnost poskytuje lepší ochranu před útoky mutantů.\n \n</text>
+</string>
+
+<string id="merc_exoseva_outfit_name">
+	<text>Žoldácký Exo-seva oblek</text>
+</string>
+
+<string id="merc_exoseva_outfit_description">
+	<text>%c[ui_gray_1]Exoskelet s uzavřeným dýchacím systémem Exo-seva je nejnovějším výsledkem stále rostoucí poptávky po exoskeletech a ochranných oblecích navržených tak, aby odolaly nejnáročnějším podmínkám Zóny. Podobně jako obleky třídy SEVA a SSP je nositel izolován od vnějších podmínek vrstvami odolnými proti anomáliím a vnitřními systémy filtrace vzduchu. Vnější plášť, založený na těžké exoskeletové zbroji, poskytuje vynikající ochranu před střelami, výbuchy a trhlinami. Výslednou váhu podporuje nová generace exoskeletů, což umožňuje uživateli se pohybovat a běhat bez omezení. Exo-seva oblek je stejně vzácný jako drahý, proto si ho mohou dovolit pouze nejbohatší a dobře propojení veteráni Zóny.\n \n</text>
+</string>
+
+<string id="military_exoseva_outfit_name">
+	<text>Armádní Exo-seva oblek</text>
+</string>
+
+<string id="military_exoseva_outfit_description">
+	<text>%c[ui_gray_1]Exoskelet s uzavřeným dýchacím systémem Exo-seva je nejnovějším výsledkem stále rostoucí poptávky po exoskeletech a ochranných oblecích navržených tak, aby odolaly nejnáročnějším podmínkám Zóny. Podobně jako obleky třídy SEVA a SSP je nositel izolován od vnějších podmínek vrstvami odolnými proti anomáliím a vnitřními systémy filtrace vzduchu. Vnější plášť, založený na těžké exoskeletové zbroji, poskytuje vynikající ochranu před střelami, výbuchy a trhlinami. Výslednou váhu podporuje nová generace exoskeletů, což umožňuje uživateli se pohybovat a běhat bez omezení. Exo-seva oblek je stejně vzácný jako drahý, proto si ho mohou dovolit pouze nejbohatší a dobře propojení veteráni Zóny. Velmi málo těchto obleků bylo objednáno armádou pro účely výzkumu a shromažďování informací v hlubokém centru Zóny. Při objednávce byla prioritou ochrana před střelami a střepinami, i za cenu zvýšení hmotnosti.\n \n</text>
+</string>
+
+<string id="monolith_exoseva_outfit_name">
+	<text>Exo-seva oblek Monolitu</text>
+</string>
+
+<string id="monolith_exoseva_outfit_description">
+	<text>%c[ui_gray_1]Exoskelet s uzavřeným dýchacím systémem Exo-seva je nejnovějším výsledkem stále rostoucí poptávky po exoskeletech a ochranných oblecích navržených tak, aby odolaly nejnáročnějším podmínkám Zóny. Podobně jako obleky třídy SEVA a SSP je nositel izolován od vnějších podmínek vrstvami odolnými proti anomáliím a vnitřními systémy filtrace vzduchu. Vnější plášť, založený na těžké exoskeletové zbroji, poskytuje vynikající ochranu před střelami, výbuchy a trhlinami. Výslednou váhu podporuje nová generace exoskeletů, což umožňuje uživateli se pohybovat a běhat bez omezení. Exo-seva oblek je stejně vzácný jako drahý, proto si ho mohou dovolit pouze nejbohatší a dobře propojení veteráni Zóny. Technici Monolithu pomocí slitin neznámých moderní vědě dokázali výrazně snížit hmotnost obleku a zároveň zvýšit ochranu před rozšířenou radiací v centru Zóny.\n \n</text>
+</string>
+<string id="svoboda_exoseva_outfit_name">
+	<text>Exemplář Svobody</text>
+</string>
+
+<string id="svoboda_exoseva_outfit_description">
+	<text>%c[ui_gray_1]Oblek Exo-seva ve verzi Svoboda. Exoskelet s uzavřeným dýchacím systémem Exo-seva je nejnovějším výsledkem stále rostoucí poptávky po exoskeletech a ochranných oblecích navržených tak, aby odolaly nejnáročnějším podmínkám Zóny. Podobně jako obleky třídy SEVA a SSP je nositel izolován od vnějších podmínek vrstvami odolnými proti anomáliím a vnitřními systémy filtrace vzduchu. Vnější plášť, založený na těžké exoskeletové zbroji, poskytuje vynikající ochranu před střelami, výbuchy a trhlinami. Výslednou váhu podporuje nová generace exoskeletů, což umožňuje uživateli se pohybovat a běhat bez omezení. Exo-seva oblek je stejně vzácný jako drahý, proto si ho mohou dovolit pouze nejbohatší a dobře propojení veteráni Zóny. Díky vlastnímu výzkumu dokázali technici Svobody dále zvýšit ochranu obleku před anomáliemi.\n \n</text>
+</string>
+
+<string id="ecolog_exoseva_outfit_name">
+	<text>Ekologický Exo-seva oblek</text>
+</string>
+
+<string id="ecolog_exoseva_outfit_description">
+	<text>%c[ui_gray_1]Exoskelet s uzavřeným dýchacím systémem Exo-seva je nejnovějším výsledkem stále rostoucí poptávky po exoskeletech a ochranných oblecích navržených tak, aby odolaly nejnáročnějším podmínkám Zóny. Podobně jako obleky třídy SEVA a SSP je nositel izolován od vnějších podmínek vrstvami odolnými proti anomáliím a vnitřními systémy filtrace vzduchu. Vnější plášť, založený na těžké exoskeletové zbroji, poskytuje vynikající ochranu před střelami, výbuchy a trhlinami. Výslednou váhu podporuje nová generace exoskeletů, což umožňuje uživateli se pohybovat a běhat bez omezení. Exo-seva oblek je stejně vzácný jako drahý - tento model je k dispozici pouze pro nejdůvěryhodnější vědecké pracovníky, často vysílané na nebezpečné expedice blízko centra Zóny.\n \n</text>
+</string>
+
+<string id="isg_exoseva_outfit_name">
+	<text>UNISG Exo-seva oblek</text>
+</string>
+
+<string id="isg_exoseva_outfit_description">
+	<text>%c[ui_gray_1]Exoskelet s uzavřeným dýchacím systémem Exo-seva je nejnovějším výsledkem stále rostoucí poptávky po exoskeletech a ochranných oblecích navržených tak, aby odolaly nejnáročnějším podmínkám Zóny. Podobně jako obleky třídy SEVA a SSP je nositel izolován od vnějších podmínek vrstvami odolnými proti anomáliím a vnitřními systémy filtrace vzduchu. Vnější plášť, založený na těžké exoskeletové zbroji, poskytuje vynikající ochranu před střelami, výbuchy a trhlinami. Výslednou váhu podporuje nová generace exoskeletů, což umožňuje uživateli se pohybovat a běhat bez omezení. OSN nechalo v tajnosti vyrobit několik těchto obleků pro své operátory v Zóně s cílem získat co nejvíce informací o tomto fenoménu.\n \n</text>
+</string>
+
+	
+	
+<!-- Looted Exoseva names -->
+	<string id="looted_exoseva_outfit_name">
+	<text>Ukradený Exo-seva oblek</text>
+</string>
+
+<string id="looted_dolg_exoseva_outfit_name">
+	<text>Ukradený PSZ-12b</text>
+</string>
+
+<string id="looted_merc_exoseva_outfit_name">
+	<text>Ukradený Žoldácký Exo-seva oblek</text>
+</string>
+
+<string id="looted_military_exoseva_outfit_name">
+	<text>Ukradený Armádní Exo-seva oblek</text>
+</string>
+
+<string id="looted_monolith_exoseva_outfit_name">
+	<text>Ukradený Monolith Exo-seva oblek</text>
+</string>
+
+<string id="looted_svoboda_exoseva_outfit_name">
+	<text>Ukradený Exemplář Svobody</text>
+</string>
+
+<string id="looted_ecolog_exoseva_outfit_name">
+	<text>Ukradený ekologický Exo-seva oblek</text>
+</string>
+
+<string id="looted_isg_exoseva_outfit_name">
+	<text>Ukradený UNISG Exo-seva oblek</text>
+</string>
+
+	
+<!-- Broken servos message -->	
+	
+	<string id="looted_exoseva_warn">
+	<text>%c[ui_gray_1]Cokoliv ukončilo život předchozího majitele tohoto obleku, zdá se, že také poškodilo servomotory rámu natolik, že již není možné běhat. Zkušený mechanik s vhodným nářadím by to možná dokázal opravit.
+	</text>
+</string>
+
+<!-- Sprint upgrade for looted Exoseva -->
+
+<string id="st_up_run_exoseva_name">
+	<text>Opravit servomotory</text>
+</string>
+
+<string id="st_up_run_exoseva_descr">
+	<text>%c[ui_gray_1]Opravuje poškození hydrauliky exorámu, takže uživatel již není omezen v běhu.\n \n</text>
+</string>
+
+	
+
+</string_table>
