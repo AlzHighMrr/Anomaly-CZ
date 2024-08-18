@@ -637,5 +637,20 @@
     <text>Táborák</text>
 </string>
 
+	<string id="ui_mcm_fftd_gen_squad_local_travel"> 
+    <text>Teleportování spoleèníkù pro místní cesty</text> 
+    </string>
+
+	<string id="ui_mcm_fftd_gen_squad_local_travel_desc">
+     <text>Vanilla Anomaly nechává pøi cestování v rámci jedné mapy za sebou spoluhráèe z družiny. Pokud je tato volba povolena, pokusí se Fair Fast Travel teleportovat všechny spoleèníky tak, aby cestovali s hráèem. Všimnìte si, že kvùli omezením enginu s teleportováním NPC to nefunguje vždy spolehlivì. To není problém tohoto doplòku.</text>
+      </string>
+
+	<string id="ui_mcm_fftd_gen_squad_tp_bind"> 
+    <text>Teleport spoleèníkù na pozici hráèe</text>
+     </string>
+
+	<string id="ui_mcm_fftd_gen_squad_tp_bind_desc"> 
+    <text>Spravedlivé rychlé cestování se pokusí pøenést vaše spoleèníky na vaši aktuální pozici. Udìlá to automaticky vždy, když budete lokálnì rychle cestovat, pokud je tato volba povolena, ale mùžete je ruènì donutit, aby se k vám teleportovali. Nezachránìní rukojmí a spoleèníci, kterým bylo øeèeno, aby poèkali, nebudou teleportováni.</text>
+     </string>
 
 </string_table>

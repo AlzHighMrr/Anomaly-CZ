@@ -36,49 +36,50 @@
 	</string>
 
 <!-- Added in 1.3 -->
-	<string id ="ui_mcm_menu_pawsys">
-		<text>Adjustable Waypoint</text>
-	</string>
+<string id ="ui_mcm_menu_pawsys">
+    <text>Nastavitelné Waypointy</text>
+</string>
 
-	<string id ="ui_mcm_menu_pawgen">
-		<text>General Settings</text>
-	</string>
+<string id ="ui_mcm_menu_pawgen">
+    <text>Obecná nastavení</text>
+</string>
 
-	<string id ="ui_mcm_menu_pawpins">
-		<text>Map Pins</text>
-	</string>
+<string id ="ui_mcm_menu_pawpins">
+    <text>Mapové znaèky</text>
+</string>
 
-	<string id ="ui_mcm_menu_pawmenu">
-		<text>Context Menus</text>
-	</string>
+<string id ="ui_mcm_menu_pawmenu">
+    <text>Kontextová menu</text>
+</string>
 
-	<string id ="ui_mcm_menu_pawbinds">
-		<text>Keybinds / Mouse</text>
-	</string>
+<string id ="ui_mcm_menu_pawbinds">
+    <text>Klávesové zkratky / Myš</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawgen_enabled">
-		<text>Enable Personal Adjustable Waypoint System</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawgen_enabled">
+    <text>Povolit systém osobního nastavení znaèek</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawgen_uninstall_desc">
-		<text>Enabling this option will clear all current waypoint data, remove all waypoint map markers, and cancel any active waypoint task.</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawgen_uninstall_desc">
+    <text>Povolení této monosti vymae všechna aktuální data znaèek, odstraní všechny znaèky mapy a zruší jakıkoli aktivní úkol znaèek.</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawgen_milpda">
-		<text>Integrate with Milspec PDA addon</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawgen_milpda">
+    <text>Integrace s doplòkem Milspec PDA</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawgen_milpda_desc">
-		<text>Enables integration/compatibility with the Milspec PDA addon. \n\nhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawgen_milpda_desc">
+    <text>Povolit integraci/kompatibilitu s doplòkem Milspec PDA. \n\nhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawgen_debuglogs">
-		<text>Enable debug logging</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawgen_debuglogs">
+    <text>Povolit ladicí logování</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawgen_debuglogs_desc">
-		<text>For troubleshooting. If you encounter a crash or other issue with PAW, please:\n1. Enable this option\n2. Reproduce the issue\n3. Upload a copy of the log for me to examine\n\nWithout debug logging it is unlikely that your log will show anything useful.</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawgen_debuglogs_desc">
+    <text>Pro odstraòování problémù. Pokud narazíte na pád nebo jinı problém s PAW, prosím:\n1. Povolte tuto monost\n2. Reprodukujte problém\n3. Nahrajte kopii logu k prozkoumání\n\nBez ladicího logování je nepravdìpodobné, e váš log ukáe nìco uiteèného.</text>
+</string>
+
 
 
 	<string id="st_paw_pin_add">
@@ -101,45 +102,45 @@
 		<text>Vymazat VŠECHNY znaèky - nelze vrátit zpìt</text>
 	</string>
 
-	<string id = "ui_mcm_pawsys_pawbinds_bind_wptoggle">
-		<text>Keypress to toggle the current active waypoint</text>
-	</string>
+	<string id="ui_mcm_pawsys_pawbinds_bind_wptoggle">
+    <text>Stisknout klávesu pro pøepnutí aktuální aktivní znaèky</text>
+</string>
 
-	<string id = "ui_mcm_pawsys_pawbinds_bind_wptoggle_desc">
-		<text>When pressed, this key will toggle off the current waypoint (if one is active), or reactivate the last waypoint if none is currently active. It has no effect if you haven't set a waypoint.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_wptoggle_desc">
+    <text>Po stisknutí tato klávesa vypne aktuální znaèku (pokud je aktivní), nebo reaktivuje poslední znaèku, pokud ádná aktuálnì aktivní není. Nemá ádnı úèinek, pokud jste nenastavili ádnou znaèku.</text>
+</string>
 
-	<string id = "ui_mcm_pawsys_pawbinds_bind_quickpin">
-		<text>Keypress to drop a Quick Pin</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_quickpin">
+    <text>Stisknout klávesu pro umístìní rychlé znaèky</text>
+</string>
 
-	<string id = "ui_mcm_pawsys_pawbinds_bind_quickpin_desc">
-		<text>When pressed, this key will place a Quick Pin at the nearest valid smart terrain point to the player's current location. If you have the Fair Fast Travel addon, Quick Pins can optionally be used as fast travel points.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_quickpin_desc">
+    <text>Po stisknutí tato klávesa umístí rychlou znaèku na nejbliší platnı bod chytré terénní mapy k aktuální pozici hráèe. Pokud máte addon Fair Fast Travel, rychlé znaèky mohou bıt volitelnì pouity jako body pro rychlé cestování.</text>
+</string>
 
-	<string id = "ui_mcm_pawsys_pawbinds_bind_cartmode">
-		<text>Key bind for Cartography Mode</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_cartmode">
+    <text>Klávesová zkratka pro reim kartografie</text>
+</string>
 
-	<string id = "ui_mcm_pawsys_pawbinds_bind_cartmode_desc">
-		<text>While held, this key will enable Cartography Mode, which displays all valid smart terrain points and other tools allowing the player to set and manage their Pins. The default hold can be changed to a toggle.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_cartmode_desc">
+    <text>Po drení tato klávesa aktivuje reim kartografie, kterı zobrazuje všechny platné body chytré terénní mapy a další nástroje umoòující hráèi nastavovat a spravovat své znaèky. Vıchozí drení lze zmìnit na pøepínání.</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_use_custom_pin_icon">
-		<text>Use a custom mapspot icon for map pins</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_use_custom_pin_icon">
+    <text>Pouít vlastní ikonu mapového bodu pro mapové znaèky</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_use_custom_pin_icon_desc">
-		<text>If enabled, PAW will attempt to use the specified mapspot ID for pin icons. Valid mapspots are in map_spots.xml or its includes. If you put something invalid here, it will probably crash your game. Use at your own risk.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_use_custom_pin_icon_desc">
+    <text>Pokud je povoleno, PAW se pokusí pouít specifikované ID mapového bodu pro ikony znaèek. Platné mapové body jsou v map_spots.xml nebo jeho pøipojeních. Pokud sem zadáte nìco neplatného, pravdìpodobnì to zpùsobí pád hry. Pouívejte na vlastní riziko.</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_custom_pin_icon">
-		<text>Custom mapspot ID to use</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_custom_pin_icon">
+    <text>Vlastní ID mapového bodu k pouití</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_custom_pin_icon_desc">
-		<text>If you know the name of a valid mapspot ID from the mapspots files, enter it here. WARNING: invalid values will very likely crash your game. Reset it to "user_defined" if nothing else works; it's simple and easy to remember.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_custom_pin_icon_desc">
+    <text>Pokud znáte název platného ID mapového bodu z mapovıch souborù, zadejte ho sem. UPOZORNÌNÍ: Neplatné hodnoty pravdìpodobnì zpùsobí pád vaší hry. Resetujte na "user_defined", pokud nic jiného nefunguje; je to jednoduché a snadno zapamatovatelné.</text>
+</string>
 
 	<string id ="st_paw_pin_default_name">
 		<text>Umístìní znaèky na mapì</text>
@@ -158,169 +159,188 @@
 	</string>
 
 	<string id="ui_mcm_pawsys_pawgen_s_device_pda_1">
-		<text>Enable Waypoint and Pin functionality on PDA 1.0</text>
-	</string>
+    <text>Aktivovat funkènost znaèek a pinù na PDA 1.0</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_s_device_pda_1_desc">
-		<text>If enabled, PDA 1.0 will be allowed to use all Waypoint and Pin functionality. If disabled, existing Pins will be preserved, but cannot be displayed until a compatible device is equipped.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_s_device_pda_1_desc">
+    <text>Pokud je povoleno, PDA 1.0 bude moci pouívat všechny funkce znaèek a pinù. Pokud je zakázáno, existující piny budou zachovány, ale nebudou zobrazeny, dokud nebude vybaven kompatibilní zaøízení.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_s_device_pda_2">
-		<text>Enable Waypoint and Pin functionality on PDA 2.0</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_s_device_pda_2">
+    <text>Aktivovat funkènost znaèek a pinù na PDA 2.0</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_s_device_pda_2_desc">
-		<text>If enabled, PDA 2.0 will be allowed to use all Waypoint and Pin functionality.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_s_device_pda_2_desc">
+    <text>Pokud je povoleno, PDA 2.0 bude moci pouívat všechny funkce znaèek a pinù.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_s_device_pda_3">
-		<text>Enable Waypoint and Pin functionality on PDA 3.1</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_s_device_pda_3">
+    <text>Aktivovat funkènost znaèek a pinù na PDA 3.1</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_s_device_pda_3_desc">
-		<text>If enabled, PDA 3.1 will be allowed to use all Waypoint and Pin functionality. </text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_s_device_pda_3_desc">
+    <text>Pokud je povoleno, PDA 3.1 bude moci pouívat všechny funkce znaèek a pinù.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_s_device_pda_milspec">
-		<text>Enable Waypoint and Pin functionality on the Milspec PDA</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_s_device_pda_milspec">
+    <text>Aktivovat funkènost znaèek a pinù na Milspec PDA</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_s_device_pda_milspec_desc">
-		<text>If enabled, the Milspec PDA (if installed and available) will be allowed to use all Waypoint and Pin functionality. </text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_s_device_pda_milspec_desc">
+    <text>Pokud je povoleno, Milspec PDA (pokud je nainstalováno a dostupné) bude moci pouívat všechny funkce znaèek a pinù.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_pins">
-		<text>Default icon for Pins</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_pins">
+    <text>Vıchozí ikona pro piny</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_pins_desc">
-		<text>When the Pins icon set is active, this option determines which icon is assigned to a map pin at the time it is created. Each map pin can have a different icon.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_pins_desc">
+    <text>Kdy je aktivní sada ikon pro piny, tato monost urèuje, která ikona je pøi vytvoøení mapového pinu pøiøazena. Kadı mapovı pin mùe mít jinou ikonu.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_patches">
-		<text>Default icon for Faction Patches</text>
-	</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_patches_desc">
-		<text>When the Faction Patches icon set is active, this option determines which icon is assigned to a map pin at the time it is created. Each map pin can have a different icon.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_patches">
+    <text>Vıchozí ikona pro nášivky frakcí</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_bwhr">
-		<text>Default icon for BW Hi-res POIs</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_patches_desc">
+    <text>Kdy je aktivní sada ikon pro nášivky frakcí, tato monost urèuje, která ikona je pøi vytvoøení mapového pinu pøiøazena. Kadı mapovı pin mùe mít jinou ikonu.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_bwhr_desc">
-		<text>When the BW Hi-res POIs icon set is active, this option determines which icon is assigned to a map pin at the time it is created. Each map pin can have a different icon.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_bwhr">
+    <text>Vıchozí ikona pro BW Hi-res POI</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_faves">
-		<text>Default icon for Favorites</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_bwhr_desc">
+    <text>Kdy je aktivní sada ikon pro BW Hi-res POI, tato monost urèuje, která ikona je pøi vytvoøení mapového pinu pøiøazena. Kadı mapovı pin mùe mít jinou ikonu.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_faves_desc">
-		<text>When the Favorites icon set is active, this option determines which icon is assigned to a map pin at the time it is created. Each map pin can have a different icon.\n\nNote: you can customize the Favorites, or any other icon set, by editing configs\scripts\paw\icon_set_*.ltx</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_faves">
+    <text>Vıchozí ikona pro Oblíbené</text>
+</string>
 
-	<string id="ui_mcm_lst_pawsys_pg_faves">
-		<text>Favorites</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_faves_desc">
+    <text>Kdy je aktivní sada ikon pro Oblíbené, tato monost urèuje, která ikona je pøi vytvoøení mapového pinu pøiøazena. Kadı mapovı pin mùe mít jinou ikonu.\n\nPoznámka: mùete pøizpùsobit Oblíbené nebo jakoukoli jinou sadu ikon úpravou souborù configs\scripts\paw\icon_set_*.ltx</text>
+</string>
 
-	<string id="st_paw_no_last_wp">
-		<text>There is no previous or active waypoint to toggle</text>
-	</string>
+<string id="ui_mcm_lst_pawsys_pg_faves">
+    <text>Oblíbené</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_pin_redround32">
-		<text>Red Round Pin</text>
-	</string>
+<string id="st_paw_no_last_wp">
+    <text>Neexistuje ádná pøedchozí nebo aktivní znaèka, kterou by bylo moné pøepnout</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_pin_stalker32">
-		<text>Stalker Cursor-style Pin</text>
-	</string>
+<string id="ui_mcm_lst_paw_pin_redround32">
+    <text>Èervenı kulatı pin</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_pin_redmodern32">
-		<text>Modern GMaps-style Pin</text>
-	</string>
+<string id="ui_mcm_lst_paw_pin_stalker32">
+    <text>Pin ve stylu Stalker Cursor</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_pin_redpush32">
-		<text>Red Push Pin</text>
-	</string>
+<string id="ui_mcm_lst_paw_pin_redmodern32">
+    <text>Moderní pin ve stylu GMaps</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_pin_yelpush32">
-		<text>Yellow Push Pin</text>
-	</string>
+<string id="ui_mcm_lst_paw_pin_redpush32">
+    <text>Èervenı push pin</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_pin_whtsimple32">
-		<text>White Minimalist</text>
-	</string>
+<string id="ui_mcm_lst_paw_pin_yelpush32">
+    <text>lutı push pin</text>
+</string>
+
+<string id="ui_mcm_lst_paw_pin_whtsimple32">
+    <text>Bílı minimalistickı</text>
+</string>
+
 
 	<string id="ui_mcm_lst_paw_badge_stalker">
-		<text>Loner</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_army">
-		<text>Military</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_bandit">
-		<text>Bandit</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_csky">
-		<text>Clear Sky</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_dolg">
-		<text>Duty</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_ecolog">
-		<text>Ecologist</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_freedom">
-		<text>Freedom</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_killer">
-		<text>Mercenary</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_monolith">
-		<text>Monolith</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_greh">
-		<text>Sin</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_isg">
-		<text>UNISG</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_renegade">
-		<text>Renegade</text>
-	</string>
-	<string id="ui_mcm_lst_pawsys_cmenu_cart">
-		<text>Cartography Only</text>
-	</string>
-	<string id="ui_mcm_lst_pawsys_cmenu_norm">
-		<text>Normal Only</text>
-	</string>
-	<string id="ui_mcm_lst_pawsys_cmenu_all">
-		<text>Always</text>
-	</string>
-	<string id="ui_mcm_lst_pawsys_cmenu_off">
-		<text>Disabled</text>
-	</string>
+    <text>Samotáø</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_pin_icon_group">
-		<text>Active Pin icon set</text>
-	</string>
+<string id="ui_mcm_lst_paw_badge_army">
+    <text>Armáda</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_pin_icon_group_desc">
-		<text>Each set of icons below (e.g. Pins, Patches) has an icon that is currently selected in their drop-down list. This radio button determines which of those sets' icons will be used when placing any new pin.\n\nThe Favorites set will always be placed at the top of the list, and you can freely edit which icons it contains in:\n configs\scripts\paw\icon_set_faves.ltx.</text>
-	</string>
+<string id="ui_mcm_lst_paw_badge_bandit">
+    <text>Bandita</text>
+</string>
 
-	<string id="ui_mcm_lst_pawsys_pg_pins">
-		<text>Pin-Style Icons</text>
-	</string>
+<string id="ui_mcm_lst_paw_badge_csky">
+    <text>Jasná obloha</text>
+</string>
 
-	<string id="ui_mcm_lst_pawsys_pg_patches">
-		<text>Faction Patch Icons</text>
-	</string>
+<string id="ui_mcm_lst_paw_badge_dolg">
+    <text>Povinnost</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_headertxt">
-		<text>This menu allows you to customize PAW's in-game context menus. You can disable each of the following options to de-clutter your menu, or choose whether each of them appears Always, only when Cartography Mode is active, or only when it is not (Normal PDA view).</text>
-	</string>
+<string id="ui_mcm_lst_paw_badge_ecolog">
+    <text>Ekolog</text>
+</string>
+
+<string id="ui_mcm_lst_paw_badge_freedom">
+    <text>Svoboda</text>
+</string>
+
+<string id="ui_mcm_lst_paw_badge_killer">
+    <text>oldák</text>
+</string>
+
+<string id="ui_mcm_lst_paw_badge_monolith">
+    <text>Monolit</text>
+</string>
+
+<string id="ui_mcm_lst_paw_badge_greh">
+    <text>Høích</text>
+</string>
+
+<string id="ui_mcm_lst_paw_badge_isg">
+    <text>UNISG</text>
+</string>
+
+<string id="ui_mcm_lst_paw_badge_renegade">
+    <text>Odpadlík</text>
+</string>
+
+<string id="ui_mcm_lst_pawsys_cmenu_cart">
+    <text>Jen kartografie</text>
+</string>
+
+<string id="ui_mcm_lst_pawsys_cmenu_norm">
+    <text>Jen normální</text>
+</string>
+
+<string id="ui_mcm_lst_pawsys_cmenu_all">
+    <text>Vdy</text>
+</string>
+
+<string id="ui_mcm_lst_pawsys_cmenu_off">
+    <text>Deaktivováno</text>
+</string>
+
+
+<string id="ui_mcm_pawsys_pawpins_pin_icon_group">
+    <text>Aktivní sada ikon pro pøipínací body</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawpins_pin_icon_group_desc">
+    <text>Kadá sada ikon níe (napø. Pin, Nášivek) má ikonu, která je v souèasnosti vybraná v jejich rozbalovací nabídce. Toto pøepínaè urèuje, která sada ikon bude pouita pøi umisování nového pin.\n\nSada oblíbenıch ikon bude vdy umístìna na vrcholu seznamu a mùete volnì upravovat, které ikony obsahuje v:\n configs\scripts\paw\icon_set_faves.ltx.</text>
+</string>
+
+<string id="ui_mcm_lst_pawsys_pg_pins">
+    <text>Ikony typu Pin</text>
+</string>
+
+<string id="ui_mcm_lst_pawsys_pg_patches">
+    <text>Ikony frakèních nášivek</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawmenu_headertxt">
+    <text>Toto menu vám umoòuje pøizpùsobit kontextová menu PAW v høe. Mùete zakázat jednotlivé monosti, abyste vyèistili své menu, nebo si vybrat, zda se mají zobrazovat Vdy, pouze pøi aktivním reimu Kartografie, nebo pouze kdy není aktivní (normální PDA zobrazení).</text>
+</string>
+
 	<string id="ui_mcm_pawsys_pawmenu_wp_set">
 		<text>Nastavit Waypoint</text>
 	</string>
@@ -348,561 +368,561 @@
 
 
 <!-- Added in 1.4 -->
-	<string id="ui_mcm_lst_pawsys_pg_bwhr">
-		<text>BW Hi-res POIs</text>
-	</string>
+<string id="ui_mcm_lst_pawsys_pg_bwhr">
+    <text>BW Hi-res POI</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_info">
-		<text>BWHR Info</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_info">
+    <text>BWHR Info</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_signal">
-		<text>BWHR Signal Source</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_signal">
+    <text>BWHR Zdroj signálu</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_loot">
-		<text>BWHR Loot/Valuables</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_loot">
+    <text>BWHR Koøist/Cennosti</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_death">
-		<text>BWHR Danger</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_death">
+    <text>BWHR Nebezpeèí</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_ak">
-		<text>BWHR Weapons</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_ak">
+    <text>BWHR Zbranì</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_ammo">
-		<text>BWHR Ammo</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_ammo">
+    <text>BWHR Munice</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_bio">
-		<text>BWHR Biohazard</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_bio">
+    <text>BWHR Biologické riziko</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_rad">
-		<text>BWHR Radiation</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_rad">
+    <text>BWHR Radiace</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_warn">
-		<text>BWHR Warning</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_warn">
+    <text>BWHR Varování</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_magn">
-		<text>BWHR Magnifying Glass</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_magn">
+    <text>BWHR Lupa</text>
+</string>
+
 
 <!-- Added in 1.5 -->
 
-	<string id="ui_mcm_lst_paw_badge_hr_stalker">
-		<text>HR Loner</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_army">
-		<text>HR Military</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_bandit">
-		<text>HR Bandit</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_csky">
-		<text>HR Clear Sky</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_dolg">
-		<text>HR Duty</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_ecolog">
-		<text>HR Ecologist</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_freedom">
-		<text>HR Freedom</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_killer">
-		<text>HR Mercenary</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_monolith">
-		<text>HR Monolith</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_greh">
-		<text>HR Sin</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_isg">
-		<text>HR UNISG</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_hr_renegade">
-		<text>HR Renegade</text>
-	</string>
+<string id="ui_mcm_lst_paw_badge_hr_stalker">
+    <text>HR Samotáø</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_army">
+    <text>HR Armáda</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_bandit">
+    <text>HR Bandita</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_csky">
+    <text>HR Jasná obloha</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_dolg">
+    <text>HR Povinnost</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_ecolog">
+    <text>HR Ekolog</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_freedom">
+    <text>HR Svoboda</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_killer">
+    <text>HR oldák</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_monolith">
+    <text>HR Monolit</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_greh">
+    <text>HR Høích</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_isg">
+    <text>HR UNISG</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_hr_renegade">
+    <text>HR Renegát</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_badge_uhr_stalker">
-		<text>UHR Loner</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_army">
-		<text>UHR Military</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_bandit">
-		<text>UHR Bandit</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_csky">
-		<text>UHR Clear Sky</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_dolg">
-		<text>UHR Duty</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_ecolog">
-		<text>UHR Ecologist</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_freedom">
-		<text>UHR Freedom</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_killer">
-		<text>UHR Mercenary</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_monolith">
-		<text>UHR Monolith</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_greh">
-		<text>UHR Sin</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_isg">
-		<text>UHR UNISG</text>
-	</string>
-	<string id="ui_mcm_lst_paw_badge_uhr_renegade">
-		<text>UHR Renegade</text>
-	</string>
+<string id="ui_mcm_lst_paw_badge_uhr_stalker">
+    <text>UHR Samotáø</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_army">
+    <text>UHR Voják</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_bandit">
+    <text>UHR Bandita</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_csky">
+    <text>UHR Jasná obloha</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_dolg">
+    <text>UHR Povinnost</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_ecolog">
+    <text>UHR Ekolog</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_freedom">
+    <text>UHR Svoboda</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_killer">
+    <text>UHR oldák</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_monolith">
+    <text>UHR Monolit</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_greh">
+    <text>UHR Høích</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_isg">
+    <text>UHR UNISG</text>
+</string>
+<string id="ui_mcm_lst_paw_badge_uhr_renegade">
+    <text>UHR Odpadlíci</text>
+</string>
 
 	<string id ="st_paw_pingspot">
-		<text>Map Ping - Right-click to set waypoint or pin</text>
-	</string>
+    <text>Pøipnutí na mapu - Kliknìte pravım tlaèítkem pro nastavení waypointu nebo pøipnutí</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawmenu_mping">
-		<text>Ping the map</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawmenu_mping">
+    <text>Pøipnout na mapu</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawgen_pingsound">
-		<text>Play sound effect when pinging the map</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawgen_pingsound">
+    <text>Pøehrát zvukovı efekt pøi pøipnutí na mapu</text>
+</string>
+
 
 <!-- Added in 1.6 -->
 
-	<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon">
-		<text>Customize body icon used by Milspec PDA</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon">
+    <text>Pøizpùsobit ikonu tìla pouívanou v Milspec PDA</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon_desc">
-		<text>This optional feature allows you configure the body marker icon used by Milspec PDA's Kill Tracker feature, if you have that addon installed.\n\nDisabled: MilPDA operates normally\n\nVictim Faction Patch: dead stalkers will have a faction patch for their body marker, all others use the default from the Body Markers set\n\nBody Markers set: MilPDA will use the current default icon from the Body Markers set for all bodies</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon_desc">
+    <text>Tato volitelná funkce vám umoòuje nastavit ikonu tìla pouívanou funkcí Kill Tracker v Milspec PDA, pokud máte tento doplnìk nainstalovanı.\n\nVypnuto: MilPDA funguje normálnì\n\nNášivka frakce obìti: mrtví stalkeøi budou mít pro ikonu tìla nášivku své frakce, ostatní budou mít vıchozí ikonu ze sady Body Markers\n\nSada Body Markers: MilPDA bude pro všechna tìla pouívat aktuální vıchozí ikonu ze sady Body Markers</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_get_milpda">
-		<text>Requires Milspec PDA 1.7.3 or higher:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawpins_get_milpda">
+    <text>Vyaduje Milspec PDA verzi 1.7.3 nebo vyšší:\nhttps://www.moddb.com/mods/stalker-anomaly/addons/milspec-pda-for-anomaly-151-152-and-gamma</text>
+</string>
 
-	<string id ="ui_mcm_lst_pawsys_pg_bodies">
-		<text>Body Markers</text>
-	</string>
+<string id ="ui_mcm_lst_pawsys_pg_bodies">
+    <text>Markery tìl</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_poi_icon_bodies">
-		<text>Default icon for Body Markers</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawpins_poi_icon_bodies">
+    <text>Vıchozí ikona pro markery tìl</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_patch_res">
-		<text>Resolution used for faction patches</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawpins_patch_res">
+    <text>Rozlišení pouívané pro nášivky frakcí</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_patch_res_desc">
-		<text>This option determines which icon quality is used for faction patches: the low-res vanilla inventory icons, PAW's hi-res 64x64 patches, or 128x128 versions with a white outline. The low-res and hi-res mapspots are the same size; the UHR versions are about 25% bigger.</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawpins_patch_res_desc">
+    <text>Tato monost urèuje, která kvalita ikony se pouívá pro nášivky frakcí: nízké rozlišení z pùvodních inventárních ikon, PAW s vysokım rozlišením 64x64 nebo verze 128x128 s bílım okrajem. Ikony s nízkım a vysokım rozlišením mají stejnou velikost; UHR verze jsou pøiblinì o 25 % vìtší.</text>
+</string>
 
-	<string id ="ui_mcm_lst_pawsys_cfg_badge_res">
-		<text>Low-Res (vanilla inventory icon)</text>
-	</string>
+<string id ="ui_mcm_lst_pawsys_cfg_badge_res">
+    <text>Nízké rozlišení (pùvodní inventární ikona)</text>
+</string>
 
-	<string id ="ui_mcm_lst_pawsys_cfg_badge_hr_res">
-		<text>Hi-Res (from clean master)</text>
-	</string>
+<string id ="ui_mcm_lst_pawsys_cfg_badge_hr_res">
+    <text>Vysoké rozlišení (z èistého masteru)</text>
+</string>
 
-	<string id ="ui_mcm_lst_pawsys_cfg_badge_uhr_res">
-		<text>Ultra Hi-Res (with white outline)</text>
-	</string>
+<string id ="ui_mcm_lst_pawsys_cfg_badge_uhr_res">
+    <text>Ultra vysoké rozlišení (s bílım okrajem)</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon">
-		<text>Customize body icon used by Milspec PDA</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawpins_milpda_body_icon">
+    <text>Pøizpùsobit ikonu tìla pouívanou v Milspec PDA</text>
+</string>
 
-	<string id ="ui_mcm_lst_pawsys_cfg_bodyoff">
-		<text>Disabled</text>
-	</string>
+<string id ="ui_mcm_lst_pawsys_cfg_bodyoff">
+    <text>Vypnuto</text>
+</string>
 
-	<string id ="ui_mcm_lst_pawsys_cfg_bodyfac">
-		<text>Victim Faction Patch</text>
-	</string>
+<string id ="ui_mcm_lst_pawsys_cfg_bodyfac">
+    <text>Nášivka frakce obìti</text>
+</string>
 
-	<string id ="ui_mcm_lst_pawsys_cfg_bodyset">
-		<text>Body Markers set</text>
-	</string>
+<string id ="ui_mcm_lst_pawsys_cfg_bodyset">
+    <text>Sada markerù tìl</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawmenu_waypoint_rename">
-		<text>Rename waypoint</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawmenu_waypoint_rename">
+    <text>Pøejmenovat waypoint</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawmenu_waypoint_redesc">
-		<text>Change waypoint description</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawmenu_waypoint_redesc">
+    <text>Zmìnit popis waypointu</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_death_small">
-		<text>Small BWHR Death </text>
-	</string>
+<string id="ui_mcm_lst_paw_death_small">
+    <text>Malı BWHR Nebezpeèí</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_blue_circle">
-		<text>Blue Circle</text>
-	</string>
+<string id="ui_mcm_lst_paw_blue_circle">
+    <text>Modrı kruh</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_crosshair_white">
-		<text>White Crosshairs</text>
-	</string>
+<string id="ui_mcm_lst_paw_crosshair_white">
+    <text>Bílé zamìøovaèe</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_crosshair_red">
-		<text>Red Crosshairs</text>
-	</string>
+<string id="ui_mcm_lst_paw_crosshair_red">
+    <text>Èervené zamìøovaèe</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_crosshair_green">
-		<text>Green Crosshairs</text>
-	</string>
+<string id="ui_mcm_lst_paw_crosshair_green">
+    <text>Zelené zamìøovaèe</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_crosshair_green">
-		<text>Green Crosshairs</text>
-	</string>
+<string id="ui_mcm_lst_paw_stash_green">
+    <text>Zelená ikona úkrytu</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_stash_green">
-		<text>Green Stash Icon</text>
-	</string>
+<string id="ui_mcm_lst_paw_stash_white">
+    <text>Bílá ikona úkrytu</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_stash_white">
-		<text>White Stash Icon</text>
-	</string>
+<string id="ui_mcm_lst_paw_stash_purple">
+    <text>Fialová ikona úkrytu</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_stash_purple">
-		<text>Purple Stash Icon</text>
-	</string>
+<string id="ui_mcm_lst_paw_stash_red">
+    <text>Èervená ikona úkrytu</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_stash_red">
-		<text>Red Stash Icon</text>
-	</string>
 
 <!-- Added in 1.6.1 -->
 
 	<string id ="ui_mcm_pawsys_pawgen_wipe_all">
-		<text>Wipe all pin data</text>
-	</string>
+    <text>Vymazat všechna data pøipnutí</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawgen_wipe_all_desc">
-		<text>Removes all pins from the map and wipes the pin database. This cannot be undone.</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawgen_wipe_all_desc">
+    <text>Odstraní všechna pøipnutí z mapy a vymae databázi pøipnutí. Toto nelze vrátit zpìt.</text>
+</string>
 
-	<string id="ui_mcm_lst_deadbody_location_sdot">
-		<text>[MPDA] Small Blue Dot</text>
-	</string>
+<string id="ui_mcm_lst_deadbody_location_sdot">
+    <text>[MPDA] Malá modrá teèka</text>
+</string>
 
-	<string id="ui_mcm_lst_deadbody_location_mdot">
-		<text>[MPDA] Medium Blue Dot</text>
-	</string>
+<string id="ui_mcm_lst_deadbody_location_mdot">
+    <text>[MPDA] Støední modrá teèka</text>
+</string>
 
-	<string id="ui_mcm_lst_deadbody_location_ldot">
-		<text>[MPDA] Large Blue Dot</text>
-	</string>
+<string id="ui_mcm_lst_deadbody_location_ldot">
+    <text>[MPDA] Velká modrá teèka</text>
+</string>
 
-	<string id="ui_mcm_lst_deadbody_location_whtx">
-		<text>[MPDA] White X Mark</text>
-	</string>
+<string id="ui_mcm_lst_deadbody_location_whtx">
+    <text>[MPDA] Bílı znak X</text>
+</string>
 
-	<string id="ui_mcm_lst_deadbody_location_skul">
-		<text>[MPDA] Small Plain Skull</text>
-	</string>
+<string id="ui_mcm_lst_deadbody_location_skul">
+    <text>[MPDA] Malá jednoduchá lebka</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_togglehold">
-		<text>Behavior of the Cartography Mode keybind</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_togglehold">
+    <text>Chování klávesové zkratky pro reim kartografie</text>
+</string>
 
-	<string id="ui_mcm_lst_pawsys_toggle">
-		<text>Toggle</text>
-	</string>
+<string id="ui_mcm_lst_pawsys_toggle">
+    <text>Pøepnout</text>
+</string>
 
-	<string id="ui_mcm_lst_pawsys_hold">
-		<text>Hold</text>
-	</string>
+<string id="ui_mcm_lst_pawsys_hold">
+    <text>Podret</text>
+</string>
+ 
 
 <!-- Added in 1.7 -->
 
-	<string id="ui_mcm_pawsys_pawbinds_mwheel_enabled">
-		<text>Mouse wheel support (requires modded binaries)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_mwheel_enabled">
+    <text>Podpora koleèka myši (vyaduje modifikované soubory)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_mwheel_enabled_desc">
-		<text>When enabled, the mouse wheel can be scrolled up and down to cycle through the active icons or sets.\n
-		This feature requires modded binaries version 20230701 or newer. GAMMA also supports this from 0.9.1 onward.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_mwheel_enabled_desc">
+    <text>Pokud je povoleno, mùete koleèkem myši rolovat nahoru a dolù a procházet aktivní ikony nebo sady.\n
+    Tato funkce vyaduje modifikované soubory verze 20230701 nebo novìjší. GAMMA tuto funkci podporuje od verze 0.9.1.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_mwheel_notify">
-		<text>Display a message when changing mouse wheel mode</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_mwheel_notify">
+    <text>Zobrazit zprávu pøi zmìnì reimu koleèka myši</text>
+</string>
 
-	<string id="ui_mcm_paw_modded_binaries">
-		<text>Modded binaries by demonized (required for mouse wheel support):\n https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/
-		</text>
-	</string>
+<string id="ui_mcm_paw_modded_binaries">
+    <text>Modifikované soubory od demonized (nutné pro podporu koleèka myši):\n https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/
+    </text>
+</string>
 
-	<string id="st_paw_change_set">
-		<text>Active Set changed to %s.\n
-		</text>
-	</string>
+<string id="st_paw_change_set">
+    <text>Aktivní sada zmìnìna na %s.\n
+    </text>
+</string>
 
-	<string id="st_paw_change_icon">
-		<text>Active Icon is now</text>
-	</string>
+<string id="st_paw_change_icon">
+    <text>Aktivní ikona je nyní</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_set_next">
-		<text>Cycle to next set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_set_next">
+    <text>Pøepnout na další sadu</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_set_next_desc">
-		<text>Optional keybind to cycle to the next set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_set_next_desc">
+    <text>Volitelná klávesová zkratka pro pøepnutí na další sadu</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_set_prev">
-		<text>Cycle to previous set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_set_prev">
+    <text>Pøepnout na pøedchozí sadu</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_set_prev_desc">
-		<text>Optional keybind to cycle to the previous set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_set_prev_desc">
+    <text>Volitelná klávesová zkratka pro pøepnutí na pøedchozí sadu</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_ico_next">
-		<text>Cycle to next icon in active set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_ico_next">
+    <text>Pøepnout na další ikonu v aktivní sadì</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_ico_next_desc">
-		<text>Optional keybind to cycle to the next icon in the active set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_ico_next_desc">
+    <text>Volitelná klávesová zkratka pro pøepnutí na další ikonu v aktivní sadì</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_ico_prev">
-		<text>Cycle to previous icon in active set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_ico_prev">
+    <text>Pøepnout na pøedchozí ikonu v aktivní sadì</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_ico_prev_desc">
-		<text>Optional keybind to cycle to the previous icon in the active set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_ico_prev_desc">
+    <text>Volitelná klávesová zkratka pro pøepnutí na pøedchozí ikonu v aktivní sadì</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_set_scroll">
-		<text>Hold to change sets with mouse wheel</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_set_scroll">
+    <text>Podret pro zmìnu sady pomocí koleèka myši</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_set_scroll_desc">
-		<text>While this key is held, scrolling the mouse wheel will cycle through the list of sets if mouse scrolling is enabled.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_set_scroll_desc">
+    <text>Pokud je tato klávesa stisknutá, rolování koleèkem myši pøepíná mezi seznamem sad, pokud je rolování koleèkem povoleno.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll">
-		<text>Hold to change icons with mouse wheel</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll">
+    <text>Podret pro zmìnu ikon pomocí koleèka myši</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll_desc">
-		<text>While this key is held, scrolling the mouse wheel will cycle through the icons in the active set if the scrolling mode is set to Hold for Both. </text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_ico_scroll_desc">
+    <text>Pokud je tato klávesa stisknutá, rolování koleèkem myši pøepíná mezi ikonami v aktivní sadì, pokud je reim rolování nastaven na Podret pro obojí.</text>
+</string>
 
-	<string id="st_paw_cycling_sets">
-		<text>Mouse wheel is now cycling sets</text>
-	</string>
+<string id="st_paw_cycling_sets">
+    <text>Koleèko myši nyní pøepíná sady</text>
+</string>
 
-	<string id="st_paw_cycling_icons">
-		<text>Mouse wheel is now cycling icons</text>
-	</string>
+<string id="st_paw_cycling_icons">
+    <text>Koleèko myši nyní pøepíná ikony</text>
+</string>
 
-	<string id="st_paw_mwheel_normal">
-		<text>Mouse wheel returned to default behavior</text>
-	</string>
 
-	<string id ="ui_mcm_menu_pawhud">
-		<text>HUD Widget</text>
-	</string>
+<string id="st_paw_mwheel_normal">
+    <text>Koleèko myši se vrátilo k vıchozímu chování</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_widget_enable">
-		<text>Enable HUD widget</text>
-	</string>
+<string id ="ui_mcm_menu_pawhud">
+    <text>HUD Widget</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_autohide">
-		<text>Autohide delay in seconds (0 never hides)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_widget_enable">
+    <text>Povolit widget HUD</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_hudsound">
-		<text>Play sound effect for icon/set changes </text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_autohide">
+    <text>Èas prodlevy automatického skrytí v sekundách (0 nikdy neskryje)</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawhud_pingsound">
-		<text>Play sound effect when pinging the map</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_hudsound">
+    <text>Pøehrát zvukovı efekt pøi zmìnì ikony/sady</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_active_theme">
-		<text>Widget visual theme (see below for descriptions)</text>
-	</string>
+<string id ="ui_mcm_pawsys_pawhud_pingsound">
+    <text>Pøehrát zvukovı efekt pøi pingu na mapì</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_custompos">
-		<text>Use the custom position below instead of theme default</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_active_theme">
+    <text>Vizuální téma widgetu (viz níe pro popisy)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_widgetinfo">
-		<text>The HUD widget displays the current active icon and, depending on the theme, can also display other information.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_custompos">
+    <text>Pouít vlastní pozici níe namísto vıchozího nastavení téma</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_pos_x_desc">
-		<text>Sets the X (horizontal) coordinate of the widget's upper left corner. 0,0 is the upper left corner of the screen, 1024,768 is the lower right. The game converts this to your display resolution.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_widgetinfo">
+    <text>Widget HUD zobrazuje aktuální aktivní ikonu a v závislosti na tématu mùe také zobrazovat další informace.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_pos_y_desc">
-		<text>Sets the Y (vertical) coordinate of the widget's upper left corner. 0,0 is the upper left corner of the screen, 1024,768 is the lower right. The game converts this to your display resolution.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_pos_x_desc">
+    <text>Nastaví X (horizontální) souøadnici levého horního rohu widgetu. 0,0 je levı horní roh obrazovky, 1024,768 je pravı dolní roh. Hra to pøevádí na vaše rozlišení obrazovky.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_pos_x">
-		<text>X (horizontal, left to right) coordinate</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_pos_y_desc">
+    <text>Nastaví Y (vertikální) souøadnici levého horního rohu widgetu. 0,0 je levı horní roh obrazovky, 1024,768 je pravı dolní roh. Hra to pøevádí na vaše rozlišení obrazovky.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_pos_y">
-		<text>Y (vertical, top to bottom) coordinate</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_pos_x">
+    <text>X (horizontální, zleva doprava) souøadnice</text>
+</string>
 
-	<string id="ui_mcm_themes_list">
-		<text>You can read a full description of each available theme below.\n</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_pos_y">
+    <text>Y (vertikální, shora dolù) souøadnice</text>
+</string>
 
-	<string id="ui_mcm_themes_classicauto">
-		<text>
-			Classic Stalker, Auto-Switch: 138x75 (default pos 890,620)\n
-			Icon and Set text, Next/Current/Prev icons\n
-			Auto-switches to Classic Vertical Right when PDA is open\n
-			Select "Classic" theme if you don't want the auto-switch\n
-			Recommended default
-		</text>
-	</string>
+<string id="ui_mcm_themes_list">
+    <text>Plnı popis kadého dostupného tématu si mùete pøeèíst níe.\n</text>
+</string>
 
-	<string id="ui_mcm_themes_classic">
-		<text>
-			Classic Stalker, Horizontal: 138x75 (default pos 890,620)\n
-			Icon and Set text, Next/Current/Prev icons\n
-			Does not auto-switch, but blocked by PDA in its default position
-		</text>
-	</string>
+<string id="ui_mcm_themes_classicauto">
+    <text>
+        Classic Stalker, Auto-Switch: 138x75 (vıchozí pozice 890,620)\n
+        Ikona a text Sady, Následující/Aktuální/Pøedchozí ikony\n
+        Automaticky pøepíná na Classic Vertical Right, kdy je otevøeno PDA\n
+        Zvolte téma "Classic", pokud nechcete automatické pøepínání\n
+        Doporuèeno jako vıchozí
+    </text>
+</string>
 
-	<string id="ui_mcm_themes_vertright">
-		<text>
-			Classic Vertical, Right-aligned: 100x154 (default pos 922,440)\n
-			Icon text, Next/Current/Prev icons\n
-			PDA mode for Classic Stalker Auto-Switch, but can be used on its own
-		</text>
-	</string>
+<string id="ui_mcm_themes_classic">
+    <text>
+        Classic Stalker, Horizontální: 138x75 (vıchozí pozice 890,620)\n
+        Ikona a text Sady, Následující/Aktuální/Pøedchozí ikony\n
+        Neautomaticky pøepíná, ale v jeho vıchozí pozici jej blokuje PDA
+    </text>
+</string>
 
-	<string id="ui_mcm_themes_vertleft">
-		<text>
-			Classic Vertical, Left-aligned: 100x154 (default pos 4,570)\n
-			Icon text, Next/Current/Prev icons\n
-			Can block news messages in its default position\n
-			Custom position recommended
-		</text>
-	</string>
+<string id="ui_mcm_themes_vertright">
+    <text>
+        Classic Vertical, Zarovnáno vpravo: 100x154 (vıchozí pozice 922,440)\n
+        Text ikony, Následující/Aktuální/Pøedchozí ikony\n
+        Reim PDA pro Classic Stalker Auto-Switch, ale mùe bıt pouit i samostatnì
+    </text>
+</string>
 
-	<string id="ui_mcm_themes_gamma_right">
-		<text>
-			GAMMA Style, Right-aligned: 136x150 (default pos 888,440)\n
-			Icon and Set text, Next/Current/Prev icons\n
-			Visible both with and without PDA open
-		</text>
-	</string>
+<string id="ui_mcm_themes_vertleft">
+    <text>
+        Classic Vertical, Zarovnáno vlevo: 100x154 (vıchozí pozice 4,570)\n
+        Text ikony, Následující/Aktuální/Pøedchozí ikony\n
+        Ve vıchozí pozici mùe blokovat zprávy\n
+        Doporuèeno pøizpùsobení pozice
+    </text>
+</string>
 
-	<string id="ui_mcm_themes_gamma_left">
-		<text>
-			GAMMA Style, Left-aligned: 136x150 (default pos 4,440)\n
-			Icon and Set text, Next/Current/Prev icons\n
-			Can block news messages in its default position\n
-			Custom position recommended
-		</text>
-	</string>
+<string id="ui_mcm_themes_gamma_right">
+    <text>
+        GAMMA styl, Zarovnáno vpravo: 136x150 (vıchozí pozice 888,440)\n
+        Ikona a text Sady, Následující/Aktuální/Pøedchozí ikony\n
+        Viditelné s otevøenım i zavøenım PDA
+    </text>
+</string>
 
-	<string id="ui_mcm_themes_minimal_h">
-		<text>
-			Minimalist, Horizontal: 94x52 (default pos 924,645)\n
-			Icon text, Next/Current/Prev icons on drop shadow\n
-			Blocked by PDA in its default position\n
-			Custom position recommended
-		</text>
-	</string>
+<string id="ui_mcm_themes_gamma_left">
+    <text>
+        GAMMA styl, Zarovnáno vlevo: 136x150 (vıchozí pozice 4,440)\n
+        Ikona a text Sady, Následující/Aktuální/Pøedchozí ikony\n
+        Ve vıchozí pozici mùe blokovat zprávy\n
+        Doporuèeno pøizpùsobení pozice
+    </text>
+</string>
 
-	<string id="ui_mcm_themes_minimal_v">
-		<text>
-			Minimalist, Vertical: 92x112 (default pos 924,440)\n
-			Icon text, Next/Current/Prev icons on drop shadow\n
-			No left-aligned version
-		</text>
-	</string>
+<string id="ui_mcm_themes_minimal_h">
+    <text>
+        Minimalistickı, Horizontální: 94x52 (vıchozí pozice 924,645)\n
+        Text ikony, Následující/Aktuální/Pøedchozí ikony na stínu\n
+        Ve vıchozí pozici jej blokuje PDA\n
+        Doporuèeno pøizpùsobení pozice
+    </text>
+</string>
 
-	<string id="ui_mcm_themes_minicom">
-		<text>
-			Minimalist, Compact: 38x38 (default pos 890,440)\n
-			Displays current icon only, on drop shadow\n
-			blocked by PDA in its default position
-		</text>
-	</string>
+<string id="ui_mcm_themes_minimal_v">
+    <text>
+        Minimalistickı, Vertikální: 92x112 (vıchozí pozice 924,440)\n
+        Text ikony, Následující/Aktuální/Pøedchozí ikony na stínu\n
+        Neexistuje verze zarovnaná vlevo
+    </text>
+</string>
 
-	<string id="ui_mcm_themes_compact_noui">
-		<text>
-			Compact, No UI Frame: 32x32 (default pos 890,440)\n
-			Displays current icon only, no other UI or background\n
-			Suitable for positioning nearly anywhere, easy to integrate with custom HUDs
-		</text>
-	</string>
+<string id="ui_mcm_themes_minicom">
+    <text>
+        Minimalistickı, Kompaktní: 38x38 (vıchozí pozice 890,440)\n
+        Zobrazuje pouze aktuální ikonu na stínu\n
+        Ve vıchozí pozici jej blokuje PDA
+    </text>
+</string>
+
+<string id="ui_mcm_themes_compact_noui">
+    <text>
+        Kompaktní, Bez UI rámce: 32x32 (vıchozí pozice 890,440)\n
+        Zobrazuje pouze aktuální ikonu, bez jiného UI nebo pozadí\n
+        Vhodné pro umístìní témìø kdekoli, snadné pro integraci s vlastními HUDy
+    </text>
+</string>
+
 
 	<string id="ui_mcm_lst_theme_classicauto">
-		<text>Classic Stalker, H/V Auto Switch</text>
-	</string>
+    <text>Classic Stalker, H/V Auto pøepínaè</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_classic">
-		<text>Classic Stalker, Horizontal (890,620)</text>
-	</string>
+<string id="ui_mcm_lst_theme_classic">
+    <text>Classic Stalker, Horizontální (890,620)</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_vertright">
-		<text>Classic, Vertical, Right-Aligned (922,440)</text>
-	</string>
+<string id="ui_mcm_lst_theme_vertright">
+    <text>Classic, Vertikální, Zarovnáno vpravo (922,440)</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_vertleft">
-		<text>Classic, Vertical, Left-Aligned (4,570)</text>
-	</string>
+<string id="ui_mcm_lst_theme_vertleft">
+    <text>Classic, Vertikální, Zarovnáno vlevo (4,570)</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_gamma_right">
-		<text>GAMMA Style, Right-Aligned (888,440)</text>
-	</string>
+<string id="ui_mcm_lst_theme_gamma_right">
+    <text>GAMMA Styl, Zarovnáno vpravo (888,440)</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_gamma_left">
-		<text>GAMMA Style, Left-Aligned (4,574)</text>
-	</string>
+<string id="ui_mcm_lst_theme_gamma_left">
+    <text>GAMMA Styl, Zarovnáno vlevo (4,574)</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_minimal_h">
-		<text>Minimalist, Horizontal (890,650)</text>
-	</string>
+<string id="ui_mcm_lst_theme_minimal_h">
+    <text>Minimalistickı, Horizontální (890,650)</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_minimal_v">
-		<text>Minimalist, Vertical (890,440)</text>
-	</string>
+<string id="ui_mcm_lst_theme_minimal_v">
+    <text>Minimalistickı, Vertikální (890,440)</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_minicom">
-		<text>Minimalist, Compact (820,725)</text>
-	</string>
+<string id="ui_mcm_lst_theme_minicom">
+    <text>Minimalistickı, Kompaktní (820,725)</text>
+</string>
 
-	<string id="ui_mcm_lst_theme_compact_noui">
-		<text>Compact, No UI Frame (820,725)</text>
-	</string>
+<string id="ui_mcm_lst_theme_compact_noui">
+    <text>Kompaktní, Bez UI rámce (820,725)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_enabled">
-		<text>Enabled</text>
-	</string>
+<string id="ui_mcm_lst_paw_enabled">
+    <text>Povoleno</text>
+</string>
 
-<!-- Added in 1.7.1 -->
-
-	<string id="st_paw_waypoint_cleared">
-		<text>Current waypoint cleared</text>
-	</string>
+<string id="st_paw_waypoint_cleared">
+    <text>Aktuální waypoint byl vymazán</text>
+</string>
 
 <!-- Added in 1.7.2 -->
 
@@ -917,796 +937,843 @@
 	</string>
 
 <!-- Added in 1.7.3 -->
+<string id="ui_mcm_pawsys_pawgen_disable_mcmups">
+    <text>Zakázat okamité aktualizace MCM</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_disable_mcmups">
-		<text>Disable immediate MCM updates</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawgen_disable_mcmups_desc">
-		<text>When you change the current icon/set during gameplay, PAW updates the same setting in MCM. This is so that your changes will be saved even if the game crashes, but it can cause a performance impact on some machines. Enabling this setting will turn off this feature, but the settings will still be stored when you save your game. However, changes will not be reflected in MCM if you enter its menu before saving.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_disable_mcmups_desc">
+    <text>Kdy bìhem hry zmìníte aktuální ikonu/sadu, PAW aktualizuje stejné nastavení v MCM. Tím se zajistí, e vaše zmìny budou uloeny i v pøípadì pádu hry, ale mùe to zpùsobit dopad na vıkon na nìkterıch strojích. Povolte tuto monost, pokud chcete tuto funkci vypnout, ale nastavení se stále uloí pøi uloení hry. Zmìny však nebudou odráeny v MCM, pokud vstoupíte do jeho menu pøed uloením.</text>
+</string>
 
 <!-- Added in 1.7.4 -->
 
-	<string id="ui_mcm_pawsys_pawmenu_show_all_pins">
-		<text>Show All Pins</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_show_all_pins">
+    <text>Zobrazit všechny piny</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_hide_all_pins">
-		<text>Hide All Pins</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_hide_all_pins">
+    <text>Skrıt všechny piny</text>
+</string>
+
 
 <!-- Added in 1.8 -->
+<string id="ui_mcm_pawsys_pawgen_wp_clear_dist">
+    <text>Automatické vymazání vzdálenosti waypointu (v metrech)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_clear_dist">
-		<text>Waypoint autoclear distance (in meters)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_wp_hud_icon_enabled">
+    <text>Zobrazení znaèky na HUD</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_hud_icon_enabled">
-		<text>Zobrazení znaèky na HUD</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_welcome_msg_shown">
+    <text>Nezobrazovat uvítací zprávu PAW pøi naètení uloené hry</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_welcome_msg_shown">
-		<text>Don't show PAW welcome message on savegame load</text>
-	</string>
-
-	<string id="st_pawsys_welcome_msg">
-		<text>$clr_prp[ Personal Adjustable Waypoint System initialized ]$clr_wht \n \n
-• Right-click on any visible map icon to set a custom quest marker ($clr_lblwaypoint$clr_wht) or place and label map markers called $clr_lblpins$clr_wht.\n
-• Press $clr_yel%s$clr_wht to toggle the waypoint on or off at any time. If you don't want a visible HUD marker, you can disable it in MCM.\n
-• Press $clr_yel%s$clr_wht to mark the map with a $clr_lblQuick Pin$clr_wht at your current location.\n
-• Hold $clr_yel%s$clr_wht to enter $clr_lblCartography Mode$clr_wht for more map functions, like $clr_lblpinging$clr_wht the map to display temporary markers for precise pin and waypoint placement.\n
+<string id="st_pawsys_welcome_msg">
+    <text>$clr_prp[ Systém Personal Adjustable Waypoint byl inicializován ]$clr_wht \n \n
+• Kliknìte pravım tlaèítkem na jakoukoli viditelnou ikonu na mapì pro nastavení vlastního ukazatele úkolu ($clr_lblwaypoint$clr_wht) nebo umístìní a oznaèení mapovıch znaèek zvanıch $clr_lblpins$clr_wht.\n
+• Stisknìte $clr_yel%s$clr_wht pro pøepnutí waypointu kdykoli zapnuto/vypnuto. Pokud nechcete viditelnou znaèku na HUD, mùete ji zakázat v MCM.\n
+• Stisknìte $clr_yel%s$clr_wht pro oznaèení mapy $clr_lblQuick Pin$clr_wht na vaší aktuální pozici.\n
+• Podrte $clr_yel%s$clr_wht pro vstup do $clr_lblKartografickı mod$clr_wht pro další mapové funkce, jako je $clr_lblpinging$clr_wht mapy pro zobrazení doèasnıch znaèek pro pøesné umístìní pinù a waypointù.\n
 \n
-You'll find all this and more in MCM under $clr_lblAdjustable Waypoint$clr_wht.\n
+To vše a další najdete v MCM pod $clr_lblAdjustable Waypoint$clr_wht.\n
 \n
-This message won't bother you again. Good hunting, %s.</text>
-	</string>
+Tato zpráva vás u nebude obtìovat. Pøejeme vám úspìšnı lov, %s.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_hud_vis_on">
-		<text>Show Pin on HUD</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_hud_vis_on">
+    <text>Zobrazit pin na HUD</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_hud_vis_off">
-		<text>Hide Pin from HUD</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_hud_vis_off">
+    <text>Skrıt pin z HUD</text>
+</string>
 
-	<string id="st_paw_system_disabled">
-		<text>PAW System is disabled</text>
-	</string>
+<string id="st_paw_system_disabled">
+    <text>Systém PAW je deaktivován</text>
+</string>
 
 
 <!-- Added in 1.10 -->
 
 
-	<string id="ui_mcm_paw_current_active_pin">
-		<text>Active Pin:</text>
-	</string>
+<string id="ui_mcm_paw_current_active_pin">
+    <text>Aktivní Pin:</text>
+</string>
 
-	<string id="ui_mcm_paw_pinmenu_header">
-		<text>When you place a pin, it uses the Default icon from the Current Active Set. You can change them here, or cycle through pins and sets in-game using keybinds of your choice.</text>
-	</string>
+<string id="ui_mcm_paw_pinmenu_header">
+    <text>Kdy umístíte pin, pouívá ikonu Vıchozí z aktuální aktivní sady. Mùete je zde zmìnit nebo v prùbìhu hry pøepínat mezi piny a sadami pomocí vámi zvolenıch klávesovıch zkratek.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_cartmode_toggle">
-		<text>Cartography Mode is a toggle</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_cartmode_toggle">
+    <text>Kartografickı mod je pøepínaè</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_cartmode_toggle_desc">
-		<text>By default, you must hold down the key for Cartography Mode. If this option is enabled, it operates as a toggle instead.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_cartmode_toggle_desc">
+    <text>Ve vıchozím nastavení musíte klávesu pro Kartografickı mod dret. Pokud je tato volba povolena, bude fungovat jako pøepínaè.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_cart_shows_smarts">
-		<text>Cartography Mode shows smart terrains</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_cart_shows_smarts">
+    <text>Kartografickı mod zobrazuje chytré terény</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_cart_shows_smarts_desc">
-		<text>By default, Cartography Mode shows an icon (white map with a magnifying glass) to indicate smart terrain spots. If you don't need or want to see these for any reason, you can turn them off with this option.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_cart_shows_smarts_desc">
+    <text>Ve vıchozím nastavení Kartografickı mod zobrazuje ikonu (bílá mapa s lupou), která oznaèuje chytré terénní body. Pokud tyto informace nepotøebujete nebo je nechcete vidìt, mùete je vypnout pomocí této volby.</text>
+</string>
+
 
 <!-- Added in 1.11 -->
 
 	<string id="st_paw_meters_abbr">
-		<text>m</text>
-	</string>
+    <text>m</text>
+</string>
 
-	<string id="st_paw_unknown">
-		<text>Neznámé</text>
-	</string>
+<string id="st_paw_unknown">
+    <text>Neznámé</text>
+</string>
 
-	<string id="st_paw_stash">
-		<text>Skrıš</text>
-	</string>
+<string id="st_paw_stash">
+    <text>Skrıš</text>
+</string>
 
-	<string id="st_paw_squad">
-		<text>Oddíl</text>
-	</string>
+<string id="st_paw_squad">
+    <text>Spoleèníci</text>
+</string>
 
-	<string id="st_paw_npc_pda_equipped">
-		<text>You are currently using an NPC's looted PDA, not your own. Equip a player PDA to make use of waypoints, map pins, or other PAW System functionality.</text>
-	</string>
+<string id="st_paw_npc_pda_equipped">
+    <text>Aktuálnì pouíváte PDA nalezené u NPC, ne své vlastní. Pøipnìte si hráèské PDA, abyste mohli vyuívat waypointy, mapové piny nebo další funkce PAW systému.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_show_dist_wp">
-		<text>Show distance on waypoint HUD marker</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_show_dist_wp">
+    <text>Zobrazit vzdálenost na waypoint HUD markeru</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_show_dist_wp_desc">
-		<text>Choose when the waypoint HUD marker should show an indicator for distance: never, always, only when Cartography Mode is active, or only when it is not (Normal PDA view). Has no effect when the HUD marker is not enabled.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_show_dist_wp_desc">
+    <text>Vyberte, kdy by mìl waypoint HUD marker zobrazovat indikátor vzdálenosti: nikdy, vdy, pouze kdy je aktivní Kartografickı mod, nebo pouze kdy není (normální zobrazení PDA). Nemá ádnı úèinek, pokud není HUD marker povolen.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_show_dist_pins">
-		<text>Show distance on pin HUD markers</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_show_dist_pins">
+    <text>Zobrazit vzdálenost na pin HUD markerech</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_show_dist_pins_desc">
-		<text>Choose when markers for pins on the HUD should show an indicator for distance: never, always, only when Cartography Mode is active, or only when it is not (Normal PDA view). Has no effect without pins set visible on the HUD.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_show_dist_pins_desc">
+    <text>Vyberte, kdy by mìly markery pinù na HUD zobrazovat indikátor vzdálenosti: nikdy, vdy, pouze kdy je aktivní Kartografickı mod, nebo pouze kdy není (normální zobrazení PDA). Nemá ádnı úèinek bez viditelnıch pinù na HUD.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_show_hint_pins">
-		<text>Show label on pin HUD markers</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_show_hint_pins">
+    <text>Zobrazit popis na pin HUD markerech</text>
+</string>
 	
-	<string id="ui_mcm_pawsys_pawgen_show_hint_pins_desc">
-		<text>Choose when markers for pins on the HUD should display their text label above the icon: never, always, only when Cartography Mode is active, or only when it is not (Normal PDA view). Has no effect without pins set visible on the HUD.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_show_hint_pins_desc">
+    <text>Vyberte, kdy by mìly markery pinù na HUD zobrazovat svùj textovı popis nad ikonou: nikdy, vdy, pouze kdy je aktivní Kartografickı mod, nebo pouze kdy není (normální zobrazení PDA). Nemá ádnı úèinek bez viditelnıch pinù na HUD.</text>
+</string>
 
 <!-- Added in 1.12 -->
 
 	<string id="ui_mcm_lst_pawsys_pg_npcs">
-		<text>NPCs and Services</text>
-	</string>
+    <text>NPC a sluby</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_npcs">
-		<text>Default icon for NPCs and Services</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_npcs">
+    <text>Vıchozí ikona pro NPC a sluby</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_diamond_friendly">
-		<text>Friendly (diamond style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_diamond_friendly">
+    <text>Pøátelskı (styl diamant)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_diamond_neutral">
-		<text>Neutral (diamond style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_diamond_neutral">
+    <text>Neutrální (styl diamant)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_diamond_enemy">
-		<text>Enemy (diamond style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_diamond_enemy">
+    <text>Neprátelskı (styl diamant)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_chevron_friendly">
-		<text>Friendly (chevron style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_chevron_friendly">
+    <text>Pøátelskı (styl šíp)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_chevron_neutral">
-		<text>Neutral (chevron style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_chevron_neutral">
+    <text>Neutrální (styl šíp)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_chevron_enemy">
-		<text>Enemy (chevron style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_chevron_enemy">
+    <text>Neprátelskı (styl šíp)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_flag_friendly">
-		<text>Friendly (flag style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_flag_friendly">
+    <text>Pøátelskı (styl vlajka)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_flag_neutral">
-		<text>Neutral (flag style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_flag_neutral">
+    <text>Neutrální (styl vlajka)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_flag_enemy">
-		<text>Enemy (flag style)</text>
-	</string>
+<string id="ui_mcm_lst_paw_flag_enemy">
+    <text>Neprátelskı (styl vlajka)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_npc_mechanic">
-		<text>NPC Mechanic</text>
-	</string>
+<string id="ui_mcm_lst_paw_npc_mechanic">
+    <text>NPC Mechanik</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_npc_trader">
-		<text>NPC Trader</text>
-	</string>
+<string id="ui_mcm_lst_paw_npc_trader">
+    <text>NPC Obchodník</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_npc_guide">
-		<text>NPC Guide</text>
-	</string>
+<string id="ui_mcm_lst_paw_npc_guide">
+    <text>NPC Prùvodce</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_npc_food_trader">
-		<text>NPC Food Trader</text>
-	</string>
+<string id="ui_mcm_lst_paw_npc_food_trader">
+    <text>NPC Obchodník s potravinami</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_npc_medic">
-		<text>NPC Medic</text>
-	</string>
+<string id="ui_mcm_lst_paw_npc_medic">
+    <text>NPC Medic</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_sleep_zone">
-		<text>Sleeping Area</text>
-	</string>
+<string id="ui_mcm_lst_paw_sleep_zone">
+    <text>Spací oblast</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_obj_briefcase">
-		<text>Briefcase Object</text>
-	</string>
+<string id="ui_mcm_lst_paw_obj_briefcase">
+    <text>Objekt kufru</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_obj_lock">
-		<text>Locked Object</text>
-	</string>
+<string id="ui_mcm_lst_paw_obj_lock">
+    <text>Uzamèenı objekt</text>
+</string>
 
-	<string id="ui_mcm_paw_cartmode_head">
-		<text>Cartography Mode</text>
-	</string>
+<string id="ui_mcm_paw_cartmode_head">
+    <text>Kartografickı mod</text>
+</string>
 
-	<string id="ui_mcm_paw_cartmode_desc">
-		<text>Cartography Mode enables additional mapping functionality without cluttering the HUD or menu during normal play. You can configure what functions appear in this mode (or in normal PDA mode) in the Context Menus MCM submenu.</text>
-	</string>
+<string id="ui_mcm_paw_cartmode_desc">
+    <text>Kartografickı mod umoòuje další funkce mapování, ani by zaneøádil HUD nebo menu bìhem bìného hraní. Mùete konfigurovat, které funkce se v tomto reimu (nebo v bìném zobrazení PDA) zobrazují v podmenu Context Menus MCM.</text>
+</string>
 
-	<string id="ui_mcm_paw_mousewheel_head">
-		<text>Mouse Wheel Support</text>
-	</string>
+<string id="ui_mcm_paw_mousewheel_head">
+    <text>Podpora myši</text>
+</string>
 
-	<string id="ui_mcm_paw_crosshair_target_head">
-		<text>Waypointing and Pins - Crosshair Targeting</text>
-	</string>
+<string id="ui_mcm_paw_crosshair_target_head">
+    <text>Waypointy a piny - Cílení køíového vlasce</text>
+</string>
 
-	<string id="ui_mcm_paw_crosshair_target_head">
-		<text>Waypointing and Pins - Crosshair Targeting</text>
-	</string>
+<string id="ui_mcm_paw_crosshair_target_desc">
+    <text>První dvì klávesové zkratky vám umoòují pouívat waypointy a piny na jakémkoli objektu, kterı je aktuálnì pod vaším køíovım vlascem. Aby to hra zaznamenala, musí bıt objekt pøesnì pod støedem køíového vlascem. Pro stalkera to znamená, e musí bıt dostateènì centrálnì, aby aktivoval identifikaci køíového vlascem.</text>
+</string>
 
-	<string id="ui_mcm_paw_crosshair_target_desc">
-		<text>The first two keybinds allow you to use waypoints and pins on whatever object is currently under your crosshair. In order for the game to register this, the object must be exactly under the center of the crosshair. For a stalker, this means centered enough for the crosshair identification to activate.</text>
-	</string>
+<string id="ui_mcm_paw_generalbinds_head">
+    <text>Waypointy a piny - Obecné klávesové zkratky</text>
+</string>
 
-	<string id="ui_mcm_paw_generalbinds_head">
-		<text>Waypointing and Pins - General Keybinds</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj">
-		<text>Keypress to set waypoint on the target object</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj_desc">
-		<text>When this key is pressed, the waypoint will be set--or moved--to the object under the player's crosshair. If it was already set to the target object, it will be disabled.</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj">
-		<text>Keypress to set a pin on the target object</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj_desc">
-		<text>When this key is pressed, a pin will be placed on the object under the player's crosshair if there isn't one already, using the current active icon. If a pin already exists for the target, it will be removed.</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawret_pin_auto_visible">
-		<text>Pins created by targeting default to visible on the HUD</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawret_pin_auto_visible_desc">
-		<text>If a pin was created by targeting an object with the crosshairs, it will automatically be shown on the HUD. You can show or hide pins on the HUD at any time using your PDA.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj">
+    <text>Stisknout klávesu pro nastavení waypointu na cílovı objekt</text>
+</string>
 
 
-	<string id="st_paw_pin_removed_from_target">
-		<text>Pin $clr_yel%s$clr_wht removed from $clr_lbl%s$clr_wht.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj_desc">
+    <text>Po stisknutí této klávesy bude waypoint nastaven - nebo pøesunut - na objekt pod køíovım vlascem hráèe. Pokud byl ji nastaven na cílovı objekt, bude deaktivován.</text>
+</string>
 
-	<string id="st_paw_pin_added_to_target">
-		<text>Pin added to $clr_lbl%s$clr_wht using icon: $clr_lbl%s$clr_wht.\n
-		You can change the current active icon with $clr_yel%s$clr_wht/$clr_yel%s$clr_wht.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj">
+    <text>Stisknout klávesu pro umístìní pinu na cílovı objekt</text>
+</string>
 
-	<string id="ui_mcm_paw_pin_target_desc">
-		<text>Pin $clr_yel%s$clr_wht removed from $clr_lbl%s$clr_wht.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj_desc">
+    <text>Po stisknutí této klávesy bude na objekt pod køíovım vlascem hráèe umístìn pin, pokud tam ji není, a to s pouitím aktuální aktivní ikony. Pokud pin ji pro cílovı objekt existuje, bude odstranìn.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_tip_on_icoset_change">
-		<text>Show news tip when changing icons or sets using keybinds</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_pin_auto_visible">
+    <text>Pin, kterı je vytvoøen cílením, je ve vıchozím nastavení viditelnı na HUD</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawret_pin_auto_visible_desc">
+    <text>Pokud byl pin vytvoøen cílením na objekt s køíovımi vlascem, bude automaticky zobrazen na HUD. Mùete kdykoli zobrazit nebo skrıt piny na HUD pomocí svého PDA.</text>
+</string>
+
+<string id="st_paw_pin_removed_from_target">
+    <text>Pin $clr_yel%s$clr_wht byl odstranìn z $clr_lbl%s$clr_wht.</text>
+</string>
+
+<string id="st_paw_pin_added_to_target">
+    <text>Pin pøidán k $clr_lbl%s$clr_wht s ikonou: $clr_lbl%s$clr_wht.\n
+    Aktuální aktivní ikonu mùete zmìnit pomocí $clr_yel%s$clr_wht/$clr_yel%s$clr_wht.</text>
+</string>
+
+<string id="ui_mcm_paw_pin_target_desc">
+    <text>Pin $clr_yel%s$clr_wht byl odstranìn z $clr_lbl%s$clr_wht.</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawgen_tip_on_icoset_change">
+    <text>Zobrazit novou radu pøi zmìnì ikon nebo sad pomocí klávesovıch zkratek</text>
+</string>
+
 
 <!-- Added in 1.13 -->
 
-	<string id="ui_mcm_pawsys_pawgen_pin_near_fade_dist">
-		<text>Pin near fade-out distance (in meters)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_pin_near_fade_dist">
+    <text>Vzdálenost pøi vyblednutí pinu (v metrech)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_pin_near_fade_dist_desc">
-		<text>When the player comes within this distance of a pin, it will begin to fade out.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_pin_near_fade_dist_desc">
+    <text>Kdy se hráè dostane do této vzdálenosti od pinu, zaène se vytrácet.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_pin_far_fade_dist">
-		<text>Pin far fade-out distance (in meters)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_pin_far_fade_dist">
+    <text>Vzdálenost pro vyblednutí pinu (v metrech)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_pin_far_fade_dist_desc">
-		<text>When the player gets this far away from a pin, it will begin to fade out.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_pin_far_fade_dist_desc">
+    <text>Kdy se hráè dostane takto daleko od pinu, zaène se vytrácet.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_pin_far_hide_dist">
-		<text>Pin far hide distance (in meters)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_pin_far_hide_dist">
+    <text>Vzdálenost, pøi které se pin skryje (v metrech)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_pin_far_hide_dist_desc">
-		<text>If the player is more than this far beyond where the fade-out begins, a pin will disappear completely.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_pin_far_hide_dist_desc">
+    <text>Pokud je hráè dál ne tato vzdálenost od zaèátku vyblednutí, pin se zcela skryje.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_cartmode_unfade">
-		<text>Pins on the HUD never fade out while in Cartography Mode</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_cartmode_unfade">
+    <text>Piny na HUD se pøi pouívání reimu kartografie nikdy nevytrácejí</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawbinds_cartmode_unfade_desc">
-		<text>If there are any pins on the HUD, and they are normally set to fade out, they won't do so while Cartography Mode is active.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawbinds_cartmode_unfade_desc">
+    <text>Pokud jsou na HUD nìjaké piny a normálnì by se mìly vytrácet, nebudou se tak dít, pokud je aktivní reim kartografie.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_lock_pin">
-		<text>Lock Pin</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_lock_pin">
+    <text>Zamknout pin</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_unlock_pin">
-		<text>Unlock Pin</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_unlock_pin">
+    <text>Odemknout pin</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_reticle_mode">
-		<text>Show smart reticle when a valid object is targeted</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_reticle_mode">
+    <text>Zobrazit chytré køíové vlasy, kdy je cílenı platnı objekt</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_reticle_mode_desc">
-		<text>This setting controls when the smart reticle can appear: always, only when Cartography Mode is active, or never (disabled).</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_reticle_mode_desc">
+    <text>Toto nastavení øídí, kdy se mùe chytrı køíovı vlas objevit: vdy, pouze kdy je aktivní reim kartografie, nebo nikdy (zakázáno).</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_reticle_alpha">
-		<text>Reticle transparency</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_reticle_alpha">
+    <text>Prùhlednost køíového vlasu</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_reticle_alpha_desc">
-		<text>The reticle's maximum alpha (transparency) value, with 0 being fully transparent and 255 being no transparency.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_reticle_alpha_desc">
+    <text>Maximální hodnota alfa (prùhlednost) køíového vlasu, pøièem 0 znamená zcela prùhlednı a 255 ádnou prùhlednost.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_ret_fade_attack_time">
-		<text>Fade-in duration for object reticle</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_ret_fade_attack_time">
+    <text>Doba nábìhu pro køíovı vlas objektu</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_ret_fade_attack_time_desc">
-		<text>The time, in milliseconds, that it takes for the reticle to finish fading in when targeting a valid object.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_ret_fade_attack_time_desc">
+    <text>Èas, v milisekundách, kterı je potøeba k úplnému zobrazení køíového vlasu pøi cílení na platnı objekt.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_ret_fade_decay_time">
-		<text>Fade-out duration for object reticle</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_ret_fade_decay_time">
+    <text>Doba vyblednutí køíového vlasu objektu</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_ret_fade_decay_time_desc">
-		<text>The time, in milliseconds, that it takes for the reticle to finish fading out after the crosshair no longer has a target.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_ret_fade_decay_time_desc">
+    <text>Èas, v milisekundách, kterı je potøeba k úplnému vyblednutí køíového vlasu poté, co køíovı vlas ji nemá cíl.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_preview_aspect">
-		<text>Aspect ratio for the screen preview below</text>
-	</string>
 
-	<string id="ui_mcm_lst_paw_aspect_4_3">
-		<text>4:3 (Standard Definition)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_preview_aspect">
+    <text>Pomìr stran pro náhled obrazovky níe</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_aspect_16_10">
-		<text>16:10 (1920×1200, 2560x1600)</text>
-	</string>
+<string id="ui_mcm_lst_paw_aspect_4_3">
+    <text>4:3 (Standardní rozlišení)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_aspect_16_9">
-		<text>16:9 (1080p, 1440p, 2160p)</text>
-	</string>
+<string id="ui_mcm_lst_paw_aspect_16_10">
+    <text>16:10 (1920×1200, 2560x1600)</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_aspect_21_9">
-		<text>21:9 (Ultrawide)</text>
-	</string>
+<string id="ui_mcm_lst_paw_aspect_16_9">
+    <text>16:9 (1080p, 1440p, 2160p)</text>
+</string>
+
+<string id="ui_mcm_lst_paw_aspect_21_9">
+    <text>21:9 (Ultrawide)</text>
+</string>
+
 
 <!-- Added in 1.14 -->
 
-	<string id="ui_mcm_paw_resolutions">
-		<text>Example resolutions in this aspect ratio:\n</text>
-	</string>
+<string id="ui_mcm_paw_resolutions">
+    <text>Pøíklady rozlišení v tomto pomìru stran:\n</text>
+</string>
 
-	<string id="ui_mcm_paw_resolutions_4_3">
-		<text>\n1024x768\n1600x1200</text>
-	</string>
+<string id="ui_mcm_paw_resolutions_4_3">
+    <text>\n1024x768\n1600x1200</text>
+</string>
 
-	<string id="ui_mcm_paw_resolutions_16_9">
-		<text>\n1920x1080\n1280x720\n1600x900\n2560x1440\n3840x2160</text>
-	</string>
+<string id="ui_mcm_paw_resolutions_16_9">
+    <text>\n1920x1080\n1280x720\n1600x900\n2560x1440\n3840x2160</text>
+</string>
 
-	<string id="ui_mcm_paw_resolutions_16_10">
-		<text>\n1280x800\n1920x1200\n2560x1600\n3840x2400</text>
-	</string>
+<string id="ui_mcm_paw_resolutions_16_10">
+    <text>\n1280x800\n1920x1200\n2560x1600\n3840x2400</text>
+</string>
 
-	<string id="ui_mcm_paw_resolutions_21_9">
-		<text>\n2560x1080\n3440x1440\n3840x1600</text>
-	</string>
+<string id="ui_mcm_paw_resolutions_21_9">
+    <text>\n2560x1080\n3440x1440\n3840x1600</text>
+</string>
+
 
 <!-- Added in 1.16 -->
+<string id="ui_mcm_menu_pawret">
+    <text>Reticle / Automatické oznaèování</text>
+</string>
 
-	<string id="ui_mcm_menu_pawret">
-		<text>Reticle / Autotag</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_enable_autotag">
+    <text>Aktivovat automatické oznaèování pomocí reticle ID</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_enable_autotag">
-		<text>Enable automatic smart tagging on reticle ID</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_enable_autotag_desc">
+    <text>Pokud je tato funkce aktivována, reticle na HUDu automaticky "oznaèí" platné cílové objekty odpovídající znaèkou, jak je nakonfigurováno níe.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_enable_autotag_desc">
-		<text>When this feature is enabled, PAW's HUD reticle will automatically "tag" valid target objects with an appropriate pin once they are identified, as configured below.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_reticle_info1">
+    <text>Pouijte znaèky a waypoints na jakémkoli platném objektu pod vašimi køíovkami pomocí konfigurovatelnıch klávesovıch zkratek. Podle vıchozího nastavení se reticle zobrazuje a skrıvá, aby indikovala, kdy cílujete na platnı objekt.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_reticle_info1">
-		<text>Use pins and waypoints on any valid object under your crosshairs using configurable hotkeys. By default, the reticle fades in and out to indicate when you are targeting a valid object.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_reticle_info2">
+    <text>Chcete-li místo toho automaticky oznaèovat cílené objekty, viz nastavení "Automatické oznaèování" níe.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_reticle_info2">
-		<text>To instead mark targeted objects automatically, see the "Autotag" setting below.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_autotag_info">
+    <text>Automatické oznaèování automaticky oznaèí urèité typy objektù pøeddefinovanımi znaèkami dle vašeho vıbìru, jakmile budou pozitivnì identifikovány. To vám umoní uvolnit klávesové zkratky a soustøedit se na Zónu místo na PDA nebo menu.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_autotag_info">
-		<text>Autotag will automatically mark certain types of objects with pre-defined pins of your choice once they are positively identified. This allows you to free up keybinds, and focus on the Zone instead of your PDA or menus.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawhud_autotag_facid">
+    <text>Funguje podobnì jako addon Faction Identification, kterı ète jeho MCM nastavení, aby PAW a FacID mohli spolupracovat. Zmìny, které provedete v MCM menu FacID, budou respektovány PAW.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawhud_autotag_facid">
-		<text>It functions similarly to the Faction Identification addon, reading its MCM settings so that PAW and FacID can work together. Changes that you make in FacID's MCM menu will be respected by PAW.</text>
-	</string>
+<string id="ui_mcm_lst_pawsys_pg_smartpins">
+    <text>Smart Pins</text>
+</string>
 
-	<string id="ui_mcm_lst_pawsys_pg_smartpins">
-		<text>Smart Pins</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_poi_icon_smartpins">
+    <text>Vıchozí ikona pro Smart Pins</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawpins_poi_icon_smartpins">
-		<text>Default icon for Smart Pins</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_human_f_enable">
+    <text>Aktivovat automatické oznaèování pro pøátelské stalkery</text>
+</string>
 
+<string id="ui_mcm_pawsys_pawret_human_f">
+    <text>Ikona pro lidské (pøátelské) objekty</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_human_f_enable">
-		<text>Enable Autotagging for friendly stalkers</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawret_human_f">
-		<text>Human (friendly) icon</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawret_human_f_desc">
-		<text>Autotag will assign this icon to friendly stalkers.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_human_f_desc">
+    <text>Automatické oznaèování pøiøadí tuto ikonu pøátelskım stalkerùm.</text>
+</string>
 
 
-	<string id="ui_mcm_pawsys_pawret_human_n_enable">
-		<text>Enable Autotagging for neutral stalkers</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_human_n_enable">
+    <text>Aktivovat automatické oznaèování pro neutrální stalkery</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_human_n">
-		<text>Human (neutral) icon</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_human_n">
+    <text>Ikona pro lidské (neutrální) objekty</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_human_n_desc">
-		<text>Autotag will assign this icon to neutral stalkers.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_human_n_desc">
+    <text>Automatické oznaèování pøiøadí tuto ikonu neutrálním stalkerùm.</text>
+</string>
 
+<string id="ui_mcm_pawsys_pawret_human_e_enable">
+    <text>Aktivovat automatické oznaèování pro nepøátelské stalkery</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_human_e_enable">
-		<text>Enable Autotagging for enemy stalkers</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_human_e">
+    <text>Ikona pro lidské (nepøátelské) objekty</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_human_e">
-		<text>Human (enemy) icon</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_human_e_desc">
+    <text>Automatické oznaèování pøiøadí tuto ikonu nepøátelskım stalkerùm.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_human_e_desc">
-		<text>Autotag will assign this icon to enemy stalkers.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_monster_enable">
+    <text>Aktivovat automatické oznaèování pro monstra</text>
+</string>
 
+<string id="ui_mcm_pawsys_pawret_monster">
+    <text>Monstra</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_monster_enable">
-		<text>Enable Autotagging for monsters</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_monster_desc">
+    <text>Automatické oznaèování pøiøadí tuto ikonu mutantùm, monstrùm a dalším nehumánním bytostem.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_monster">
-		<text>Monsters</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_stash_enable">
+    <text>Aktivovat automatické oznaèování pro kontejnery skrıší</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_monster_desc">
-		<text>Autotag will assign this icon to mutants, monsters, and other nonhuman creatures.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_stash">
+    <text>Ikona pro kontejnery skrıší</text>
+</string>
 
+<string id="ui_mcm_pawsys_pawret_stash_desc">
+    <text>Automatické oznaèování pøiøadí tuto ikonu skrıším a dalším inventárním boxùm.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_stash_enable">
-		<text>Enable Autotagging for stash containers</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_reticle_mustzoom">
+    <text>Aktivní pouze pøi pouití zamìøovaèe/binokulárù</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_stash">
-		<text>Stash container icon</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_reticle_mustzoom_desc">
+    <text>Pokud je tato monost aktivována, reticle (a jeho funkce oznaèování) bude aktivní pouze pøi pøiblíení s binokuláry nebo zamìøovaèem. Toto je doporuèeno, aby se tagy nevytváøely pouze pøi pøiblíení k nebo rozhovoru s NPC.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_stash_desc">
-		<text>Autotag will assign this icon to stashes and other inventory boxes.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_manual_smart_pins">
+    <text>Ruènì cílené znaèky jsou také chytré</text>
+</string>
 
+<string id="ui_mcm_pawsys_pawret_manual_smart_pins_desc">
+    <text>Pokud je tato monost aktivována, znaèky reticle vytvoøené ruènì aktivovanou klávesovou zkratkou budou také pouívat nastavení Automatického oznaèování níe, pøiøazující vybranou ikonu pro cílenı objekt namísto aktuální aktivní ikony.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_reticle_mustzoom">
-		<text>Only active while using scope/binoculars</text>
-	</string>
+<string id="ui_mcm_lst_paw_pin_redskull">
+    <text>Èervená lebka z bestie</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_reticle_mustzoom_desc">
-		<text>If this option is enabled, the reticle (and its tagging features) will only be enabled while zoomed with binoculars or a scoped weapon. This is recommended so that tags won't be created just from walking up to or talking to an NPC.</text>
-	</string>
+<string id="ui_mcm_lst_paw_crosshair_gradient">
+    <text>Gradientové køíky</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_manual_smart_pins">
-		<text>Manually targeted pins are also smart</text>
-	</string>
-
-	<string id="ui_mcm_pawsys_pawret_manual_smart_pins_desc">
-		<text>If this option is enabled, reticle pins created by manually triggering the associated keybind will also use the Autotag settings below, assigning the selected icon for the targeted object instead of the current active icon.</text>
-	</string>
-
-	<string id="ui_mcm_lst_paw_pin_redskull">
-		<text>Red Beast Skull</text>
-	</string>
-
-	<string id="ui_mcm_lst_paw_crosshair_gradient">
-		<text>Gradient Crosshairs</text>
-	</string>
 
 <!-- Added in 1.16.3 -->
 
-	<string id="st_paw_texture_load_error_tip">
-		<text>The $clr_yelPersonal Adjustable Waypoint$clr_wht addon $clr_redfailed to load its texture data$clr_wht, and has disabled itself in order to protect your game from crashes. \n \n
-		Check the game log for errors, and ensure that nothing loads after PAW which modifies the file $clr_yelmap_spots_relations.xml$clr_wht. \n \n
-		This only requires a change in load order, and is usually easy to resolve. However, if you never intend to use PAW's features, and don't care that something else is breaking it, you can disable this error message under the $clr_yelAdjustable Waypoint$clr_wht menu in MCM.</text>
-	</string>
+<string id="st_paw_texture_load_error_tip">
+    <text>Addon $clr_yelPersonal Adjustable Waypoint$clr_wht $clr_red nepodaøilo se naèíst data o texturách$clr_wht, a deaktivoval se, aby chránil vaši hru pøed pády. \n \n
+    Zkontrolujte herní log pro chyby a ujistìte se, e po PAW není naèítán ádnı mod, kterı by mìnil soubor $clr_yelmap_spots_relations.xml$clr_wht. \n \n
+    To obvykle vyaduje zmìnu poøadí naèítání a je to vìtšinou snadné vyøešit. Pokud však nikdy nemáte v úmyslu pouívat funkce PAW a nezajímá vás, e nìco jiného ji rozbíjí, mùete toto chybové hlášení deaktivovat v menu $clr_yelAdjustable Waypoint$clr_wht v MCM.</text>
+</string>
 
-	<string id="st_paw_texture_load_error_mcmhead1">
-		<text>WARNING: mapspot texture data missing.</text>
-	</string>
+<string id="st_paw_texture_load_error_mcmhead1">
+    <text>UPOZORNÌNÍ: chybìjící data o texturách mapovıch bodù.</text>
+</string>
 
-	<string id="st_paw_texture_load_error_mcmhead2">
-		<text>To avoid crashes, both PAW and many parts of its MCM menus have been disabled until this issue is resolved.</text>
-	</string>
+<string id="st_paw_texture_load_error_mcmhead2">
+    <text>Aby se pøedešlo pádùm, byly PAW i mnoho èástí jeho MCM menu deaktivovány, dokud nebude tento problém vyøešen.</text>
+</string>
 
-	<string id="st_paw_texture_load_error1">
-		<text>Personal Adjustable Waypoint could not load texture data from map_spots_relations.xml. This is almost ALWAYS caused by loading another addon after PAW which modifies that file. Examples include (but are not limited to) Kill Tracker or Milspec PDA.</text>
-	</string>
+<string id="st_paw_texture_load_error1">
+    <text>Personal Adjustable Waypoint se nepodaøilo naèíst data o texturách z map_spots_relations.xml. To je témìø VDY zpùsobeno naèítáním jiného addon po PAW, kterı tento soubor mìní. Pøíklady zahrnují (ale nejsou omezeny na) Kill Tracker nebo Milspec PDA.</text>
+</string>
 
-	<string id="st_paw_texture_load_error2">
-		<text>If you are using Mod Organizer 2 (or a modpack such as GAMMA that uses it), adjust your load order so that PAW loads after (below) any and all addons which modify map_spots_relations.xml. If you are not using MO2, you should do so.</text>
-	</string>
+<string id="st_paw_texture_load_error2">
+    <text>Pokud pouíváte Mod Organizer 2 (nebo modpack jako GAMMA, kterı ho pouívá), upravte poøadí naèítání tak, aby PAW byl naèítán po (pod) všech addonech, které mìní map_spots_relations.xml. Pokud MO2 nepouíváte, mìli byste tak uèinit.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_disable_load_warning">
-		<text>Disable the in-game warning for this error (NOT recommended)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_disable_load_warning">
+    <text>Deaktivovat varování ve høe pro tuto chybu (nedoporuèuje se)</text>
+</string>
+
 
 <!-- Added in 1.17 -->
 
-	<string id="ui_mcm_pawsys_pawret_autotag_persistence">
-		<text>Autotag pins are persistent</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_autotag_persistence">
+    <text>Autotag piny jsou trvalé</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_autotag_persistence_desc">
-		<text>Unless this option is enabled, all pins added by autotagging will be temporary--that is, they will automatically disappear on next map change or savegame load, or when timed out after the below number of seconds.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_autotag_persistence_desc">
+    <text>Pokud není tato monost povolena, všechny piny pøidané automatickım tagováním budou doèasné – tedy automaticky zmizí pøi pøíští zmìnì mapy nebo naètení uloené hry, nebo po vypršení èasu uvedeného níe.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_autotag_lifetime">
-		<text>Autotag expiration time (in seconds)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_autotag_lifetime">
+    <text>Èas vypršení automatickıch tagù (v sekundách)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawret_autotag_lifetime_desc">
-		<text>If Autotag persistence is not enabled, tags will be automatically cleared after this many seconds. Setting this to zero will disable the timeout, but temporary tags will still be cleared on the next map change or savegame load.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawret_autotag_lifetime_desc">
+    <text>Pokud není povolena trvanlivost automatickıch tagù, tagy budou automaticky odstranìny po uplynutí tohoto èasu v sekundách. Nastavení na nulu deaktivuje èasovı limit, ale doèasné tagy budou stále odstranìny pøi pøíští zmìnì mapy nebo naètení uloené hry.</text>
+</string>
+
 
 <!-- Added in 2.0 -->
 
-	<string id="ui_mcm_pawsys_pawgen_headertxt">
-		<text>
-		$clr_yelPAW$clr_wht isn't just a waypoint marker--it's a suite of mapping and navigation tools that give you more control over your map and HUD, letting you mark your own path through the Zone. $clr_yelAll of these features are optional and customizable to your liking.$clr_wht \n \n
-		•$clr_lbl Set your own quest marker anywhere, anytime, and customize its text$clr_wht \n 
-		•$clr_lbl Place, rename, and remove map markers ("pins") anywhere on the map with your choice of icon$clr_wht \n 
-		•$clr_lbl Automatically tag ID'd targets with "smart" pins of your choice, and display them on the HUD$clr_wht \n \n
-		$clr_yelDon't let NPCs tell you where to go--put your PAW down and make the map yours.$clr_wht
-		</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_headertxt">
+    <text>
+    $clr_yelPAW$clr_wht není jen oznaèení waypointu – je to sada nástrojù pro mapování a navigaci, které vám dávají vìtší kontrolu nad vaší mapou a HUDem, umoòující vám oznaèit vlastní cestu Zónou. $clr_yelVšechny tyto funkce jsou volitelné a pøizpùsobitelné podle vašich pøání.$clr_wht \n \n
+    •$clr_lbl Nastavte si vlastní quest marker kamkoli, kdykoli, a pøizpùsobte jeho text$clr_wht \n 
+    •$clr_lbl Umisujte, pøejmenovávejte a odstraòujte mapové znaèky ("piny") kdekoli na mapì s vaším vıbìrem ikony$clr_wht \n 
+    •$clr_lbl Automaticky oznaèujte identifikované cíle "chytrımi" piny dle vašeho vıbìru a zobrazujte je na HUDu$clr_wht \n \n
+    $clr_yelNenechte NPC øíkat, kam jít – polote svùj PAW a udìlejte mapu svou.$clr_wht
+    </text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_clear_dist_desc">
-		<text>When the player comes within this distance of the waypoint marker, it will automatically be cleared. Setting this to zero will disable the autoclear setting entirely.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_wp_clear_dist_desc">
+    <text>Kdy se hráè pøiblíí k waypoint markeru na tuto vzdálenost, bude automaticky odstranìn. Nastavení na nulu zcela deaktivuje nastavení automatického odstranìní.</text>
+</string>
+
 
 <!-- Added in 2.1 -->
 
-	<string id="ui_mcm_pawsys_pawmenu_show_label">
-		<text>Show Map Label</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_show_label">
+    <text>Ukázat mapovou znaèku</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_hide_label">
-		<text>Hide Map Label</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_hide_label">
+    <text>Skryt mapovou znaèku</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_pn_settings">
-		<text>Pin Settings</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_pn_settings">
+    <text>Nastavení pinù</text>
+</string>
 
-	<string id="st_paw_argb_a">
-		<text>A</text>
-	</string>
+<string id="st_paw_argb_a">
+    <text>A</text>
+</string>
 
-	<string id="st_paw_argb_r">
-		<text>R</text>
-	</string>
+<string id="st_paw_argb_r">
+    <text>R</text>
+</string>
 
-	<string id="st_paw_argb_g">
-		<text>G</text>
-	</string>
+<string id="st_paw_argb_g">
+    <text>G</text>
+</string>
 
-	<string id="st_paw_argb_b">
-		<text>B</text>
-	</string>
+<string id="st_paw_argb_b">
+    <text>B</text>
+</string>
 
-	<string id="ui_paw_use_custom_color">
-		<text>Pøizpùsobení barvy</text>
-	</string>
+<string id="ui_paw_use_custom_color">
+    <text>Pøizpùsobení barvy</text>
+</string>
 
-	<string id="ui_paw_reset_defaults">
-		<text>Vıchozí nastavení</text>
-	</string>
+<string id="ui_paw_reset_defaults">
+    <text>Obnovit vıchozí nastavení</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_tag">
-		<text>BWHR Target Tag</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_tag">
+    <text>BWHR Cíl Tag</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_convert_to_pin">
-		<text>Convert to Pin and Customize</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_convert_to_pin">
+    <text>Pøevést na Pin a pøizpùsobit</text>
+</string>
 
-	<string id="ui_paw_hint_sidebar_desc">
-		<text>Open or close the pin and set control sidebar</text>
-	</string>
+<string id="ui_paw_hint_sidebar_desc">
+    <text>Otevøít nebo zavøít boèní panel pro pin a nastavení</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawmenu_wp_settings">
-		<text>Nastavení znaèky</text>
-	</string>
+<string id="ui_mcm_pawsys_pawmenu_wp_settings">
+    <text>Nastavení waypointu</text>
+</string>
 
-	<string id="st_paw_target">
-		<text>Cíl</text>
-	</string>
+<string id="st_paw_target">
+    <text>Cíl</text>
+</string>
 
-	<string id="st_paw_wp_active">
-		<text>Znaèka je aktivní</text>
-	</string>
+<string id="st_paw_wp_active">
+    <text>Waypoint je aktivní</text>
+</string>
 
-	<string id="st_paw_none">
-		<text>None</text>
-	</string>
+<string id="st_paw_none">
+    <text>ádnı</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_use_custom_backpack_icon">
-		<text>Customize icon for player backpack stashes</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_use_custom_backpack_icon">
+    <text>Pøizpùsobit ikonu pro stashes hráèského batohu</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_use_custom_backpack_icon_desc">
-		<text>If enabled, when placing a backpack stash, PAW will attempt to replace the usual generic stash icon with one of your choosing.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_use_custom_backpack_icon_desc">
+    <text>Pokud je povoleno, pøi umístìní stash batohu se PAW pokusí nahradit obvyklou generickou ikonu stash vaší vybranou ikonou.</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_custom_backpack_icon">
-		<text>Icon to use from Favorites set</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_custom_backpack_icon">
+    <text>Ikona k pouití z oblíbenıch sad</text>
+</string>
 
-	<string id ="ui_mcm_pawsys_pawpins_custom_backpack_icon_desc">
-		<text>If you don't see the icon you want here, edit configs\ui\icon_set_faves.ltx and add it to the list.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawpins_custom_backpack_icon_desc">
+    <text>Pokud zde nevidíte ikonu, kterou chcete, upravte soubor configs\ui\icon_set_faves.ltx a pøidejte ji do seznamu.</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_stash_backpack">
-		<text>Backpack Stash</text>
-	</string>
+<string id="ui_mcm_lst_paw_stash_backpack">
+    <text>Skrıš Batiohu</text>
+</string>
 
-	<string id="ui_mcm_lst_paw_bwhr_stash">
-		<text>BWHR Stash Icon</text>
-	</string>
+<string id="ui_mcm_lst_paw_bwhr_stash">
+    <text>BWHR Ikona skrıše</text>
+</string>
 
-	<string id="ui_paw_hint_btn_sidebar_desc">
-		<text>$clr_whtOpen or close the$clr_yel Icon Library Sidebar$clr_wht, which lets you browse through all of your sets and replace the pin's current icon with any other. You can scroll your mouse wheel while hovering certain controls to cycle through sets and icons.</text>
-	</string>
+<string id="ui_paw_hint_btn_sidebar_desc">
+    <text>$clr_whtOtevøete nebo zavøete$clr_yel Knihovnu ikon$clr_wht, která vám umoní procházet všechny vaše sady a nahradit aktuální ikonu pinu jakoukoli jinou. Mùete rolovat koleèkem myši pøi najetí na urèité ovládací prvky pro cyklování mezi sadami a ikonami.</text>
+</string>
 
-	<string id="ui_paw_hint_btn_delete_desc">
-		<text>$clr_whtClicking this button will$clr_orn immediately and permanently remove this pin.$clr_wht There is no confirmation, and this cannot be undone.\nYou can$clr_yel lock$clr_wht a pin to protect it from accidental deletion.</text>
-	</string>
 
-	<string id="ui_paw_hint_btn_ok_desc">
-		<text>$clr_whtAccept any changes to this pin and close the dialog.</text>
-	</string>
+<string id="ui_paw_hint_btn_delete_desc">
+    <text>$clr_whtKliknutím na toto tlaèítko $clr_orn okamitì a trvale odstraníte tento pin.$clr_wht Neexistuje ádné potvrzení a toto nelze vrátit zpìt.\nMùete $clr_yel uzamknout$clr_wht pin, abyste jej ochránili pøed náhodnım odstranìním.</text>
+</string>
 
-	<string id="ui_paw_hint_btn_cancel_desc">
-		<text>$clr_whtDiscard any changes to this pin and close the dialog.</text>
-	</string>
+<string id="ui_paw_hint_btn_ok_desc">
+    <text>$clr_whtPøijmout všechny zmìny tohoto pinu a zavøít dialog.</text>
+</string>
 
-	<string id="ui_paw_hint_btn_sound_desc">
-		<text>$clr_whtToggle $clr_yelUI sound effects on or off$clr_wht. This can also be set in PAW's MCM menu.</text>
-	</string>
+<string id="ui_paw_hint_btn_cancel_desc">
+    <text>$clr_whtZahodit všechny zmìny tohoto pinu a zavøít dialog.</text>
+</string>
 
-	<string id="ui_paw_hint_check_lock_desc">
-		<text>$clr_whtA$clr_yel locked$clr_wht pin is protected from any and all changes other than the pin data wipe in MCM. Even the$clr_yel Clear All Pins$clr_wht context action will ignore it.</text>
-	</string>
+<string id="ui_paw_hint_btn_sound_desc">
+    <text>$clr_whtPøepnout $clr_yel zvukové efekty UI zapnuto nebo vypnuto$clr_wht. Toto lze také nastavit v MCM menu PAW.</text>
+</string>
 
-	<string id="ui_paw_hint_check_text_desc">
-		<text>$clr_whtShow or hide the pin's text as a$clr_yel visible label$clr_wht on the PDA map.</text>
-	</string>
+<string id="ui_paw_hint_check_lock_desc">
+    <text>$clr_wht$clr_yel Uzamknutı$clr_wht pin je chránìn pøed jakımikoli zmìnami kromì vymazání dat pinu v MCM. Dokonce i $clr_yel Akce Vymazat všechny piny$clr_wht kontextová akce jej ignoruje.</text>
+</string>
 
-	<string id="ui_paw_hint_check_hud_desc">
-		<text>$clr_whtShow or hide a$clr_yel visible HUD marker$clr_wht for this pin.</text>
-	</string>
+<string id="ui_paw_hint_check_text_desc">
+    <text>$clr_whtZobrazit nebo skrıt text pinu jako $clr_yel viditelnı štítek$clr_wht na mapì PDA.</text>
+</string>
 
-	<string id="ui_paw_hint_input_desc">
-		<text>$clr_whtClick here to$clr_yel edit the label$clr_wht for this pin.</text>
-	</string>
+<string id="ui_paw_hint_check_hud_desc">
+    <text>$clr_whtZobrazit nebo skrıt $clr_yel viditelnı HUD marker$clr_wht pro tento pin.</text>
+</string>
 
-	<string id="ui_paw_hint_check_argb_desc">
-		<text>$clr_whtEnable or disable$clr_yel color and transparency customization$clr_wht for this pin's icon. Note that all changes are relative to the starting color of the icon--some changes will look better than others, but only black-and-white icons can be made any color.</text>
-	</string>
+<string id="ui_paw_hint_input_desc">
+    <text>$clr_whtKliknìte sem a $clr_yel upravte štítek$clr_wht pro tento pin.</text>
+</string>
 
-	<string id="ui_paw_hint_input_a_desc">
-		<text>$clr_whtClick here to$clr_yel edit the Alpha (transparency)$clr_wht for this pin's icon. Setting it to 0 will make the pin invisible; 255 is completely opaque.</text>
-	</string>
+<string id="ui_paw_hint_check_argb_desc">
+    <text>$clr_whtPovolit nebo zakázat $clr_yel pøizpùsobení barvy a transparentnosti$clr_wht pro ikonu tohoto pinu. Vezmìte na vìdomí, e všechny zmìny jsou relativní k poèáteèní barvì ikony--nìkteré zmìny budou vypadat lépe ne jiné, ale pouze èernobílé ikony mohou bıt zmìnìny na jakoukoli barvu.</text>
+</string>
 
-	<string id="ui_paw_hint_input_r_desc">
-		<text>$clr_whtClick here to$clr_yel edit the Red channel$clr_wht for this pin's icon color. This change is relative to the starting color of the icon--only black-and-white icons can be made any color.</text>
-	</string>
+<string id="ui_paw_hint_input_a_desc">
+    <text>$clr_whtKliknìte sem a $clr_yel upravte Alpha (transparentnost)$clr_wht pro tuto ikonu pinu. Nastavení na 0 uèiní pin neviditelnım; 255 je zcela neprùhledné.</text>
+</string>
 
-	<string id="ui_paw_hint_input_g_desc">
-		<text>$clr_whtClick here to$clr_yel edit the Green channel$clr_wht for this pin's icon color. This change is relative to the starting color of the icon--only black-and-white icons can be made any color.</text>
-	</string>
+<string id="ui_paw_hint_input_r_desc">
+    <text>$clr_whtKliknìte sem a $clr_yel upravte èervenı kanál$clr_wht pro barvu ikony tohoto pinu. Tato zmìna je relativní k poèáteèní barvì ikony--pouze èernobílé ikony mohou bıt zmìnìny na jakoukoli barvu.</text>
+</string>
 
-	<string id="ui_paw_hint_input_b_desc">
-		<text>$clr_whtClick here to$clr_yel edit the Blue channel$clr_wht for this pin's icon color. This change is relative to the starting color of the icon--only black-and-white icons can be made any color.</text>
-	</string>
+<string id="ui_paw_hint_input_g_desc">
+    <text>$clr_whtKliknìte sem a $clr_yel upravte zelenı kanál$clr_wht pro barvu ikony tohoto pinu. Tato zmìna je relativní k poèáteèní barvì ikony--pouze èernobílé ikony mohou bıt zmìnìny na jakoukoli barvu.</text>
+</string>
 
-	<string id="ui_paw_hint_btn_wpreset_desc">
-		<text>$clr_whtResets all waypoint settings back to their defaults, including any text customizations above. The current waypoint, if any, is preserved.</text>
-	</string>
+<string id="ui_paw_hint_input_b_desc">
+    <text>$clr_whtKliknìte sem a $clr_yel upravte modrı kanál$clr_wht pro barvu ikony tohoto pinu. Tato zmìna je relativní k poèáteèní barvì ikony--pouze èernobílé ikony mohou bıt zmìnìny na jakoukoli barvu.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_near_fade_dist">
-		<text>Waypoint near fade-out distance (in meters)</text>
-	</string>
+<string id="ui_paw_hint_btn_wpreset_desc">
+    <text>$clr_whtObnoví všechna nastavení waypointù na vıchozí hodnoty, vèetnì jakıchkoli textovıch pøizpùsobení vıše. Aktuální waypoint, pokud nìjakı je, je zachován.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_near_fade_dist_desc">
-		<text>When the player comes within this distance of the waypoint, it will begin to fade out.</text>
-	</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_far_fade_dist">
-		<text>Waypoint far fade-out distance (in meters)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_wp_near_fade_dist">
+    <text>Vzdálenost vyblednutí waypointu pøi blízkosti (v metrech)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_far_fade_dist_desc">
-		<text>When the player gets this far away from the waypoint, it will begin to fade out.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_wp_near_fade_dist_desc">
+    <text>Kdy se hráè pøiblíí k waypointu na tuto vzdálenost, zaène se vyblednout.</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_far_hide_dist">
-		<text>Waypoint far hide distance (in meters)</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_wp_far_fade_dist">
+    <text>Vzdálenost vyblednutí waypointu na dálku (v metrech)</text>
+</string>
 
-	<string id="ui_mcm_pawsys_pawgen_wp_far_hide_dist_desc">
-		<text>If the player is more than this far beyond where the fade-out begins, the waypoint will disappear completely.</text>
-	</string>
+<string id="ui_mcm_pawsys_pawgen_wp_far_fade_dist_desc">
+    <text>Kdy se hráè vzdálí od waypointu na tuto vzdálenost, zaène se vyblednout.</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawgen_wp_far_hide_dist">
+    <text>Vzdálenost skrytí waypointu na dálku (v metrech)</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawgen_wp_far_hide_dist_desc">
+    <text>Pokud se hráè vzdálí více ne na tuto vzdálenost, waypoint úplnì zmizí.</text>
+</string>
 
 
 <!-- Added in 2.1.2 -->
 
 	<string id="ui_paw_mapspot_tooltip_mode">
-		<text>Tooltip Mode</text>
+		<text>Reim nápovìdy</text>
 	</string>
 
 	<string id="ui_mcm_lst_pawsys_msttmode_text">
-		<text>Use Pin Text</text>
+		<text>Pouít text pøipínáèku</text>
 	</string>
 	<string id="ui_mcm_lst_pawsys_msttmode_obj">
-		<text>Use Object Name</text>
+		<text>Pouít název objektu</text>
 	</string>
 
-<!-- Added in 2.2 (not yet implemented) -->
 
-    <string id="ui_mcm_pawsys_pawret_autotag_pdas">
-        <text>Enable Autotag for the following devices:</text>
-    </string>
+<!-- Added in 2.2 -->
 
-    <string id="ui_mcm_pawsys_pawret_device_pda_1">
-        <text>PDA 1.0</text>
-    </string>
-    <string id="ui_mcm_pawsys_pawret_device_pda_2">
-        <text>PDA 2.0</text>
-    </string>
-    <string id="ui_mcm_pawsys_pawret_device_pda_3">
-        <text>PDA 3.1</text>
-    </string>
-    <string id="ui_mcm_pawsys_pawret_device_pda_milspec">
-        <text>Milspec PDA (requires addon)</text>
-    </string>
+	<string id="ui_mcm_pawsys_pawbinds_raytrace_wp_targets">
+    <text>Waypointy nevyadují cílovı objekt</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawbinds_raytrace_wp_targets_desc">
+    <text>Obvykle, cílení waypointù v PAW vyaduje platnı objekt pod kurzorem, napøíklad NPC. Kdy je tato monost povolena a pod kurzorem není ádnı objekt, bude namísto toho nastaven vlastní waypoint na libovolnı bod ve vesmíru, na kterı hráè cílí.</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawgen_uninstall">
+    <text>Odinstalovat PAW (smazat data ze hry)</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawgen_uninstall_desc">
+    <text>Podobnì jako "Smazat vše", ale navíc úplnì odstraní všechna data PAW ze hry a nastaví doèasnou znaèku, aby data PAW nebyla zapsána pøi uloení hry. To umoòuje "vyèistit" uloenou hru, pokud je to nutné.</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawmenu_clear_nearby">
+    <text>Vyèistit blízké pinové znaèky</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawmenu_clear_radius">
+    <text>Polomìr pro vyèištìní blízkıch pinovıch znaèek (v metrech)</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawmenu_clear_radius_desc">
+    <text>Kdy je pouita monost "Vyèistit blízké pinové znaèky", všechny pinové znaèky v tomto polomìru kolem kliknutého bodu budou neodvolatelnì odstranìny.\n\nAby se zajistilo, e všechny znaèky byly vyèištìny, budou také odstranìny všechny mapové body z tìchto pinù. Pokud to vede k odstranìní systémového mapového bodu, bude znovu pøidán Anomaly pøi pøíštím uloení hry nebo pøechodu mapy.</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawret_notify_pin_target">
+    <text>Ukázat novinkovı tip pøi ruèním oznaèování cíle</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawgen_verbose">
+    <text>Debug logování je podrobné</text>
+</string>
+
+
+	<string id="ui_mcm_pawsys_pawgen_verbose_desc">
+    <text>"Verbose" je programátorskı termín pro "opravdu spamovı". Toto nastavení vloí maximální mnoství informací do logu a musí bıt povoleno, pokud hlásíte problém.</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawmenu_persistent">
+    <text>Pin je trvalı</text>
+</string>
+
+<string id="ui_paw_hint_check_pers_desc">
+    <text>$clr_whtPøepnìte, zda je pin $clr_yeltrvalı$clr_wht, a zùstane, dokud jej neodstraníte. Pinové znaèky, které jsou $clr_yelnejsou trvalé$clr_wht, mohou mít dobu vypršení podle nastavení MCM a vdy budou odstranìny pøi pøíštím uloení hry nebo pøechodu úrovnì.</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawgen_hide_intro_header">
+    <text>Skrytí úvodního hlavièky PAW v MCM</text>
+</string>
+
+<string id="ui_mcm_pawsys_pawgen_hide_intro_header_desc">
+    <text>PAW má barevnou úvodní zprávu pro nové uivatele, ale pokud jste ji s PAW obeznámeni, jen zabírá místo v menu. Tato monost skrıvá nebo zobrazuje hlavièku.</text>
+</string>
+
+<string id="ui_paw_hide_intro_header">
+    <text>$clr_tgrNeskrıvat tuto úvodní zprávu znovu</text>
+</string>
+
+
 
 </string_table>
