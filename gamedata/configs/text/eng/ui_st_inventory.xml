@@ -619,13 +619,13 @@ Ve høe GAMMA to odpovídá celkovému zdraví tìla pro systém tìlesného zdraví.
 		<text>Není zahrnuto</text>
 	</string>
 	<string id="st_itm_desc_state_low">
-		<text>Nízká</text>
+		<text>Trošku</text>
 	</string>
 	<string id="st_itm_desc_state_average">
-		<text>Prùmìrná</text>
+		<text>Prùmìrnì</text>
 	</string>
 	<string id="st_itm_desc_state_high">
-		<text>Vysoká</text>
+		<text>Vysoce</text>
 	</string>
 	<string id="st_itm_desc_state_slight">
 		<text>Mírnì</text>
@@ -634,13 +634,13 @@ Ve høe GAMMA to odpovídá celkovému zdraví tìla pro systém tìlesného zdraví.
 		<text>Støednì</text>
 	</string>
 	<string id="st_itm_desc_state_significant">
-		<text>Významnì</text>
+		<text>Signifikantní</text>
 	</string>
 	<string id="st_itm_desc_state_increase">
-<text>Navýšení</text>
+    <text>navýšená</text>
 	</string>
 	<string id="st_itm_desc_state_decrease">
-		<text>Snížení</text>
+		<text>snížená</text>
 	</string>
 	
 	<string id="st_itm_desc_arty_cont">

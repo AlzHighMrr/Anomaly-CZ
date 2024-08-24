@@ -177,91 +177,91 @@ WEAPONS (rifles)
 
 <!-- Barrels-->
 <string id="st_barrel_1">
-    <text>18,5mm hlaveò [R] (Hlaveò)</text>
+    <text>18,5mm hlaveò [R]</text>
 </string>
 <string id="st_barrel_1_descr">
     <text>Hlaveò z dvojhlavòové brokovnice ráe 18,5 mm.\n \n
     </text>
 </string>
 <string id="st_barrel_2">
-    <text>18,5mm hlaveò [R] (Hlaveò)</text>
+    <text>18,5mm hlaveò [R]</text>
 </string>
 <string id="st_barrel_2_descr">
     <text>Hlaveò z kohoutkové brokovnice ráe 18,5 mm.\n \n
     </text>
 </string>
 <string id="st_barrel_3">
-    <text>18,5mm hlaveò [K] (Hlaveò)</text>
+    <text>18,5mm hlaveò [K]</text>
 </string>
 <string id="st_barrel_3_descr">
     <text>Hlaveò ráe 18,5 mm.\n \n
     </text>
 </string>
 <string id="st_barrel_4">
-    <text>7,62mm hlaveò [V] (Hlaveò)</text>
+    <text>7,62mm hlaveò [V]</text>
 </string>
 <string id="st_barrel_4_descr">
     <text>Hlaveò z pušky ráe 7,62 mm.\n \n
     </text>
 </string>
 <string id="st_barrel_5">
-    <text>7,92mm hlaveò [V] (Hlaveò)</text>
+    <text>7,92mm hlaveò [V]</text>
 </string>
 <string id="st_barrel_5_descr">
     <text>Hlaveò z nìmecké pušky ráe 7,92 mm.\n \n
     </text>
 </string>
 <string id="st_barrel_6">
-    <text>9mm tlumiè hlavnì [AS/PP] (Hlaveò)</text>
+    <text>9mm tlumiè hlavnì [AS/PP]</text>
 </string>
 <string id="st_barrel_6_descr">
     <text>Hlaveò s integrovanım tlumièem hluku z automatického speciálního úèelového 9mm kulometu.\n \n
     </text>
 </string>
 <string id="st_barrel_7">
-    <text>7,62mm hlaveò [A|V] (Hlaveò)</text>
+    <text>7,62mm hlaveò [A|V]</text>
 </string>
 <string id="st_barrel_7_descr">
     <text>Hlaveò ze samonabíjecí nebo automatické pušky ráe 7,62 mm.\n \n
     </text>
 </string>
 <string id="st_barrel_8">
-    <text>5,45mm hlaveò [?] (Hlaveò)</text>
+    <text>5,45mm hlaveò [?]</text>
 </string>
 <string id="st_barrel_8_descr">
     <text>Hlaveò z automatické pušky ráe 5,45 mm.\n \n
     </text>
 </string>
 <string id="st_barrel_9">
-    <text>5,56mm hlaveò [?] (Hlaveò)</text>
+    <text>5,56mm hlaveò [?]</text>
 </string>
 <string id="st_barrel_9_descr">
     <text>Hlaveò z automatické pušky ráe 5,56 mm.\n \n
     </text>
 </string>
 <string id="st_barrel_10">
-    <text>7,62mm hlaveò [P] (Hlaveò)</text>
+    <text>7,62mm hlaveò [P]</text>
 </string>
 <string id="st_barrel_10_descr">
     <text>Hlaveò z pušky ráe 7,62 mm s regulátorem plynu.\n \n
     </text>
 </string>
 <string id="st_barrel_11">
-    <text>9mm hlaveò [AS/PP] (Hlaveò)</text>
+    <text>9mm hlaveò [AS/PP]</text>
 </string>
 <string id="st_barrel_11_descr">
     <text>Hlaveò z automatického úèelového 9mm nebo PP kulometu.\n \n
     </text>
 </string>
 <string id="st_barrel_12">
-    <text>7,62mm hlaveò [PP] (Hlaveò)</text>
+    <text>7,62mm hlaveò [PP]</text>
 </string>
 <string id="st_barrel_12_descr">
     <text>Hlaveò ze znamenitého nebo dokonce legendárního systému samopalù PPSh.\n \n
     </text>
 </string>
 <string id="st_barrel_13">
-    <text>12,7x55mm hlaveò (Hlaveò)</text>
+    <text>12,7x55mm hlaveò</text>
 </string>
 <string id="st_barrel_13_descr">
     <text>Hlaveò z automatické pušky ráe 12,7x55 mm.\n \n
@@ -271,28 +271,28 @@ WEAPONS (rifles)
 
 <!-- Trigger mechanisms -->
 <string id="st_trigger_components_1">
-    <text>Jednomódovı kohoutkovı spoušovı mechanismus (Spouš)</text>
+    <text>Jednomódovı kohoutkovı spoušovı mechanismus </text>
 </string>
 <string id="st_trigger_components_1_descr">
     <text>Jednomódovı kohoutkovı spoušovı mechanismus.\n \n
     </text>
 </string>
 <string id="st_trigger_components_2">
-    <text>Dvoumódovı kohoutkovı spoušovı mechanismus (Spouš)</text>
+    <text>Dvoumódovı kohoutkovı spoušovı mechanismus </text>
 </string>
 <string id="st_trigger_components_2_descr">
     <text>Dvoumódovı kohoutkovı spoušovı mechanismus. Navren pro pouití jak v automatické, tak jednotlivé støelbì.\n \n
     </text>
 </string>
 <string id="st_trigger_components_3">
-    <text>Tøíreimovı kohoutkovı spoušovı mechanismus (Spouš)</text>
+    <text>Tøíreimovı kohoutkovı spoušovı mechanismus </text>
 </string>
 <string id="st_trigger_components_3_descr">
     <text>Tøíreimovı kohoutkovı spoušovı mechanismus. Navren pro pouití v automatickém, jednotlivém a dvoumódovém reimu støelby. Pevnì spjat s designem zbranì.\n \n
     </text>
 </string>
 <string id="st_trigger_components_4">
-    <text>Spoušovı mechanismus pro jednotlivou støelbu s odpalovací jehlou (Spouš)
+    <text>Spoušovı mechanismus pro jednotlivou støelbu s odpalovací jehlou 
     </text>
 </string>
 <string id="st_trigger_components_4_descr">
@@ -300,7 +300,7 @@ WEAPONS (rifles)
     </text>
 </string>
 <string id="st_trigger_components_5">
-    <text>Spoušovı mechanismus pro dvoumódovou støelbu s odpalovací jehlou (Spouš)
+    <text>Spoušovı mechanismus pro dvoumódovou støelbu s odpalovací jehlou 
     </text>
 </string>
 <string id="st_trigger_components_5_descr">
@@ -308,7 +308,7 @@ WEAPONS (rifles)
     </text>
 </string>
 <string id="st_trigger_components_6">
-    <text>Spoušovı mechanismus s kohoutem [R] (Spouš)</text>
+    <text>Spoušovı mechanismus s kohoutem [R] </text>
 </string>
 <string id="st_trigger_components_6_descr">
     <text>Spoušovı mechanismus s kohoutem z dvojhlavòové brokovnice.\n \n
@@ -318,49 +318,49 @@ WEAPONS (rifles)
 
 <!-- Breech blocks -->
 <string id="st_bolt_carrier_1">
-    <text>Kluznı závorní nosiè [R] (Nosiè)</text>
+    <text>Kluznı závorní nosiè [R] </text>
 </string>
 <string id="st_bolt_carrier_1_descr">
     <text>Kluznı závorní nosiè, vyrobenı vıchodními vırobci.\n \n
     </text>
 </string>
 <string id="st_bolt_carrier_2">
-    <text>Kluznı závorní nosi [R] (Nosiè)</text>
+    <text>Kluznı závorní nosiè [R] </text>
 </string>
 <string id="st_bolt_carrier_2_descr">
     <text>Kluznı závorní nosiè, vyrobenı vıchodními vırobci, z speciálních automatickıch zbraní.\n \n
     </text>
 </string>
 <string id="st_bolt_carrier_3">
-    <text>Kluznı závorní nosiè [NATO] (Nosiè)</text>
+    <text>Kluznı závorní nosiè [NATO] </text>
 </string>
 <string id="st_bolt_carrier_3_descr">
     <text>Dlouhı kluznı blok s otoènım závorem, vyrobenı NATO, z automatické pušky standardního kalibru.\n \n
     </text>
 </string>
 <string id="st_bolt_carrier_4">
-    <text>Kluznı závorní nosiè s blokováním (Nosiè)</text>
+    <text>Kluznı závorní nosiè s blokováním </text>
 </string>
 <string id="st_bolt_carrier_4_descr">
     <text>Kluznı závorní nosiè s blokováním.\n \n
     </text>
 </string>
 <string id="st_bolt_carrier_5">
-    <text>Polosvobodnı kluznı závorní nosiè (Nosiè)</text>
+    <text>Polosvobodnı kluznı závorní nosiè </text>
 </string>
 <string id="st_bolt_carrier_5_descr">
     <text>Polosvobodnı kluznı závorní nosiè s váleèkovou brzdou.\n \n
     </text>
 </string>
 <string id="st_bolt_carrier_6">
-    <text>Kluznı závorní nosiè s blokujícím závorem (Nosiè)</text>
+    <text>Kluznı závorní nosiè s blokujícím závorem </text>
 </string>
 <string id="st_bolt_carrier_6_descr">
     <text>Kluznı závorní nosiè s blokujícím závorem.\n \n
     </text>
 </string>
 <string id="st_bolt_carrier_7">
-    <text>Kluznı závorní nosiè s pákovım blokem (Nosiè)</text>
+    <text>Kluznı závorní nosiè s pákovım blokem </text>
 </string>
 <string id="st_bolt_carrier_7_descr">
     <text>Kluznı závorní nosiè s pákovım blokem.\n \n
@@ -381,14 +381,14 @@ WEAPONS (rifles)
     </text>
 </string>
 <string id="st_bolt_carrier_10">
-    <text>Kluznı závorní nosiè s otoènım závorem [NATO] (Nosiè)</text>
+    <text>Kluznı závorní nosiè s otoènım závorem [NATO] </text>
 </string>
 <string id="st_bolt_carrier_10_descr">
     <text>Kluznı závorní nosiè s otoènım závorem, vırobek zemí NATO, pro automatickou pušku velkého kalibru.\n \n
     </text>
 </string>
 <string id="st_bolt_carrier_11">
-    <text>Kluznı volnı závorní nosiè podélného typu [PP] (Nosiè)</text>
+    <text>Kluznı volnı závorní nosiè podélného typu [PP] </text>
 </string>
 <string id="st_bolt_carrier_11_descr">
     <text>Kluznı volnı závorní nosiè z lehkého kulometu.\n \n
@@ -397,7 +397,7 @@ WEAPONS (rifles)
 
 <!-- Breech heads -->
 <string id="st_bolt_1">
-<text>Klesající závìr [R] (zámek)</text>
+<text>Klesající závìr [R] </text>
 </string>
 <string id="st_bolt_1_descr">
 <text>Klesající závìr od hladkého brokového nebo kulového zbranì s páèkovım zamykacím mechanismem. Vzhledem jsou plošky klínu v dobrém stavu, bez vırazného opotøebení.\n\n
@@ -405,91 +405,91 @@ WEAPONS (rifles)
 </string>
 
 <string id="st_bolt_2">
-	<text>Otoènı zamykací hlavovı mechanismus [2 zámky] [P] (zámek)</text>
+	<text>Otoènı zamykací hlavovı mechanismus [2 zámky] [P] </text>
 </string>
 <string id="st_bolt_2_descr">
 	<text>Otoènı zamykací mechanismus s dvìma zámky z kulometu s podélnì posuvnım závìrem a otáèením zámku. Vzhledem jsou zamykací hlavy v dobrém stavu, bez velkıch známek opotøebení.\n\n
 	</text>
 </string>
 <string id="st_bolt_3">
-	<text>Otoènı zamykací mechanismus [2 zámky] [K] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [2 zámky] [K] </text>
 </string>
 <string id="st_bolt_3_descr">
 	<text>Otoènı zamykací mechanismus s dvìma zámky z automatické nebo poloautomatické hladké kulovnice s podélnì posuvnım závìrem a otáèením zámku.\n\n
 	</text>
 </string>
 <string id="st_bolt_4">
-	<text>Otoènı zamykací mechanismus [2 zámky] [V] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [2 zámky] [V] </text>
 </string>
 <string id="st_bolt_4_descr">
 	<text>Otoènı zamykací mechanismus s dvìma zámky z pušky s podélnì posuvnım závìrem a uzamykací vahou a podélnì posuvnou závìrkou se zámkem ve tvaru "šroubovky".\n\n
 	</text>
 </string>
 <string id="st_bolt_5">
-	<text>Otoènı zamykací mechanismus [3 zámky] [V] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [3 zámky] [V] </text>
 </string>
 <string id="st_bolt_5_descr">
 	<text>Otoènı zamykací mechanismus s tøemi zámky z pušky s podélnì posuvnım závìrem a otáèením zámku.\n\n
 	</text>
 </string>
 <string id="st_bolt_6">
-	<text>Otoènı zamykací mechanismus [2 zámky] [?] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [2 zámky] [?] </text>
 </string>
 <string id="st_bolt_6_descr">
 	<text>Otoènı zamykací mechanismus s dvìma zámky z kulometu s podélnì posuvnım závìrem a otáèením zámku.\n\n
 	</text>
 </string>
 <string id="st_bolt_7">
-	<text>Otoènı zamykací mechanismus [4 zámky] [AS] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [4 zámky] [AS] </text>
 </string>
 <string id="st_bolt_7_descr">
 	<text>Otoènı zamykací mechanismus s ètyømi zámky z speciální automatické pušky s podélnì posuvnım závìrem a otáèením zámku.\n\n
 	</text>
 </string>
 <string id="st_bolt_8">
-	<text>Otoènı zamykací mechanismus [6 zámkù] [?] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [6 zámkù] [?] </text>
 </string>
 <string id="st_bolt_8_descr">
 	<text>Otoènı zamykací mechanismus se šesti zámky z kulometu s podélnì posuvnım závìrem a otáèením zámku.\n\n
 	</text>
 </string>
 <string id="st_bolt_9">
-	<text>Otoènı zamykací mechanismus [7 zámkù] [?] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [7 zámkù] [?] </text>
 </string>
 <string id="st_bolt_9_descr">
 	<text>Otoènı zamykací mechanismus s sedmi zámky z kulometu s podélnì posuvnım závìrem a otáèením zámku.\n\n
 	</text>
 </string>
 <string id="st_bolt_10">
-	<text>Otoènı zamykací mechanismus [8 zámkù] [?] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [8 zámkù] [?] </text>
 </string>
 <string id="st_bolt_10_descr">
 	<text>Otoènı zamykací mechanismus s osmi zámky z kulometu s podélnì posuvnım závìrem a otáèením zámku.\n\n
 	</text>
 </string>
 <string id="st_bolt_11">
-	<text>Nabíjecí mechanismus s kladkou ze dvouhlavòové brokovnice [R] (zámek)</text>
+	<text>Nabíjecí mechanismus s kladkou ze dvouhlavòové brokovnice [R] </text>
 </string>
 <string id="st_bolt_11_descr">
 	<text>Pravá a levá nabíjecí kladka ze dvouhlavòové brokovnice.\n\n
 	</text>
 </string>
 <string id="st_bolt_12">
-	<text>Kladky z brokovnice se svislımi kladkami [R] (zámek)</text>
+	<text>Kladky z brokovnice se svislımi kladkami [R] </text>
 </string>
 <string id="st_bolt_12_descr">
 	<text>Pravá a levá kladka ze svislé brokovnice.\n\n
 	</text>
 </string>
 <string id="st_bolt_13">
-	<text>Otoènı zamykací mechanismus [2 zámky] [?] [NATO] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [2 zámky] [?] [NATO] </text>
 </string>
 <string id="st_bolt_13_descr">
 	<text>Otoènı zamykací mechanismus s dvìma zámky z velkoráné automatické pušky vyrábìné v zemích NATO, s posuvnım nosièem závìru a zámkem ve tvaru "šroubovky".\n\n
 	</text>
 </string>
 <string id="st_bolt_14">
-	<text>Otoènı zamykací mechanismus [?/PP] (zámek)</text>
+	<text>Otoènı zamykací mechanismus [?/PP] </text>
 </string>
 <string id="st_bolt_14_descr">
 	<text>Otoènı zamykací mechanismus buï z PP nebo z automatické pušky s podélnım, èásteènì volnım posuvnım nosièem závìru.\n\n
@@ -498,21 +498,21 @@ WEAPONS (rifles)
 
 
 <string id="st_bolt_15">
-	<text>Bubínek s hlavní pruinou [PP] (zámek)</text>
+	<text>Bubínek s hlavní pruinou [PP] </text>
 </string>
 <string id="st_bolt_15_descr">
 	<text>Bubínek s hlavní pruinou z nìkterého domácího PP s podélnım posuvnım volnım nosièem závìru.\n\n
 	</text>
 </string>
 <string id="st_bolt_16">
-	<text>Bubínek s hlavní pruinou [PP] [NATO] (zámek)</text>
+	<text>Bubínek s hlavní pruinou [PP] [NATO] </text>
 </string>
 <string id="st_bolt_16_descr">
 	<text>Bubínek s hlavní pruinou z nìkterého dovozeného PP s podélnım posuvnım volnım nosièem závìru.\n\n
 	</text>
 </string>
 <string id="st_bolt_17">
-	<text>Bubínek s hlavní pruinou [PP] [PPSh] (zámek)</text>
+	<text>Bubínek s hlavní pruinou [PP] [PPSh] </text>
 </string>
 <string id="st_bolt_17_descr">
 	<text>Bubínek s hlavní pruinou z nìkterého sovìtského PP, jako je PP systému Špagin, s podélnım posuvnım volnım nosièem závìru.\n\n
@@ -607,43 +607,43 @@ WEAPONS (pistols)
 
 <!-- barrels -->
 <string id="st_prt_w_p_barrel_1">
-	<text>Hlaveò 9x18mm (hlaveò)</text>
+	<text>Hlaveò 9x18mm</text>
 </string>
 <string id="st_prt_w_p_barrel_1_descr">
 	<text>Hlaveò 9x18mm.\n\n</text>
 </string>
 <string id="st_prt_w_p_barrel_2">
-	<text>Hlaveò 9x19mm (hlaveò)</text>
+	<text>Hlaveò 9x19mm</text>
 </string>
 <string id="st_prt_w_p_barrel_2_descr">
 	<text>Hlaveò 9x19mm.\n\n</text>
 </string>
 <string id="st_prt_w_p_barrel_3">
-	<text>Hlaveò .45 (hlaveò)</text>
+	<text>Hlaveò .45</text>
 </string>
 <string id="st_prt_w_p_barrel_3_descr">
 	<text>Hlaveò .45.\n\n</text>
 </string>
 <string id="st_prt_w_p_barrel_4">
-	<text>Hlaveò 5.7mm (hlaveò)</text>
+	<text>Hlaveò 5.7mm</text>
 </string>
 <string id="st_prt_w_p_barrel_4_descr">
 	<text>Hlaveò 5.7mm.\n\n</text>
 </string>
 <string id="st_prt_w_p_barrel_5">
-	<text>Hlaveò 7.62mm (hlaveò)</text>
+	<text>Hlaveò 7.62mm</text>
 </string>
 <string id="st_prt_w_p_barrel_5_descr">
 	<text>Hlaveò 7.62mm.\n\n</text>
 </string>
 <string id="st_prt_w_p_barrel_6">
-	<text>Hlaveò 9x18mm (uzavøená) (hlaveò)</text>
+	<text>Hlaveò 9x18mm (uzavøená)</text>
 </string>
 <string id="st_prt_w_p_barrel_6_descr">
 	<text>Uzavøená hlaveò 9x18mm.\n\n</text>
 </string>
 <string id="st_prt_w_p_barrel_7">
-	<text>Hlaveò .357 (hlaveò)</text>
+	<text>Hlaveò .357</text>
 </string>
 <string id="st_prt_w_p_barrel_7_descr">
 	<text>Hlaveò .357.\n\n</text>
@@ -651,25 +651,25 @@ WEAPONS (pistols)
 
 <!-- trigger mechanism -->
 <string id="st_prt_w_p_trigger_1">
-	<text>Jednoèinnı mechanismus spouštì (spouš)</text>
+	<text>Jednoèinnı mechanismus spouštì </text>
 </string>
 <string id="st_prt_w_p_trigger_1_descr">
 	<text>Jednoèinnı mechanismus spouštì.\n\n</text>
 </string>
 <string id="st_prt_w_p_trigger_2">
-	<text>Double-action mechanismus spouštì (spouš)</text>
+	<text>Double-action mechanismus spouštì </text>
 </string>
 <string id="st_prt_w_p_trigger_2_descr">
 	<text>Double-action mechanismus spouštì.\n\n</text>
 </string>
 <string id="st_prt_w_p_trigger_3">
-	<text>Double-action (DA/SA) mechanismus spouštì (spouš)</text>
+	<text>Double-action (DA/SA) mechanismus spouštì </text>
 </string>
 <string id="st_prt_w_p_trigger_3_descr">
 	<text>Double-action (DA/SA) mechanismus spouštì.\n\n</text>
 </string>
 <string id="st_prt_w_p_trigger_4">
-	<text>Double-action mechanismus spouštì "MP412" (spouš)</text>
+	<text>Double-action mechanismus spouštì "MP412" </text>
 </string>
 <string id="st_prt_w_p_trigger_4_descr">
 	<text>Double-action mechanismus spouštì "MP412".\n\n</text>
@@ -678,37 +678,37 @@ WEAPONS (pistols)
 	
 <!-- recoil spring assembly -->
 <string id="st_prt_w_p_spring_1">
-	<text>Sestava pruiny zpìtného rázu 9 mm [sovìtská] (pruina)</text>
+	<text>Sestava pruiny zpìtného rázu 9 mm [sovìtská]</text>
 </string>
 <string id="st_prt_w_p_spring_1_descr">
 	<text>Sestava pruiny zpìtného rázu 9 mm sovìtské vıroby.\n\n</text>
 </string>
 <string id="st_prt_w_p_spring_2">
-	<text>Sestava pruiny zpìtného rázu 9 mm [ruská] (pruina)</text>
+	<text>Sestava pruiny zpìtného rázu 9 mm [ruská]</text>
 </string>
 <string id="st_prt_w_p_spring_2_descr">
 	<text>Sestava pruiny zpìtného rázu 9 mm ruské vıroby.\n\n</text>
 </string>
 <string id="st_prt_w_p_spring_3">
-	<text>Sestava pruiny zpìtného rázu .45 (pruina)</text>
+	<text>Sestava pruiny zpìtného rázu .45</text>
 </string>
 <string id="st_prt_w_p_spring_3_descr">
 	<text>Sestava pruiny zpìtného rázu .45.\n\n</text>
 </string>
 <string id="st_prt_w_p_spring_4">
-	<text>Sestava pruiny zpìtného rázu 9 mm [západní] (pruina)</text>
+	<text>Sestava pruiny zpìtného rázu 9 mm [západní]</text>
 </string>
 <string id="st_prt_w_p_spring_4_descr">
 	<text>Sestava pruiny zpìtného rázu 9 mm západní vıroby.\n\n</text>
 </string>
 <string id="st_prt_w_p_spring_5">
-	<text>Sestava pruiny zpìtného rázu 7.62 mm (pruina)</text>
+	<text>Sestava pruiny zpìtného rázu 7.62 mm</text>
 </string>
 <string id="st_prt_w_p_spring_5_descr">
 	<text>Sestava pruiny zpìtného rázu 7.62 mm.\n\n</text>
 </string>
 <string id="st_prt_w_p_spring_6">
-	<text>Sestava pruiny zpìtného rázu (R1 DE 6") (pruina)</text>
+	<text>Sestava pruiny zpìtného rázu (R1 DE 6")</text>
 </string>
 <string id="st_prt_w_p_spring_6_descr">
 	<text>Sestava pruiny zpìtného rázu.\n\n</text>

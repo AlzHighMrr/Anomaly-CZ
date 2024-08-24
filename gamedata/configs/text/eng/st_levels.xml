@@ -89,7 +89,7 @@
 		<text>Sarcofág</text>
 	</string>
 	<string id="k02_trucks_cemetery">
-		<text>Høbitov Nákladních Aut</text>
+		<text>Høbitov aut</text>
 	</string>
 	<string id="l06_rostok">
 		<text>Divoká Oblast</text>
@@ -184,16 +184,16 @@
 		<text>k Rostoku</text>
 	</string>
 	<string id="space_restrictor_to_sarcophagus_desc">
-		<text>do Sarcofagu</text>
+		<text>do Sarkofágu</text>
 	</string>
 	<string id="space_restrictor_to_tc_desc">
-		<text>Na Høbitov nákladních aut</text>
+		<text>Na Høbitov aut</text>
 	</string>
 	<string id="space_restrictor_to_rostok_desc">
 		<text>do Divoké Oblasti</text>
 	</string>
 	<string id="space_restrictor_to_yantar_desc">
-		<text>Na Jantar</text>
+		<text>k Yantaru</text>
 	</string>
 	<string id="space_restrictor_to_zaton_desc">
 		<text>do Zatonu</text>

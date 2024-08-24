@@ -150,46 +150,46 @@
 </string>
 
 <string id="st_ds_ptr4_name">
-    <text>Temná kotlina. Opuštìný nákladní vùz</text>
+    <text>Darkscape. Opuštìný nákladní vùz</text>
 </string>
 <string id="st_ds2_lager_st_name">
-    <text>Temná kotlina. Tábor na útesu</text>
+    <text>Darkscape. Tábor na útesu</text>
 </string>
 <string id="st_ds2_st_dogs_name">
-    <text>Temná kotlina. Lesní shromaždištì</text>
+    <text>Darkscape. Lesní shromaždištì</text>
 </string>
 <string id="st_ds_grverfer2_name">
-    <text>Temná kotlina. Shromaždištì u silnice</text>
+    <text>Darkscape. Shromaždištì u silnice</text>
 </string>
 <string id="st_ds_ptr2_name">
-    <text>Temná kotlina. Odpoèinková oblast</text>
+    <text>Darkscape. Odpoèinková oblast</text>
 </string>
 <string id="st_ds_deb1_name">
-    <text>Temná kotlina. Silnièní blokáda</text>
+    <text>Darkscape. Silnièní blokáda</text>
 </string>
 <string id="st_ds_kem2_name">
-    <text>Temná kotlina. Benzínová stanice</text>
+    <text>Darkscape. Benzínová stanice</text>
 </string>
 <string id="st_ds2_domik_st_name">
-    <text>Temná kotlina. Lesní úkryt</text>
+    <text>Darkscape. Lesní úkryt</text>
 </string>
 <string id="st_ds_boars_nest_name">
-    <text>Temná kotlina. Shromaždištì na útesu</text>
+    <text>Darkscape. Shromaždištì na útesu</text>
 </string>
 <string id="st_ds2_st_hoofs_name">
-    <text>Temná kotlina. Místo na zasednutí</text>
+    <text>Darkscape. Místo na zasednutí</text>
 </string>
 <string id="st_ds_ptr_name">
-    <text>Temná kotlina. Zøícený železnièní most</text>
+    <text>Darkscape. Zøícený železnièní most</text>
 </string>
 <string id="st_ds_ptr3_name">
-    <text>Temná kotlina. Radiaktivní kamionové zastávka</text>
+    <text>Darkscape. Radiaktivní kamionové zastávka</text>
 </string>
 <string id="st_ds_kem3_name">
-    <text>Temná kotlina. Malý most</text>
+    <text>Darkscape. Malý most</text>
 </string>
 <string id="st_ds_kem1_name">
-    <text>Temná kotlina. Prùchod temnou údolím</text>
+    <text>Darkscape. Prùchod temnou údolím</text>
 </string>
 
 
@@ -534,67 +534,67 @@
 
 
 <string id="st_trc_sim_20_name">
-	<text>Høbitov nákladních aut. Východní kontrolní bod</text>
+	<text>Høbitov aut. Východní kontrolní bod</text>
 </string>
 <string id="st_trc_sim_17_name">
-	<text>Høbitov nákladních aut. Tábor za sutinami</text>
+	<text>Høbitov aut. Tábor za sutinami</text>
 </string>
 <string id="st_trc_sim_7_name">
-	<text>Høbitov nákladních aut. Lesní vyhlídka</text>
+	<text>Høbitov aut. Lesní vyhlídka</text>
 </string>
 <string id="st_trc_sim_21_name">
-	<text>Høbitov nákladních aut. Zadní èásti</text>
+	<text>Høbitov aut. Zadní èásti</text>
 </string>
 <string id="st_trc_sim_4_name">
-	<text>Høbitov nákladních aut. Kopec poblíž spáleného domu</text>
+	<text>Høbitov aut. Kopec poblíž spáleného domu</text>
 </string>
 <string id="st_trc_sim_18_name">
-	<text>Høbitov nákladních aut. Tábor mezi kamiony</text>
+	<text>Høbitov aut. Tábor mezi kamiony</text>
 </string>
 <string id="st_trc_sim_1_name">
-	<text>Høbitov nákladních aut. Pozorovatelna</text>
+	<text>Høbitov aut. Pozorovatelna</text>
 </string>
 <string id="st_trc_sim_2_name">
-	<text>Høbitov nákladních aut. Tábor u kontejnerù</text>
+	<text>Høbitov aut. Tábor u kontejnerù</text>
 </string>
 <string id="st_trc_sim_3_name">
-	<text>Høbitov nákladních aut. Rozcestí</text>
+	<text>Høbitov aut. Rozcestí</text>
 </string>
 <string id="st_trc_sim_12_name">
-	<text>Høbitov nákladních aut. Lesní úkryt</text>
+	<text>Høbitov aut. Lesní úkryt</text>
 </string>
 <string id="st_trc_sim_10_name">
-	<text>Høbitov nákladních aut. Lesní zákoutí</text>
+	<text>Høbitov aut. Lesní zákoutí</text>
 </string>
 <string id="st_trc_sim_11_name">
-	<text>Høbitov nákladních aut. Høbitov vojenských vozidel</text>
+	<text>Høbitov aut. Høbitov vojenských vozidel</text>
 </string>
 <string id="st_trc_sim_14_name">
-	<text>Høbitov nákladních aut. Høbitov požárních vozù</text>
+	<text>Høbitov aut. Høbitov požárních vozù</text>
 </string>
 <string id="st_trc_sim_15_name">
-	<text>Høbitov nákladních aut. Høbitov vrtulníkù</text>
+	<text>Høbitov aut. Høbitov vrtulníkù</text>
 </string>
 <string id="st_trc_sim_6_name">
-	<text>Høbitov nákladních aut. Vyhlídková vìž</text>
+	<text>Høbitov aut. Vyhlídková vìž</text>
 </string>
 <string id="st_trc_sim_19_name">
-	<text>Høbitov nákladních aut. Høbitov nákladních aut</text>
+	<text>Høbitov aut. Høbitov aut</text>
 </string>
 <string id="st_trc_sim_5_name">
-	<text>Høbitov nákladních aut. Køižovatka</text>
+	<text>Høbitov aut. Køižovatka</text>
 </string>
 <string id="st_trc_sim_16_name">
-	<text>Høbitov nákladních aut. Pøedmìstí høbitova</text>
+	<text>Høbitov aut. Pøedmìstí høbitova</text>
 </string>
 <string id="st_trc_sim_9_name">
-	<text>Høbitov nákladních aut. Kopec</text>
+	<text>Høbitov aut. Kopec</text>
 </string>
 <string id="st_trc_sim_13_name">
-	<text>Høbitov nákladních aut. Místo setkání u rokle</text>
+	<text>Høbitov aut. Místo setkání u rokle</text>
 </string>
 <string id="st_trc_sim_8_name">
-	<text>Høbitov nákladních aut. Høbitov nákladních cisteren</text>
+	<text>Høbitov aut. Høbitov nákladních cisteren</text>
 </string>
 
 
@@ -1492,7 +1492,7 @@
 	<text>Tábor Marque (Rudý les)</text>
 </string>
 <string id="ui_st_truck_cemetery_bandits_post">
-	<text>Tábor na okrajích (Høbitov Nákladních aut.)</text>
+	<text>Tábor na okrajích (Høbitov aut.)</text>
 </string>
 <string id="ui_st_yanov_depo_monolith">
 	<text>Východní tunel (Jupiter)</text>
@@ -1540,7 +1540,7 @@
 	<text>Výtah</text>
 </string>
 <string id="st_tunnel_electr_name">
-	<text>Elektro tunel</text>
+	<text>Tunel s palivým chmýøím</text>
 </string>
 <string id="st_neut_base_name">
 	<text>Praseèí Farma</text>

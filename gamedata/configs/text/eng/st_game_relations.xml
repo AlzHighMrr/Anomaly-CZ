@@ -109,27 +109,26 @@
 		<text>Nepøítel</text>
 	</string>
 	<string id="st_goodwill_indifferent">
-		<text>Neutral</text>
+		<text>Neutralní</text>
 	</string>
 	<string id="st_goodwill_friendly">
 		<text>Pøátele</text>
 	</string>
 
-	<!-- Ranks -->
-	<string id="ui_st_rank">
-		<text>Rank</text>
+<string id="ui_st_rank">
+		<text>Hodnost</text>
 	</string>
 	<string id="st_rank_novice">
-		<text>Nováèek</text>
+		<text>Zaèáteèník</text>
 	</string>
 	<string id="st_rank_trainee">
-		<text>Stažista</text>
+		<text>Zelenáè</text>
 	</string>
 	<string id="st_rank_experienced">
 		<text>Zkušený</text>
 	</string>
 	<string id="st_rank_professional">
-		<text>Professionál</text>
+		<text>Profík</text>
 	</string>
 	<string id="st_rank_veteran">
 		<text>Veterán</text>
@@ -155,39 +154,40 @@
 		<text>Dìsná</text>
 	</string>
 	<string id="st_reputation_very_bad">
-		<text>Prùmìrna</text>
+		<text>Pøíšerná</text>
 	</string>
 	<string id="st_reputation_bad">
-		<text>Špatna</text>
+		<text>Špatná</text>
 	</string>
 	<string id="st_reputation_neutral">
-		<text>Neutralní</text>
+		<text>Neutrální</text>
 	</string>
 	<string id="st_reputation_good">
-		<text>Dobrý</text>
+		<text>Dobrá</text>
 	</string>
 	<string id="st_reputation_very_good">
-		<text>Velmi dobrá</text>
+		<text>Skvìlá</text>
 	</string>
 	<string id="st_reputation_really_good">
-		<text>Brilliantni</text>
+		<text>Vynikající</text>
 	</string>
 	<string id="st_reputation_excellent">
-		<text>Excellentni</text>
+		<text>Výborná</text>
 	</string>
+
 
 	<!-- Notifications -->
 	<string id="st_rank_increased">
-		<text>Tvoje hodnost se zlepšila.</text>
+		<text>Tvá hodnost se zlepšila.</text>
 	</string>
 	<string id="st_rank_decreased">
-		<text>Tvoje hodnost se zhoršila.</text>
+		<text>Tvá hodnost se zhoršila.</text>
 	</string>
 	<string id="st_reputation_increased">
-		<text>Tvoje reputace se zlepšila.</text>
+		<text>Tvá reputace se zlepšila.</text>
 	</string>
 	<string id="st_reputation_decreased">
-		<text>Tvoje reputace  se zhoršila.</text>
+		<text>Tvá reputace  se zhoršila.</text>
 	</string>
 	
 	<!-- Dynamic Relations - News building -->
@@ -195,36 +195,36 @@
         <text>a</text>
     </string>
     <string id="st_relations_declared_war">
-        <text>frakce si navzájem vyhlásily valku.</text>
+        <text>Frakce si navzájem vyhlásily valku.</text>
     </string>
     <string id="st_relations_alliance">
-        <text>frakce uzavøely alianci.</text>
+        <text>Frakce uzavøely alianci.</text>
     </string>
     <string id="st_relations_deteriorating">
         <text>Vztahy se zhoršují.</text>
     </string>
     <string id="st_relations_cease_fire">
-        <text>frakce vyhlásily pøimìøí.</text>
+        <text>Frakce vyhlásily pøimìøí.</text>
     </string>
 	
 	<!-- Dynamic Relations - Goodwill-->
-	<string id="st_ui_goodwill_name">
-        <text>Reputace</text>
+    <string id="st_ui_goodwill_name">
+        <text>Dùvìra</text>
     </string>
 	<string id="st_ui_goodwill_5">
         <text>Maximální</text>
     </string>
 	<string id="st_ui_goodwill_4">
-        <text>Normálnì</text>
+        <text>Významná</text>
     </string>
 	<string id="st_ui_goodwill_3">
-        <text>Mirné</text>
+        <text>Støední</text>
     </string>
 	<string id="st_ui_goodwill_2">
-        <text>Drobné</text>
+        <text>Menší</text>
     </string>
 	<string id="st_ui_goodwill_1">
-        <text>Minimalnì</text>
+        <text>Minimální</text>
     </string>
 	
 </string_table>
