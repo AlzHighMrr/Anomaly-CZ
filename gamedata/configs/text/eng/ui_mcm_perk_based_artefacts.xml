@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="windows-1250"?>
 
 <string_table>
-	
-	<string id="ui_mcm_perk_based_artefacts_title">
-		<text>Artefakty s perky (Perk Based Artefacts)</text>
+		<string id="ui_mcm_menu_perk_based_artefacts">
+		<text>Perk Based Artefacts</text>
 	</string>
-	<string id="ui_mcm_menu_perk_based_artefacts">
-		<text>Nastavení PBA</text>
+	<string id="ui_mcm_perk_based_artefacts_title">
+		<text>Artefakty s perky</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_debug_mode">
-		<text>Režim debug</text>
+		<text>Debug mod</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_debug_mode_desc">
 		<text>Zapíná zprávy v konzoli</text>
@@ -24,7 +23,7 @@
 		<text>Pravidelnost artefaktů ve skrýších</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_treasure_chance_desc">
-		<text>Čím menší je číslo - tím vzácnější artefakty v perku budou ve skrýších</text>
+		<text>Čím menší je číslo - tím vzácnější artefakty s perku budou ve skrýších</text>
 	</string>
 	<string id="ui_mcm_perk_based_artefacts_timed_degradation">
 		<text>Degradace stavu artefaktů</text>

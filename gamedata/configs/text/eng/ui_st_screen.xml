@@ -94,7 +94,7 @@
 		<text>Zadat kód($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b206_use_plant">
-		<text>Vzít rostlinu ($$ACTION_USE$$)</text>
+		<text>Vezmìte rostlinu ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b209_scanner_place_tips">
 		<text>Nastavit scanner ($$ACTION_USE$$)</text>
@@ -153,16 +153,16 @@
 <text>V osobní schránce na Skadovsku byly uloženy lékaøské potøeby pro vyøešení tajemství zmizelých stalkerù.</text>
 	</string>
 	<string id="st_duty_first_reward_news">
-<text>Do osobní schránky na Yanovì byl vložen univerzální ochranný oblek PS5-M za pomoc Povinnosti.</text>
+<text>Do osobní schránky na Janovì byl vložen univerzální ochranný oblek PS5-M za pomoc Povinnosti.</text>
 	</string>
 	<string id="st_duty_druha_odmena_news">
-<text>Do osobní schránky v Yanovì byl vložen pancéøový oblek PSZ-9d Duty za pomoc Povinnosti.</text>
+<text>Do osobní schránky v Janovì byl vložen pancéøový oblek PSZ-9d Duty za pomoc Povinnosti.</text>
 	</string>
 	<string id="st_freedom_first_reward_news">
 		<text>Do osobní schránky u Janova byl vložen oblek Wind of Freedom za pomoc Svobodì.</text>
 	</string>
 	<string id="st_freedom_second_reward_news">
-		<text>Do osobní schránky v Yanovì byl vložen oblek Strážce svobody za pomoc Svobodì.</text>
+		<text>Do osobní schránky v Janovì byl vložen oblek Strážce svobody za pomoc Svobodì.</text>
 	</string>
 	<string id="st_freeplay_text_ok">
 		<text>Nedostal ses k vrtulníkùm a evakuaèní tým opustil Zónu bez tebe.</text>
@@ -313,7 +313,7 @@
 		<text>Vypni zázraèný stroj ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tips_rad_switcher_press">
-		<text>Vypni Vypalovaè mozku ($$ACTION_USE$$)</text>
+		<text>Vypni Vypalovaè mozkù ($$ACTION_USE$$)</text>
 	</string>
 	<string id="bridge_down_red_forest_tips">
 		<text>Dolní most ($$ACTION_USE$$)</text>
@@ -328,7 +328,7 @@
 <text>Aktivuj Vypalovaè mozkù ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_make_a_wish">
-		<text>Vyslov pøání ($$ACTION_USE$$)</text>
+		<text>Vyslovit pøání ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_lx18_pda">
 		<text>Poslechnout si záznam z PDA</text>
@@ -486,7 +486,7 @@
 <text>Systém maskování vypnut</text>
 	</string>
 	<string id="ui_st_disguse_back_to_default">
-		<text>Jsi nyní opìt identifikován jako èlen %s</text>
+		<text>Jsi nyní opìt identifikováni jako èlen %s</text>
 	</string>
 	<string id="ui_st_disguse_blacklisted_faction">
 		<text>Nemùžeš se maskovat jako èlen %s</text>
@@ -504,7 +504,7 @@
 		<text>Náplast tohoto obleèení je roztržená. Stalkeøi si budou myslet, že patøíš ke komunitì %s</text>.
 	</string>
 	<string id="ui_st_disguse_patch_torn_now">
-		<text>Na tomto obleèení jsi roztrhl nášivku %s. Již jej nelze použít k maskování</text>.
+		<text>Na tomto obleèení jste roztrhli nášivku %s. Již jej nelze použít k maskování</text>.
 	</string>
 	<string id="ui_st_disguse_patch_attach_now">
 		<text>Pøipojil jsi %s na tento odìv, nyní jej lze použít k pøevleku</text>

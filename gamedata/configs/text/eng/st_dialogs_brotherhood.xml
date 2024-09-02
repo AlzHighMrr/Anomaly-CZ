@@ -100,13 +100,13 @@
 		<text>Jsem pøipravenı. Mùeme vyrazit?</text>
 	</string>
 	<string id="bellerophon_7_4">
-		<text>Mám pøipravenou láhev Stoliènayi na potom. Vedeš, jsem hned za tebou.</text>
+		<text>Mám pøipravenou láhev Stoliènaja na potom. Vedeš, jsem hned za tebou.</text>
 	</string>
 	<string id="bellerophon_7_5">
 		<text>Jsem pøipravenı. Mùeme vyrazit?</text>
 	</string>
 	<string id="bellerophon_7_6">
-		<text>Øezník mi øekl, e Chiméry jsou noèní stvoøení - mìli bychom vyrazit v noci, abychom ji chytili venku.</text>
+		<text>Butcher mi øekl, e Chiméry jsou noèní stvoøení - mìli bychom vyrazit v noci, abychom ji chytili venku.</text>
 	</string>
 	<string id="bellerophon_7_7">
 		<text>Ještì ne - musím udìlat pár pøíprav.</text>
@@ -139,7 +139,6 @@
 	<string id="bellerophon_9_5">
 		<text>To se uvidí... ale splnil jsem svou misi, to by mìlo nìco znamenat, ne? \n \nPojï, pøíteli, další sklenièku! Na pøátelství! Kuznìcov a je starostí a na zítøek!</text>
 	</string>
-
 --Quest1 now 3--
 	<string id="butcher_1_start_0">
 		<text>Øíkal jsi, e se ztratila zásilka?</text>
@@ -156,7 +155,7 @@
 		<text>Díky, ale ještì nejsem pøipravenı.</text>
 	</string>	
 	<string id="butcher_1_start_4">
-		<text>Dobøe. Podle jeho zprávy ho pøepadli poblí starého staveništì. Prošel kolem Èerpací stanice, vlevo mìl vesnici s vodárenskou vìí a vpravo strojovı dvùr. Tvım úkolem je získat ten balík zpìt, na psy není vypsaná ádná odmìna.
+		<text>Dobøe. Podle jeho zprávy ho pøepadli poblí starého staveništì. Prošel kolem Èerpací stanice, vlevo mìl vesnici s vodárenskou vìí a vpravo mechanikùv dvùr. Tvım úkolem je získat ten balík zpìt, na psy není vypsaná ádná odmìna.
 		Kdy najdeš ten balík, doruè ho Vybegallovi, je nìkde v továrnì Agroprom.</text>
 	</string>
 	<string id="butcher_1_start_5">
@@ -393,7 +392,7 @@
     <text>Jsi pøipraven loviti nìjaké snorky?</text>
 </string>
 <string id="bellerophon_1_1">
-    <text>Ano, Øezník mi øekl, abych ti pomohl. Vedej cestu, jsem za tebou.</text>
+    <text>Ano, Butcher mi øekl, abych ti pomohl. Vedej cestu, jsem za tebou.</text>
 </string>
 
 <string id="bellerophon_2_0">
@@ -641,12 +640,12 @@ Jednoho veèera jsem sdílel ohnì s kluky z Jasná obloha, kteøí mi øekli o zvìsti 
          Dokonce se jim podaøilo podplatit Manguna, aby jim dal zaøízení na noèní vidìní - take nebudeš muset jít do toho slepì jako krtek. Jsi v tom?</text>
 </string>
 <string id="bar_dolg_medic_hunter_0_8">
-    <text>Je to tìké, ale pøemıšlej o tom - pokud to nìkdo dokáe, jsi to jistì ty! Øezník mi vyprávìl o tvıch dovednostech pøi lovu mutantù - to je víc, ne mohu øíci o našich chlapcích. Samozøejmì neoèekáváme, e to udìláš zadarmo, chlapci pøispìjí k odmìnì za tvou pomoc!
+    <text>Je to tìké, ale pøemıšlej o tom - pokud to nìkdo dokáe, jsi to jistì ty! Butcher mi vyprávìl o tvıch dovednostech pøi lovu mutantù - to je víc, ne mohu øíci o našich chlapcích. Samozøejmì neoèekáváme, e to udìláš zadarmo, chlapci pøispìjí k odmìnì za tvou pomoc!
          Dokonce se jim podaøilo podplatit Manguna, aby jim dal zaøízení na noèní vidìní - take nebudeš muset jít do toho slepì jako krtek. Pomùeš nám?</text>
 </string>
 <string id="bar_dolg_medic_hunter_0_9">
     <text>Rozumím potøebì vojáka dodrovat rozkazy svıch nadøízenıch, ale tohle je objektivnì nezdravá mise! Tyhle jsou skuteèní lidé, kteøí jsou posíláni na misi, na kterou nebyli vycvièeni! Pøemıšlej o tom! Ty na druhou stranu máš zkušenosti v tìchto záleitostech,
-         alespoò mi to Øezník øekl, e jsi zbìhlı v lovu mutantù. A samozøejmì neoèekáváme, e to udìláš zadarmo, chlapci pøispìjí k odmìnì za tvou pomoc!
+         alespoò mi to Butcher øekl, e jsi zbìhlı v lovu mutantù. A samozøejmì neoèekáváme, e to udìláš zadarmo, chlapci pøispìjí k odmìnì za tvou pomoc!
          Dokonce se jim podaøilo podplatit Manguna, aby jim dal zaøízení na noèní vidìní - take nebudeš muset jít do toho slepì jako krtek. Jsi v tom?</text>
 </string>
 <string id="bar_dolg_medic_hunter_0_10">
@@ -1625,7 +1624,7 @@ Jednoho veèera jsem sdílel ohnì s kluky z Jasná obloha, kteøí mi øekli o zvìsti 
 
 <string id="alyosha_shyogolov_0_11">
 	<text>V drení Mozgotlena... nebo toho, co z nìj zbylo. Víš, byl èlenem expedice do Velkıch Bain, kdy nastala Emise. Ten chudák nedopadl na bezpeèné místo a promìnil se v zombie. 
-		Škoda, e jsem tam nebyl já, za mého dozoru by nikdo nepotkal takovı osud. Ale co s tím, nemohu bıt všude a zároveò, e? Nicménì, ten chlap se stal zombíkem a odešel... s tím, co nesl. Budeš to muset získat zpìt! Má safírovı oblek, take by mìl bıt snadno rozpoznatelnı!</text>
+		Škoda, e jsem tam nebyl já, za mého dozoru by nikdo nepotkal takovı osud. Ale co s tím, nemohu bıt všude a zároveò, e? Nicménì, ten chlap se stal zombiem a odešel... s tím, co nesl. Budeš to muset získat zpìt! Má safírovı oblek, take by mìl bıt snadno rozpoznatelnı!</text>
 </string>
 
 <string id="alyosha_shyogolov_0_12">
@@ -1645,19 +1644,11 @@ Jednoho veèera jsem sdílel ohnì s kluky z Jasná obloha, kteøí mi øekli o zvìsti 
 	<text>Odmìna? Aha, myslíš odmìnu. Nemìj obavy, bude neocenitelná. Teï mi ale dovol, musím najít nìjaké Stalkery, kterım mohu vyprávìt své pøíbìhy.</text>
 </string>
 
-<string id="alyosha_shyogolov_2_0"> <text>Našel jsem ty dokumenty.</text> </string>
-
-<string id="alyosha_shyogolov_2_1"> <text>Úasné! Vìdìl jsem, e pouhá zombie tì nezastaví! Jsi z tvrdšího døeva - ještì se nevyrovnáš mé pøirozené zdatnosti, ale jsi na nejlepší cestì se jí stát.</text> </string>
 
 <string id="alyosha_shyogolov_2_2">
-	<text>Ano, samozøejmì! Dovol mi dát ti neocenitelnı vhled do mého vìdìní! Poslouchej: \n \nSebejistota je klíèovım nástrojem v arzenálu kadého Stalkera. Sebejistota vede k pøíleitostem. Dìlá z Stalkera toho, kdo podstoupí ten nemonı vıstøel. Dìlá nás ochotnımi pøijmout nejtìší mise, dosáhnout dál do pole anomálií pro artefakty, nebo vyprovokovat rozzuøeného Upíra z jeho doupìte.
-	Sebejistota mì pøinutila vydat se na jednoduchou likvidaci banditù ani bych musel mít na sobì Nosorog. Dìlá mi radost vyprávìt o svıch úspìších, zatímco sedím na trùnu svıch nepøátel.</text>
+	<text>Ano, samozøejmì! Dovol mi dát ti neocenitelnı vhled do mého vìdìní! Poslouchej: \n \nSebejistota je klíèovım nástrojem v arzenálu kadého Stalkera. Sebejistota vede k pøíleitostem. Dìlá z Stalkera toho, kdo podstoupí ten nemonı vıstøel. Dìlá nás ochotnımi pøijmout nejtìší mise, dosáhnout dál do pole anomálií pro artefakty, nebo vyprovokovat rozzuøeného krvopije z doupìte.
+	Sebejistota mì pøinutila vydat se na jednoduchou likvidaci banditù ani bych musel mít na sobì Nosoroga. Dìlá mi radost vyprávìt o svıch úspìších, zatímco sedím na trùnu svıch nepøátel.</text>
 </string>
-
-	<string id="alyosha_shyogolov_2_3"> 
-    <text>Ano, samozøejmì! Dovol mi, abych ti poskytl neocenitelnı vhled do svıch znalostí! Poslouchej:  \n \nSebedùvìra je klíèovım nástrojem v arzenálu kadého Stalkera. Sebevìdomí vede k pøíleitostem. Díky ní se Stalker rozhodne pro nemoné. Pøimìje nás pøijmout nejtìší úkoly, dostat se dál do anomálního pole pro artefakty nebo vylákat rozzuøeného Upíra z jeho doupìte. 
-		Sebevìdomí mì nutí odváit se snadné likvidace banditù, ani bych si musel nasadit Nosorog. Pøimìje mì vyprávìt o svıch úspìších, zatímco sedím na trùnu svıch nepøátel. </text> 
-        </string>
 
 <string id="alyosha_shyogolov_2_4">
 	<text>Poslouchám...</text>
@@ -1753,12 +1744,12 @@ Jednoho veèera jsem sdílel ohnì s kluky z Jasná obloha, kteøí mi øekli o zvìsti 
 
 <string id="vybegallo_start_7">
 	<text>Vynikající! Vidíte mon cher, potøebuji nìjaké èásti mutantù - samozøejmì z vìdeckıch dùvodù! Pro pokrok, mon cher. 
-		Potøeboval bych dvì ruce Izloma, jedno srdce Upíra a vzorek od Pseudogiganta, nezáleí na tom co, ruka, oko, nebo jeho kùe. Pøinesete mi to a odškodním vás za vaše starosti. Øeknìme... 10 000 za všechno? Co øíkáte?</text>
+		Potøeboval bych dvì zlomené ruce, jedno srdce krvavého sání a vzorek od Pseudogiganta, nezáleí na tom co, ruka, oko, jeho kùe. Pøinesete mi to a odškodním vás za vaše starosti. Øeknìme... 10 000 za všechno? Co øíkáte?</text>
 </string>
 
 <string id="vybegallo_start_8">
 	<text>Mon cher, proè tahle pøístup? Jsem vìdec, mu oddanı vìdì! Potøebuji nìjaké èásti mutantù - striktnì z vìdeckıch dùvodù samozøejmì! Pro pokrok, mon cher. 
-		Potøeboval bych dvì ruce Izloma, jedno srdce Upíra a vzorek od Pseudogiganta, nezáleí na tom co, ruka, oko, nebo jeho kùe. Pøinesete mi to a odškodním vás za vaše starosti. Øeknìme... 10 000 za všechno?</text>
+		Potøeboval bych dvì zlomené ruce, jedno srdce krvavého sání a vzorek od Pseudogiganta, nezáleí na tom co, ruka, oko, jeho kùe. Pøinesete mi to a odškodním vás za vaše starosti. Øeknìme... 10 000 za všechno?</text>
 </string>
 
 <string id="vybegallo_start_9">
@@ -1801,10 +1792,10 @@ Jednoho veèera jsem sdílel ohnì s kluky z Jasná obloha, kteøí mi øekli o zvìsti 
 	<text>Nalezl jsem kùi pseudogianta.</text>
 </string>
 <string id="vybegallo_2_41">
-	<text>Nalezl jsem ruce Izloma.</text>
+	<text>Nalezl jsem zlomené ruce.</text>
 </string>
 <string id="vybegallo_2_42">
-	<text>Nalezl jsem srdce Upíra.</text>
+	<text>Nalezl jsem srdce krvavého sajrajtu.</text>
 </string>
 <string id="vybegallo_2_5">
 	<text>Ne, musím se dál dívat.</text>

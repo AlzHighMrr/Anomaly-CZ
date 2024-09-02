@@ -31,7 +31,7 @@
 	<text>Psy-bouøe povoleny</text>
 </string>
 <string id="st_cap_fate">
-	<text>Osud Stalkerù</text>
+	<text>Osud NPC</text>
 </string>
 <string id="st_cap_warning">
 	<text>Varování</text>
@@ -59,10 +59,10 @@
 	<text>Zabit na konci</text>
 </string>
 <string id="st_list_fate_killatwave">
-	<text>Zabit</text>
+	<text>Zabit pøi postupu vlny</text>
 </string>
 <string id="st_list_fate_turntozombie">
-	<text>Promìnit na zombie</text>
+	<text>Promìnit se na zombie</text>
 </string>
 <string id="st_list_fate_explode">
 	<text>Roztrhat na kusy</text>
@@ -71,10 +71,10 @@
 	<text>Rad. / chem. otrava</text>
 </string>
 <string id="st_list_fate_none">
-	<text>Bez zranìní</text>
+	<text>Nezranìní</text>
 </string>
 <string id="st_list_fate_kill">
-	<text>Zabit</text>
+	<text>Zabit pøi virovém výboji</text>
 </string>
 <string id="st_list_fate_killorturn">
 	<text>Zabit nebo promìnit v zombie</text>
@@ -92,7 +92,7 @@
 	<text>Žádné varování</text>
 </string>
 <string id="st_list_task_give">
-	<text>Zobrazit úkol</text>
+	<text>Dát úkol</text>
 </string>
 <string id="st_list_task_none">
 	<text>Nezadávat úkol</text>

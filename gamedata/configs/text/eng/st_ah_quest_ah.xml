@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
     <string id="ah_ecolog">
-<text>Výzkumníci</text>
+<text>Průzkumníci</text>
     </string>
 
     <string id="Quest1_desc">
@@ -12,14 +12,14 @@
     </string>
     
 <string id="ah_redirect_to_kovalev_quest_title">
-    <text>Výzkumníci: Najděte profesora Kovalěva ve Velkých bažinách</text>
+    <text>Průzkumníci: Najděte profesora Kovalěva ve Velkých bažinách</text>
 </string>
 <string id="ah_redirect_to_kovalev_quest_desc">
     <text>Dostal jsem informaci, že profesor Kovalev ve Velkých bažinách potřebuje pomoc při svém výzkumu. Mám ho hledat ve Starém kostele na jihu bažin.</text>
 </string>
 
 <string id="ah_redirect_to_markov_quest_title">
-    <text>Výzkumníci: Najdi profesora Markova v Yantaru</text>
+    <text>Průzkumníci: Najdi profesora Markova v Yantaru</text>
 </string>
 <string id="ah_redirect_to_markov_quest_desc">
     <text>Dále bych měl najít profesora Markova. Měl by být někde poblíž bunkru vědců v Janově.</text>
@@ -40,14 +40,14 @@
 </string>
 
 <string id="ah_redirect_to_juk_quest_title">
-    <text>Výzkumníci: Najdi profesora Žuka</text>
+    <text>Průzkumníci: Najdi profesora Žuka</text>
 </string>
 <string id="ah_redirect_to_juk_quest_desc">
     <text>Pro další práci bych si měl promluvit s profesorem Žukem. Najdu ho někde poblíž janovského nádraží v Jupiteru.</text>
 </string>
 
 <string id="ah_redirect_to_vorobushkin_quest_title">
-    <text>Výzkumníci: Najděte profesora Vorobuškina</text>
+    <text>Průzkumníci: Najděte profesora Vorobuškina</text>
 </string>
 <string id="ah_redirect_to_vorobushkin_quest_desc">
     <text>Profesor Vorobuškin je umístěn na stanici Strážců. Musím ho najít, abych mohl pokračovat v pomoci výzkumnému týmu.</text>
@@ -168,7 +168,7 @@
 
 
 <string id="ah_markov_quest2_title">
-    <text>Výzkumníci: Přineste Markovovi tři artefakty z Divokého území</text>
+    <text>Průzkumníci: Přineste Markovovi tři artefakty z Divokého území</text>
 </string>
 <string id="ah_markov_quest2_desc">
     <text>Profesor Markov mě pověřil, abych rozšířil stávající oblast pátrání. Mám prohledat tři různá místa v Divoké Oblasti.</text>
@@ -194,7 +194,7 @@
 
 
     <string id="ah_markov_quest3_title">
-    <text>Výzkumníci: Přines profesoru Markovovi tři artefakty z oblasti kolem laboratoře X16</text>
+    <text>Průzkumníci: Přines profesoru Markovovi tři artefakty z oblasti kolem laboratoře X16</text>
 </string>
 <string id="ah_markov_quest3_desc">
     <text>Mám najít tři artefakty poblíž oblasti kolem staré laboratoře X16. Kvůli Zázračnému stroji to bude bez řádné psychické ochrany nemožné. Profesor Sacharov by mi s tím měl být schopen pomoci.</text>
@@ -300,7 +300,7 @@
 </string>
 
 <string id="ah_chernov_quest1_title">
-    <text>Výzkumníci: Přineste profesoru Černovovi tři artefakty z armádních skladů</text>
+    <text>Průzkumníci: Přineste profesoru Černovovi tři artefakty z armádních skladů</text>
 </string>
 <string id="ah_chernov_quest1_desc">
     <text>Potřebuji najít tři různé artefakty a přinést je profesoru Černovovi. Bude to skutečná zkouška dovednosti, protože Armádní sklady jsou nebezpečnou oblastí.</text>
@@ -318,7 +318,7 @@
     <text>Jeden ze vzorků se nachází v anomálii Masher.</text>
 </string>
 <string id="ah_mil_o1_title">
-    <text>Najdi vzorek v jižní anomálii Pekelné stěny</text>
+    <text>Najděte vzorek v jižní anomálii Pekelné stěny</text>
 </string>
 <string id="ah_mil_o1_desc">
     <text>Silná anomálie, která vyzářuje silné teplo a je poseta hořícími minami. Měl bych se z ní dostat co nejrychleji, jakmile získám vzorek.</text>
@@ -326,7 +326,7 @@
 
     
    <string id="ah_chernov_quest3_title">
-    <text>Výzkumníci: Přineste Černovovi stalkerovo PDA a dva vzorky z Rudého lesa</text>
+    <text>Průzkumníci: Přineste Černovovi stalkerovo PDA a dva vzorky z Rudého lesa</text>
 </string>
 <string id="ah_chernov_quest3_desc">
     <text>Profesor Černov pověřil konkrétního stalkera zmapováním anomalii v Rudém lese. Mapu dokončil, ale musel z oblasti uprchnout dříve, než mohl data vrátit. Mám najít jeho kapesní počítač, který zůstal někde v tunelech u mostu do Limanského.</text>
@@ -357,14 +357,14 @@
 </string>
 
 <string id="ah_chernov_quest4_title">
-    <text>Výzkumníci: Najdi umělý artefakt</text>
+    <text>Průzkumníci: Najdi umělý artefakt</text>
 </string>
 <string id="ah_chernov_quest4_desc">
     <text>Podle Černova se jemu a jeho kolegovi podařilo uměle vytvořit artefakt, a to ještě před katastrofou. Měl bych se vydat do domu jeho bývalého kolegy a zjistit, zda tam artefakt stále je. U jeho domu je nyní anomální pole, což asi není náhoda. Měl bych být opatrný.</text>
 </string>
 
 <string id="ah_chernov_quest5_title">
-    <text>Výzkumníci: Navštiv laboratoř X-19</text>
+    <text>Průzkumníci: Navštiv laboratoř X-19</text>
 </string>
 <string id="ah_chernov_quest5_desc">
     <text>Laboratoř X-19, známá také jako "Bunkr", se zřejmě zabývala vytvářením umělých artefaktů. Laboratoř je nyní zničena, ale možná se mi podaří najít nějaké zbytky dokumentu. Mohly by nám právě prozradit, kde tyto "farmy artefaktů" najít.</text>
@@ -453,7 +453,7 @@
 </string>
 
 <string id="ah_juk_quest3_title">
-    <text>Výzkumníci: Najdi čtyři anomální vzorky v Pripyati a na předměstí</text>
+    <text>Průzkumníci: Najdi čtyři anomální vzorky v Pripyati a na předměstí</text>
 </string>
 <string id="ah_juk_quest3_desc">
     <text>Město Pripjat je pro vědce prakticky neprůchodné kvůli přítomnosti Monolitu. Pro dokončení jejich výzkumu jsou však nezbytné vzorky z anomálií ve městě. Musím je najít.</text>
@@ -554,7 +554,7 @@
     
 
     <string id="cs_story_task0_name">
-    <text>Poslední rozbřesk: Dones skener zpět do základny</text>
+    <text>Poslední rozbřesk: Dones skener do zpět základny</text>
 </string>
 <string id="cs_story_task0_name1">
     <text>Poslední rozbřesk: Získej skener z anomálie v jihozápadním rohu bažin</text>

@@ -85,13 +85,13 @@
 
 	<!-- MCM -->
 <string id="ui_mcm_menu_wpo">
-    <text>Nastavení Weapon Parts Overhaul</text>
+    <text>Nastavení WPO</text>
 </string>
 <string id="ui_mcm_wpo_title">
     <text>Revize souèástí zbraní</text>
 </string>
 <string id="ui_mcm_wpo_wpojam">
-    <text>Nastavení zaseknutí zbranì</text>
+    <text>Možnosti zaseknutí zbranì</text>
 </string>
 <string id="ui_mcm_wpo_wpoecon">
     <text>Ekonomické možnosti</text>
@@ -103,7 +103,7 @@
     <text>Zaseknutí zbranì</text>
 </string>
 <string id="ui_mcm_menu_wpoecon">
-    <text>Ekonomika</text>
+    <text>WPO Ekonomika</text>
 </string>
 <string id="ui_mcm_menu_wpomisc">
     <text>Rùzné</text>
@@ -351,40 +351,40 @@
     <text>úèinnost èištìní se sníží na polovinu pod hranicí: </text>
 </string>
 <string id="st_damage_missing">
-    <text>chybìjící</text>
+    <text>Chybìjící</text>
 </string>
 <string id="st_damage_0">
-    <text>rozbitý</text>
+    <text>Znièeno :</text>
 </string>
 <string id="st_damage_1">
-    <text>poškozený</text>
+    <text>Poškozeno :</text>
 </string>
 <string id="st_damage_2">
-    <text>opotøebovaný</text>
+    <text>Opotøebovano :</text>
 </string>
 <string id="st_damage_3">
-    <text>špinavý</text>
+    <text>Zašpinìno :</text>
 </string>
 <string id="st_damage_4">
-    <text>funkèní</text>
+    <text>Funkèní :</text>
 </string>
 <string id="st_damage_5">
-    <text>funkèní</text>
+    <text>Nové :</text>
 </string>
 <string id="st_wpo_replace_parts">
-    <text>udržba souèástek</text>
+    <text>Udržba souèástek</text>
 </string>
 <string id="st_wpo_repair">
-    <text>opravit 25% stavu na </text>
+    <text>Opravit 25% stavu na </text>
 </string>
 <string id="st_wpo_replace">
-    <text>vymìnit </text>
+    <text>Vymìnit </text>
 </string>
 <string id="st_wpo_clean">
-    <text>vyèistit</text>
+    <text>Vyèistit</text>
 </string>
 <string id="st_wpo_remove">
-    <text>odstranit</text>
+    <text>Odebrat</text>
 </string>
 
 		<string id="st_name_trigger">

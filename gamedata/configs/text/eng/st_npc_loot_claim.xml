@@ -2,22 +2,22 @@
 <string_table>
 
 <string id="st_npc_loot_claim_warn_1">
-	<text>Ta koøist je moje! Couvej!</text>
+	<text>Ta koøist je moje! Odpal!</text>
 </string>
 <string id="st_npc_loot_claim_warn_2">
-	<text>Hej, ta koøist je mùj! Odejdi od nìj!</text>
+	<text>Hej, ta koøist je moje! Odejdi od ní!</text>
 </string>
 <string id="st_npc_loot_claim_warn_3">
 	<text>Vypadni od toho, ta koøist je moje vole!</text>
 </string>
 <string id="st_npc_loot_claim_warn_4">
-	<text>Nepøipadá v úvahu, e bys do toho šel, vìci toho tıpka jsou moje.</text>
+	<text>Nepøipadá v úvahu, e bys ses podival co má, vìci toho tıpka jsou moje.</text>
 </string>
 <string id="st_npc_loot_claim_warn_5">
-	<text>Ruce pryè, ta koøist je moje.</text>
+	<text>Ruce pryè, to je moje koøist.</text>
 </string>
 <string id="st_npc_loot_claim_warn_6">
-	<text>Vìci toho chlápka patøí nám! Nech toho bıt.</text>
+	<text>Vìci toho chlápka patøí nám! Nech to bıt.</text>
 </string>
 
 <string id="st_npc_loot_claim_last_1">
@@ -40,20 +40,20 @@
 	<text>Varovali jsme tì! Nedovolíme ti ukrást nìco od nás!</text>
 </string>
 <string id="st_npc_loot_claim_attack_2">
-	<text>Snaí se ukrást náší koøist! Otevøít palbu!</text>
+	<text>Snaí se ukrást náší koøist! Rozmrdejte ho!</text>
 </string>
 <string id="st_npc_loot_claim_attack_3">
-	<text>Hej, snaí se vzít nám vìci! Chyt ho!</text>
+	<text>Hej, snaí se vzít naše vìci! Chy ho!</text>
 </string>
 <string id="st_npc_loot_claim_attack_4">
-	<text>Vystøelte na toho lupièe!</text>
+	<text>Støílejte na toho proradného lapku!</text>
 </string>
 <string id="st_npc_loot_claim_attack_5">
-	<text>Nepustíme tì, abys nám kradl a unikal s tím!</text>
+	<text>Nepustíme tì, abys nám kradl a utekl!</text>
 </string>
 
 <string id="st_npc_loot_claim_far">
-	<text>Na tomto mrtvém tìle jsi nenalezl nic uiteèného.</text>
+	<text>Nenašel jsi nic uiteèného.</text>
 </string>
 	
 

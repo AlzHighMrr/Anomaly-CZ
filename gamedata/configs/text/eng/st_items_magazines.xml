@@ -30,25 +30,25 @@
 	<!-- MCM -->
 	
 <string id="ui_mcm_menu_magazines">
-  <text>Nastavení Zásobníkù</text>
+  <text>[Nastavení] Zásobníky</text>
 </string>
 <string id="ui_mcm_menu_mgmt">
-  <text>Nastavení Zásobníkù</text>
+  <text>Obecné</text>
 </string>
 <string id="ui_mcm_menu_hud">
-  <text>Zobrazení Zásobníkù</text>
+  <text>Zobrazení HUD</text>
 </string>
 <string id="ui_mcm_menu_gameplay">
-  <text>Možnosti Hry</text>
+  <text>Gameplay</text>
 </string>
 <string id="ui_mcm_magazines_mgmtitle">
-  <text>Nastavení Zásobníkù</text>
+  <text>Obecné možnosti</text>
 </string>
 <string id="ui_mcm_magazines_hudtitle">
   <text>Možnosti Zobrazení</text>
 </string>
 <string id="ui_mcm_magazines_gametitle">
-  <text>Možnosti Hry</text>
+  <text>Možnosti Gameplaye</text>
 </string>
 <string id="ui_mcm_magazines_mgmt_mag_loadtime_factor">
   <text>Faktor doby nabijení</text>
@@ -63,13 +63,13 @@
   <text>Násobitel doby vybijení kulky</text>
 </string>
 <string id="ui_mcm_magazines_mgmt_mag_tooltip">
-  <text>Informace o Zásobníku</text>
+  <text>Informace o poètu nábojù</text>
 </string>
 <string id="ui_mcm_lst_topround">
-  <text>Pouze Horní Kulka</text>
+  <text>Pouze vrchní kulka</text>
 </string>
 <string id="ui_mcm_lst_trcap">
-  <text>Horní Kulka + Pøesná Kapacita</text>
+  <text>Vrchní kulka + Pøesná kapacita</text>
 </string>
 <string id="ui_mcm_lst_full">
   <text>Kompletní Informace</text>
@@ -152,7 +152,7 @@
   <text>Seskupit podle Munice</text>
 </string>
 <string id="ui_mcm_magazines_hud_group_by_ammo_desc">
-  <text>Pokud je povoleno, zásobníky budou rozdìleny do skupin podle horní kulky.</text>
+  <text>Pokud je povoleno, zásobníky budou rozdìleny do skupin podle vrchní kulky.</text>
 </string>
 <string id="ui_mcm_magazines_hud_show_hud">
   <text>Povolit Zobrazení Zásobníku</text>
@@ -231,7 +231,7 @@
 </string>
 
 <string id="ui_mcm_lst_loadout">
-  <text>Dát do výstroje</text>
+  <text>Pøidat do výstroje</text>
 </string>
 
 <string id="ui_mcm_magazines_gameplay_mag_unequip_trs">
@@ -308,7 +308,7 @@
     <text>Velikost zásobníku:</text>
 </string>
 <string id="st_mag_size_small">
-    <text>malý</text>
+    <text>menší</text>
 </string>
 <string id="st_mag_size_medium">
     <text>støední</text>
@@ -318,7 +318,7 @@
 </string>
 
 <string id="st_mag_loaded">
-    <text>Nabitý zásobník:</text>
+    <text>Zásobník ve zbrani:</text>
 </string>
 <string id="st_mag_loaded_none">
     <text>VAROVÁNÍ: Není nabitý žádný zásobník</text>
@@ -336,7 +336,7 @@
 
 
 	<string id="article_mags">
-    <text>Zásobníky Anomaly</text>
+    <text>Zásobníky</text>
 </string>
 <string id="article_mags_text">
     <text>
@@ -353,7 +353,7 @@
         \n   • Odtud, pokud držíte vhodnou zbraò, pøi nabíjení vaší zbranì se bude využívat zásobník ve vaší výbavì.
         \n   • Mód se pokusí automaticky vybrat zásobník, který a) má nejvìtší velikost a b) má nahoøe náboj shodný s vaším typem munice.
         \n• Zásobníky lze také ruènì vložit a vyjmout. Kliknìte pravým tlaèítkem myši na zbraò, abyste našli možnost vytáhnout zásobník.
-        \n• Kolo s municí lze použít k výmìnì zásobníkù. Zásobníky jsou kategorizovány podle horního náboje.\n\n
+        \n• Kolo s municí lze použít k výmìnì zásobníkù. Zásobníky jsou kategorizovány podle vrchního náboje.\n\n
 
         %c[pda_green]II. Kde najít zásobníky%c[ui_gray_1]\n
         \n• Obchodníci, kteøí prodávají zbranì, budou prodávat také zásobníky. Zásobníky mohou být také prodávány jim za nemnoho penìz.

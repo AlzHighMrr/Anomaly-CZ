@@ -445,10 +445,10 @@
 	<text>Základní intenzita sluneèních paprskù</text>
 </string>
 <string id="ui_mm_video_advanced_ssao_mode">
-	<text>Režim SSAO</text>
+	<text>Režim SSAO (Nezapínat dùvod : Øízeno addonem SSS)</text>
 </string>
 <string id="ui_mm_video_advanced_ssao">
-	<text>SSAO kvalita</text>
+	<text>SSAO kvalita (Nezapínat dùvod : Øízeno addonem SSS)</text>
 </string>
 <string id="ui_mm_video_advanced_volumetric_lights">
 	<text>Volumetrické svìtlo</text>

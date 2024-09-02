@@ -38,7 +38,7 @@
 		%c[d_cyan] - %c[ui_gray_2] zvyšuje kapacitu energie o 200 %\n
 		%c[d_cyan] - %c[ui_gray_2] snižuje spotøebu energie o 80 %\n
 		%c[d_cyan] - %c[ui_gray_2] pasivnì regeneruje energii, když stojí na místì\n
-		%c[d_orange] - %c[ui_gray_2] dvojím stisknutím na $$ACTION_SPRINT_TOGGLE$$ spustí elektro-novu\n
+		%c[d_orange] - %c[ui_gray_2] Stisknutím "P" spustíš elektro-novu\n
 		%c[d_orange] - %c[ui_gray_2] Pro použití pøetáhnìte na exoskeleton.\n
 		</text>
 	</string>
@@ -51,7 +51,7 @@
 		%c[0,255,255,255]VLASTNOSTI:\n
 		%c[d_cyan] - %c[ui_gray_2] zvyšuje kapacitu energie o 100 %\n
 		%c[d_cyan] - %c[ui_gray_2] snižuje spotøebu energie o 30 %\n
-		%c[d_orange] - %c[ui_gray_2] dvojím stisknutím na $$ACTION_SPRINT_TOGGLE$$ pro snížení poškození\n
+		%c[d_orange] - %c[ui_gray_2] Stiskni "P" pro snížení poškození\n
 		%c[0,255,255,255]- %c[ui_gray_2]20 nákladù na energii, trvání 8 sekund, 20 sekund cooldown\n
 		%c[d_orange] - %c[ui_gray_2] Pro použití pøetáhnìte na exoskelet.\n
 		</text>
@@ -66,7 +66,7 @@
 		%c[d_cyan] - %c[ui_gray_2] zvyšuje kapacitu energie o 100 %\n
 		%c[d_cyan] - %c[ui_gray_2] snižuje spotøebu energie o 30 %\n
 		%c[d_cyan] - %c[ui_gray_2] mírní spotøebu elektrické energie\n
-		%c[d_orange] - %c[ui_gray_2] dvojím stisknutím na  $$ACTION_SPRINT_TOGGLE$$ pro zvýšení rychlosti\n
+		%c[d_orange] - %c[ui_gray_2] Stiskni klávesu "P" pro zvýšení rychlosti\n
 		%c[d_cyan] - %c[ui_gray_2] sprint do nepøátel pro zpùsobení poškození\n
 		%c[0,255,255,255]- %c[ui_gray_2]20 energie, 8 sekund trvání, 20 sekund cooldown\n
 		%c[d_orange] - %c[ui_gray_2] Pro použití pøetáhnìte na exoskeleton.

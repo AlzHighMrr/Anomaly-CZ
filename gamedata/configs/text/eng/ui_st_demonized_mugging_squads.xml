@@ -4,38 +4,39 @@
     Generated with AnomalyModCreator
 -->
 
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 
 <!-- 
 	MCM
 -->
 <string_table>
 
-	<string id="ui_mcm_demonized_mugging_squads_title">
-		<text>Mugging Squads</text>
-	</string>
-	<string id="ui_mcm_menu_demonized_mugging_squads">
-		<text>Mugging Squads</text>
-	</string>
+<string id="ui_mcm_demonized_mugging_squads_title">
+    <text>Skupiny lupiищ</text>
+</string>
+<string id="ui_mcm_menu_demonized_mugging_squads">
+    <text>Skupiny lupiищ</text>
+</string>
 
-	<string id="ui_mcm_demonized_mugging_squads_delayBetweenSpawns">
-		<text>Delay Between Spawns</text>
-	</string>
-	<string id="ui_mcm_demonized_mugging_squads_spawnDistance">
-		<text>Minimum Spawn Distance</text>
-	</string>
-	<string id="ui_mcm_demonized_mugging_squads_safeSmartDistance">
-		<text>Safe Zone Distance</text>
-	</string>
-	<string id="ui_mcm_demonized_mugging_squads_allowSameSquads">
-		<text>Allow Mugging Squads Of Same Factions</text>
-	</string>
-	<string id="ui_mcm_demonized_mugging_squads_allowFriendlySquads">
-		<text>Allow Mugging Squads Of Friendly Factions</text>
-	</string>
-	<string id="ui_mcm_demonized_mugging_squads_factions">
-		<text>Allowed Factions</text>
-	</string>
+<string id="ui_mcm_demonized_mugging_squads_delayBetweenSpawns">
+    <text>Prodleva mezi vэskytem</text>
+</string>
+<string id="ui_mcm_demonized_mugging_squads_spawnDistance">
+    <text>Minimбlnн vzdбlenost vэskytu</text>
+</string>
+<string id="ui_mcm_demonized_mugging_squads_safeSmartDistance">
+    <text>Vzdбlenost bezpeиnй zуny</text>
+</string>
+<string id="ui_mcm_demonized_mugging_squads_allowSameSquads">
+    <text>Povolit skupiny lupiищ stejnэch frakcн</text>
+</string>
+<string id="ui_mcm_demonized_mugging_squads_allowFriendlySquads">
+    <text>Povolit skupiny lupiищ pшбtelskэch frakcн</text>
+</string>
+<string id="ui_mcm_demonized_mugging_squads_factions">
+    <text>Povolenй frakce</text>
+</string>
+
 
 </string_table>
                         

@@ -54,7 +54,7 @@
 	</string>
 	<string id="give_task_kill_pack_dogs_1_descr">
 		<text>Musím získat balíèek ztracený díky smeèce psù. Mìl by být ve Velké bažinì, poblíž staré staveništì. 
-		Kurýr se dostal kolem èerpací stanice a pokraèoval s vesnicí s vodárenskou vìží nalevo a strojový dvùr mìl napravo, kterou nìkdy používá obèas použivá armáda.</text>
+		Kurýr se dostal kolem èerpací stanice a pokraèoval s vesnicí s vodárenskou vìží nalevo a vesnicí napravo, kterou nìkdy používá obèas použivá armáda.</text>
 	</string>
 	<string id="give_task_kill_pack_dogs_2_descr">
 		<text>Nalezl jsem balíèek. Mìl bych ho pøinést Profesorovi Vybegallovi v Agropromu, nìkde v opuštené továrnì.</text>
@@ -280,10 +280,10 @@
 		<text>Výkøik o pomoc</text>
 	</string>
 	<string id="give_alyosha_shyogolov_trouble_1_1_descr">
-		<text>Ekolog jménem "Alyosha Shyogolov" je obklíèen Snorky ve vlakovém tunelu Agropromu poblíž cesty na Smetištì. Volá o pomoc.</text>
+		<text>Ekolog jménem "Alyosha Shyogolov" je obklíèen Snorky v tunelu Agropromského nádraží. Volá o pomoc.</text>
 	</string>	
 	<string id="give_alyosha_shyogolov_trouble_1_2_descr">
-		<text>Doprovoï Alyosha Shyogolova do továrny v Agropromu.</text>
+		<text>Doprovodit Alyosha Shyogolova do továrny v Agropromu.</text>
 	</string>
 	<string id="give_alyosha_shyogolov_trouble_1_3_descr">
 		<text>Øekni Alyoshovi Shyogolovovi, že jsi dorazil.</text>

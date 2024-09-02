@@ -2,10 +2,10 @@
 
 <string_table>
 <string id="ui_mcm_menu_ballistics">
-	<text>Nastavení Balistiky</text>
+	<text>Anomaly Balistics</text>
 </string>
 <string id="ui_mcm_ballistics_title">
-	<text>Balistika</text>
+	<text>Nastavení balistiky</text>
 </string>
 
 <string id="ui_mcm_ballistics_debug">

@@ -3,7 +3,7 @@
 <string_table>
 
 <string id="st_pba_sacrifice">
-	<text>obìtování</text>
+	<text>obìtovat</text>
 </string>
 
 <string id="st_pba_transmutate">
@@ -11,7 +11,7 @@
 </string>
 
 <string id="st_pba_engage">
-	<text>zapojit se</text>
+	<text>pøidat do slotu</text>
 </string>
 
 <string id="st_pba_teleport_choose">

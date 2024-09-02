@@ -426,7 +426,7 @@
 </string>
 
 <string id="western_goods_oleksandr_chernenko_meet_3">
-    <text>Už nejsem voják. Vojsku to pøece**tìj! Jsme jen dìlostøelecká munice pro jejich oèi... Mùj bratr a já jsme se nikdy nemìli zavazovat do tohohle bordelu.</text>
+    <text>Už nejsem voják. Vojsku jebe! Jsme jen dìlostøelecká munice pro jejich oèi... Mùj bratr a já jsme se nikdy nemìli zavazovat do tohohle bordelu.</text>
 </string>
 
 <string id="western_goods_oleksandr_chernenko_meet_3_army">
@@ -438,7 +438,7 @@
 </string>
 
 <string id="western_goods_oleksandr_chernenko_meet_5">
-    <text>Jsem tady, abych zastupoval Dushmanovy zájmy na Bleším trhu. Snažím se držet nízký profil, proto zùstávám v tomto sklepì. Lidé tady Mercs zrovna nemusí. Aèkoliv jsem zatím nemìl pøíliš potíží.</text>
+    <text>Jsem tady, abych zastupoval Dushmanovy zájmy na Bleším trhu. Snažím se držet nízký profil, proto zùstávám v tomto sklepì. Lidé tady Žoldáky zrovna nemusí. Aèkoliv jsem zatím nemìl pøíliš potíží.</text>
 </string>
 
 <string id="western_goods_oleksandr_chernenko_meet_6">
@@ -701,7 +701,7 @@
 	<!-- ============================================================================================================-->
 
 	<string id="st_wg_flea_ask_offer">
-    <text>Máte nìjaké nabídky?</text>
+    <text>Máš nìjaké nabídky?</text>
 </string>
 
 <string id="st_wg_flea_offer">
@@ -709,15 +709,15 @@
 </string>
 
 <string id="st_wg_flea_offer_end_0">
-    <text>Co øíkáte?</text>
+    <text>Co øíkáš?</text>
 </string>
 
 <string id="st_wg_flea_offer_end_1">
-    <text>Berete?</text>
+    <text>Bereš?</text>
 </string>
 
 <string id="st_wg_flea_offer_end_2">
-    <text>Zajímá vás to?</text>
+    <text>Zajímá tì to?</text>
 </string>
 
 <string id="st_wg_flea_offer_end_3">
@@ -761,7 +761,7 @@
 </string>
 
 <string id="st_wg_flea_offer_buy_end_3">
-    <text>Tady máte.</text>
+    <text>Tady máš.</text>
 </string>
 
 <string id="st_wg_flea_offer_buy_end_4">
@@ -769,20 +769,20 @@
 </string>
 
 <string id="st_wg_flea_next_offer">
-    <text>Máte ještì nìco dalšího?</text>
+    <text>Máš ještì nìco dalšího?</text>
 </string>
 
 <string id="st_wg_flea_poor_next_offer_0">
-    <text>Nemám dost penìz, máte nìco jiného?</text>
+    <text>Nemám dost penìz, máš nìco jiného?</text>
 </string>
 
 <string id="st_wg_flea_poor_next_offer_1">
-    <text>Omlouvám se, nemám tu èástku. Máte nìco jiného?</text>
+    <text>Omlouvám se, nemám tu èástku. Máš nìco jiného?</text>
 </string>
 
 
 <string id="st_wg_flea_poor_next_offer_2">
-    <text>To si nemohu dovolit, máte nìco jiného?</text>
+    <text>To si nemohu dovolit, máš nìco jiného?</text>
 </string>
 
 	<string id="st_wg_flea_cancel">

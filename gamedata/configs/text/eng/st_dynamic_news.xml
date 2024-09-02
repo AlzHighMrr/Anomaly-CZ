@@ -241,10 +241,10 @@
 		<text>Na nás zaútoèilo nìkolik Kontrolérù</text>
 	</string>
 	<string id="st_dyn_news_controller_5">
-		<text>Narazili jsme na skupinu Kontrolérù</text>
+		<text>Narazili jsme na skupinu Kontrolorù</text>
 	</string>
 	<string id="st_dyn_news_controller_6">
-		<text>Kontroléøi</text>
+		<text>Skupina Kontrolerù</text>
 	</string>
 	<string id="st_dyn_news_controller_7">
 		<text>Kontrolerù</text>
@@ -254,44 +254,44 @@
 		<text>Poltergeist</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_2">
-		<text>Napadl nás Poltergeist</text>
+		<text>Napadl nás poltergeist</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_3">
-		<text>Narazili jsme na Poltergeista</text>
+		<text>Narazili jsme na poltergeista</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_4">
-		<text>Napadl nás Poltergeist</text>
+		<text>Napadl nás poltergeist</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_5">
-		<text>Narazili jsme na Poltergeista</text>
+		<text>Narazili jsme na poltergeisty</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_6">
-		<text>Poltergeisti</text>
+		<text>pár poltergeistù</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_7">
-		<text>Poltergeistù</text>
+		<text>poltergeistù</text>
 	</string>
 
 	<string id="st_dyn_news_gigant_1">
 		<text>Pseudogigant</text>
 	</string>
 	<string id="st_dyn_news_gigant_2">
-		<text>Napadl nás Pseudogigant</text>
+		<text>Napadl nás pseudogigant</text>
 	</string>
 	<string id="st_dyn_news_gigant_3">
-		<text>Narazili jsme na Pseudogiganta</text>
+		<text>Narazili jsme na pseudogiganta</text>
 	</string>
 	<string id="st_dyn_news_gigant_4">
-		<text>Napadli nás Pseudogiganti</text>
+		<text>Napadli nás pseudogiganti</text>
 	</string>
 	<string id="st_dyn_news_gigant_5">
-		<text>Napadli nás Pseudogiganti</text>
+		<text>Napadli nás pseudogiganti</text>
 	</string>
 	<string id="st_dyn_news_gigant_6">
-		<text>pár Pseudogigantù</text>
+		<text>pár pseudogigantù</text>
 	</string>
 	<string id="st_dyn_news_gigant_7">
-		<text>Pseudogiganti</text>
+		<text>pseudogiganti</text>
 	</string>
 
 	<string id="st_dyn_news_karlik_1">
@@ -304,7 +304,7 @@
 		<text>Narazili jsme na Karlika</text>
 	</string>
 	<string id="st_dyn_news_karlik_4">
-		<text>Napadli nás Karlíci</text>
+		<text>Napadli nás Karlikové</text>
 	</string>
 	<string id="st_dyn_news_karlik_5">
 		<text>Napadli nás Karlikové</text>
@@ -473,7 +473,7 @@
 	</string>
 
 	<string id="st_dyn_news_rat_1">
-		<text>Potkan</text>
+		<text>potkan</text>
 	</string>
 	<string id="st_dyn_news_rat_2">
 		<text>Napadly nás krysy</text>
@@ -713,7 +713,7 @@
 		<text>nìkteøí vìdci</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_10">
-		<text>Vìdci</text>
+		<text>hlavní vìdci</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_11">
 		<text>Pomoc! Pomozte nám nìkdo, prosím!</text>
@@ -730,7 +730,7 @@
 
 	
 	<string id="st_dyn_news_comm_csky_1">
-       <text>stalker Jasné oblohy </text>
+<text>stalker Jasné oblohy </text>
 	</string>
 	<string id="st_dyn_news_comm_csky_2">
 		<text>chlap z Jasné oblohy</text>
@@ -739,7 +739,7 @@
 		<text>jeden z klukù z Jasné oblohy</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_4">
-		<text>nìjakı chlápek z Jasné oblohy</text>
+		<text>nìjakı chlapík z Jasné oblohy</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_5">
 		<text>Jasná obloha</text>
@@ -757,7 +757,7 @@
 		<text>Jasná obloha</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_10">
-    <text>Stalkeøi z Jasné oblohy</text>
+<text>Stalkeøi z Jasné oblohy</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_11">
 		<text>Pomozte nám!</text>
@@ -774,16 +774,16 @@
 
 	
 	<string id="st_dyn_news_comm_army_1">
-		<text>Voják</text>
+		<text>voják</text>
 	</string>
 	<string id="st_dyn_news_comm_army_2">
 		<text>Vojáka</text>
 	</string>
 	<string id="st_dyn_news_comm_army_3">
-		<text>nìjakı Voják</text>
+		<text>nìjakı voják</text>
 	</string>
 	<string id="st_dyn_news_comm_army_4">
-		<text>nìjakı Voják</text>
+		<text>nìjakı voják</text>
 	</string>
 	<string id="st_dyn_news_comm_army_5">
 		<text>Armáda</text>
@@ -792,13 +792,13 @@
 		<text>Armáda</text>
 	</string>
 	<string id="st_dyn_news_comm_army_7">
-		<text>Vojákù</text>
+		<text>vojákù</text>
 	</string>
 	<string id="st_dyn_news_comm_army_8">
 		<text>Spetsnaz</text>
 	</string>
 	<string id="st_dyn_news_comm_army_9">
-		<text>Vojákù</text>
+		<text>vojákù</text>
 	</string>
 	<string id="st_dyn_news_comm_army_10">
 		<text>Armáda</text>
@@ -817,16 +817,16 @@
 	</string>
 	
 	<string id="st_dyn_news_comm_killer_1">
-		<text>oldák</text>
+		<text>oldák</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_2">
-		<text>jeden z oldákù</text>
+		<text>jeden z oldákù</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_3">
-		<text>nìjakı oldák</text>
+		<text>nìjakı oldák</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_4">
-		<text>jeden z tìch oldákù</text>
+		<text>jeden z tìch oldákù</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_5">
 		<text>oldák</text>
@@ -841,10 +841,10 @@
 		<text>oldáky</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_9">
-		<text>oldáci</text>
+		<text>nìkteøí oldáci</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_10">
-		<text>oldáci</text>
+		<text>oldáci</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_11">
 		<text>Doadujeme se zálohy!</text>
@@ -860,34 +860,34 @@
 	</string>
 
 	<string id="st_dyn_news_comm_stalker_1">
-		<text>Stalker</text>
+		<text>stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_2">
 		<text>Samotáøe</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_3">
-		<text>nìjakıho Stalkera</text>
+		<text>nìjakıho stalkera</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_4">
-		<text>nìjakıho Samotáøe</text>
+		<text>nìjakıho samotáøe</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_5">
-		<text>Stalker</text>
+		<text>stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_6">
 		<text>Samotáø</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_7">
-		<text>Stalker</text>
+		<text>stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_8">
 		<text>Samotáøi</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_9">
-		<text>nìkteøí Stalkeøi</text>
+		<text>nìkteøí stalkeøi</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_10">
-		<text>Stalkerù</text>
+		<text>stalkerù</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_11">
 		<text>Chlapi, potøebujeme pomoc!</text>
@@ -902,38 +902,35 @@
 		<text>Bratøi, pomozte!</text>
 	</string>
 	
-
-
-
 	<string id="st_dyn_news_comm_zombied_1">
-		<text>Zombie</text>
+		<text>zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_2">
-		<text>nìjakej Zombik</text>
+		<text>nìjakej zombik</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_3">
-		<text>nìjaká Zombie</text>
+		<text>nìjaká zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_4">
-		<text>nìjaká Zombie</text>
+		<text>nìjaká zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_5">
-		<text>Zombie</text>
+		<text>zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_6">
-		<text>Zombie</text>
+		<text>zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_7">
-		<text>Zombie</text>
+		<text>zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_8">
-		<text>Zombie</text>
+		<text>zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_9">
-		<text>nìjaké Zombie</text>
+		<text>nìjaké zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_10">
-		<text>Zombie</text>
+		<text>zombie</text>
 	</string>
 	<string id="st_dyn_news_comm_zombied_11">
 		<text>Uuuuhh!</text>
@@ -953,7 +950,7 @@
 		<text>Svoboïáka</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_2">
-		<text>Chlápek ze Svobody</text>
+		<text>èlovìk ze Svobody</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_3">
 		<text>nìjakej chlápek ze Svobody</text>
@@ -993,37 +990,37 @@
 	</string>
 	
 	<string id="st_dyn_news_comm_renegade_1">
-    <text>Odpadlík</text>
+<text>Odpadlík</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_2">
-    <text>jeden z Odpadlíkù</text>
+<text>jeden z tìch odpadlíkù</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_3">
 		<text>jeden z tìch zloèincù</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_4">
-    <text>nìjakı Odpadlík</text>
+<text>nìjakı odpalík</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_5">
-		<text>Odpadlík</text>
+		<text>odpadlík</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_6">
-     <text>Odpadlík</text>
+<text>Odpadlík</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_7">
-		<text>Odpadlíci</text>
+		<text>odpadlíci</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_8">
-		<text>Odpadlíci</text>
+		<text>Zlodìji</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_9">
-		<text>Odpadlíci</text>
+		<text>nìkteøí odpadlíci</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_10">
-		<text>Odpadlíci</text>
+		<text>zlodìji</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_11">
-		<text>Prosím, pomozte nám!</text>
+		<text>Jo, pomozte nám!</text>
 	</string>
 	<string id="st_dyn_news_comm_renegade_12">
 		<text>Potøebujeme nìjakou zasranou pomoc!</text>
@@ -1042,7 +1039,7 @@
 		<text>temnı stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_3">
-    <text>èlen Høíchu</text>
+<text>èlen Høíchu</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_4">
 		<text>nìjakı Høíšník</text>
@@ -1063,7 +1060,7 @@
 		<text>nìkteøí fanatici</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_10">
-		<text>Høích</text>
+		<text>hríšnici</text>
 	</string>
 	<string id="st_dyn_news_comm_greh_11">
 		<text>Nevìøící jsou pøíliš silní!</text>
@@ -1233,7 +1230,7 @@
 		<text>zabít</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_1_7">
-		<text>zabil</text>
+		<text>dunk</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_1_8">
 		<text>støílel</text>
@@ -1257,10 +1254,10 @@
 		<text>zabít</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_2_7">
-		<text>zabil</text>
+		<text>dunk</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_2_8">
-		<text>zabil</text>
+		<text>slam</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_1">
 		<text>Støelné zranìní</text>
@@ -1281,14 +1278,11 @@
 		<text>zabít</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_7">
-		<text>zabil</text>
+		<text>dunk</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_8">
-		<text>zabil</text>
+		<text>slam</text>
 	</string>
-
-
-
 
 	<string id="st_dyn_news_wpn_cls_4_1">
 		<text>Støelná poranìní</text>
@@ -1309,10 +1303,10 @@
 		<text>zabít</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_4_7">
-		<text>støelba</text>
+		<text>dunk</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_4_8">
-		<text>støelba</text>
+		<text>slam</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_5_1">
 		<text>Støelné zranìní</text>
@@ -1333,7 +1327,7 @@
 		<text>zabít</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_5_7">
-		<text>støelba</text>
+		<text>dunk</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_5_8">
 		<text>rozsekat na sraèky</text>
@@ -1375,7 +1369,7 @@
 		<text>vyhodit do vzduchu</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_7_5">
-		<text>vyhodit do vzduchu</text>
+		<text>vyjebal do vzduchu</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_7_6">
 		<text>vyhodit do vzduchu</text>
@@ -1384,7 +1378,7 @@
 		<text>bodnout</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_7_8">
-		<text>seknout</text>
+		<text>usekat</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_8_1">
 		<text>Støepinové zranìní</text>
@@ -1410,9 +1404,6 @@
 	<string id="st_dyn_news_wpn_cls_8_8">
 		<text>usekal</text>
 	</string>
-
-
-
 
 	<!-- direction -->
 	<string id="st_dyn_news_near">
@@ -1596,7 +1587,7 @@
 		<text>Anomalie Cirkus </text>
 	</string>
 	<string id="st_dyn_zaton_daleko_7">
-    <text>stanici rangerù</text>
+<text>stanici rangerù</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_8">
 		<text>Skadovsku</text>
@@ -1868,7 +1859,7 @@
 		<text>antény</text>
 	</string>
 	<string id="st_dyn_l10_radar_daleko_2">
-		<text>cesty do Pripjati</text>
+		<text>cesty do Pripyati</text>
 	</string>
 	<string id="st_dyn_l10_radar_daleko_3">
 		<text>cesty k armádním skladùm</text>
@@ -2366,7 +2357,7 @@
 		<text>na anténách</text>
 	</string>
 	<string id="st_dyn_l10_radar_blizko_2">
-		<text>na cestì do Pripjati</text>
+		<text>na cestì do Pripyatì</text>
 	</string>
 	<string id="st_dyn_l10_radar_blizko_3">
 		<text>na cestì do armádních skladù</text>
@@ -2849,7 +2840,7 @@
 		<text>Emise</text>
 	</string>
 	<string id="st_dyn_news_surge_type_blowout">
-		<text>Blowout</text>
+		<text>Emise</text>
 	</string>
 	<string id="st_dyn_news_surge_type_psi">
 		<text>Psy-bouøe</text>
@@ -3913,7 +3904,7 @@
 	<text>Pokud potøebujete nìjaké $what, jdìte za $who.</text>
 </string>
 <string id="st_dyn_news_gossip_buy_17">
-	<text>$who, ty lakomèe... Dobøe! Tady jsou tvoje prachy.</text>
+	<text>$who, ty lakomec... Dobøe! Tady je tvé peníze.</text>
 </string>
 <string id="st_dyn_news_gossip_buy_18">
 	<text>Hele Semjone: pokud ještì hledáš $what, $who je mají.</text>
@@ -4248,19 +4239,19 @@
 	<text>V jeho batohu jsem našel nìjaké dobré vìci.</text>
 </string>
 <string id="st_dyn_news_loot_good_2">
-	<text>Ten parchant má plné kapsy.</text>
+	<text>Ten parchant mìl plné kapsy.</text>
 </string>
 <string id="st_dyn_news_loot_good_3">
-	<text>Teï, kdy je mrtvı, nebude mu vadit, kdy si pùjèím jeho vìci.</text>
+	<text>Teï, kdy je mrtvı, nebude mu vadit, kdy si vypùjèím jeho vìci.</text>
 </string>
 <string id="st_dyn_news_loot_good_4">
-	<text>S tvımi vìcmi u si neporadíš, kamaráde.</text>
+	<text>S tìmi vìcmi u si neporadíš, kamaráde.</text>
 </string>
 <string id="st_dyn_news_loot_good_5">
-	<text>Jeho kapsy byly plné.</text>
+	<text>Jeho kapsy byly fakt plné.</text>
 </string>
 <string id="st_dyn_news_loot_good_6">
-	<text>Není špatné, našel jsem v jeho batohu pìknı shit.</text>
+	<text>To je špatné, našel jsem v jeho batohu akorát pìkné hovna.</text>
 </string>
 <string id="st_dyn_news_loot_good_7">
 	<text>U je mu jeho vıbava zbyteèná, já si ji vezmu.</text>
@@ -4284,10 +4275,10 @@
 	<text>Ach, jaká škoda. Ale pøesto bychom nemìli nechat jeho vìci zbyteènì leet.</text>
 </string>
 <string id="st_dyn_news_loot_good_14">
-	<text>Vzal jsem nìjaké vìci od nìj. Nevím, necítí se to správnì.</text>
+	<text>Vzal jsem od nìj nìjaké vìci. Nevím, necítím e je to správnì.</text>
 </string>
 <string id="st_dyn_news_loot_good_15">
-	<text>Tenhle chlap byl docela dobrı hráè, nìjaké pìkné vybavení na nìm.</text>
+	<text>Tenhle chlap byl nejspíš docela dobrı stalker, takové pìkné vybavení na nìm.</text>
 </string>
 <string id="st_dyn_news_loot_good_16">
 	<text>Není špatné, není špatné. Dìkuji za tvùj pøíspìvek.</text>
@@ -4308,46 +4299,46 @@
 	<text>Tento stalker si vedl dobøe. Nicménì, hezké vìci nás tu venku nezachrání.</text>
 </string>
 <string id="st_dyn_news_loot_good_22">
-	<text>Bohuel. Slibuji ti, e tvé vybavení nepùjde na marne.</text>
+	<text>Bohuel. Slibuji ti, e tvé vybavení nepùjde nazmar.</text>
 </string>
 <string id="st_dyn_news_loot_good_23">
-	<text>Ten chlap byl pravidelnı obchodník! Mìl u sebe nìjaké uiteèné vìci.</text>
+	<text>Ten chlap byl pravidelnı obchodník! Mìl u sebe spoustu uiteènıch vìci.</text>
 </string>
 <string id="st_dyn_news_loot_good_24">
-	<text>Sice trochu roztøíštìné, ale v jeho batohu jsem našel ještì pár dobrıch nalezenin.</text>
+	<text>Sice trochu roztøíštìné, ale v jeho batohu jsem našel ještì pár dobrıch nálezù.</text>
 </string>
 <string id="st_dyn_news_loot_good_25">
-	<text>Kdo øíká, e mrtví nemohou bıt uiteèní? Neuráím.</text>
+	<text>Kdo øíká, e mrtví nemohou bıt uiteèní? Neuráím se.</text>
 </string>
 <string id="st_dyn_news_loot_good_26">
 	<text>Smrt asi tentokrát potkala tohohle chlapa ve šastnı den; moná šel prodat tyhle vìci.</text>
 </string>
 <string id="st_dyn_news_loot_good_27">
-	<text>No, tvoje duše a má klid, ale tvoje vìci jdu s sebou.</text>
+	<text>No, tvoje duše a má klid, ale tvoje vìci si beru s sebou.</text>
 </string>
 <string id="st_dyn_news_loot_good_28">
-	<text>Tohle byl mu s vkusem! Mìl nìjaké skvìlé vìci v kapsách.</text>
+	<text>Tohle byl mu s vkusem! Mìl spoustu skvìlıch vìci v kapsách.</text>
 </string>
 <string id="st_dyn_news_loot_good_29">
-	<text>Upøímnì, omlouvám se – pro tebe je to u konec. Nevadí ti, kdy pouívám tvé vìci.</text>
+	<text>Upøímnì, omlouvám se – ale pro tebe je to u konec. Nebude ti vadit, e budu pouívat tvé vìci.</text>
 </string>
 <string id="st_dyn_news_loot_good_30">
-	<text>ivot u tu není, ale moná mi tvé vybavení pomùe s mım vlastním.</text>
+	<text>ivot u tì opustil, ale moná mi tvé vybavení pomùe s mım vlastním.</text>
 </string>
 <string id="st_dyn_news_loot_good_31">
 	<text>Hej! Dárek! Otøi krev a bude jako novı!</text>
 </string>
 <string id="st_dyn_news_loot_good_32">
-	<text>Co ještì jedna mrtvola v Zónì? Jen odeberu tvé vìci, abys mohl odpoèívat v pokoji.</text>
+	<text>Co ještì jedna mrtvola v Zónì? Jen si vezmu tvé vìci, abys mohl odpoèívat v pokoji.</text>
 </string>
 <string id="st_dyn_news_loot_good_33">
-	<text>Nìco jsem našel na tomhle. Mohlo by se hodit.</text>
+	<text>Nìco jsem našel v téhle mrtvole. Mohlo by se hodit.</text>
 </string>
 <string id="st_dyn_news_loot_good_34">
 	<text>Ach boe, je mrtvı. Nemá smysl nechat jeho vybavení zbyteènì leet...</text>
 </string>
 <string id="st_dyn_news_loot_good_35">
-	<text>Jsem rád, e jsem získal ty vìci, ne je nìjaká mutace vezme.</text>
+	<text>Jsem rád, e jsem získal ty vìci, ne je nìjaká mutace seere.</text>
 </string>
 <string id="st_dyn_news_loot_good_36">
 	<text>Pøi zváení všech vìcí to není tak špatné. Myslím, e tohle budu potøebovat víc ne ty.</text>
@@ -5546,7 +5537,7 @@
 <text>Pøijímáme dobrovolníky na strání slubu pro vızkum. Nabízíme dobrou mzdu a novou masku pro ty, kdo prokáou spolehlivost.</text>
 </string>
 <string id="st_dyn_news_spam_faction_csky_33">
-<text>Pozor všem terénním tımùm: Odpadlíci nastavili zálohy poblí jednoho z anomálních polí. Poèkejte, dokud nedostaneme lepší informace.</text>
+<text>Pozor všem terénním tımùm: zlodìji nastavili zálohy poblí jednoho z anomálních polí. Poèkejte, dokud nedostaneme lepší informace.</text>
 </string>
 <string id="st_dyn_news_spam_faction_csky_34">
 <text>Jasná obloha je ochotno sdílet vısledky vızkumu vımìnou za støelivo. Existuje proces provìøování.</text>
@@ -5929,7 +5920,7 @@
     <text>Co se dìje, Ašote? Nemáš dost odvahy øíct mi to do oèí? Vidím tì teï, jak tikáš na své malé klávesnici s pitomım úsmìvem na tváøi. Zmìkl jsi, chlape.</text>
 </string>
 <string id="st_dyn_news_spam_faction_freedom_39">
-    <text>Ztratili jsme další skupinu poblí Pripjati. Prokletí... Znám nìkteré z tìch klukù. Ké bych vìdìl, co se jim stalo.</text>
+    <text>Ztratili jsme další skupinu poblí Pripyati. Prokletí... Znám nìkteré z tìch klukù. Ké bych vìdìl, co se jim stalo.</text>
 </string>
 <string id="st_dyn_news_spam_faction_freedom_40">
     <text>Je mi jedno, jestli jsi vegán nebo cokoli jiného - musíš bıt pøipraven zastøelit ty radioaktivní bestie venku, take si vezmi pistoli, ok? Odkud sebereme tyhle lidi...</text>
@@ -6045,13 +6036,13 @@
     <text>Zatím ádnı vizuální kontakt s vrtulníkem. Pilot zná mapy anomálií, e? Doufejme, e ano...</text>
 </string>
 <string id="st_dyn_news_spam_faction_killer_37">
-    <text>Toto je vysílání z opìrného bodu v knihkupectví v Pripjati:\nHledáme vımìny støeliva ve velkém objemu, otevøení pro volné stalkery.</text>
+    <text>Toto je vysílání z opìrného bodu v knihkupectví v Pripyati:\nHledáme vımìny støeliva ve velkém objemu, otevøení pro volné stalkery.</text>
 </string>
 <string id="st_dyn_news_spam_faction_killer_38">
-    <text>Toto je vysílání z opìrného bodu v knihkupectví v Pripjati:\nNa trhu hledáme místní mapy anomálií a navigaèní trasy. Nebuïte plachí! Práce pro nás mùe bıt vınosná.</text>
+    <text>Toto je vysílání z opìrného bodu v knihkupectví v Pripyati:\nNa trhu hledáme místní mapy anomálií a navigaèní trasy. Nebuïte plachí! Práce pro nás mùe bıt vınosná.</text>
 </string>
 <string id="st_dyn_news_spam_faction_killer_39">
-    <text>Toto je vysílání z opìrného bodu v knihkupectví v Pripjati:\nToto je pøátelské varování, e jsme zaznamenali pøítomnost jednotek Monolitu, které se skrıvají v nìkterıch budovách. Buïte ve vıše uvedené oblasti extrémnì opatrní.</text>
+    <text>Toto je vysílání z opìrného bodu v knihkupectví v Pripyati:\nToto je pøátelské varování, e jsme zaznamenali pøítomnost jednotek Monolitu, které se skrıvají v nìkterıch budovách. Buïte ve vıše uvedené oblasti extrémnì opatrní.</text>
 </string>
 <string id="st_dyn_news_spam_faction_killer_40">
     <text>Meeker øekl, e to nechal poblí starého nákupního centra a na druhı den tam nebylo. Myslím, e se chytli na návnadu.</text>
@@ -6234,7 +6225,7 @@
 	<text>Skupina se ztratila v oblasti høbitova potopenıch lodí a nemáme s nimi spojení. Jednotky v této oblasti mají pomoci, ne se dostanou do potíí.</text>
 </string>
 <string id="st_dyn_news_spam_faction_monolith_3">
-	<text>Vidìl jsem nìjakou skupinu v našich barvách poblí Pripjati, která se chová nepøátelsky a nedovoluje nikomu se pøiblíit. Nemyslím si, e jsou to obyèejní dezertéøi. Smìøují na jiní èást mìsta.</text>
+	<text>Vidìl jsem nìjakou skupinu v našich barvách poblí Pripyati, která se chová nepøátelsky a nedovoluje nikomu se pøiblíit. Nemyslím si, e jsou to obyèejní dezertéøi. Smìøují na jiní èást mìsta.</text>
 </string>
 <string id="st_dyn_news_spam_faction_monolith_4">
 	<text>Pozor, vojáci z Wings u Generátorù. Instalace je destabilizována. Jdìte do bunkru dle instrukcí a okamitì zaènìte opravovat problém.</text>
@@ -6258,7 +6249,7 @@
 	<text>Všichni nováèci by se mìli okamitì setkat s Mentorem.</text>
 </string>
 <string id="st_dyn_news_spam_faction_monolith_11">
-	<text>Na okrajích Pripjati se oèekává horda zombie. Jednejte.</text>
+	<text>Na okrajích Pripyati se nachází horda zombie. Jednejte.</text>
 </string>
 <string id="st_dyn_news_spam_faction_monolith_12">
 	<text>Ztratili jsme oddíl v Agropromu. Najdìte je, mrtvé nebo ivé.</text>
@@ -6288,10 +6279,10 @@
 	<text>Tady je skupina na stanici. Nám dochází vybavení. Potøebujeme pomoc.</text>
 </string>
 <string id="st_dyn_news_spam_faction_monolith_21">
-	<text>Inkvizitoøi mluví. Budeme vyèišovat pøístupy k Pripjati. Oèi bdìlé a èisté. Pracujeme pomocí poèítaèe.</text>
+	<text>Inkvizitoøi mluví. Budeme vyèišovat pøístupy k Pripyati. Oèi bdìlé a èisté. Pracujeme pomocí poèítaèe.</text>
 </string>
 <string id="st_dyn_news_spam_faction_monolith_22">
-	<text>Hovoøí velitel Barrier. Máme pìt neukøiovanıch dezertérù. Pokud je potkáte v blízkosti Pripjati, otevøete na nì palbu.</text>
+	<text>Hovoøí velitel Barrier. Máme pìt neukøiovanıch dezertérù. Pokud je potkáte v blízkosti Pripyati, otevøete na nì palbu.</text>
 </string>
 <string id="st_dyn_news_spam_faction_monolith_23">
 	<text>Tady Zajíc. Brzy zajistíme novou vızbroj. Mui slíbili, e nìco pøinesou z vojenského zaøízení v Agropromu.</text>
@@ -6346,7 +6337,7 @@
 	<text>Rutinní hlídka mostu v Limansku byla pøerušena nepøátelskou palbou. Budeme èekat na Emisi. Monolit, dej nám vítìzství.</text>
 </string>
 <string id="st_dyn_news_spam_faction_monolith_40">
-	<text>Jeden z našich mrtvol se zdá, e unikl. Vyšlete tımy na sever od okrajù Pripjati a také k øece. Tento by mohl mít informace.</text>
+	<text>Jeden z našich mrtvol se zdá, e unikl. Vyšlete tımy na sever od okrajù Pripyati a také k øece. Tento by mohl mít informace.</text>
 </string>
 	
 <string id="st_dyn_news_spam_faction_greh_1">
@@ -7123,7 +7114,7 @@
 		<text>$clr_1Sidoroviè\n$clr_2Oblaète se jak se patøí, vìdátoøi. Bratøi, kdo o vás první postaral, kdo vám dal vodku, hm? Ti tvrdohlaví vìdci? Nebo strıèek Sid? Pøineste mi ty artefakty!</text>
 	</string>
 	<string id="st_dyn_news_spam_66">
-		<text>$clr_1Anonymní\n$clr_2Slyšel nìkdo o novém chlapovi na oldácké základnì v Pripjati? Vypadá to, e má nìjakou jedineènou vıbavu, kterou si mùete objednat.</text>
+		<text>$clr_1Anonymní\n$clr_2Slyšel nìkdo o novém chlapovi na oldácké základnì v Pripyati? Vypadá to, e má nìjakou jedineènou vıbavu, kterou si mùete objednat.</text>
 	</string>
 	<string id="st_dyn_news_spam_67">
 		<text>$clr_1Anonymní\n$clr_2Slyšeli jste o jednom ze strácù, kterı si sám vystøelil? Mám druhé myšlenky ohlednì pøipojení k hlídce.</text>
@@ -7172,10 +7163,10 @@
 		<text>$clr_1Anonymní\n$clr_2Hemule, dej se do baru. Mám pro tebe práci!</text>
 	</string>
 	<string id="st_dyn_news_spam_82">
-		<text>$clr_1Anonymní\n$clr_2Slıchá se, e v X-16 se ukrıvá Kontrolér, a moná dokonce nejen jeden. Nìkolik zkušenıch stalkerù se tam vydalo vèera a ještì se nevrátili.</text>
+		<text>$clr_1Anonymní\n$clr_2Slıchá se, e v X-16 se ukrıvá ovládaè, a moná dokonce nejen jeden. Nìkolik zkušenıch stalkerù se tam vydalo vèera a ještì se nevrátili.</text>
 	</string>
 	<string id="st_dyn_news_spam_83">
-		<text>$clr_1Anonymní\n$clr_2Kdo jsou ti pitomci poblí farmy v oldáckém vybavení? Nemám v úmyslu se tam vùbec pøiblíit!</text>
+		<text>$clr_1Anonymní\n$clr_2Kdo jsou ti pitomci poblí farmy v oldáckém vybavení? Nemám v úmyslu se tam vùbec pøiblíit!</text>
 	</string>
 	<string id="st_dyn_news_spam_84">
 		<text>$clr_1Anonymní\n$clr_2Sakra, puška mi zase zasekává, a to se stalo hned potom, co jsem ji dal do opravy technikovi od Povinnost v Rostoku! Co jsem mohl oèekávat od alkoholika? Pokud potøebuješ opravit svou vızbroj, je to typ, od kterého se dr radìji dál.</text>
@@ -7598,7 +7589,7 @@
 	<text>$clr_1Lovec\n$clr_2Vrátí se zítra? Všichni se mì poøád ptají na to samé. Nejsem prorok, jasnı? Mùu vám øíct, jak je zabít, ale oni dìlají, co chtìjí.</text>
 </string>
 <string id="st_dyn_news_spam_225">
-	<text>$clr_1Anonymní\n$clr_2Haha! Ti pitomci šli pøímo do anomálií! To je jakási básnická spravedlnost, co? Uijte si svùj lup, zatracení Odpadlíci.</text>
+	<text>$clr_1Anonymní\n$clr_2Haha! Ti pitomci šli pøímo do anomálií! To je jakási básnická spravedlnost, co? Uijte si svùj lup, zatracení zlodìji.</text>
 </string>
 <string id="st_dyn_news_spam_226">
 	<text>$clr_1Pokladník\n$clr_2Kdybych byl tebou, nevyšel bych ven, chlapèe - slyší se naštvanì. To není vdycky tak mrtvé, jak to vypadá, jasnı?</text>
@@ -7723,7 +7714,7 @@
 	<text>$clr_1Pride\n$clr_2Phantom! Slyšíš mì, tohle je Pride! Jsme napadeni Herdmanovımi mui na Høbitovì! Scope, dr levé køídlo!- Nedùvìøuj Herdmanovi! Opakuji, nedùvìøuj Herdmanovi!- Scope, dej se dolù!</text>
 </string>
 <string id="st_dyn_news_spam_266">
-	<text>$clr_1Anonymní\n$clr_2Našel jsem dva mrtvé chlapy v Pripjati, poblí ruského kola. Obìma byly pøevleèené do kamufláe, oba mìli odstøelovaèky. Vypadá to, e míøili nìkoho zabít. A mají velmi divné dog tags. Ví nìkdo, co znamená "SAS"?</text>
+	<text>$clr_1Anonymní\n$clr_2Našel jsem dva mrtvé chlapy v Pripyati, poblí ruského kola. Obìma byly pøevleèené do kamufláe, oba mìli odstøelovaèky. Vypadá to, e míøili nìkoho zabít. A mají velmi divné dog tags. Ví nìkdo, co znamená "SAS"?</text>
 </string>
 <string id="st_dyn_news_spam_267">
 	<text>$clr_1Anonymní\n$clr_2Co do háje... Ach, našel jsem mrtvého chlápka v pøístøešku, chlápek uvízl ve sraèkovém jámì. Myslím tím jeho horní polovinu. Spodní polovina nikde není. To je konec, budu se vykakávat jenom v keøích od teï.</text>
@@ -9936,7 +9927,7 @@
 	<text>Nejsem tak rychle pøipraven zamítnout Wish Grantera. Pøedstavuji si, e za všemi legendami je nìco.</text>
 </string>
 <string id="st_dyn_news_companion_life_ecolog_23">
-	<text>Jeden vìdec, kterého znám, zmizel poté, co se vydal sám do Pripjati. Nedovol, aby tì ambice zabily.</text>
+	<text>Jeden vìdec, kterého znám, zmizel poté, co se vydal sám do Pripyati. Nedovol, aby tì ambice zabily.</text>
 </string>
 <string id="st_dyn_news_companion_life_ecolog_24">
 	<text>Døív jsem si myslel, e to jsou jen vyprávìní u táboráku: anomálie, mutanti, Monolit... Teï u vím líp.</text>
