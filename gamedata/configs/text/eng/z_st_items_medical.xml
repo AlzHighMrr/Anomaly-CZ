@@ -360,7 +360,7 @@
 	<string id="st_survival_kit_eft_descr">
 		<text>Polní chirurgická souprava s dalšími a lepšími nástroji, které vám umožní ošetøit vážná zranìní konèetin pøímo na bojišti.\n \n
 		%c[ui_gray_3]VLASTNOSTI:\n
-		%c[d_blue] - %c[ui_gray_2] Úplné doèasné uzdravení všech èástí tìla\n
+		%c[d_blue] - %c[ui_gray_2] Úplné doèasné uzdravení všech konèetin\n
 		%c[d_blue] - %c[ui_gray_2] chirurgická položka\n
 		%c[d_blue] - %c[ui_gray_2] importováno\n
 		%c[d_blue] - %c[ui_gray_2] vysoká kvalita\n
